@@ -230,6 +230,7 @@ blyg
 blå
 blåaktig
 blålig
+blåøyd
 bløt
 bløtkokt
 bokstavelig
@@ -2402,6 +2403,7 @@ uferdig
 uflatterende
 uforanderlig
 uforandret
+uforenelig
 uforglemmelig
 uforholdsmessig
 uforklarlig
@@ -2456,6 +2458,7 @@ ukjent
 ukjønnet
 uklanderlig
 uklar
+uknuselig
 ukomfortabel
 ukontrollerbar
 ukontrollert
@@ -2669,6 +2672,7 @@ vannlevende
 vannløselig
 vannrett
 vanntett
+vanskapt
 vanskelig
 vanuatisk
 vanvittig

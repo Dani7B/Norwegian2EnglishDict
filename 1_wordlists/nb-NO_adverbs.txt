@@ -119,6 +119,7 @@ fortrinnsvis
 fortsatt
 forøvrig
 fram
+framover
 frem
 frem og tilbake
 fremdeles

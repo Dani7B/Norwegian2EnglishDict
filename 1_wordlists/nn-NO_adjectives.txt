@@ -1992,6 +1992,7 @@ vaksen
 valid
 vandalsk
 vanleg
+vanskapt
 vanskeleg
 vanuatisk
 var

@@ -324,6 +324,7 @@ dregge
 dreie
 drenere
 drepe
+dresse
 drikke
 drille
 drite
@@ -342,6 +343,7 @@ dykke
 dyppe
 dyrke
 dytte
+dåre
 dø
 døgne
 dømme
@@ -1565,6 +1567,7 @@ skuffe
 skule
 skulke
 skulle
+skumme
 skvise
 sky
 skye

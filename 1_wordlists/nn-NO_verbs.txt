@@ -179,6 +179,7 @@ drage
 drenere
 drepa
 drepe
+dresse
 drikka
 drikke
 drille
@@ -1069,6 +1070,7 @@ skulka
 skulke
 skulla
 skulle
+skumme
 skura
 skure
 skuva

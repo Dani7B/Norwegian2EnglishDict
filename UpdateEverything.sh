@@ -5,8 +5,8 @@ mkdir -p ~/wiktionaryDump
 if [[ ! -h 2_wiktionaryDump ]]; then
 	ln -s ~/wiktionaryDump 2_wiktionaryDump
 else
-	rm ./2_wiktionaryDump/NB/*.json # While old entries get overwritten, some may have been removed totally, so remove all files before downloading
-	rm ./2_wiktionaryDump/NN/*.json
+	rm -f ./2_wiktionaryDump/NB/*.json # While old entries get overwritten by scrap.py, some may have been removed totally from Wiktionary,
+	rm -f ./2_wiktionaryDump/NN/*.json #	so remove all files before downloading
 fi
 
 cd 1_wordlists

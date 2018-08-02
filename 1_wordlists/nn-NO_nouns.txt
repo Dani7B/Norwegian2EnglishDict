@@ -4502,6 +4502,7 @@ medlemskap
 medlemskort
 medlemsland
 medpassasjer
+megafon
 meining
 meis
 meise
@@ -4741,6 +4742,7 @@ motbør
 mote
 motehus
 motell
+moteshow
 motgang
 motgift
 motiv
@@ -5095,6 +5097,7 @@ oftalmologi
 oganesson
 okkupant
 okkupasjon
+okle
 okse
 oksekjøtt
 oksel
@@ -6252,6 +6255,7 @@ segl
 seglfartøy
 seglskip
 sei
+seidel
 seikval
 seismograf
 seismolog
@@ -6579,6 +6583,7 @@ skog
 skogbrann
 skogbruk
 skoggrense
+skogkant
 skoglemen
 skogmus
 skohorn
@@ -7064,6 +7069,7 @@ storleik
 storm
 stormakt
 stormvarsel
+storr
 storsirkel
 storskarv
 storskogmus
@@ -8060,6 +8066,7 @@ vandring
 vane
 vang
 vanilje
+vanskapning
 vanske
 vanstyre
 vante

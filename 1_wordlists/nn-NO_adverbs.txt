@@ -114,6 +114,7 @@ fortrinnsvis
 fram
 framleis
 framme
+framover
 fremst
 frykteleg
 fullstendig

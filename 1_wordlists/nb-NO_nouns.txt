@@ -873,6 +873,7 @@ blitskrig
 blod
 blodbad
 blodcelle
+bloddråpe
 blodforgiftning
 blodgiver
 blodhevn
@@ -1602,6 +1603,7 @@ dysfunksjon
 dysleksi
 dånedimpen
 dåp
+dåre
 dåse
 død
 dødball
@@ -3627,6 +3629,7 @@ inntrykk
 innvandrer
 innvirkning
 insekt
+insektsnett
 inskripsjon
 insolvens
 inspeksjon
@@ -3791,6 +3794,7 @@ julehilsen
 julekort
 julemat
 julemiddag
+julenisse
 julepresang
 julestemning
 julestrømpe
@@ -4006,6 +4010,7 @@ kiribatier
 kiribatisk
 kirke
 kirkefar
+kirkegard
 kirkegjenger
 kirkegård
 kirkeklokke
@@ -5065,6 +5070,7 @@ mage
 magedans
 magedanser
 magedanserinne
+magefølelse
 mageplask
 magesekk
 magesår
@@ -5229,6 +5235,7 @@ medlemsland
 medpassasjer
 medspiller
 medvirkning
+megafon
 megler
 mekaniker
 mekanikk
@@ -5499,6 +5506,7 @@ mot
 mote
 motehus
 motell
+moteshow
 moteverden
 motgift
 motiv
@@ -7190,6 +7198,7 @@ seer
 segl
 seglskip
 sei
+seidel
 seier
 seierherre
 seil
@@ -7573,6 +7582,7 @@ skog
 skogbrann
 skogbruk
 skoggrense
+skogkant
 skohorn
 skokrem
 skolastiker
@@ -7750,6 +7760,7 @@ smøring
 snabel
 snakk
 snakkeboble
+snarvei
 snegl
 sneglefart
 snekker
@@ -9310,6 +9321,7 @@ vannbøffel
 vanndamp
 vannfall
 vannfarge
+vannflaske
 vannfugl
 vannhund
 vanning
@@ -9333,6 +9345,7 @@ vannski
 vannskille
 vanntank
 vanntårn
+vanskapning
 vanske
 vanskelighet
 vanstyre
