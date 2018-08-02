@@ -1,0 +1,26 @@
+all
+annen
+annenhver
+annet
+annethvert
+begge
+denne
+dens
+egen
+eget
+ene
+forrige
+halvannen
+halvannet
+hennes
+mang en
+mange
+min
+null
+samme
+samtlige
+sin
+slik
+vår
+våre
+vårt

@@ -1,0 +1,11 @@
+{
+  "name": "wiki_parser",
+  "version": "1.1.0",
+  "description": "Some shot to scrape shit-language words from Wiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derpgon",
+  "license": "MIT"
+}

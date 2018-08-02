@@ -1,0 +1,32 @@
+https://s3.amazonaws.com/kindlegen/AmazonKindlePublishingGuidelines.pdf
+
+https://github.com/jrfonseca/jmdict-kindle/blob/master/inflections.py
+
+
+<idx:entry>
+	<b><idx:orth>go
+	<idx:infl>
+		<idx:iform value="goes"/>
+		<idx:iform value="going"/>
+		<idx:iform value="went"/>
+		<idx:iform value="gone"/>
+	</idx:infl>
+	</idx:orth> </b> 
+	<i>verb</i> <br/>
+	To move from one place to another
+</idx:entry>
+https://www.mobileread.com/forums/showpost.php?p=3055832&postcount=3
+
+
+What's a noun, adv., etc
+	https://en.oxforddictionaries.com/grammar/word-classes-or-parts-of-speech
+
+If there's one word defined multiple times in the dictionary, it correctly shows as multiple definitions in the kindle. Not if it's an inflection of a word though, then it only shows the direct definition.
+
+
+Kindle for PC
+	https://www.amazon.com/kindlepcdownload
+	https://www.mobileread.com/forums/showthread.php?t=275969
+
+Wiktionary XML dump
+	https://dumps.wikimedia.org/enwiktionary/latest/enwiktionary-latest-pages-articles.xml.bz2
