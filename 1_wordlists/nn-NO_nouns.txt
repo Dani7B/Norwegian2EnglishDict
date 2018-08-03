@@ -2793,6 +2793,7 @@ hoffdame
 hoft
 hofte
 hoggorm
+hoggtann
 hole
 holme
 homo
@@ -8274,6 +8275,7 @@ visepresident
 visitt
 visittkort
 visjon
+visjonær
 viskelêr
 viskositet
 visp

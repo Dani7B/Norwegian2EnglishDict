@@ -3295,6 +3295,7 @@ hoff
 hoffdame
 hofte
 hoggorm
+hoggtann
 holdbarhet
 holdbarhetstid
 holdeplass
@@ -9604,6 +9605,7 @@ viser
 visitt
 visittkort
 visjon
+visjonær
 viskelær
 visker
 viskositet

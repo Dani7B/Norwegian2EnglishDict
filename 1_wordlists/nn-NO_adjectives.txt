@@ -2058,6 +2058,7 @@ vindfull
 vinkelrett
 vis
 visen
+visjonær
 viskøs
 viss
 vissen
