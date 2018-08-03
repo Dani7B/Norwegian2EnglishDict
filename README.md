@@ -12,7 +12,7 @@ Notice: **When updating to a newer version of a dictionary, restart (NOT RESET) 
 
 **Current version: 0.15 (2018-08-03)**
 
-Downloads:
+## Downloads
 
 * Norwegian Bokmål (nb-NO>EN)
    * [.mobi dictionary](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nb-NOtoENdictionary.mobi) \- This is what you want for your e-reader. For Kindle just drop it in ../documents/dictionaries/
