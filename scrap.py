@@ -10,6 +10,13 @@ NN = 'norwegian nynorsk'
 
 parser = WiktionaryParser()
 
+
+#word = parser.fetch("klatrestativ", NB)
+#file = open('./2_wiktionaryDump/NB/klatrestativ.json', 'w')
+#file.write(json.dumps(word))
+#file.close()
+#exit(0)
+
 def scrap(linesToScrap, languageToScrap):
 	for wordToScrap in linesToScrap:
 	#	print(wordToScrap+"AWOO")
