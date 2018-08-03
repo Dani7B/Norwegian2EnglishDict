@@ -185,7 +185,7 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 			"Before 1959:", "Before 1938:", "(used especially in the plural form)", "(inflections as for Etymology 1)", "(e-verb)", "(a-verb)", '(“the man with the scythe”)',
 			"(inflection identical to the previous definition)", "(not inflected or declined in any way)", "(uncertain of plural forms, possibly same as Bokmål)",
 			"(hardly used in plural form)", "(With a comparative or more and a verb phrase, establishes a parallel with one or more other such comparatives.)",
-			"(mostly used as a past participle)", "(inflections as for vin, musserende is indeclinable)", "(the drink itself)", "(a glass, bottle or can of beer)",
+			"(mostly used as a past participle)", "(inflections as for vin, musserende is indeclinable)", "(the drink itself)", "(a glass, bottle or can of beer)", "(seg)",
 			$word." f, m", $word." f", $word." m",$word." n"];
 			// ^ Since the inflection multiline definition always starts with "WORD m" for example, we remove those.
 
