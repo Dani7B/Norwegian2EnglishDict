@@ -141,7 +141,7 @@ function scrapShit($languageToScrap) {
 
 function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArray, &$languageToScrap) {
 	$verboseMode = "0";
-	$data = file_get_contents("./$languageToScrap/$word.json");
+	$data = file_get_contents("../2_wiktionaryDump/$languageToScrap/$word.json");
 	$inflectionString = $word;
 	$wordDefinitionString = $word;
 	$inflectionCheckArray = array($word);

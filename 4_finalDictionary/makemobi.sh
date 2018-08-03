@@ -2,25 +2,26 @@
 # Bash strict mode
 set -euo pipefail
 
-cd ../3_definitionsAndInflections
 # Tests
-if cat ./nb-NO_*.txt | grep � >/dev/null; then
+if cat ../1_wordlists/nb-NO_*.txt | grep � >/dev/null; then
 	echo "Failed test, Bokmål wordlist has the � symbol in it! Fix it and re-run the PHP script!"
 	exit 1
 fi
-if cat ./nn-NO_*.txt | grep � >/dev/null; then
+if cat ../1_wordlists/nn-NO_*.txt | grep � >/dev/null; then
 	echo "Failed test, Nynorsk wordlist has the � symbol in it! Fix it and re-run the PHP script!"
 	exit 1
 fi
-if ls ./NB/* | grep � >/dev/null; then
+if ls ../2_wiktionaryDump/NB/* | grep � >/dev/null; then
 	echo "Failed test, some Bokmål .json files have the � symbol in it! Fix it and re-run scrap.py!"
 	exit 1
 fi
-if ls ./NN/* | grep � >/dev/null; then
+if ls ../2_wiktionaryDump/NN/* | grep � >/dev/null; then
 	echo "Failed test, some Nynorsk .json files have the � symbol in it! Fix it and re-run scrap.py!"
 	exit 1
 fi
 # End of tests
+
+cd ../3_definitionsAndInflections
 
 NB="nb-NOtoENdictionary"
 NN="nn-NOtoENdictionary"
