@@ -26,9 +26,9 @@ Downloads:
 
 Preview: [Kindle4PC[0.13]](https://i.imgur.com/JPE2LzQ.png), [Kindle[0.12]](https://i.imgur.com/oqwwjdA.png), [Kindle[0.1]](https://i.imgur.com/EJ23F8b.png)
 
----
+[Changelog](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/tags)
 
-For those intending to use it in the current state, a FAQ -
+## FAQ
 
 * Formatting could be better
    * Am aware. TODO.
@@ -36,11 +36,10 @@ For those intending to use it in the current state, a FAQ -
    * The word is most likely missing on Wiktionary. Add it there or at least add it as a request here: [https://en.wiktionary.org/wiki/Wiktionary:Requested\_entries\_(Norwegian)](https://en.wiktionary.org/wiki/Wiktionary:Requested_entries_(Norwegian))
    * It may have been added to Wiktionary since last update of my dictionary.
    * If you are sure it is neither, it might be an issue with the Wiktionary parser I am using or with one of my scripts. Tell me about it!
-* Some words have useless definitions like "singular of WORD"
-   * Fixed in 0.14
 * Could you do an EN>NO dictionary too?
    * No, I have no interest in doing so.
 * Genitive forms are not in the dictionary.
+   * TODO.
 * I can't use Kindle search bar to search in this dictionary!
    * This is a Kindle-specific issue, read the linked Reasoning below for a workaround.
 * The dictionary doesn't register as a Norwegian one, I have to manually select it per book!
