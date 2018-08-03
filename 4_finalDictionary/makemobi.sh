@@ -31,8 +31,8 @@ cat nb-NOtoENdictionary_*.txt > ../4_finalDictionary/nb-NOtoENdictionary.txt
 cat nb-NOtoENdictionary_*.inf > ../4_finalDictionary/nb-NOtoENdictionary.inf
 cat nn-NOtoENdictionary_*.txt > ../4_finalDictionary/nn-NOtoENdictionary.txt
 cat nn-NOtoENdictionary_*.inf > ../4_finalDictionary/nn-NOtoENdictionary.inf
-sort -o nb-NOtoENdictionary.inf ../4_finalDictionary/nb-NOtoENdictionary.inf
-sort -o nn-NOtoENdictionary.inf ../4_finalDictionary/nn-NOtoENdictionary.inf
+sort -o ../4_finalDictionary/nb-NOtoENdictionary.inf ../4_finalDictionary/nb-NOtoENdictionary.inf
+sort -o ../4_finalDictionary/nn-NOtoENdictionary.inf ../4_finalDictionary/nn-NOtoENdictionary.inf
 
 cd ../4_finalDictionary
 
