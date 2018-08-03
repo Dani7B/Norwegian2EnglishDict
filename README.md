@@ -44,3 +44,20 @@ Preview: [Kindle4PC[0.13]](https://i.imgur.com/JPE2LzQ.png), [Kindle[0.12]](http
    * This is a Kindle-specific issue, read the linked Reasoning below for a workaround.
 * The dictionary doesn't register as a Norwegian one, I have to manually select it per book!
    * This is on purpose, both dictionaries are marked as en-us>en-us otherwise it is impossible to search through them via the Dictionary search function on Kindle. [Reasoning](https://www.mobileread.com/forums/showthread.php?t=305372)
+
+## Dev notes
+`UpdateEverything.sh` is the script to execute to generate the dictionary, it'll run all the needed subscripts.
+
+Resulting dictionaries are going to end up in `4_finalDictionary`.
+
+The script first runs `index.js` in `1_wordlists` via node to generate a list of words to scrap.
+
+Then it runs `scrap.py` from the root folder which scraps the whole wordlist into separate .json files. This will take an hour or two, and has a bug - seems like from time to time wiktionary fails to load(?) and the entry for that word just does not get scrapped.
+
+You need to change the venv in `scrap.py` to one of your own and have wiktionaryparser installed in the venv through pip.
+
+Then it runs `json2txt_inf.php` in `3_definitionsAndInflections`, which is a PHP script that processes the scrapped .json files and turns them into definition(.txt) and inflection(.inf) files.
+
+Then it runs `makemobi.sh` in `4_finalDictionary`, which runs some tests to detect broken unicode(shouldn't happen), `cat`s the .inf and .txt files from `3_definitionsAndInflections`, runs `tab2opf.py` which is an old modified Python2 script to generate .html and .opf files. Finally it runs `kindlegen.exe` through WINE against the .opf files to generate the final .mobi dictionary.
+
+If a connected Kindle is detected, it'll copy the .mobi files on it too.
