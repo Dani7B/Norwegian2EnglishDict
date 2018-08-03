@@ -2,3 +2,5 @@
 node_modules
 package-lock.json
 2_wiktionaryDumpBackups
+n*-NOtoENdictionary.opf
+n*-NOtoENdictionary*.html
