@@ -591,6 +591,7 @@ bark
 barlind
 barn
 barndom
+barndomstid
 barnearbeid
 barnebarn
 barnebok
@@ -663,6 +664,7 @@ beger
 begerglass
 begivenhet
 begjær
+begjæring
 begonia
 begrensning
 begrep
@@ -839,6 +841,7 @@ bivoks
 bjeff
 bjelle
 bjerk
+bjerkeved
 bjørk
 bjørkefink
 bjørn
@@ -2794,6 +2797,7 @@ gjensidighet
 gjenstand
 gjentakelse
 gjenvalg
+gjenåpning
 gjerde
 gjerding
 gjerning
@@ -3796,6 +3800,7 @@ julekort
 julemat
 julemiddag
 julenisse
+julenissen
 julepresang
 julestemning
 julestrømpe
@@ -4188,6 +4193,7 @@ knekt
 knep
 knipetang
 kniv
+knoke
 knop
 knopp
 knute
@@ -4616,6 +4622,7 @@ kvile
 kvileheim
 kvilehjem
 kvinne
+kvinnebryst
 kvinnehater
 kvinnekropp
 kvinnfolk
@@ -8157,6 +8164,7 @@ straff
 straffelov
 straffemerke
 strafferett
+straffesak
 straffespark
 straffesparkkonkurranse
 straks
@@ -8539,6 +8547,7 @@ tannhjul
 tannkjøtt
 tannkrem
 tannlege
+tannmerke
 tannpasta
 tannpine
 tannråte
@@ -8787,6 +8796,7 @@ toleranse
 tolk
 tolkning
 toll
+tollbod
 tolldeklarasjon
 tolvfingertarm
 tomannsbolig
@@ -9016,6 +9026,7 @@ tuvalsk
 tv
 tvang
 tvangsarbeid
+tvangssalg
 tvangstrøye
 tverrhalehauk
 tverrsnitt

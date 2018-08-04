@@ -440,6 +440,7 @@ grunnlegga
 grunnlegge
 grunnleggja
 grunnleggje
+gry
 gråta
 gråte
 grøsse
@@ -586,6 +587,7 @@ klubbe
 klyppe
 knipe
 knirke
+kny
 knyta
 knyte
 kodifisere
@@ -627,6 +629,7 @@ kro
 krona
 krone
 krumme
+kry
 krypa
 krype
 krysse

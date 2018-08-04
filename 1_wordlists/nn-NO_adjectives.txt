@@ -897,6 +897,7 @@ kroatisk
 kronisk
 kronologisk
 krum
+kry
 kryptisk
 krystallinsk
 krystallklar

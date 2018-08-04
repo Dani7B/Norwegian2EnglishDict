@@ -526,6 +526,7 @@ barlind
 barm
 barn
 barndom
+barndomstid
 barnearbeid
 barnebarn
 barnebok
@@ -3969,6 +3970,7 @@ kvikksand
 kvikksølv
 kvileheim
 kvinne
+kvinnebryst
 kvinnehatar
 kvinnekropp
 kvinnfolk
@@ -4094,6 +4096,8 @@ legion
 lei
 leiar
 leid
+leik
+leike
 leikeplass
 leiketøy
 leilegheit
@@ -7080,6 +7084,7 @@ straff
 straffelov
 straffemerke
 strafferett
+straffesak
 straffespark
 straffesparkkonkurranse
 strand
@@ -7424,6 +7429,7 @@ tannkost
 tannkrem
 tannlege
 tannlækjar
+tannmerke
 tannpasta
 tannpine
 tannpirkar
