@@ -19,11 +19,11 @@ Preview: [Kindle4PC[0.13]](https://i.imgur.com/JPE2LzQ.png), [Kindle[0.12]](http
 * Norwegian Bokmål (nb-NO>EN)
    * [.mobi dictionary](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nb-NOtoENdictionary.mobi) \- This is what you want for your e-reader. For Kindle just drop it in ../documents/dictionaries/
    * [.txt which contains dictionary entries](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nb-NOtoENdictionary.txt)
-   * [.inf which contains the inflections](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nb-NOtoENdictionary.inf)
+   * [.inf which contains inflections](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nb-NOtoENdictionary.inf)
 * Norwegian Nynorsk (nn-NO>EN)
    * [.mobi dictionary](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nn-NOtoENdictionary.mobi) \- This is what you want for your e-reader. For Kindle just drop it in ../documents/dictionaries/
    * [.txt which contains dictionary entries](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nn-NOtoENdictionary.txt)
-   * [.inf which contains the inflections](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nn-NOtoENdictionary.inf)
+   * [.inf which contains inflections](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nn-NOtoENdictionary.inf)
 
 Notice: **When updating to a newer version of a dictionary, restart (NOT RESET) your Kindle after copying it**, or you will run into bugs like [this](https://i.imgur.com/Tj8twU9.png) or [this](https://i.imgur.com/MKUdcEB.png). This is due to a decade old firmware bug that was not fixed yet, if you want it fixed, call Amazon support and tell them about it. They seem to think people don't use dictionary features that much, prove them wrong.
 
