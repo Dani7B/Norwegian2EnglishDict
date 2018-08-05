@@ -844,6 +844,7 @@ bjerk
 bjerkeved
 bjørk
 bjørkefink
+bjørkeved
 bjørn
 bjørnebær
 bjørnepels
@@ -3800,7 +3801,6 @@ julekort
 julemat
 julemiddag
 julenisse
-julenissen
 julepresang
 julestemning
 julestrømpe
