@@ -186,6 +186,7 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 			"(inflection identical to the previous definition)", "(not inflected or declined in any way)", "(uncertain of plural forms, possibly same as Bokmål)",
 			"(hardly used in plural form)", "(With a comparative or more and a verb phrase, establishes a parallel with one or more other such comparatives.)",
 			"(mostly used as a past participle)", "(inflections as for vin, musserende is indeclinable)", "(the drink itself)", "(a glass, bottle or can of beer)", "(seg)",
+			"(mainly plural)",
 			$word." f, m", $word." f", $word." m",$word." n"];
 			// ^ Since the inflection multiline definition always starts with "WORD m" for example, we remove those.
 
@@ -239,7 +240,7 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 					"definite singular and plural ", "no plural form", "definite and plural ", "singular and plural ", "masculine and feminine ", "imperative and present tense ", "indefinite neuter singular ", "indefinite superlative ",
 					"singular definite ", "definite superlative", "singular indefinite", "indefinite singular ", "definite singular", "indefinite plural", "dative form ", "definite plural", "definite form", "neuter form ", "neuter singular ",
 					"simple past ", "past participle ", "stressed form ",
-					"present participle ", "not declined", "not inflected", "no gender", "gender indeterminate", "singular masculine ", "genitive form ", "masculine ", "imperative ", "passive ", "comparative ", "superlative ", "accusative ", "genitive ",
+					"present participle ", "not declined", "not inflected", "no gender", "gender indeterminate", "singular masculine ", "genitive form ", "masculine ", "imperative ", "passive form of", "passive ", "comparative ", "superlative ", "accusative ", "genitive ",
 					"infinitive ", "plural", "neuter ", "past perfect ", "past tense ", "past ", "definite ", "present tense ", "present ", "past tense ", "uppercase", "upper case", "lowercase", "lower case", "singulare tantum",
 					"feminine singular ", "feminine ", "objective case ", "objective", "possessive", "[1]"];
 
@@ -306,13 +307,12 @@ function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray)
 	array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
 
 }
-function stripDefinitionGarbage($definitionToStrip, &$word, &$finalInflectionArray){
-	$filterArray = ["indefinite masculine plural of ", "definite masculine singular of ", "definite singular and plural of ", "definite neuter plural of ", "neuter past participle of ", "indefinite singular past participle of ", "alternative form of ",
+function stripDefinitionGarbage($definitionToStrip, &$word, &$finalInflectionArray) {
+	$filterArray = ["indefinite singular form of ", "indefinite singular genitive of ","indefinite masculine plural of ", "definite masculine singular of ", "definite singular and plural of ", "definite neuter plural of ", "neuter past participle of ", "indefinite singular past participle of ", "alternative form of ",
 	"Alternative form of ", "masculine and feminine past participle of ", "masculine, feminine and neuter past participle of ", "singular definite of ",
 	"definite singular of ", "past participle of ", "past tense of ", "comparative of ", "stressed form of ",
-	"simple past of ", "neuter singular of ", "definite feminine singular of ", "feminine singular of ", "indefinite plural of ", "plural indefinite of ", "Indefinite plural of ", "definite plural of ", "plural form of ", "present tense of ", "definite superlative of ", "plural of ", "imperative of "];
-	
-	if ($definitionToStrip == ""){
+	"simple past of ", "neuter singular of ", "definite feminine singular of ", "feminine singular of ", "Plural indefinite of ", "Plural definite of ", "indefinite plural of ", "plural indefinite of ", "Indefinite plural of ", "definite plural of ", "plural form of ", "present tense of ", "definite superlative of ", "plural of ", "imperative of "];
+	if ($definitionToStrip == "") {
 		return $definitionToStrip;
 	}
 	echo "DefinitionToStrip is: $definitionToStrip\n";
