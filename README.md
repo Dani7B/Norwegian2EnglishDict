@@ -55,6 +55,12 @@ Then it runs `scrap.py` from the root folder which scraps the whole wordlist int
 
 You need to change the venv in `scrap.py` to one of your own and have wiktionaryparser installed in the venv through pip.
 
+```
+virtualenv wikivirtpython
+source ~/wikivirtpython/bin/activate
+pip install --upgrade wiktionaryparser
+```
+
 Then it runs `json2txt_inf.php` in `3_definitionsAndInflections`, which is a PHP script that processes the scrapped .json files and turns them into definition(.txt) and inflection(.inf) files.
 
 Then it runs `makemobi.sh` in `4_finalDictionary`, which runs some tests to detect broken unicode(shouldn't happen), `cat`s the .inf and .txt files from `3_definitionsAndInflections`, runs `tab2opf.py` which is an old modified Python2 script to generate .html and .opf files. Finally it runs `kindlegen.exe` through WINE against the .opf files to generate the final .mobi dictionary.
