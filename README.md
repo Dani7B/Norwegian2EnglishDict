@@ -37,8 +37,6 @@ Notice: **When updating to a newer version of a dictionary, restart (NOT RESET) 
    * If you are sure it is neither, it might be an issue with the Wiktionary parser I am using or with one of my scripts. Tell me about it!
 * Could you do an EN>NO dictionary too?
    * No, I have no interest in doing so.
-* Genitive forms are not in the dictionary.
-   * TODO.
 * I can't use Kindle search bar to search in this dictionary!
    * This is a Kindle-specific issue, read the linked Reasoning below for a workaround.
 * The dictionary doesn't register as a Norwegian one, I have to manually select it per book!
@@ -48,6 +46,7 @@ Notice: **When updating to a newer version of a dictionary, restart (NOT RESET) 
    * Kindle FW workaround doesn't work perfectly because of the above. (can be seen on "sa")
    * Parser issues that were fixed in WP 0.0.92 still not fixed in this project
    * Not accounting for multi-line inflections, only multi-line without actual linebreak
+   * Genitive forms are not in the dictionary. For example "verdens".
 
 ## Dev notes
 `UpdateEverything.sh` is the script to execute to generate the dictionary, it'll run all the needed subscripts.
