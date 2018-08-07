@@ -53,7 +53,7 @@ First the script runs `index.js` in `1_wordlists` via node to generate a list of
 
 Then it runs `scrap.py` from the root folder which scraps the whole wordlist into separate .json files. This will take an hour or two, and has a bug - seems like from time to time wiktionary fails to load(?) and the entry for that word just does not get scrapped.
 
-You need to change the venv in `scrap.py` to one of your own and have wiktionaryparser installed in the venv through pip.
+* You need to change the venv in `scrap.py` to one of your own and have wiktionaryparser installed in the venv through pip.
 
 ```
 virtualenv wikivirtpython
