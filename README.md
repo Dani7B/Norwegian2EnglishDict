@@ -43,6 +43,11 @@ Notice: **When updating to a newer version of a dictionary, restart (NOT RESET) 
    * This is a Kindle-specific issue, read the linked Reasoning below for a workaround.
 * The dictionary doesn't register as a Norwegian one, I have to manually select it per book!
    * This is on purpose, both dictionaries are marked as en-us>en-us otherwise it is impossible to search through them via the Dictionary search function on Kindle. [Reasoning](https://www.mobileread.com/forums/showthread.php?t=305372)
+* Known issues
+   * "var" shows the entry for "vår" etc.
+   * Kindle FW workaround doesn't work perfectly because of the above. (can be seen on "sa")
+   * Parser issues that were fixed in WP 0.0.92 still not fixed in this project
+   * Not accounting for multi-line inflections, only multi-line without actual linebreak
 
 ## Dev notes
 `UpdateEverything.sh` is the script to execute to generate the dictionary, it'll run all the needed subscripts.
