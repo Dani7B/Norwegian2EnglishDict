@@ -1829,6 +1829,7 @@ fiskevær
 fivreld
 fivrelde
 fjell
+fjellgrunn
 fjellheim
 fjellkjede
 fjellklatrar
@@ -3854,6 +3855,7 @@ kronidiot
 kronologi
 kronprins
 kropp
+kroppsarbeid
 kroppsspråk
 kroppsvekt
 kroppsvæske
@@ -4228,6 +4230,7 @@ lokomotiv
 lom
 lomme
 lommebok
+lommekniv
 lommelerke
 lommelykt
 lommetjuv
@@ -6741,6 +6744,7 @@ småjobb
 småkake
 småregn
 småskogmus
+småstein
 småting
 småvilt
 smør
@@ -6882,6 +6886,7 @@ spel
 spelar
 spelkort
 spenning
+spennvidde
 spermkval
 sperring
 spesialist
@@ -7015,6 +7020,7 @@ steinras
 steinsirkel
 steinsopp
 steinsprang
+steinvegg
 stele
 stemme
 stemmerett

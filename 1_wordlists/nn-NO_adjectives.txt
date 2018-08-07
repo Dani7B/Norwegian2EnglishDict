@@ -606,6 +606,7 @@ gyllen
 gåtefull
 gælisk
 haitisk
+halelaus
 halv
 halvautomatisk
 halvfull

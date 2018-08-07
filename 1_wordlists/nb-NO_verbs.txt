@@ -338,6 +338,7 @@ drømme
 drøse
 duge
 dukke
+dundre
 dusje
 dykke
 dyppe
@@ -1544,6 +1545,7 @@ skje
 skjelle
 skjelle ut
 skjelne
+skjelve
 skjerme
 skjule
 skjære

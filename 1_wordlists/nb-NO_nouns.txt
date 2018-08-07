@@ -716,6 +716,7 @@ bergart
 bergenser
 berging
 bergmann
+bergvegg
 berømthet
 berøring
 berøringsskjerm
@@ -2140,6 +2141,7 @@ fiskeskipper
 fiskevær
 fisking
 fjell
+fjellgrunn
 fjellheim
 fjellkjede
 fjellklatrer
@@ -2428,6 +2430,7 @@ fortøyning
 fortøyningsbøye
 forum
 forurensning
+forutsigelse
 forvaltning
 forvarsel
 forventet levealder
@@ -4507,6 +4510,7 @@ kronologi
 kronprins
 kronprinsesse
 kropp
+kroppsarbeid
 kroppsspråk
 kroppsvekt
 kroppsvæske
@@ -4913,6 +4917,7 @@ lokomotiv
 lom
 lomme
 lommebok
+lommekniv
 lommelerke
 lommelykt
 lommeparlør
@@ -7758,6 +7763,7 @@ småjobb
 småkake
 småpenger
 småregn
+småstein
 småting
 småvilt
 smør
@@ -7915,6 +7921,7 @@ spekter
 spektrum
 spekulasjon
 spenning
+spennvidde
 sperm
 sperma
 spermhval
@@ -8079,6 +8086,7 @@ steinkobbe
 steinmur
 steinras
 steinsirkel
+steinvegg
 stekeovn
 stekepanne
 stele

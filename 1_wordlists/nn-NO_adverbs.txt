@@ -169,6 +169,7 @@ innan
 innanfor
 inne
 innimellom
+innover
 ja
 jau
 kanskje

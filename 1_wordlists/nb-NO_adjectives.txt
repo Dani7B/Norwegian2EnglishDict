@@ -564,6 +564,7 @@ flåsete
 folkerik
 folkevalgt
 fonetisk
+forbannet
 forbausende
 forbedret
 forberedende
@@ -802,6 +803,8 @@ gåtefull
 gælisk
 gøy
 haitisk
+halelaus
+haleløs
 hallusinogen
 halv
 halvautomatisk
@@ -1843,6 +1846,7 @@ rådgivende
 råtten
 rød
 rødaktig
+rødflammet
 rødlig
 sadistisk
 saftig
@@ -2440,6 +2444,7 @@ uhindret
 uhjelpsom
 uholdbar
 uhorvelig
+uhyggelig
 uhygienisk
 uhyre
 uhåndterlig

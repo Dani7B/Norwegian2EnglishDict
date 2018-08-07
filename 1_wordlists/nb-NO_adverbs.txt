@@ -206,6 +206,7 @@ inne
 innendørs
 innenfra
 innimellom
+innover
 ja
 jevnlig
 jevnt

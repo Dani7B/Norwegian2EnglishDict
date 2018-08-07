@@ -30,6 +30,7 @@ innafor
 innen
 innenfor
 innimellom
+innover
 inntil
 istedenfor
 langs

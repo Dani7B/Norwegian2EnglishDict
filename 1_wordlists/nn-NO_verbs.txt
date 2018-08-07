@@ -196,6 +196,7 @@ drøyma
 drøyme
 duga
 duge
+dundre
 dynja
 dynje
 dytte
@@ -424,6 +425,7 @@ gravlegge
 gravleggja
 gravleggje
 greia
+gremja
 grensa
 grense
 grina
