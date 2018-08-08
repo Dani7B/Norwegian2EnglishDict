@@ -3140,6 +3140,7 @@ jente
 jentunge
 jern
 jernbane
+jernbanebru
 jernbanelinje
 jernbanenett
 jernbanestasjon
