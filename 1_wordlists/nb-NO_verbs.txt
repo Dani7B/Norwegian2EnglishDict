@@ -140,6 +140,7 @@ bearbeide
 bebo
 bede
 bedre
+bedårende
 bedømme
 bedøve
 befeste
@@ -290,6 +291,7 @@ desarmere
 desensitivisere
 desentralisere
 desertere
+desillusjonere
 desinfisere
 destabilisere
 destillere
@@ -401,6 +403,7 @@ evakuere
 evaluere
 fabrikkere
 falle
+famle
 fange
 fantasere
 fare
@@ -679,6 +682,7 @@ glidefly
 glimre
 glitre
 glorifisere
+gløtte
 gnage
 gneldre
 gni
@@ -730,6 +734,7 @@ hamre
 hamstre
 handle
 handtere
+harmonere
 harmonisere
 hate
 havarere
@@ -893,6 +898,7 @@ kjønnsdele
 kjøpe
 kjøre
 klage
+klamre
 klare
 klargjøre
 klassifisere
@@ -908,14 +914,17 @@ klippe
 klistre
 klubbe
 klynge
+klynke
 klype
 klø
+knegge
 knekke
 knipe
 knirke
 knivstikke
 knuge
 knulle
+knurre
 knuse
 knytte
 koagulere
@@ -1046,6 +1055,7 @@ levendegjøre
 levere
 lide
 ligge
+ligne
 lik
 lika
 like
@@ -1315,6 +1325,7 @@ pine
 piske
 pisse
 plage
+planere
 planlegge
 plante
 plaske
@@ -1813,6 +1824,7 @@ torturere
 totalskade
 trafikkere
 trakassere
+trampe
 transponere
 transportere
 tre

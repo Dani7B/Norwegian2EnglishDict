@@ -162,6 +162,7 @@ demonstrere
 demoralisere
 desarmere
 desentralisere
+desillusjonere
 desinfisere
 destabilisere
 detektere
@@ -240,6 +241,7 @@ ete
 etterleve
 falla
 falle
+famle
 fanga
 fange
 fara
@@ -277,6 +279,7 @@ flakka
 flakke
 flaksa
 flakse
+fleipa
 fljota
 fljote
 fluktuere
@@ -466,6 +469,7 @@ hamne
 handla
 handle
 handtere
+harmonere
 harmonisere
 hata
 hate
@@ -579,6 +583,7 @@ kjøra
 kjøre
 klaka
 klake
+klamre
 klappa
 klappe
 klinka
@@ -586,9 +591,13 @@ klinke
 klippe
 klistre
 klubbe
+klynka
+klynke
 klyppe
+knegge
 knipe
 knirke
+knurre
 kny
 knyta
 knyte
@@ -829,6 +838,7 @@ oppbevare
 oppdaga
 oppdage
 oppfatte
+oppføre
 oppleva
 oppleve
 oppnå
@@ -864,6 +874,7 @@ piske
 pissa
 pisse
 pla
+planere
 planta
 plante
 plassera
@@ -879,6 +890,7 @@ polymerisere
 postulere
 preparere
 presisere
+prioritere
 prosessere
 provosere
 prute
@@ -1313,6 +1325,7 @@ tolerere
 tolke
 tralla
 tralle
+trampe
 transportere
 tre
 treffe

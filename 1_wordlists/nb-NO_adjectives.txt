@@ -158,6 +158,7 @@ bayersk
 beboelig
 bedervet
 bedre
+bedårende
 befestet
 befolkningsrik
 begavet
@@ -302,6 +303,7 @@ demografisk
 demokratisk
 demonisk
 desidert
+desillusjonert
 deskriptiv
 desperat
 detaljert
@@ -483,6 +485,7 @@ fantasifull
 fantastisk
 farbar
 farefull
+faretruende
 fargeblind
 fargeekte
 fargeløs
@@ -813,6 +816,7 @@ halvhjerta
 halvhjertet
 halvmåneforma
 halvprofesjonell
+halvråtten
 halvtom
 halvtørr
 hard
@@ -1092,6 +1096,7 @@ klosset
 klumpete
 knallblå
 knalloransje
+knallrød
 knelang
 knust
 knøttliten
@@ -1979,6 +1984,7 @@ skeptisk
 skikkelig
 skinnende
 skitten
+skjelettaktig
 skjematisk
 skjermet
 skjær
@@ -2362,6 +2368,7 @@ ubarbert
 ubebodd
 ubeboelig
 ubegrenset
+ubegripelig
 ubegrunnet
 ubehagelig
 ubehandlet

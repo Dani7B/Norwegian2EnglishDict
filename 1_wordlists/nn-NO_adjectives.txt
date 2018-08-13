@@ -229,6 +229,7 @@ dement
 demografisk
 demokratisk
 demonisk
+desillusjonert
 deskriptiv
 desperat
 detaljert
@@ -1538,6 +1539,7 @@ skeptisk
 skikkeleg
 skiten
 skitten
+skjelettaktig
 skjematisk
 skjønn
 skjør

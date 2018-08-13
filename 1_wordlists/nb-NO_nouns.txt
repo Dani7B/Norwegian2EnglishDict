@@ -244,6 +244,7 @@ ankerplass
 anklage
 ankomst
 ankringsplass
+anledning
 anlegg
 anløp
 anløpshavn
@@ -780,6 +781,8 @@ bh
 bhutaner
 Bibel
 bibel
+bibeloversettelse
+bibelselskap
 bibliofil
 bibliotek
 bibliotekar
@@ -1140,10 +1143,12 @@ budskap
 bue
 bueskyting
 bueskytter
+buestreng
 buffet
 buffé
 buk
 bukett
+bukhinne
 bukk
 bukkeblad
 bukse
@@ -1192,6 +1197,7 @@ bygdevei
 byge
 bygg
 byggeblokk
+byggekostnad
 byggemateriale
 byggeplass
 bygger
@@ -2308,6 +2314,7 @@ forespørsel
 forestilling
 foretak
 forfader
+forfall
 forfalskning
 forfatter
 forfatterskap
@@ -2599,6 +2606,7 @@ funksjonalitet
 funksjonshemning
 funn
 furu
+furutømmer
 fusjon
 fusk
 fuskepels
@@ -2638,6 +2646,7 @@ følsomhet
 føner
 føniker
 føniks
+føre
 fører
 førerhund
 førerkort
@@ -2695,6 +2704,7 @@ gardbruker
 garderobe
 garderobeskap
 gardin
+gardsarbeid
 garn
 garnison
 gartner
@@ -2786,6 +2796,7 @@ gjelle
 gjemmested
 gjenbruk
 gjenerobring
+gjenferd
 gjenforening
 gjenfortelling
 gjeng
@@ -2837,6 +2848,7 @@ glidefly
 glidelås
 glimmer
 glimt
+glo
 global oppvarming
 globalisering
 globus
@@ -3407,6 +3419,7 @@ hvalkebab
 hvalp
 hvalross
 hvelv
+hvelvbru
 hvelving
 hverdagsliv
 hvete
@@ -3567,6 +3580,7 @@ inder
 indianer
 indikasjon
 indikator
+indikatorart
 individ
 indoeuropeisk
 indonesier
@@ -3745,6 +3759,7 @@ jernbane
 jernbanebru
 jernbanelinje
 jernbanenett
+jernbanespor
 jernbanestasjon
 jernklorid
 jernmalm
@@ -4175,6 +4190,7 @@ klubbhus
 klump
 klut
 klynge
+klynk
 klype
 klær
 kløe
@@ -4302,6 +4318,7 @@ kondisjon
 konditor
 kondom
 kondor
+konduktør
 kone
 konfekt
 konferanse
@@ -4316,6 +4333,7 @@ kongedømme
 kongefamilie
 kongepar
 kongerike
+kongevei
 kongeørn
 kongle
 konglekjertel
@@ -4560,6 +4578,7 @@ kumelk
 kumjølk
 kumlokk
 kunde
+kundetilfredshet
 kunnskap
 kunst
 kunstform
@@ -5054,6 +5073,7 @@ lærling
 løft
 løfte
 løgn
+løgndetektor
 løk
 løkke
 lønn
@@ -6250,6 +6270,7 @@ peanøttsmør
 pedagog
 pedagogikk
 pedal
+pedikyr
 pedo
 peiskos
 pekefinger
@@ -7202,6 +7223,7 @@ sceneshow
 scenografi
 schizofreni
 scientolog
+scooter
 score
 sebra
 seddel
@@ -7384,6 +7406,7 @@ single
 sink
 sinksulfat
 sinn
+sinne
 sinnslikevekt
 sinnsro
 sinus
@@ -7541,6 +7564,7 @@ skilsmisse
 skilt
 skiløper
 skiløping
+skiløype
 skinke
 skinn
 skinne
@@ -7554,6 +7578,7 @@ skipsverft
 skipsvrak
 skisenter
 skiskyting
+skispor
 skisse
 skisted
 skitrekk
@@ -7663,6 +7688,7 @@ skulptør
 skum
 skumgummi
 skumring
+skuter
 skvadron
 skvåsj
 sky
@@ -7729,6 +7755,7 @@ slynge
 slå
 slåsskamp
 slått
+slåtteeng
 sløyfe
 smak
 smakebit
@@ -7736,6 +7763,7 @@ smakssak
 smaksstoff
 smakstilsetning
 smaragd
+smartklokke
 smed
 smell
 smeltedigel
@@ -7820,6 +7848,7 @@ snørydding
 snørydning
 snøscooter
 snøskred
+snøskuter
 snøsmelting
 snøstorm
 snøteppe
@@ -7921,6 +7950,8 @@ speilegg
 spekter
 spektrum
 spekulasjon
+spellemann
+spenn
 spenning
 spennvidde
 sperm
@@ -7935,6 +7966,7 @@ spetakkel
 spiker
 spill
 spilleautomat
+spillemann
 spiller
 spillkonsoll
 spillkort
@@ -8523,6 +8555,7 @@ takrenne
 takst
 takstein
 takstmann
+takt
 taktikk
 takvindu
 tale
@@ -8800,6 +8833,7 @@ togreise
 togstasjon
 togtid
 togtur
+togvert
 toksin
 toleranse
 tolk
@@ -8896,6 +8930,7 @@ treenighet
 trefase
 trefning
 tregrense
+trehest
 trehjulssykkel
 trehus
 trekant
@@ -8960,6 +8995,7 @@ troposfære
 tropp
 troskap
 trost
+troverdighet
 tru
 truisme
 trumfkort
@@ -9142,6 +9178,7 @@ underholdning
 underkomite
 underkomité
 underlag
+underleppe
 underliv
 undermenneske
 underside
@@ -9361,9 +9398,11 @@ vannmerke
 vannmølle
 vannpumpe
 vannrør
+vannscooter
 vannseng
 vannski
 vannskille
+vannskuter
 vanntank
 vanntårn
 vanskapning
@@ -9600,6 +9639,7 @@ vinkjeller
 vinner
 vinsj
 vinter
+vinterføre
 vinternatt
 vinterpels
 vintersolverv

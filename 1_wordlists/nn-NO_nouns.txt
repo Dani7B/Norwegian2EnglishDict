@@ -214,6 +214,7 @@ ankel
 anker
 ankerplass
 ankringsplass
+anledning
 anlegg
 anløp
 anneks
@@ -650,6 +651,7 @@ bevis
 BH
 bhutanar
 bibel
+bibelselskap
 bibliofil
 bibliotek
 bibliotekar
@@ -953,6 +955,7 @@ buffé
 bugge
 buk
 bukett
+bukhinne
 bukk
 bukkeblad
 bukse
@@ -996,6 +999,7 @@ byfornying
 bygd
 bygdeby
 bygg
+byggekostnad
 byggemateriale
 byggeplass
 byggestein
@@ -2172,6 +2176,7 @@ funn
 fura
 fure
 furu
+furutømmer
 fusjon
 fusk
 fuskepels
@@ -2264,6 +2269,7 @@ gardbrukar
 garderobe
 garderobeskap
 gardin
+gardsarbeid
 gardsarbeidar
 garn
 garnison
@@ -2347,6 +2353,7 @@ gjel
 gjeld
 gjelle
 gjenbruk
+gjenferd
 gjeng
 gjenge
 gjennomfart
@@ -2982,6 +2989,7 @@ indeks
 indianar
 indikasjon
 indikator
+indikatorart
 individ
 indoeuropeisk
 indonesiar
@@ -3143,6 +3151,7 @@ jernbane
 jernbanebru
 jernbanelinje
 jernbanenett
+jernbanespor
 jernbanestasjon
 jernklorid
 jernmalm
@@ -3549,6 +3558,7 @@ klump
 klunger
 klut
 klynge
+klynk
 klype
 kløe
 kløft
@@ -3617,6 +3627,7 @@ komedie
 komet
 komfort
 komfyr
+komikar
 komite
 komité
 komma
@@ -3664,6 +3675,7 @@ kondisjon
 konditor
 kondom
 kondor
+konduktør
 kone
 konfekt
 konferanse
@@ -4226,6 +4238,7 @@ lokalavis
 lokalitet
 lokalsamfunn
 lokasjon
+lokførar
 lokk
 lokomotiv
 lom
@@ -4338,6 +4351,7 @@ lêr
 løft
 løfte
 løgn
+løgndetektor
 løk
 løkke
 lønn
@@ -5407,6 +5421,7 @@ peanøttsmør
 pedagog
 pedagogikk
 pedal
+pedikyr
 peikefinger
 pelikan
 pels
@@ -5745,6 +5760,7 @@ pund
 pung
 pungdyr
 punkt
+punktlegskap
 punktskrift
 punktum
 punsj
@@ -6256,6 +6272,7 @@ sceneshow
 scenografi
 schizofreni
 scientolog
+scooter
 score
 sebra
 seder
@@ -6402,6 +6419,7 @@ single
 sink
 sinksulfat
 sinn
+sinne
 sinus
 siriss
 sirkel
@@ -6545,6 +6563,7 @@ skilsmisse
 skilt
 skilting
 skiløping
+skiløype
 skinke
 skinn
 skinnvenge
@@ -6558,6 +6577,7 @@ skipsverft
 skipsvrak
 skisenter
 skiskyting
+skispor
 skisse
 skit
 skitrekk
@@ -6656,6 +6676,7 @@ skumgummi
 skumring
 skur
 skute
+skuter
 skvadron
 skvåsj
 sky
@@ -6708,6 +6729,8 @@ sloven
 slovenar
 slovensk
 sludd
+sluk
+slum
 slump
 slupp
 sluse
@@ -6723,6 +6746,7 @@ smakssak
 smaksstoff
 smakstilsetning
 smaragd
+smartklokke
 smed
 smell
 smeltedigel
@@ -6792,6 +6816,7 @@ snørr
 snørydding
 snøscooter
 snøskred
+snøskuter
 snøsmelting
 snøstorm
 snøteppe
@@ -6886,6 +6911,7 @@ spekulasjon
 spel
 spelar
 spelkort
+spenn
 spenning
 spennvidde
 spermkval
@@ -7402,6 +7428,7 @@ taksi
 takst
 takstein
 takstmann
+takt
 taktikk
 tal
 talar
@@ -7727,6 +7754,7 @@ tredjeplass
 trefase
 trefning
 tregrense
+trehest
 trehjulssykkel
 trehus
 trekant
@@ -7948,6 +7976,7 @@ underhaldning
 underkomite
 underkomité
 underlag
+underleppe
 underliv
 undermenneske
 underside
@@ -8115,11 +8144,15 @@ vaskemaskin
 vaskemiddel
 vaskeri
 vaskeservant
+vass-scooter
+vass-skuter
 vassblemme
+vasscooter
 vassdrag
 vassfarge
 vasskilje
 vasskraft
+vasskuter
 vasslilje
 vassmelon
 vasspipe
@@ -8270,6 +8303,7 @@ vinkjellar
 vinnar
 vinsj
 vinter
+vinterføre
 vinternatt
 vinterpels
 vintertid

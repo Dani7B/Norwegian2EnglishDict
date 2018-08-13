@@ -99,6 +99,7 @@ etter hvert
 etterpå
 eventuelt
 faktisk
+faretruende
 flytende
 for
 for det meste
@@ -172,6 +173,7 @@ hvordan
 hvordan det
 hvorfor
 hvorledes
+høylytt
 høyt
 i alle fall
 i bunn og grunn
@@ -411,6 +413,7 @@ tydeligvis
 ualminnelig
 uansett
 uavhengig
+ubegripelig
 ubeskrivelig
 uforholdsmessig
 uformelt
