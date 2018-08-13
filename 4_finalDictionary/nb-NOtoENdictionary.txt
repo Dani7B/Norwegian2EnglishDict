@@ -81,7 +81,7 @@ administrasjonssenter	an administrative centre (town or city where an area's adm
 administrativ	administrative
 administrator	an administrator
 administrere	to administer, manage (something)
-admiral	admiral
+admiral	(military, nautical) an admiral
 adopsjon	adoption (of children)
 adoptere	to adopt (e.g. a child, a proposal)
 adrenalin	adrenalin or adrenaline
@@ -477,6 +477,7 @@ anvise	to indicate, show
 apal	an apple tree
 ape	ape, monkey	to ape, mimic or imitate.
 apekatt	a monkey
+apostel	(biblical) an apostle
 apostrof	an apostrophe
 apotek	a pharmacy (place where prescription drugs are dispensed)
 apoteker	a pharmacist
@@ -898,6 +899,7 @@ barlind	a yew (tree or bush of genus Taxus, in particular Taxus baccata)
 barmhjertig	merciful, kind, kind-hearted, compassionate
 barn	a child
 barndom	childhood
+barndomstid	(time during) childhood
 barnearbeid	child labour
 barnebarn	a grandchild (child of someone’s child)
 barnebok	a children's book
@@ -996,6 +998,7 @@ begge	both
 begi	(reflexive) to go, proceed, to set off, set out, start out (for somewhere)	(non-reflexive, dated) to leave
 begivenhet	an event
 begjær	desire, lust
+begjæring	(especially law) a request, application, petition
 begonia	a begonia (flowering plant of genus Begonia, family Begoniaceae)
 begrave	to bury
 begredelig	lamentable
@@ -1085,6 +1088,7 @@ bergenser	a person from Bergen, a city in western Norway.
 bergensk	of, from, or relating to the city of Bergen
 berging	rescue	salvage, recovery
 bergmann	a miner (dated)
+bergvegg	a rock face (vertical rock surface)
 beruset	drunk, intoxicated
 berømt	famous	famed, renowned
 berømthet	a celebrity
@@ -1281,6 +1285,7 @@ bjelle	a bell (usually of the smaller variety)
 bjerk	a birch (tree of genus Betula)	birch (wood from the birch tree)
 bjørk	a birch (tree)	birch (wood from the birch tree)
 bjørkefink	brambling, the bird Fringilla montifringilla
+bjørkeved	birch wood (generally used as firewood)
 bjørn	a bear (large mammal of family Ursidae)
 bjørnebær	blackberry (bush)	blackberry (berry fruit)
 bjørnepels	bear fur
@@ -1443,9 +1448,9 @@ bonde	farmer	(chess) pawn
 bondegård	a farm
 bongotromme	bongo drum
 bonus	a bonus
-bor	boron (chemical element, symbol B)	(countable) a drill, or drill bit
+bor	boron (chemical element, symbol B)	bor m (definite singular boren, indefinite plural bor, definite plural borene)	(countable) a drill, or drill bit
 boraks	borax
-bord	table (furniture)	wooden board; plank	(furniture) a table	wooden board; plank
+bord	table (furniture)	wooden board; plank
 bordduk	a tablecloth
 bordell	a brothel
 bordplate	(furniture) a tabletop
@@ -1712,7 +1717,7 @@ byde	to order; command
 bydel	part of town
 byfornyelse	urban renewal
 byfornying	urban renewal
-bygd	country district
+bygd	country district or settlement (which forms a topographical and usually administrative unit (parish, township))
 bygdeby	a smaller unincorporated town within a municipality, which does not have town or city status (bystatus)
 bygdelag	a larger country district, encompassing several bygder	a rural local organization, formed by the inhabitants in a bygd
 bygdevei	formerly a (narrow) municipal road, now known as a (secondary) fylkesvei or kommunal vei (after 1963)
@@ -1762,7 +1767,7 @@ bæreevne	carrying capacity, bearing capacity
 bærekraftig	sustainable
 bærepose	a carrier bag, shopping bag
 bærer	a bearer	a carrier (including of diseases and infections)	a porter	a wearer
-bæsj	(informal, childish, uncountable) poo, shit	(informal, countable) turd	(rare, childish, figuratively, pejorative) despicable person; piece of shit
+bæsj	(informal, childish, uncountable) poo, shit	(informal, countable) turd	(rare, childish, figuratively, derogatory) despicable person; piece of shit
 bø	farmland, area surrounding a farm	boo; a loud exclamation intended to scare someone, usually a child.
 bøffel	a buffalo (of Asia or Africa, also used to describe the North American bison or buffalo, although not recommended)
 bøg	(slightly colloquial, sometimes derogatory) a male homosexual; gay, fag, queer, poof
@@ -1871,7 +1876,7 @@ danske	a Dane (native of Denmark)
 dari	Dari (language)
 dash	a dash (small amount)	short for dashbord.
 dashbord	(automotives, aviation) a dashboard
-dass	(colloquial) toilet, crapper	(pejorative) a jerk
+dass	(colloquial) toilet, crapper	(derogatory) a jerk
 data	data	short form of datateknologi
 database	(computing) a database
 databehandle	(computing) to process data
@@ -2210,7 +2215,7 @@ drita	(slang) Very drunk
 drite	To defecate.
 dritings	(slang) very drunk
 dritt	(colloquial) excrement	(colloquial) any dirty or disgusting substance	(slang) something of poor quality, crap	(definite) (en dritt, used in negations) shit (anything, nothing)
-drittsekk	(pejorative, vulgar) bastard, wanker. Literally a "shitbag".
+drittsekk	(derogatory, vulgar) bastard, wanker. Literally a "shitbag".
 drivaksel	a driveshaft
 drive	to move; turn	to pursue	to deviate	to float; drift	to operate; run	to follow	to drive, propel
 drivgass	a propellant (especially in aerosols)
@@ -2259,13 +2264,14 @@ dumhet	stupidity, foolishness
 dumming	a dummy; fool; idiot
 dump	(of a sound) dull (pain also), hollow, muffled
 dun	down (soft, fine fluffy feathers)
+dundre	to boom, roar, thunder, bang, hammer
 duo	a duo (a group of two entertainers, or a piece of music for two musical instruments (also known as a duet))
 durian	durian (fruit)
 dusin	a dozen (twelve)
 dusj	spray (mist of liquid)	shower (device for bathing)	room with showers
 dusje	to shower (have a shower, wash oneself in a shower)	to spray (something, e.g. plants)
 dusjhode	showerhead
-dust	(pejorative) dork, moron, fool	dust (fine, dry particles)
+dust	(derogatory) dork, moron, fool	dust (fine, dry particles)
 dvale	hibernation	lethargy, torpor
 dvalemodus	(computing) sleep mode
 dvd-speller	DVD player
@@ -2552,7 +2558,7 @@ embarkere	to embark
 embete	an office, (official) position
 embetsmann	a civil servant, government official
 emblem	an emblem
-embryo	embryo; an unborn baby that is less developed than a fetus.	embryo; an organism in the earlier stages of development before it emerges from the egg, or before metamorphosis.
+embryo	(biology, botany) an embryo
 emigrere	to emigrate
 emir	an emir (Islamic prince or leader)
 emirat	an emirate country or state ruled by an emir
@@ -2790,8 +2796,6 @@ evidens	evidence (facts presented in support of an assertion)
 evig	eternal	(as an adverb) eternally, forever or for ever (also for evig)
 eviggrønn	(botany) evergreen
 evighet	eternity
-evighetene	Plural definite of evighet
-evigheter	Plural indefinite of evighet
 evigung	forever young
 evigvarende	everlasting, perpetual
 evne	ability, capacity, talent
@@ -2812,7 +2816,7 @@ fagfolk	professionals, experts, specialists
 fagforening	a trade union
 faglig	professional
 fakkel	a torch (stick with a flame at one end)	a flare (signal flare, also at oil refineries etc., including the flare tower)
-faksimile	a facsimile
+faksimile	faksimile n (definite singular faksimilet, indefinite plural faksimiler, definite plural faksimila or faksimilene)	a facsimile
 faktaark	a fact sheet
 faktisk	actual, real	actually
 faktor	a factor
@@ -2912,7 +2916,7 @@ fat	plate, dish	barrel, drum, cask
 fatal	fatal
 fattig	poor (with no possessions or money)
 fattigdom	poverty
-fattiglem	a pauper
+fattiglem	This entry needs an inflection-table template.	a pauper
 fauna	fauna
 favn	fathom	embrace
 favorisere	to favour (UK), or favor (US)
@@ -3124,6 +3128,7 @@ fiskeskipper	skipper of a fishing vessel
 fiskevær	a fishing village
 fisking	fishing	(in sports) to waiting around the opponents' goal waiting for a pass
 fjell	a mountain
+fjellgrunn	bedrock
 fjellheim	mountainous area
 fjellkjede	a mountain range or mountain chain
 fjellklatrer	a mountaineer or mountain climber (person who takes part in mountaineering)
@@ -3234,7 +3239,7 @@ flygefisk	a flying fish
 flygel	(music) a grand piano
 flyger	a pilot, aviator
 flyging	flight, flying (action or process)	a flight (journey in an aircraft)
-flykrasj	a plane crash
+flykrasj	flykrasj n (definite singular flykrasjet, indefinite plural flykrasj, definite plural flykrasja or flykrasjene)	a plane crash
 flykropp	a fuselage (main body of an aircraft)
 flykte	to flee, run away (fra / from)
 flyktning	a refugee
@@ -3310,6 +3315,7 @@ forandring	change (the process of becoming different)
 forankre	to anchor (something, e.g. a boat)
 forarbeid	preparation (act of preparing, preparatory work)
 forbanne	to curse (make something cursed)	to proscribe (banish)
+forbannet	accursed, cursed, damned, confounded, bloody (swear word)	angry, furious
 forbause	to amaze, astonish, surprise
 forbausende	amazing, astonishing, surprising	(as an adverb) amazingly, astonishingly, surprisingly	present participle of forbause
 forbedre	to improve (make something better)	(reflexive: forbedre seg) to improve oneself
@@ -3631,6 +3637,7 @@ forutse	to anticipate, foresee, predict
 forutsette	to assume, presuppose
 forutsi	to forecast, predict, prophesy
 forutsigbar	predictable
+forutsigelse	prediction
 forvalte	to administer, manage
 forvaltning	administration, management
 forvanske	to distort, corrupt, garble, mutilate (e.g. a text)
@@ -4077,7 +4084,7 @@ gelatin	gelatine or gelatin
 gelender	guardrail, banister(s), handrail (particularly in stairways and on landings), railing(s)
 gelé	jelly (a dessert)	jelly (used in some tinned foods)	gel (for hair)
 gemytt	temperament, temper, disposition, nature, character
-gen	(biology) a gene
+gen	gen m (definite singular genen, indefinite plural gener, definite plural genene)	(biology) a gene
 general	(military) a general
 generalforsamling	a general meeting (e.g. of a company)	a general assembly (e.g. of the United Nations)
 generalisere	to generalise, or generalize
@@ -4213,6 +4220,7 @@ gjenvelge	to re-elect (someone)
 gjenvinne	to recover	to regain
 gjenværende	remaining
 gjenåpne	to reopen
+gjenåpning	reopening
 gjerde	a fence
 gjerding	fencing
 gjerne	gladly	really, very much	without hesitation or opposing thoughts	possibly	often, as a rule
@@ -4292,7 +4300,7 @@ gnu	a gnu or wildebeest (large antelope)
 god	good
 godartet	(medicine) benign, non-malignant
 godhet	goodness, kindness
-godhetstyranni	(pejorative, politics, asylum) tyranny of goodness or kindness, dogoodery
+godhetstyranni	(derogatory, politics, asylum) tyranny of goodness or kindness, dogoodery
 godkjenne	to approve (something)
 godkjennelse	approval
 godkjenning	approval
@@ -4398,7 +4406,7 @@ grisk	avaricious, greedy
 griskhet	greed
 grisunge	a piglet (young pig)
 gro	to grow	to sprout, germinate
-grobian	(pejorative) a coarse, uncouth, uncivilized fellow, perhaps violent
+grobian	(derogatory) a coarse, uncouth, uncivilized fellow, perhaps violent
 grop	a depression, hollow, hole, cavity, pothole (in the road)
 grossist	a wholesaler
 grotesk	grotesque
@@ -4561,6 +4569,7 @@ hakekors	a swastika
 hakke	a pick, pickaxe or pickax	(for garden use) a hoe	to chop, chop up
 hale	a tail (of an animal, aircraft, comet etc.)	to haul, heave, pull	to drag
 halefinne	a tail fin or tailfin (of a fish or aircraft), caudal fin (of a fish)
+haleløs	tailless
 hall	a hall (a building or very large room)
 hallusinasjon	a hallucination
 hallusinogen	hallucinogenic
@@ -4762,7 +4771,7 @@ hengebru	a suspension bridge
 hengekøye	a hammock
 hengelås	a padlock
 hengende kurv	(gardening) a hanging basket
-hengsel	a hinge
+hengsel	hengsel n (definite singular hengselet or hengslet, indefinite plural hengsel or hengsler, definite plural hengsla or hengslene)	a hinge
 henhold	i henhold til - in accordance with
 henholdsvis	respectively
 henne	her; object form of hun (=she)
@@ -5375,7 +5384,7 @@ ingen	no; no one; nobody; nothing	neither	none	no; not any
 ingeniør	engineer (person qualified or professionally engaged in engineering)
 ingenmannsland	(military) no man's land	(figuratively) no man's land
 ingensteds	nowhere
-ingenting	nothing	nothing	naught, nothingness
+ingenting	nothing	naught, nothingness
 ingrediens	an ingredient
 inhalerbar	inhalable
 inhalere	to inhale
@@ -5441,6 +5450,7 @@ innlemme	to incorporate
 innløp	an entrance (to a harbour, fjord etc.)	an inlet
 innovasjon	innovation
 innovativ	innovative
+innover	inwards, towards the interior	into, towards the interior (of)
 innretning	a device, appliance, contrivance, gadget
 innrømme	to admit, concede (something)	to allow, give, grant (something)
 innsats	a contribution	an effort	a stake (gambling)
@@ -5640,6 +5650,7 @@ jente	a girl
 jentunge	a young girl
 jern	iron
 jernbane	a railway (UK), or railroad (US)
+jernbanebru	a railway bridge
 jernbanelinje	a railway line (UK)
 jernbanenett	(rail transport) a rail / railroad / railway network
 jernbanestasjon	a railway station (UK)
@@ -5962,7 +5973,7 @@ kilde	spring (a place where water emerges from the ground)	source	fountain	fount
 kildekode	(computing) source code
 kildinsamisk	Kildin Sami (language)
 kile	a wedge or chock	to wedge (something)	to tickle (transitive / intransitive)
-kilo	a kilo (1000 grammes)	kilo (letter K in the ICAO spelling alphabet, usually spoken rather than written)
+kilo	kilo n (definite singular kiloet, indefinite plural kilo, definite plural kiloa or kiloene)	a kilo (1000 grammes)	kilo (letter K in the ICAO spelling alphabet, usually spoken rather than written)
 kilometer	a kilometre, or kilometer (US) (SI unit of length)
 kilowattime	(electricity) a kilowatt-hour (kWh)
 kinematikk	kinematics
@@ -6211,6 +6222,7 @@ knipetang	(a pair of) nippers, pincers, pliers
 knirke	to creak, squeak, grate
 kniv	knife (utensil or tool designed for cutting)
 knivstikke	to stab (someone)
+knoke	a knuckle
 knop	a knot (e.g. in a rope)
 knopp	(botany) a bud (of a flower, leaf or shoot)
 knuge	to press, squeeze, clench (fist)	to clasp, clutch, embrace, hug
@@ -6490,6 +6502,7 @@ kopiere	to copy
 kopiering	copying (av / of)
 kopp	a cup (vessel for drinking from)
 kopper	copper (chemical element, symbol Cu)	smallpox
+kopperfarget	copper-coloured (UK), copper-colored (US)
 koptisk	Coptic (relating to the Copts, the Coptic Church and the ancient Coptic language)
 kor	choir (singing group)	chancel, choir (part of church housing the altar)
 korall	coral
@@ -6578,7 +6591,7 @@ krangel	a quarrel	an argument	a row (UK) (quarrel, argument)
 krangle	to quarrel, bicker, argue
 kranium	(anatomy) cranium (skull)
 krans	a wreath	a garland
-krasj	a crash
+krasj	krasj n (definite singular krasjet, indefinite plural krasj, definite plural krasja or krasjene)	a crash
 krasje	to crash
 krater	a crater
 krav	a requirement	a demand
@@ -6662,6 +6675,7 @@ kronologisk	chronological	(as an adverb) chronologically
 kronprins	crown prince
 kronprinsesse	crown princess
 kropp	a body	(mathematics) field
+kroppsarbeid	manual labour, physical labour
 kroppsspråk	body language
 kroppsvekt	body weight
 kroppsvæske	(anatomy) a bodily fluid
@@ -6806,6 +6820,7 @@ kvikk	fast, quick, easy	lively	quick-witted
 kvikksand	quicksand	precarious situation, hopeless tangle; quagmire
 kvikksølv	mercury or quicksilver (chemical element, symbol Hg)
 kvinne	a woman
+kvinnebryst	(anatomy) a female breast, woman's breast
 kvinnehater	a woman-hater, misogynist
 kvinnekropp	a female body
 kvinnelig	female
@@ -6823,7 +6838,7 @@ kypriot	a Cypriot (native of Cyprus)
 kypriotisk	Cypriot (relating to Cyprus and Cypriots)
 kyrillisk	Cyrillic
 kyskhetsbelte	a chastity belt
-kyss	a kiss
+kyss	kyss m (definite singular kyssen, indefinite plural kyss, definite plural kyssene)	a kiss
 kysse	to kiss (touch with the lips)
 kyst	coast (shoreline)
 kystfarvann	coastal waters
@@ -6959,7 +6974,7 @@ lavland	lowland (or lowlands) (land less than 200 metres above sea level, compar
 lavtliggende	low-lying
 lavtrykk	(meteorology) a depression or low (area of low atmospheric or barometric pressure)
 lavvann	low tide
-le	lee or leeward (side)	lee (sheltered or leeward side)	shelter	to laugh
+le	lee (sheltered or leeward side)	shelter	to laugh
 ledd	(anatomy) a joint	a link (in a chain)
 leddgikt	arthritis
 lede	to lead	to guide
@@ -7030,7 +7045,7 @@ lengdegrad	(degree of) longitude (east or west of the Greenwich meridian)
 lengdehopp	(athletics) long jump
 lenge	long, for a long time
 lengsel	longing, yearning
-lengte	to long (for)
+lengte	to long, yearn (etter / for)
 lenke	chain	(Internet) link
 lensepumpe	(nautical) a bilge pump
 leopard	a leopard (big cat, Panthera pardus)
@@ -7063,7 +7078,7 @@ let	colour
 lete	to look (etter / for)	to search (etter / for)
 leting	a search	prospecting (for oil etc.)
 lett	easy (requiring little skill or effort)	light (not heavy)	(as an adverb) easily, lightly
-lette	to ease, relieve, lessen, lighten	(of a plane) to take off
+lette	to ease, relieve, lessen, lighten	(of a plane, bird) to take off
 lettelse	easing, relief
 lettlest	easily read, easy-to-read (with or without hyphens)
 lettvinn	easy, simple	handy	agile, nimble
@@ -7207,6 +7222,7 @@ lokomotiv	(rail transport) a locomotive
 lom	a diver or loon (waterbird of order Gaviiformes, family Gaviidae)
 lomme	pocket
 lommebok	a wallet, or billfold (US)
+lommekniv	a pocket knife, penknife
 lommelerke	a hip flask
 lommelykt	a torch, or flashlight (US)
 lommeparlør	a small phrasebook that fits into almost any pocket.
@@ -7407,7 +7423,7 @@ løsepenger	a ransom (sum of money demanded or paid for the release of a kidnap 
 løslate	to free, release (set free)
 løsne	to loosen
 løsning	an answer (solution)	a solution	(chemistry) a solution
-løsrive	to break away	to detach (oneself)	to tear oneself away (fra / from)	to secede (fra / from)
+løsrive	(often reflexive, with seg / oneself)	to break away	to detach (oneself)	to tear oneself away (fra / from)	to secede (fra / from)
 løsrivelse	(politics) secession (fra / from)
 løss	(geology) loess
 løst	loosely
@@ -7483,7 +7499,7 @@ malayisk	Malay, Malayan (relating to Malaya, the Malay people and their language
 malaysier	a Malaysian (person from Malaysia)
 malaysisk	Malaysian (relating to Malaysia and Malaysians)
 maldiver	Maldivian (person from the Maldives)
-maldivisk	Maldivian (relating to the Maldives and Maldivians)	Maldivian or Dhivehi (language)
+maldivisk	Maldivian (relating to the Maldives and Maldivians)
 male	to paint	to grind or mill (to make smaller by breaking with a device)	to purr (of a cat, to make a vibrating sound in its throat when contented)
 maler	a painter (either an artist or a workman)
 maleri	(art) (a) painting, a picture (painting)
@@ -8019,7 +8035,7 @@ mormon	(religion) a Mormon (adherent of Mormonism)
 mormor	maternal grandmother
 moro	amusement, fun
 moromann	comedian, funny person, clown
-mors	corpse	indefinite singular genitive of mor
+mors	corpse
 morsdag	Mother's Day
 morse	Morse or Morse code	(sende morse) to transmit Morse code	to die
 morsealfabet	Morse code
@@ -8424,7 +8440,7 @@ nominell	nominal
 nominere	to nominate (someone / something)
 nonne	a nun
 noob	(slang, Internet) noob
-nord	north (for / of)	north, a compass direction	a land area towards the north	indefinite singular form of Norden - the Nordic countries	(dialectal, obsolete) upriver (in the mountain valleys of eastern Norway, without considering the actual orientation of the valley)
+nord	north (for / of)	north, a compass direction	a land area towards the north	(dialectal, obsolete) upriver (in the mountain valleys of eastern Norway, without considering the actual orientation of the valley)
 nordafrikansk	North African (of or pertaining to North Africa)
 nordamerikansk	North American (relating to North America)
 nordavind	a north wind or northerly
@@ -8506,7 +8522,7 @@ nys	sneeze
 nyse	to sneeze
 nysgjerrig	curious (inquisitive)	inquisitive	nosy (informal)
 nysgjerrighet	curiosity, inquisitiveness
-nysgjerrigper	(pejorative) a busybody; one who is intrusive or nosy
+nysgjerrigper	(derogatory) a busybody; one who is intrusive or nosy
 nyskapende	innovative	present participle of nyskape
 nysnø	newly fallen snow, fresh snow
 nyss	poor cod, a small cod-fish of the species Trisopterus minutus	information, in the common phrase "få nyss om": acquire knowledge about, learn from somewhere	just (moments ago)	just (before)
@@ -9080,7 +9096,6 @@ panteisme	pantheism
 pantelån	(finance) a mortgage
 pantelåner	a pawnbroker
 panter	a panther (black leopard)
-pantergaupe	Iberian lynx; Lynx pardinus
 pantsette	to pawn (leave something as security at a pawn shop)
 papegøye	a parrot (bird)
 papir	paper
@@ -9199,7 +9214,7 @@ pedagog	a pedagogue (esp. historically)	a teacher, educationalist
 pedagogikk	(education) pedagogy
 pedagogisk	educational, pedagogic, pedagogical (relating to teaching)
 pedal	a pedal
-pedo	(pejorative, colloquial) pedophile
+pedo	(derogatory, colloquial) pedophile
 pedofil	relating to paedophilia and paedophiles, paedophilic	(as a noun) a paedophile
 peiskos	indoor fireside cosiness; the feeling of wellbeing obtained from snuggling indoors in front of an open fire.
 peive	(dialectal) to swing, wave
@@ -9506,7 +9521,7 @@ preliminær	preliminary
 preludium	(music) a prelude
 premie	a prize	a premium
 premiere	a premiere (first showing)
-premiss	a premise
+premiss	premiss n (definite singular premisset, indefinite plural premiss or premisser, definite plural premissa or premissene)	a premise
 preparat	a preparation (specially made substance)
 preparere	to prepare
 preposisjon	a preposition (grammar: a type of word like "of, from, for, by")
@@ -9842,7 +9857,7 @@ raus	generous, munificent, charitable
 raute	(of a cow) to moo.
 rav	amber (fossilised resin)
 ravn	a raven (bird)
-reagens	(chemistry) a reagent
+reagens	reagens n (definite singular reagenset, indefinite plural reagens or reagenser, definite plural reagensa or reagensene)	(chemistry) a reagent
 reagensglass	(chemistry) a test tube
 reagensrør	(chemistry) a test tube
 reagere	to react
@@ -10299,6 +10314,7 @@ ræv	(slang) arse, ass (buttocks)
 rød dag	A Sunday or a holiday; a day on which a festival, religious event, or national celebration is traditionally observed, and which is declared free from work by the government.
 rød	red
 rødaktig	reddish (resembling red in colour)
+rødflammet	flushed, red, streaked with red
 rødgaupe	bobcat, red lynx; Lynx rufus
 rødhet	redness
 rødlig	reddish	ruddy (e.g. complexion)
@@ -10318,7 +10334,7 @@ rør	pipe, tube	cane (from bamboo; sugar cane)	mess
 røre	batter; liquid mixture used for baking (e.g. pancakes)	mess, disorder	commotion	stir; agitate (e.g. a batter or liquid) by passing something through it	move	touch	ramble, drivel; talk incoherently or senselessly
 rørledning	a pipeline
 rørsukker	cane sugar
-røsslyng	heather, Calluna vulgaris
+røsslyng	røsslyng n (definite singular røsslynget, indefinite plural røsslyng, definite plural røsslynga or røsslyngene)	heather, Calluna vulgaris
 røve	to rob
 røver	a robber
 røveri	a robbery
@@ -10351,7 +10367,7 @@ sagbruk	a sawmill
 sage	to saw (cut something with a saw)
 sagmugg	sawdust
 saharawisk	relating to Western Sahara and its people.
-sak	a (legal) case
+sak	a (legal) case	a matter
 sakke	to slow (ned / down), reduce speed
 saklig	factual	objective	matter-of-fact	unprejudiced, impartial	just, fair, unbiased	businesslike	(as an adverb) objectively, impartially, factually, matter-of-factly
 sakn	want, lack	loss
@@ -11022,6 +11038,7 @@ skjelle ut	to abuse (with words), insult (someone)
 skjelle	to scold (someone)
 skjellsord	term / word of abuse, insult
 skjelne	to distinguish, differentiate, discern
+skjelve	to shake, quake, tremble, quiver
 skjema	a form (printed document with blank spaces for filling in information)
 skjematisk	schematic
 skjerf	a scarf (long garment worn around the neck)
@@ -11103,7 +11120,7 @@ skriftemål	(religion) Confession; the disclosure of one's sins to God or a prie
 skriftlig	written
 skriftspråk	written language
 skrik	cry; scream, shriek	an item, usually a piece of fashion, when used in the idiomatic phrase "siste skrik" (latest fashion)
-skrike	to scream, shout, cry out
+skrike	to scream, shout, cry out	(of a crow) to caw
 skrin	(small) box, chest
 skritt	step (space passed over by one movement of the foot in walking or running)	groin
 skrive	to write
@@ -11217,7 +11234,7 @@ slavinne	a (female) slave
 slavisk	Slavic, Slavonic	slavish	(as an adverb) slavishly
 slekt	a family (group of people with the same ancestry)	(biology) a genus
 slektning	a relation or relative
-slektskap	kinship, relationship
+slektskap	slektskap n (definite singular slektskapet, indefinite plural slektskap, definite plural slektskapa or slektskapene)	kinship, relationship
 slem	mean, bad	naughty
 slenge	to fling, sling, throw
 slepe	to tow, drag
@@ -11289,7 +11306,7 @@ smidig	malleable	agile, supple
 smidighet	agility, suppleness, flexibility
 smie	a smithy or forge
 smijern	wrought iron
-smil	a smile
+smil	smil m (definite singular smilen, indefinite plural smil, definite plural smilene)	a smile
 smile	to smile
 sminke	makeup, make-up	rouge	make up (one's face; apply make-up)
 sminkefjerner	(cosmetics) make-up remover
@@ -11314,6 +11331,7 @@ småkake	A soft biscuit or cookie
 småkoke	to simmer (cook on a low heat)
 småpenger	small change
 småregn	(weather) drizzle
+småstein	pebble(s), small stone(s) (usually collectively)
 småting	a small thing, article or object	a trifle (something unimportant)
 småvilt	small game
 smør	butter
@@ -11517,6 +11535,7 @@ spekulativ	speculative
 spekulere	to speculate
 spennende	exciting, thrilling
 spenning	excitement	tension	(electricity) voltage
+spennvidde	span (measurement of an arch or bridge)	range, scope (of something)
 spent	tense
 sperm	sperm	short for spermasett (spermaceti); see spermhval.
 sperma	sperm, semen
@@ -11707,7 +11726,7 @@ statue	a statue
 statuett	a statuette
 status	status
 statussymbol	a status symbol
-statutt	a statute (usually a rule or regulation made by an institute or organisation)
+statutt	statutt n (definite singular statuttet, indefinite plural statutter, definite plural statutta or statuttene)	a statute (usually a rule or regulation made by an institute or organisation)
 staurkval	orca, killer whale, Orcinus orca
 stave	to spell (words)
 stavefeil	a misspelling, spelling error or spelling mistake
@@ -11744,6 +11763,7 @@ steinkobbe	common seal or harbour seal (Phoca vitulina)
 steinmur	a stone wall
 steinras	a rockfall or rockslide
 steinsirkel	(archaeology) a stone circle
+steinvegg	a stone wall (usually of a building)
 steke	to fry (food, in a frying pan)	to grill (food, in a grill)	to roast (food, in an oven)
 stekende	baking, scorching	present participle of steke
 stekeovn	an oven (part of a cooker used for baking and roasting)
@@ -11792,7 +11812,7 @@ stillesittende	sedentary, involving sitting in one place for long periods.
 stillestående	stationary (not moving)	stagnant (water)
 stillhet	peace (tranquility, quiet, harmony)	silence	calm
 stilling	position	post (position in employment)
-stim	a school or shoal (group of fish)
+stim	stim n (definite singular stimet, indefinite plural stim, definite plural stima or stimene)	a school or shoal (group of fish)
 stimulere	to stimulate
 stimulering	stimulation
 sting	a stitch (in sewing and surgery)	stitch (pain in the side)
@@ -11862,6 +11882,7 @@ straffe	to punish	to penalise (UK), or penalize
 straffelov	(law) criminal code, penal code
 straffemerke	(soccer) penalty spot
 strafferett	criminal law
+straffesak	(law) a criminal case
 straffespark	(soccer) a penalty kick
 straffesparkkonkurranse	(soccer) a penalty shoot-out
 straks	immediately; right away	just	a very short time period; a jiffy	as soon as
@@ -11877,7 +11898,7 @@ stratosfære	the stratosphere
 strede	a strait (narrow channel of water)	a narrow street (often used in the phrase "gater og streder")
 streik	a strike (refusal to work as a form of protest)
 strek	a line (a mark made by a pen, pencil, etc.)	(most often in compound words) a mischief
-strekk	stretch	tension	elasticity	traction (for a broken limb)	sprain
+strekk	strekk n (definite singular strekket, indefinite plural strekk, definite plural strekka or strekkene)	stretch	tension	elasticity	traction (for a broken limb)	sprain
 strekke	to stretch (also reflexive)
 strekkmerke	a stretch mark
 strekkode	a barcode (set of machine-readable parallel bars)
@@ -12138,6 +12159,7 @@ svovelkis	pyrite (FeS2)
 svovelsyre	(chemistry) sulphuric acid (UK) or sulfuric acid (US)
 svullen	swollen
 svulme	to swell, bulge
+svær	heavy, massive, huge, large, tremendous
 svært	very
 svømme	to swim
 svømmebasseng	a swimming pool
@@ -12408,6 +12430,7 @@ tannkjøtt	(anatomy) gum (flesh around the roots of teeth)
 tannkrem	toothpaste (paste for cleaning the teeth)
 tannlege	a dentist (specialist in the care of teeth)
 tannløs	toothless (lacking teeth; also figurative)
+tannmerke	(mainly plural) a tooth mark (plural teeth marks or tooth marks)
 tannpasta	toothpaste (an older term)
 tannpine	toothache
 tannråte	tooth decay
@@ -12731,7 +12754,7 @@ tjeneste	service	favor (kind or helpful deed)
 tjenestegjøre	to serve (e.g. in the armed forces)
 tjenestemann	an official (civil servant, public servant)
 tjenesteyter	a service provider
-tjern	a small lake, typically in a forest or mountain area.
+tjern	tjern f, m (definite singular tjerna or tjernen, indefinite plural tjerner, definite plural tjernene)	a small lake, typically in a forest or mountain area.
 tjue	(cardinal) twenty
 tjuefem	(cardinal) twenty-five
 tjuende	(ordinal) twentieth
@@ -12765,6 +12788,7 @@ tolk	an interpreter
 tolke	to interpret
 tolkning	an interpretation
 toll	duty (customs duty, excise duty)	customs
+tollbod	a custom house or customs house
 tolldeklarasjon	a customs declaration
 tollfri	duty-free
 tolv	(cardinal) twelve
@@ -12820,7 +12844,7 @@ totalskade	to destroy completely / totally
 totaltap	a total loss (in insurance, but also used in other senses)
 touchskjerm	(computing) synonym of berøringsskjerm
 toåring	a two-year-old (child that is two years old)
-tradisjon	a tradition
+tradisjon	tradition
 tradisjonell	traditional
 tradisjonsrik	traditional, rich in tradition(s)
 trafikk	traffic
@@ -13059,7 +13083,7 @@ turkmensk	Turkmen (relating to Turkmenistan and the Turkmen people)	Turkmen (the
 turn	gymnastics (athletic discipline)
 turner	a gymnast
 turnering	a tournament (both senses)
-turniké	a tourniquet
+turniké	turniké n (definite singular turnikéet or turnikeet, indefinite plural turniké or turnikéer or turnikeer, definite plural turnikéa or turnikea or turnikéene or turnikeene)	a tourniquet
 turnpike	A young female gymnast
 turtall	RPM, revolutions per minute (speed of an engine etc.)
 turteller	a rev counter or tachometer
@@ -13079,6 +13103,7 @@ tuvalsk	Tuvaluan (relating to Tuvalu and Tuvaluans)	Tuvaluan (the language)
 tv	television
 tvang	force, coercion, duress
 tvangsarbeid	forced labour
+tvangssalg	a forced sale, compulsory sale
 tvangstrøye	a straitjacket
 tvekjønnet	(biology) hermaphrodite, hermaphroditic
 tverrhalehauk	sharp-shinned hawk, Accipiter striatus
@@ -13124,7 +13149,7 @@ tyrker	a Turk (person from Turkey)
 tyrkisk	Turkish (relating to Turkey and the Turks)	Turkish (the language)
 tysk	German (relating to Germany and the German people)	German (the German language)
 tysker	a German (person from Germany)
-tyskertøs	(pejorative) A Norwegian woman who had sexual relations with German soldiers during World War II.
+tyskertøs	(derogatory) A Norwegian woman who had sexual relations with German soldiers during World War II.
 tyv	a thief (person who steals)
 tyve	(cardinal) twenty
 tyvende	(ordinal) twentieth
@@ -13288,6 +13313,7 @@ uhindret	unhindered, unimpeded, unobstructed
 uhjelpsom	unhelpful
 uholdbar	untenable
 uhorvelig	tremendous	enormous
+uhyggelig	cheerless, dismal, dreary	uncomfortable, unpleasant	ominous, sinister, eerie, uncanny, weird
 uhygienisk	unhygienic
 uhyre	enormous, huge, immense, colossal, gigantic, tremendous	exceedingly, exceptionally,  extremely, tremendously, terribly	a monster
 uhåndterlig	cumbersome, unwieldy
@@ -13886,7 +13912,7 @@ vaskeservant	a washbasin
 vassdrag	(geomorphology) drainage system, river system
 vatikansk	relating to the Vatican and Vatican City
 vatteppe	a quilt
-ved	at, by, near, on (near or next to)	by (Involving/using the means of). Followed by a noun or by the infinitive with å	firewood (any wooden material that is gathered and used for fuel)
+ved	at, by, near, on (near or next to)	by (Involving/using the means of). Followed by a noun or by the infinitive with å	wood, firewood (any wooden material that is gathered and used for fuel)
 vedkommende	appropriate
 vedlikehold	maintenance, upkeep
 vedlikeholde	to maintain (carry out maintenance)
@@ -14445,7 +14471,7 @@ zoomobjektiv	a zoom lens (camera lens in which the focal length can be changed q
 økotype	an ecotype
 øks	an axe (UK) or ax (US)
 økumenisk	ecumenical (ecclesiastical: pertaining to the Chistian Church in a worldwide sense)
-øl	beer (alcoholic drink)	a beer (in a glass, bottle or can)
+øl	øl m (definite singular ølen, indefinite plural øl, definite plural ølene) (a glass, bottle or can of beer)	beer (alcoholic drink)	a beer (in a glass, bottle or can)
 ølboks	a can of beer, or beer can (when empty)
 ønske	a wish	a desire	to wish	to want
 ønskelig	desirable, desired
@@ -14667,8 +14693,6 @@ etterforsker	to investigate
 etterfølger	to succeed (be someone's successor)	to follow
 etterlevende	to comply with, live by, obey, follow
 eventuelt	possible, potential
-evighetene	eternity
-evigheter	eternity
 fall	a slanted metal piece in a door lock that moves when pressing the handle.	to fall	to fall, die	to slope	to look, fit [adjective/adverb] on	(with adjectives) to seem, appear
 fallen	a slanted metal piece in a door lock that moves when pressing the handle.	to fall	to fall, die	to slope	to look, fit [adjective/adverb] on	(with adjectives) to seem, appear
 fallende	a slanted metal piece in a door lock that moves when pressing the handle.	to fall	to fall, die	to slope	to look, fit [adjective/adverb] on	(with adjectives) to seem, appear
@@ -14712,6 +14736,7 @@ folkedanser	a folk dance	folk dancing
 fontene	a baptismal font	(typography) font, or fount (UK)
 for	danger	go; travel	rush; tear	(shipping) sail	(archaic, poetry) travel; voyage
 for	(slang) grub, pabulum	(animal food) feed, forage, fodder, feedstock	(in clothing) lining
+forbannet	to curse (make something cursed)	to proscribe (banish)
 forbausende	to amaze, astonish, surprise
 forbedret	to improve (make something better)	(reflexive: forbedre seg) to improve oneself
 forberedende	to prepare
@@ -14946,7 +14971,7 @@ last	(transport) to load	(computing) to load (data, a file)	to blame
 lat	to seem, appear	(also late som) to pretend
 late	lazy
 lava	low	lichen
-ledd	lee or leeward (side)	lee (sheltered or leeward side)	shelter	to laugh
+ledd	lee (sheltered or leeward side)	shelter	to laugh
 ledende	to lead	to guide
 leder	to lead	to guide
 legg	to lay, put, place
@@ -14961,7 +14986,7 @@ leskende	to quench, slake, refresh (one's thirst)	to slake (lime (mineral))
 let	to look (etter / for)	to search (etter / for)
 lett	to look (etter (“for”))	to search (etter (“for”))
 lett	to look (etter / for)	to search (etter / for)
-lett	to ease, relieve, lessen, lighten	(of a plane) to take off
+lett	to ease, relieve, lessen, lighten	(of a plane, bird) to take off
 lette	to look (etter (“for”))	to search (etter (“for”))
 lette	to look (etter / for)	to search (etter / for)
 lette	easy (requiring little skill or effort)	light (not heavy)	(as an adverb) easily, lightly
@@ -14974,7 +14999,7 @@ like	similar, alike	equal	a corpse, (dead) body	edge of a sail; leech
 lim	a lime (citrus fruit)	to glue or paste (something)
 list	a list	to list (to create or recite a list; place on a list)
 lite	small (not large), little
-lo	lee or leeward (side)	lee (sheltered or leeward side)	shelter	to laugh
+lo	lee (sheltered or leeward side)	shelter	to laugh
 lokk	to allure, entice, tempt, lure	to attract, fascinate	to call (an animal), give a mating call	(reflexive, of hair) to curl	(of metal) to punch
 lov	to praise	to promise
 lovende	to praise	to promise
@@ -15040,6 +15065,7 @@ minst	small (not large), little
 misbruk	to abuse (to use improperly)	to misuse
 misfarget	to discolour (UK) or discolor (US)
 mopp	to mop
+mors	a mother
 mors	Morse or Morse code	(sende morse) to transmit Morse code	to die
 morter	the common roach, Rutilus rutilus
 motsatt	(reflexive) to oppose, resist (something)
@@ -15217,7 +15243,7 @@ skjønne	beautiful
 skodde	a shoe	to shoe
 skrellet	to peel (e.g. vegetables)
 skrev	to write
-skrik	to scream, shout, cry out
+skrik	to scream, shout, cry out	(of a crow) to caw
 skriver	to write
 skrubb	to scrub (something)	(reflexive) to skin (something; graze a part of one's body accidentally)
 skryt	to brag, boast	to bray (donkey)
@@ -15317,6 +15343,7 @@ svett	sweat, perspiration	to sweat, to perspire
 svette	sweaty
 svindler	a fraud (act of deception)	a swindle
 sving	to swing, sway	to fluctuate, oscillate	to turn (e.g. a corner)
+svært	heavy, massive, huge, large, tremendous
 svømmer	to swim
 syke	sick, ill	diseased
 sykt	sick, ill	diseased
@@ -15555,7 +15582,9 @@ blokker	a block (general)	a block (block of flats, apartment block)	(politics) a
 blokker	to block (something)	to blockade (something)
 boikotter	a boycott
 boikotter	to boycott
-boret	boron (chemical element, symbol B)	(countable) a drill, or drill bit
+bora	boron (chemical element, symbol B)	bor m (definite singular boren, indefinite plural bor, definite plural borene)	(countable) a drill, or drill bit
+bora	to bore or drill (make a hole through something)
+boret	boron (chemical element, symbol B)	bor m (definite singular boren, indefinite plural bor, definite plural borene)	(countable) a drill, or drill bit
 boret	to bore or drill (make a hole through something)
 bredden	bank (of a river)
 bredden	wide, breadth, width (compare bred/brei), across, depth	latitude
@@ -16029,10 +16058,6 @@ koster	a broom or brush	diet (what one usually eats, not a restricted diet)	boar
 koster	to cost (e.g. a certain price)	to sweep (something)
 krangler	a quarrel	an argument	a row (UK) (quarrel, argument)
 krangler	to quarrel, bicker, argue
-krasja	a crash
-krasja	to crash
-krasjet	a crash
-krasjet	to crash
 kremer	cream (either edible or inedible)
 kremer	to cremate
 kryssa	crossing, junction	a cross
@@ -16057,6 +16082,10 @@ kutta	a cut (most senses)
 kutta	to cut
 kuttet	a cut (most senses)
 kuttet	to cut
+kyssa	kyss m (definite singular kyssen, indefinite plural kyss, definite plural kyssene)	a kiss
+kyssa	to kiss (touch with the lips)
+kysset	kyss m (definite singular kyssen, indefinite plural kyss, definite plural kyssene)	a kiss
+kysset	to kiss (touch with the lips)
 ladde	to let
 ladde	(electricity) to charge (e.g. a battery)	to load (a weapon)
 ladd	to let
@@ -16236,9 +16265,9 @@ mopper	a mop
 mopper	to mop
 mora	a mother
 mora	amuse, entertain
-morsa	corpse	indefinite singular genitive of mor
+morsa	corpse
 morsa	Morse or Morse code	(sende morse) to transmit Morse code	to die
-morset	corpse	indefinite singular genitive of mor
+morset	corpse
 morset	Morse or Morse code	(sende morse) to transmit Morse code	to die
 motiver	a motive	a motif	a subject (e.g. of a book, painting, photo)
 motiver	to motivate
@@ -16670,6 +16699,8 @@ straffer	a punishment	a penalty
 straffer	to punish	to penalise (UK), or penalize
 stranda	a beach or shore
 stranda	(nautical) to run aground, to beach	to fail, break down
+strekker	strekk n (definite singular strekket, indefinite plural strekk, definite plural strekka or strekkene)	stretch	tension	elasticity	traction (for a broken limb)	sprain
+strekker	to stretch (also reflexive)
 strider	battle, fight, struggle	conflict, controversy, dispute, disagreement, quarrel
 strider	to battle, fight, struggle	to conflict (with)
 strikker	elastic, an elastic cord	a rubber band or elastic band
