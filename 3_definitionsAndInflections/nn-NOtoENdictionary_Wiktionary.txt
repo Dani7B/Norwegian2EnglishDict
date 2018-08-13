@@ -63,7 +63,7 @@ administrasjon	administration (a body that administers, the act of administering
 administrasjonssenter	an administrative centre (as above)
 administrativ	administrative
 administrator	an administrator
-admiral	admiral
+admiral	(military, nautical) an admiral
 adopsjon	adoption (of children)
 adrenalin	adrenalin or adrenaline
 adressat	addressee, recipient (of a letter or package)
@@ -358,6 +358,7 @@ apal	an apple tree
 ape	ape, monkey	to ape, mimic or imitate.
 apekatt	a monkey
 apokalypse	apocalypse
+apostel	(biblical) an apostle
 apostrof	an apostrophe
 apotek	a pharmacy (place where prescription drugs are dispensed)
 apotekar	a pharmacist
@@ -618,7 +619,7 @@ baby	a baby
 babylonsk	Babylonian (relating to Babylon and Babylonians)
 babymat	baby food
 babyolje	baby oil
-bachelorgrad	bachelorgrad m (definite singular bachelorgraden, indefinite plural bachelorgradar, definite plural bachelorgradane)	(education) a bachelor's degree
+bachelorgrad	(education) a bachelor's degree
 bacon	bacon
 bad	a bath	a bathroom
 badebukse	(a pair of) swimming trunks
@@ -721,6 +722,7 @@ barlind	a yew (as above)
 barm	a bosom
 barn	a child
 barndom	childhood
+barndomstid	(time during) childhood
 barne	to make pregnant	to birth or have a child
 barnearbeid	child labour
 barnebarn	a grandchild (as above)
@@ -958,6 +960,7 @@ bjode	form removed with the spelling reform of 2012; superseded by by
 bjørk	a birch tree (a tree of the genus Betula)	birch (wood from the birch tree)
 bjørkefink	brambling, the bird Fringilla montifringilla
 bjørkemus	a northern birch mouse, Sicista betulina
+bjørkeved	birch wood (generally used as firewood)
 bjørn	a bear, (a large mammal of the family Ursidae)
 bjørnebær	blackberry (bush)	blackberry (berry fruit)
 bjørnepels	bear fur
@@ -982,7 +985,7 @@ blekk	(uncountable) ink (coloured fluid used for writing)	(uncountable) ink (mel
 blekksprut	an octopus (with eight arms)	a squid (with ten arms and tentacles)
 blemme	(medicine) blister
 blenkja	to twinkle (shine with a flickering light)
-bli	to stay, remain.	(as an auxiliary verb to create passive voice with the main verb in past participle) to be	(change, development over time) to become, get, go.	to be, become, will, going to, turn out,	to be necessary, to have to, to be	(bills and payments) to be, come to
+bli	or	to stay, remain.	(as an auxiliary verb to create passive voice with the main verb in past participle) to be	(change, development over time) to become, get, go.	to be, become, will, going to, turn out,	to be necessary, to have to, to be	(bills and payments) to be, come to
 blikk	a glance, look
 blikkfang	an eye-catcher
 blind	blind
@@ -1317,7 +1320,7 @@ butt	blunt (not sharp)	(vinkel) obtuse (angle between 90 and 180 degrees)
 by	town, city (regardless of population size or land area)	to command, order	to bid, offer	to offer
 bydel	part of town
 byfornying	urban renewal
-bygd	country district
+bygd	country district or settlement (as above)
 bygdeby	a smaller unincorporated town within a municipality, which does not have town or city status (bystatus)
 bygg	barley (Hordeum)	building
 byggemateriale	a building material
@@ -1358,7 +1361,7 @@ båt	a boat
 båthus	a boathouse
 båtmesse	a boat show
 bær	a berry
-bæsj	(informal, childish, uncountable) poo, shit	(informal, countable) turd	(rare, childish, figuratively, pejorative) despicable person; piece of shit
+bæsj	(informal, childish, uncountable) poo, shit	(informal, countable) turd	(rare, childish, figuratively, derogatory) despicable person; piece of shit
 bøffel	a buffalo (as above)
 bøk	a beech (tree)
 bølge	a wave
@@ -1484,11 +1487,9 @@ defekt	defective, faulty	a defect
 definera	to define
 definisjon	definition
 deformasjon	deformation
-deg	objective case of du
 degenerasjon	degeneration
 dei	they	those
 deig	dough
-deim	(dated, høgnorsk) objective case of dei
 deira	their, theirs; possessive case of dei
 deisme	deism
 dekk	a deck (of a ship, bridge etc.)	a tyre (UK), or tire (US)
@@ -1768,12 +1769,13 @@ dumbe	(archaic) dust
 dumheit	stupidity, foolishness
 dumming	a dummy; fool; idiot
 dun	down (soft, fine fluffy feathers)
+dundre	to boom, roar, thunder, bang, hammer
 dunge	heap (pile)
 dunk	a knock (impact), or the sound of such a knock	a keg
 duo	a duo (as above)
 dusin	a dozen (twelve)
 dusj	spray (mist of liquid)	shower (device for bathing)	room with showers
-dust	(pejorative) dork, moron, fool	dust (fine, dry particles)
+dust	(derogatory) dork, moron, fool	dust (fine, dry particles)
 dvale	hibernation	lethargy, torpor
 dvalemodus	(computing) sleep mode
 dvd-spelar	DVD player
@@ -1782,7 +1784,6 @@ dvergbjørk	dwarf birch (Betula nana)
 dvergplanet	dwarf planet
 dvergspissmus	a Eurasian pygmy shrew, Sorex minutus
 dyffel	duffel (a type of coarse woolen cloth)
-dykk	objective case of de, you (plural)
 dykkar	possessive of de; your (plural)
 dyktig	able, capable, competent, proficient, skilled
 dynamikk	(physics) dynamics (branch of mechanics)
@@ -1852,7 +1853,7 @@ døsig	drowsy, dozy (sleepy)
 døv	deaf
 døvblind	deaf-blind, or deaf and blind (being unable to see and hear)
 døy	to die (stop living)	cease to exist, come to an end. Often followed by the prepositions av, ut and bort.
-døyande	dying, moribund	present participle of døy
+døyande	dying, moribund
 døyda	to kill, to suppress	to clean / dry clean (clothes) to get rid of vermin	to soften (fabric) using steam or hot water	to roast partially
 døype	to baptise (UK), or baptize	to christen	to name
 e-brev	a message sent electronically; an email.
@@ -2031,7 +2032,7 @@ emballasje	packaging
 embete	an office, (official) position
 embetsmann	a civil servant, government official
 emblem	an emblem
-embryo	embryo; an unborn baby that is less developed than a fetus.	embryo; an organism in the earlier stages of development before it emerges from the egg, or before metamorphosis.
+embryo	(biology, botany) an embryo
 emir	an emir (Islamic prince or leader)
 emirat	an emirate (country or state ruled by an emir)
 emiratarabar	Emirati (person)
@@ -2298,12 +2299,11 @@ farvatn	(navigable) waters
 farvel	goodbye, or more formally, farewell	farewell, goodbye
 fasade	a facade (of a building, also figurative)
 fasan	a pheasant
-fascinerande	present participle of fascinera and fascinere
 fascisme	fascism
 fase	a phase	to phase (inn, ut / in, out)
 fasilitet	facility
 fasinera	to fascinate
-fasinerande	fascinating	present participle of fasinera and fasinere
+fasinerande	fascinating
 fasjonabel	fashionable, stylish
 fast	solid, steady, firm, fixed, permanent
 faste	a fast (as above)
@@ -2484,6 +2484,7 @@ fiskeskipper	skipper of a fishing vessel
 fiskevær	a fishing village
 fivreld	a butterfly or moth, (an insect of the order Lepidoptera)
 fjell	a mountain
+fjellgrunn	bedrock
 fjellheim	mountainous area
 fjellkjede	a mountain range or mountain chain
 fjellklatrar	mountain climber, mountaineer
@@ -2647,7 +2648,7 @@ forbi	past	past
 forbilde	a model, pattern, role model
 forbindelse	a connection	(chemistry) a compound
 forbløffa	to astonish
-forbløffande	astonishing	astonishingly	present participle of forbløffa and forbløffe
+forbløffande	astonishing	astonishingly
 forboden	banned, forbidden, prohibited
 forbrenning	combustion	incineration	a burn (on the skin)
 forbrenningsanlegg	an incineration plant (as above)
@@ -3068,7 +3069,7 @@ gallionsfigur	(nautical or figuratively) a figurehead
 gallisk	Gallic (both senses as above)
 galning	a lunatic, madman
 galopp	a gallop (as above)
-galoppbane	galoppbane f (definite singular galoppbana, indefinite plural galoppbaner, definite plural galoppbanene)	a racecourse (UK) or racetrack (for horse races)
+galoppbane	a racecourse (UK) or racetrack (for horse races)
 galvanisere	to galvanise, or galvanize
 galvanisert	galvanised, or galvanized
 galvanisk	galvanic
@@ -3210,7 +3211,6 @@ gjedde	pike, northern pike, genus Esox lucius
 gjel	a gorge or ravine
 gjeld	debt, indebtedness
 gjelda	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-gjelde	orgjelde (present tense gjeldar or gjelder, past tense gjelda or gjelde, past participle gjelda or gjeldt, present participle gjeldande, imperative gjeld)
 gjelle	a gill (of a fish etc.)
 gjenbruk	reuse
 gjeng	a gang
@@ -3315,7 +3315,7 @@ gordisk knute	a Gordian knot
 gorilla	a gorilla
 gosse	young man, great guy
 gotisk	Gothic (as above)
-grad	grad f (definite singular grada, indefinite plural grader, definite plural gradene)	a degree (general)	an academic degree	degree (of angle)	degree (of latitude or longitude)	degree (of temperature)	rank (e.g. military)
+grad	a degree (general)	an academic degree	degree (of angle)	degree (of latitude or longitude)	degree (of temperature)	rank (e.g. military)
 gradert	graded	graduated
 gradvis	gradual
 graf	graph (diagram)
@@ -3342,7 +3342,7 @@ gratis	free (obtainable without payment)
 graut	porridge	something having similar consistency to porridge
 grav	a grave (place of burial)
 grava	dig
-gravemaskin	gravemaskin f (definite singular gravemaskina, indefinite plural gravemaskiner, definite plural gravemaskinene)	an excavator
+gravemaskin	an excavator
 gravhaug	a burial mound, tumulus
 gravid	pregnant
 graviditet	(a) pregnancy (condition of being pregnant)
@@ -3358,6 +3358,7 @@ greia	to manage, handle; be capable of	to comb
 greie	thing, object	things, stuff; situation	control, knowledge
 grein	a branch (of a tree etc.)
 grekar	a Greek (person from Greece)
+gremja	(transitive) to sadden, to make unhappy or bitter	(reflexive) to lament
 grenadiar	Grenadian (person)
 grenadisk	Grenadian (relating to Grenada and Grenadians)
 grense	a border (the line or frontier area separating regions)	a boundary	to adjoin (something)	to border (til / on, onto)
@@ -3387,7 +3388,7 @@ grisete	dirty, filthy
 grisk	avaricious, greedy
 grisunge	a piglet (young pig)
 gro	(of plants and body hair): to grow	to sprout, germinate	(of cuts and sores): to heal
-grobian	(pejorative) a coarse, uncouth, uncivilized fellow, perhaps violent
+grobian	(derogatory) a coarse, uncouth, uncivilized fellow, perhaps violent
 grop	a depression, hollow, hole, cavity, pothole (in the road)
 grossist	a wholesaler
 grotesk	grotesque
@@ -3408,7 +3409,7 @@ grunning	(paint) primer, undercoat	a shoal (shallow sea area)
 grunnlag	a foundation, basis
 grunnlaus	groundless, unfounded
 grunnleggja	found (to start something)
-grunnleggjande	fundamental	present participle of grunnleggja and grunnleggje
+grunnleggjande	fundamental
 grunnlov	constitution
 grunnlønn	a basic salary or wage
 grunnmur	a foundation (wall) (low wall supporting a building)
@@ -3424,6 +3425,7 @@ gruve	a mine (place where minerals are extracted)
 gruvearbeidar	a miner (person who works in a mine)
 gruvedrift	mining
 gruveindustri	mining industry
+gry	to dawn (a day)
 gryte	a cooking pot, cauldron	a stew, casserole (a dish made in a cooking pot)
 grå	grey (UK) or gray (US) (colour)
 gråaktig	greyish (UK) or grayish (US)
@@ -3513,7 +3515,7 @@ gælisk	Gaelic (as above)	Gaelic (a Celtic language)
 gøyma	to hide, cover, keep out of sight
 gøyme	to hide, cover, keep out of sight
 gøymestad	a hiding place
-ha	have (possess, own)	have (auxiliary verb, taking a past participle) Used in forming the perfect aspect and the past perfect aspect.
+ha	have (possess, own)
 habitat	a habitat
 hage	a garden (An outdoor area containing plants, usually plants grown for food or ornamental purposes.)
 hagebruk	horticulture, gardening
@@ -3533,7 +3535,8 @@ halda	to hold
 haldeplass	a stop (place to get on or off buses, trams or trains)	(for taxis) a taxi rank
 hale	a tail (of an animal, aircraft, comet etc.)
 halefinne	a tail fin or tailfin (of a fish or aircraft), caudal fin (of a fish)
-hall	orhall f (definite singular halla, indefinite plural haller, definite plural hallene)	a hall (a building or very large room)	a slope, sloping terrain
+halelaus	tailless
+hall	a hall (a building or very large room)	a slope, sloping terrain
 hallusinasjon	a hallucination
 halm	straw
 halmtak	a thatched roof
@@ -3727,7 +3730,6 @@ hengja	(transitive) to hang
 hengjebru	a suspension bridge
 hengsel	a hinge
 hennar	hers, her; possessive case of ho
-henne	objective case of ho
 hennes	form removed with the spelling reform of 2012; superseded by hennar
 hensikt	intention, purpose
 hensiktsmessig	appropriate, suitable, expedient
@@ -3757,7 +3759,7 @@ hertuginne	a duchess
 hest	a horse
 hestehale	a horse's tail	a ponytail (hairstyle)
 hestekastanje	a horse chestnut (tree, as above)
-hestekraft	hestekraft f (definite singular hestekrafta, indefinite plural hestekrafter, definite plural hestekraftene)	horsepower
+hestekraft	horsepower
 hesteløp	a horse race
 hesterygg	på hesteryggen - on horseback
 hestesko	a horseshoe (as above)
@@ -3814,7 +3816,7 @@ hjå	at, by, with
 hjørne	a corner
 hjørneflagg	(sports) a corner flag
 hjørnestein	(also figurative) a cornerstone
-ho	she, it (third person singular, feminine)	her	she, it (third person singular, feminine)	her	female
+ho	she, it (third person singular, feminine)	her	female
 hobbit	a hobbit
 hobby	a hobby (leisure activity)
 hockey	(sports) hockey
@@ -3840,7 +3842,6 @@ honduranar	a Honduran (person)
 honduransk	Honduran (relating to Honduras and Hondurans)
 honning	honey (as above)
 honningslynge	a honey extractor
-honom	him; objective case of han. form removed with the spelling reform of 2012; superseded by han
 honorær	honorary
 hop	flock, heap, gathering
 hopp	a jump
@@ -3865,7 +3866,7 @@ host	a single cough expulsion	(computing) host
 hotell	a hotel
 hotellrom	a hotel room
 house	house music, house
-hov	orhov f (definite singular hova, indefinite plural høver, definite plural høvene)	a hoof	(historical) a pagan temple in the Old Norse religion
+hov	a hoof	(historical) a pagan temple in the Old Norse religion
 hovud	head	leader, head
 hovudbygning	main building
 hovuddel	body (of a text)	main section	main part
@@ -3989,7 +3990,6 @@ hærskare	host (multitude), a large group or flock, an army (large group)
 hærta	win by force of arms, conquer
 hærverk	vandalism
 hòl	a hole
-hóv	orhóv m (definite singular hóva, indefinite plural høver, definite plural høvene)
 høg	high, tall	(slang) high, stoned	loud (sound, voice)
 høgd	height, altitude	a hill	floor (of a building, storey)	(athletics) high jump (usually spelt høgde)
 høgdemålar	an altimeter
@@ -4165,6 +4165,7 @@ innløp	an entrance (to a harbour, fjord etc.)	an inlet
 innom	briefly at
 innovasjon	innovation
 innovativ	innovative
+innover	inwards, towards the interior	into, towards the interior (of)
 innretning	a device, appliance, contrivance, gadget
 innsats	a contribution	an effort	a stake (gambling)
 innside	inside (av / of)
@@ -4321,7 +4322,7 @@ jarnbanestasjon	a railway station (UK)
 jau	yes, in disagreement with the last speaker's negative statement; on the contrary
 javanesisk	Javanese (as above)	Javanese (the language)
 jazz	(uncountable) jazz (form of music)
-je	I
+je	form removed with the spelling reform of 1938; superseded by eg
 jeger	hunter	(soldier) chasseur	(sports) huntsman, sportsman
 jekk	a jack (lifting device)
 jemenitt	a Yemeni (person from Yemen)
@@ -4329,13 +4330,14 @@ jemenittisk	Yemeni (relating to Yemen and the Yemeni people)
 jente	a girl
 jentunge	a young girl
 jernbane	a railway (UK), or railroad (US)
+jernbanebru	a railway bridge
 jernbanelinje	a railway line (UK)
 jernbanenett	(rail transport) a rail / railroad / railway network
 jernbanestasjon	a railway station (UK)
 jernklorid	ferric chloride (FeCl3)
 jernmalm	iron ore
 jernvare	hardware (ironmongery, tools, equipment etc.)
-jerpe	jerpe f (definite singular jerpa, indefinite plural jerper, definite plural jerpene)	hazel grouse, Tetrastes bonasia
+jerpe	hazel grouse, Tetrastes bonasia
 jerrykanne	a jerrycan
 jerv	a wolverine (Gulo gulo)
 jesuitt	a Jesuit
@@ -4492,7 +4494,7 @@ kanadisk	Canadian (as above)
 kanal	channel (narrow body of water)	channel (radio / TV frequency)	channel (method of communication)	canal (as above)	duct (as above)
 kanalisere	to channel (something)	to canalise, channelise
 kandidat	candidate; applicant	examinee	graduate	(hospitals) house officer; house surgeon
-kandidatur	orkandidatur n (definite singular kandidaturet, indefinite plural kandidatur, definite plural kandidatura)	candidacy
+kandidatur	candidacy
 kanel	cinnamon (a spice)
 kanin	a rabbit (mammal)
 kanne	a can (e.g. fuel can, watering can)	a pot (e.g. coffee pot, teapot)
@@ -4843,6 +4845,7 @@ knop	a knot (e.g. in a rope)
 knopp	(botany) a bud (of a flower, leaf or shoot)
 knute	a knot
 knutepunkt	hub, junction
+kny	To express dissatisfaction, to complain
 knyte	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
 knyttneve	fist (clenched hand)
 knølkval	a humpback whale Megaptera novaeangliae
@@ -5214,6 +5217,7 @@ kronologi	chronology
 kronologisk	chronological
 kronprins	crown prince
 kropp	a body
+kroppsarbeid	manual labour, physical labour
 kroppsspråk	body language
 kroppsvekt	body weight
 kroppsvæske	(anatomy) a bodily fluid
@@ -5223,6 +5227,7 @@ krukke	a jar or pot
 krum	curved	bent, crooked
 krumme	to bend, curl
 krusifiks	a crucifix
+kry	to teem	proud of oneself
 krydder	a spice
 krykkje	a kittiwake, bird of the genus Rissa, particulaly the black-legged kittiwake, Rissa tridactyla	crutch
 krypa	to creep, crawl
@@ -5356,12 +5361,13 @@ kverva	to whirl, spin	to disappear, move out of sight	to distort
 kvi	(poetic, dialectal, dated) why
 kvifor	why
 kvik	fast, quick, easy	lively	quick-witted	(anatomy) quick (of a nail):
-kvikka	to enliven
+kvikka	kvikka opp:	to enliven
 kvikksand	quicksand
 kvikksølv	mercury or quicksilver (as above)
 kvila	rest
 kvileheim	a nursing home
 kvinne	a woman
+kvinnebryst	(anatomy) a female breast, woman's breast
 kvinnehatar	a woman-hater, misogynist
 kvinnekropp	a female body
 kvinneleg	(of humans) female
@@ -5509,7 +5515,7 @@ laus	loose	flimsy	free (not fastened)
 lauv	a leaf, (collectively) leaves
 lav	lichen
 lava	(geology) lava
-le	lee or leeward (side)	lee (sheltered or leeward side)	shelter	to laugh
+le	lee (sheltered or leeward side)	shelter	to laugh
 ledd	(anatomy) a joint	a link (in a chain)
 leddik	a small, separate compartment in a chest or suitcase.
 ledig	unoccupied, vacant	spare (capacity)
@@ -5530,10 +5536,11 @@ legitimere	to legitimise (UK), or legitimize, to legitimate
 lei	(maritime) route, sea route (a route, mostly along a coastline or between islands, that is safe to sail)	direction	tired, fed up, bored	awkward, uncomfortable
 leiar	leader (one having authority)	conductor (something which can transmit electricity, heat, light or sound)
 leid	form removed with the spelling reform of 1938; superseded by lei	form removed with the spelling reform of 1938; superseded by lei
-leida	form removed with the spelling reform of 1938; superseded by leia
-leide	form removed with the spelling reform of 1938; superseded by leie
+leida	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by leia
+leide	form removed with the spelling reform of 1938; superseded by leie	(non-standard since 1938)
 leie	to command, lead, direct	to conduct (music, heat, electricity)	to hold someone's hand, have on a leash (dog)	to lead (be in the lead)
-leike	to play, (to act in a manner such that one has fun)
+leik	a game with a certain set rules	the act of playing	a lek
+leike	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
 leikeplass	a playground (playing area for children)
 leiketøy	a toy, a plaything
 leilegheit	apartment, flat (domicile occupying part of a building)
@@ -5588,7 +5595,7 @@ lett	easy	light (not heavy)	(as an adverb) easily
 letta	to lighten	(of a bird, aircraft, etc.) to take off
 lettvinn	easy, simple	handy	agile, nimble
 leva	to live (be alive)	to subsist (nourish oneself)
-levande	alive	live	vivid	present participle of leva
+levande	alive	live	vivid
 levealder	age (how long one lives), lifespan, duration of life
 levebrød	livelihood, a living
 leveforhold	living conditions
@@ -5652,7 +5659,7 @@ list	cunning, craftiness, slyness
 liste	a list	to list (as above)
 lit	trust
 lita	to rely on, have faith in; trust
-litande	reliable	present participle of lita and lite
+litande	reliable
 litauar	Lithuanian (person)
 litauisk	Lithuanian (as above)	Lithuanian (language)
 lite	little
@@ -5714,6 +5721,7 @@ lokomotiv	(rail transport) a locomotive
 lom	a diver or loon (waterbird of order Gaviiformes, family Gaviidae)
 lomme	pocket
 lommebok	a wallet, or billfold (US)
+lommekniv	a pocket knife, penknife
 lommelerke	a hip flask
 lommelykt	a torch, or flashlight (US)
 lommetjuv	a pickpocket (thief who steals from people's pockets)
@@ -5929,7 +5937,7 @@ malaysiar	Malaysian (person)
 malaysisk	Malaysian (relating to Malaysia and Malaysians)
 maldiv	Maldivian (person)
 maldivar	Maldivian (person)
-maldivisk	Maldivian (relating to the Maldives and Maldivians)	Maldivian or Dhivehi (language)
+maldivisk	Maldivian (relating to the Maldives and Maldivians)
 male	form removed with the spelling reform of 2012; superseded by måle, to paint
 maliar	Malian (person)
 maling	paint, form removed with the spelling reform of 2012; superseded by måling
@@ -6078,7 +6086,6 @@ medlemskort	a membership card
 medlemsland	a member country or member state
 medpassasjer	a fellow traveller or passenger (person travelling on the same conveyance or tour)
 medskyldig	accomplice (the quality of being an)
-meg	me (direct object of a verb); objective case of eg
 megafon	a megaphone
 meina	to mean (convey meaning)	think (to be of the opinion)
 meining	opinion	meaning
@@ -6715,7 +6722,7 @@ nominasjon	a nomination
 nominell	nominal
 nonne	a nun
 noob	(slang, Internet) noob
-nord	north (for / of)	north, a compass direction	a land area towards the north	indefinite singular form of Norden - the Nordic countries
+nord	north (for / of)	north, a compass direction	a land area towards the north
 nordafrikansk	North African (of or pertaining to North Africa)
 nordamerikanar	North American (person)
 nordamerikansk	North American (relating to North America)
@@ -6797,7 +6804,7 @@ nyrestein	a kidney stone
 nys	sneeze
 nyse	to sneeze
 nysgjerrig	curious (inquisitive)	inquisitive	nosy (informal)
-nysgjerrigper	(pejorative) a busybody
+nysgjerrigper	(derogatory) a busybody
 nysnø	newly fallen snow, fresh snow
 nyss	recently
 nysta	plural definite of nyste	to wind (yarn or string) into a ball
@@ -6885,7 +6892,6 @@ ogso	too, also, as well
 også	too, also, as well
 okkupant	an occupant or occupier
 okkupasjon	occupation (e.g. of a country)
-okle	ankle
 okse	bull, ox
 oksekjøtt	beef
 oksel	form removed with the spelling reform of 1938; superseded by aksel
@@ -6931,7 +6937,7 @@ omdøype	to rename (something)
 omelett	an omelette, or omelet (US)
 omen	an omen
 omfangsrik	comprehensive, extensive	large, bulky	voluminous
-omfattande	comprehensive, extensive	present participle of omfatte
+omfattande	comprehensive, extensive
 omfatte	to comprise	to include	to cover
 omforming	conversion, transformation
 omgang	round (of drinks, contest, boxing match etc.)	half (of football match)	intercourse (social, sexual)
@@ -7100,7 +7106,7 @@ oske	ash
 osman	(historical) an Ottoman (as above)
 osmansk	(historical) Ottoman (relating to the Ottoman Empire)
 osp	an aspen (tree of species Populus tremula)
-oss	objective case of me / objective case of vi	(reflexive) ourselves
+oss	(reflexive) ourselves
 ost	cheese
 ostekake	a cheesecake
 oter	an otter, an aquatic mammal of the subfamily Lutrinae	a European otter, Lutra lutra
@@ -7796,7 +7802,7 @@ raffineri	a refinery
 raffinert	refined, elegant, sophisticated
 ragg	coarse fur, bristles (hair of an animal, especially unordered, wild, rugged, shaggy hair)
 ragnarok	Ragnarok
-raka	to rake (use a rake on leaves, a lawn, etc.)	to shave	to concern (mainly used in the negative sense)
+raka	to rake (use a rake on leaves, a lawn, etc.)	to shave
 rakett	a rocket
 rally	a rally (e.g. in motor sport)
 ramme	a frame
@@ -8605,7 +8611,7 @@ situasjon	a situation
 situasjonskomedie	situation comedy (sitcom)
 sivil	civilian	(military) civilian clothing
 sivilforsvar	civil defence (UK), civil defense (US)
-sivilisasjon	civilisation (organized culture)	(uncountable, mostly in definite form) civilisation (human society, particularly civil society)
+sivilisasjon	civilisation (organized culture)
 sivilisert	civilised (UK), or civilized
 sivilist	a civilian (as above)
 sivilkledd	plain-clothes (attributive), in civilian clothing
@@ -8850,7 +8856,7 @@ skred	an avalanche, landslide, etc.
 skrekkfilm	a horror film or horror movie
 skrella	to peel (remove the skin or outer covering of)
 skremma	frighten
-skremmande	frightening	frighteningly	present participle of skremma and skremme
+skremmande	frightening	frighteningly
 skribent	a writer
 skrift	writing	den heilage skrifta - the Holy Scripture or Scriptures (the Bible)	a generic term for a piece of writing, a book, a pamphlet, a brochure, etc.
 skrifta	(religion) to confess one's sins in order to gain absolution
@@ -8865,7 +8871,7 @@ skrivebok	(education) an exercise book
 skrivebord	a desk
 skrivefeil	a typo, typographical error	a writing error, slip of the pen
 skrivekrampe	writer's cramp
-skrivemaskin	skrivemaskin f (definite singular skrivemaskina, indefinite plural skrivemaskiner, definite plural skrivemaskinene)	a typewriter (as above)
+skrivemaskin	a typewriter (as above)
 skriving	writing (The process of representing a language with symbols or letters.)
 skrog	hull (of a boat or ship)	fuselage (of an aircraft)
 skrote	to scrap (something)
@@ -9032,6 +9038,7 @@ småjobb	an odd job (usually plural)
 småkake	A soft biscuit or cookie
 småregn	(weather) drizzle
 småskogmus	a wood mouse, Apodemus sylvaticus
+småstein	pebble(s), small stone(s) (usually collectively)
 småting	a small thing, article or object	a trifle (something unimportant)
 småvilt	small game
 smør	butter
@@ -9102,7 +9109,7 @@ soge	a story	a saga	history
 sogeskrivar	an historian
 sokk	a sock
 sokkel	a base, pedestal, plinth	(electrical) a socket (e.g. for a light bulb)	a shelf (continental shelf)
-sokn	sokn n (definite singular soknet, indefinite plural sokn, definite plural sokna)	A parish (part of a diocese).
+sokn	A parish (part of a diocese).
 sol	sun	solution
 solbading	sunbathing
 solbrend	sunburnt
@@ -9208,6 +9215,7 @@ spelar	player (who plays any game)	player (who plays on a musical instrument)	pl
 spelkort	playing card.
 spennande	exciting, thrilling
 spenning	excitement	tension	(electricity) voltage
+spennvidde	span (measurement of an arch or bridge)	range, scope (of something)
 spent	tense
 spermkval	a sperm whale (Physeter macrocephalus)
 sperring	a barrier
@@ -9309,7 +9317,7 @@ stamme	trunk	stem	tribe	(biology) a strain
 stammekrig	a tribal war (war between different tribes)
 stampa	to stomp	(nautical) to pitch, sail into oncoming waves
 stamtre	a family tree
-stand	condition, order, state	height, level, reading	a stand (e.g. at an exhibition)	orstand n (definite singular standet, indefinite plural stand, definite plural standa)	(historical) an estate (a social class)
+stand	condition, order, state	height, level, reading	a stand (e.g. at an exhibition)	(historical) an estate (a social class)
 standa	form removed with the spelling reform of 2012; superseded by stå
 standard	a standard
 standardisering	standardisation (UK), or standardization
@@ -9324,7 +9332,7 @@ stasjon	a station
 stasjonere	to station (e.g. troops)
 stasjonsvogn	an estate car (UK) or station wagon (US)
 stasjonær	stationary (as above)	non-migratory (as above)
-stat	a state, country	(definite form) the government, authorities
+stat	a state, country
 statisk	static
 statist	an extra (person without a speaking part appearing in a film or play)
 statistikk	(countable) a statistic	(uncountable) statistics (the mathematical science)
@@ -9377,12 +9385,13 @@ steinras	a rockfall or rockslide
 steinsirkel	(archaeology) a stone circle
 steinsopp	porcini; Boletus edulis
 steinsprang	the act of a rock falling down a mountainside
+steinvegg	a stone wall (usually of a building)
 stela	to steal (illegally take possession of)	to consume, take	to achieve or gain something by tricking someone or something
 stele	(archaeology) tall, slender stone monument, often with writing carved into its surface
 stemme	a voice	a vote	to tune (e.g. a guitar or a piano)	to vote	to put in a certain mood
 stemmerett	right to vote, voting rights
 stemna	to set course, steer towards	to summon to court, subpoena
-stemne	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemne	convention, congress, gathering	course, direction
 stemning	atmosphere	mood	sentiment
 stemor	a stepmother
 stemorsblom	heartsease (Viola tricolor)
@@ -9468,6 +9477,7 @@ straffbar	punishable
 straffelov	(law) criminal code, penal code
 straffemerke	(soccer) penalty spot
 strafferett	criminal law
+straffesak	(law) a criminal case
 straffespark	(soccer) a penalty kick
 straffesparkkonkurranse	(soccer) a penalty shoot-out
 strak	straight
@@ -9568,7 +9578,7 @@ ståpikk	(vulgar, erect penis) erection
 stø	steady	to support (keep upright)	to support (help)	to lean against something
 stød	form removed with the spelling reform of 1938; superseded by stø
 stødig	firm, stable, steady
-stødt	form removed with the spelling reform of 1938; superseded by støtt
+stødt	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by støtt
 støpsel	a plug (as above)
 stør	a sturgeon, a fish of the family Acipenseridae. Specifically the common sturgeon (Acipenser sturio)
 størrelse	size
@@ -9938,6 +9948,7 @@ tannkost	toothbrush
 tannkrem	toothpaste (paste for cleaning the teeth)
 tannlege	a dentist (as above)
 tannlækjar	dentist
+tannmerke	(mainly plural) a tooth mark (plural teeth marks or tooth marks)
 tannpasta	toothpaste (an older term)
 tannpine	toothache
 tannpirkar	toothpick
@@ -10391,7 +10402,7 @@ trost	(zoology) thrush, one of several species of songbirds of the family Turdid
 tru	belief, faith	trust, confidence	to think, believe	imagine, suppose	to believe	to believe (have religious faith)	entrust	faithful, loyal	true
 true	to threaten
 trufast	loyal, faithful; reliable
-trugande	threatening	present participle of truge
+trugande	threatening
 truge	to threaten
 truisme	a truism
 truleg	likely, probable	probably, presumably
@@ -10797,7 +10808,7 @@ utfall	outcome, result
 utflukt	an excursion, outing
 utflytting	moving out, emigration, exodus
 utfordra	challenge
-utfordrande	inviting to battle or debate	challenging	sexually enticing, provocative	present participle of utfordra and utfordre
+utfordrande	inviting to battle or debate	challenging	sexually enticing, provocative
 utfordrar	challenger
 utfordring	challenge (invitation to do something that might be difficult)	challenge (difficult task)
 utforme	to design	to formulate
@@ -10845,7 +10856,7 @@ utstyr	equipment, gear (equipment)
 utstyre	to equip
 utsyn	a view (as above)
 uttala	to pronounce	to express
-uttale	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttale	pronunciation	statement
 uttaleordbok	pronunciation dictionary
 uttrekk	an extract
 uttrykk	an expression
@@ -10955,7 +10966,7 @@ vase	a vase
 vaske	to wash (something, someone, oneself (reflexive))
 vaskebjørn	raccoon
 vaskebrett	a washboard	a washboard surface (corrugated road surface)
-vaskemaskin	vaskemaskin f (definite singular vaskemaskina, indefinite plural vaskemaskiner, definite plural vaskemaskinene)	a washing machine
+vaskemaskin	a washing machine
 vaskemiddel	laundry detergent, washing powder (any product for washing clothes)
 vaskeri	a laundry
 vaskeservant	a washbasin
@@ -10978,7 +10989,7 @@ vatikansk	relating to the Vatican and Vatican City
 vatn	water (chemical substance)	(smaller) lake	bodily fluid that looks like water
 vatning	watering, irrigation
 vatteppe	a quilt
-ved	at, by, near, on (near or next to)	by (involving/using the means of). Followed by a noun or by the infinitive with å	firewood (any wooden material that is gathered and used for fuel)
+ved	at, by, near, on (near or next to)	by (involving/using the means of). Followed by a noun or by the infinitive with å	wood, firewood (any wooden material that is gathered and used for fuel)
 vedda	to bet, wager (put up as collateral)	bet, daresay
 vedlikehald	maintenance, upkeep
 vedta	to decide, to pass (e.g. a motion)
@@ -11322,7 +11333,7 @@ yttarst	outermost	most, very
 ytterbium	ytterbium (chemical element; symbol Yb)
 ytterkant	fringe, outer edge
 ytterplagg	an outer garment
-yver	(dated, høgnorsk) over (above)	(dated, høgnorsk) over, across
+yver	form removed with the spelling reform of 1938; superseded by over	(dated, høgnorsk) over (above)	(dated, høgnorsk) over, across
 zambiar	a Zambian (person)
 zambisk	Zambian (relating to Zambia and Zambians)
 zimbabwar	a Zimbabwean (person)
@@ -11349,7 +11360,7 @@ zoomobjektiv	a zoom lens (as above)
 åndeleg	spiritual	religious
 åndsverk	a creative work
 år og dag	for a (very) long time
-år	a year	an oar	a year
+år	a year	an oar	a vein (artery, blood vessel; vein of ore / minerals)
 årbok	yearbook, annual
 åre	a vein (as above)	an oar (as above)
 årelang	long-standing or longstanding
@@ -11517,7 +11528,6 @@ dansar	a dance
 dansar	to dance
 danske	Danish (the language)	Danish (of or pertaining to Denmark)
 daude	dead	(sports) invalid
-deg	thou, you (second person, singular)
 dei	(demonstrative pronoun) that	the; only used if there is an adjective in front of the noun.
 deira	they	those
 dekk	to cover (place something over or upon)	to cover (provide coverage of)
@@ -11536,7 +11546,6 @@ drap	to kill, to murder	(about persons) to ruin, strain, extinguish, kill
 dress	to dress up
 drikk	drink (mass noun)	to drink
 drope	to drip (to fall one drop at a time, to let fall in drops)
-dykk	you (second-person plural)	used in set expressions (such as de jure); translates to "from" and "of"
 dykkar	you (second-person plural)	used in set expressions (such as de jure); translates to "from" and "of"
 døgn	To stay awake for 24 hours.
 døma	an example
@@ -11546,7 +11555,6 @@ døyande	to die (stop living)	cease to exist, come to an end. Often followed by 
 effektivt	effective	efficient
 ei	(cardinal) one (cardinal number 1)	a, an (indefinite article)	one (impersonal pronoun)	one (indefinite personal pronoun)	someone	circa, approximately, about
 eiga	own (belonging to (determiner))	special, unique
-eiga	to own	ownership
 eige	own (belonging to (determiner))	special, unique
 eksklusive	exclusive	excluding
 ekstremt	extreme
@@ -11569,7 +11577,6 @@ far	danger
 fara	father	trace, track
 farar	danger
 fare	travel, go	move fast; rush
-fascinerande	fascinating	present participle of fasinera and fasinere
 fasinerande	to fascinate
 faste	solid, steady, firm, fixed, permanent
 fella	a trap
@@ -11613,7 +11620,6 @@ fura	a pine (tree of the genus Pinus)	pine (wood from pine trees)
 fyll	to fill	to stuff	to reach, turn (a certain age)
 fyr	to fire (supply a fire with fuel)	to fire (bake in a kiln)	fyra (opp) - to light (a fire)	fyra (av) - to fire (a shot, rocket etc.)	(slang) to drink copious amounts of alcohol in a party setting
 fyr	to fire (supply a fire with fuel)	to fire (bake in a kiln)	fyre (opp) - to light (a fire)	fyre (av) - to fire (a shot, rocket etc.)	(slang) to drink copious amounts of alcohol in a party setting	form removed with the spelling reform of 1938; superseded by føre
-fyra	guy, bloke	fire	light (means of starting a fire)	lighthouse, beacon
 fyrst	first
 fór	travel, go	move fast; rush
 fór	danger
@@ -11627,9 +11633,7 @@ gassar	(chemistry) gas
 gassar	a gander (male goose)	to gas (kill or harm with gas, disinfect with gas)
 gjel	to crow (to make the sound of a cuckoo or a rooster)
 gjeld	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-gjeld	orgjelde (present tense gjeldar or gjelder, past tense gjelda or gjelde, past participle gjelda or gjeldt, present participle gjeldande, imperative gjeld)
 gjelda	debt, indebtedness
-gjelde	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
 gjeng	form removed with the spelling reform of 2012; superseded by gå
 gjenge	form removed with the spelling reform of 2012; superseded by gå
 gjer	do
@@ -11654,7 +11658,7 @@ hamn	to end up somewhere
 hamna	port, harbour
 hat	to hate (someone, something)
 hatar	to hate (someone, something)
-hatt	have (possess, own)	have (auxiliary verb, taking a past participle) Used in forming the perfect aspect and the past perfect aspect.
+hatt	have (possess, own)
 haust	to harvest
 hav	form removed with the spelling reform of 2012; superseded by ha
 hava	ocean or sea (see note above)
@@ -11665,11 +11669,12 @@ heile	whole, not in pieces	healthy; uninjured
 heile	to heal
 heilt	whole, not in pieces	healthy; uninjured
 heimsøkt	to visit	to haunt
-hekk	(intransitive) to hang
 hekk	(of birds) build a nest, lay eggs in it and hatch them; reproduce through building nests
+hekk	(intransitive) to hang
 helsa	health
 helse	to greet (e.g. say 'hi')	to pass along greetings
 henga	(transitive) to hang
+hennar	she, it (third person singular, feminine)	her	female
 hi	the other
 hjarta	heart (muscle)	heart (seat of emotion)
 hjelp	help
@@ -11681,7 +11686,6 @@ hyra	wage, pay (mostly for seamen)
 hyre	to hire, employ (especially on a ship)
 håp	to hope
 håpa	(a) hope
-hóv	orhov f (definite singular hova, indefinite plural høver, definite plural høvene)	a hoof	(historical) a pagan temple in the Old Norse religion
 høgre	high, tall	(slang) high, stoned	loud (sound, voice)
 høns	a hen (as above)	a fanny (UK slang)	(sports) a shuttlecock
 høva	occasion	chance, opportunity
@@ -11719,7 +11723,6 @@ krumme	curved	bent, crooked
 kryss	to cross (go across something)	to cross (arms, legs)	to cross (trains on a single track line meeting at a crossing loop / passing loop)	to cross (animal breeds and plant varieties)
 ku	to cow, subdue
 kua	cow
-kul	a bullet (projectile)	a sphere (geometry)	a ball (see also ball)
 kule	bump, swelling (in the head or on a level surface)	cool (awesome)
 kult	bump, swelling (in the head or on a level surface)	cool (awesome)
 kvart	where	each	every
@@ -11743,22 +11746,23 @@ lauga	craft union	(historical) guild	(dated) bath, wash
 laup	to run (move quickly)	to run, flow (of a liquid)
 laupa	(historically) a round or oval wooden box, particularly for carrying food.	(historically) a unit of measure, primarily for butter, equivalent to approximately 15 kilos.	a run	a course (such as of a river)	a barrel (of a gun)
 lava	lichen
-ledd	lee or leeward (side)	lee (sheltered or leeward side)	shelter	to laugh
+ledd	lee (sheltered or leeward side)	shelter	to laugh
 lege	to lie (to be in a horizontal position.)	to lie (location), be located
 legg	lay; put something in a horizontal position
 lei	to command, lead, direct	to conduct (music, heat, electricity)	to hold someone's hand, have on a leash (dog)	to lead (be in the lead)
 leiar	to command, lead, direct	to conduct (music, heat, electricity)	to hold someone's hand, have on a leash (dog)	to lead (be in the lead)
-leid	form removed with the spelling reform of 1938; superseded by leia
-leid	form removed with the spelling reform of 1938; superseded by leie
+leid	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by leia
+leid	form removed with the spelling reform of 1938; superseded by leie	(non-standard since 1938)
 leida	form removed with the spelling reform of 1938; superseded by lei	form removed with the spelling reform of 1938; superseded by lei
 leide	form removed with the spelling reform of 1938; superseded by lei	form removed with the spelling reform of 1938; superseded by lei
 leie	(maritime) route, sea route (a route, mostly along a coastline or between islands, that is safe to sail)	direction	tired, fed up, bored	awkward, uncomfortable
+leik	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
 leit	to search
 leit	to rely on, have faith in; trust
 leit	little
 lemen	limb	penis	member	hatch	trapdoor
 let	let, allow
-lett	lee or leeward (side)	lee (sheltered or leeward side)	shelter	to laugh
+lett	lee (sheltered or leeward side)	shelter	to laugh
 lett	to lighten	(of a bird, aircraft, etc.) to take off
 levande	to live (be alive)	to subsist (nourish oneself)
 lever	to live (be alive)	to subsist (nourish oneself)
@@ -11778,7 +11782,7 @@ liten	trust
 liv	plural definite of liv	form removed with the spelling reform of 1917; superseded by leva
 liva	life	waist	energy, eagerness
 livande	plural definite of liv	form removed with the spelling reform of 1917; superseded by leva
-lo	lee or leeward (side)	lee (sheltered or leeward side)	shelter	to laugh
+lo	lee (sheltered or leeward side)	shelter	to laugh
 lo	form removed with the spelling reform of 1938; superseded by le
 lok	lid	cover	lock (of hair)	A special type of song used to call the animals home from their pastures; a herding call song.
 lokk	to allure, entice, tempt, lure	to attract, fascinate	to call (an animal), give a mating call	(reflexive, of hair) to curl	(of metal) to punch
@@ -11805,7 +11809,6 @@ mangelfullt	deficient	insufficient, inadequate
 manuelt	manual
 marine	marine
 matte	(colour) dull, matt	weak, feeble, listless	(chess) checkmated	(glass) frosted
-meg	I (first-person singular personal pronoun)
 meir	a lot, much	a lot, much	very	a lot, much
 mentalt	mental
 mest	a lot, much	a lot, much	very	a lot, much
@@ -11909,8 +11912,8 @@ skal	school	to scowl; stare at someone or something with a look of displeasure o
 skal	will	shall
 skala	shell
 skatt	to treasure	to pay tax (til / to)
-skaut	to shoot
 skaut	form removed with the spelling reform of 2012; superseded by skyta
+skaut	to shoot
 skift	change	to change	to share, divide, apportion
 skiljast	divide, division, partition, dividing line	to separate	to divide	skilje seg - to differ (frå / from)	skilje seg - to divorce
 skilt	divide, division, partition, dividing line	to separate	to divide	skilje seg - to differ (frå / from)	skilje seg - to divorce
@@ -11918,8 +11921,8 @@ skilt	mark with signs; put up signs	plural definite of skilt
 skilta	sign, notice
 skit	to defecate, shit
 skjer	to happen, occur
-skjer	to cut	to cross (meet), intersect	to carve
 skjer	plural definite of skjer	to cut	to cross (meet), intersect	to carve
+skjer	to cut	to cross (meet), intersect	to carve
 skjera	a skerry (reef, rocky islet, rock in the sea)	share (The cutting blade of an agricultural machine like a plough, a cultivator or a seeding-machine)
 skjønn	to understand, fathom; to see (understand)
 skjønn	inflection of skjønn:definite singularplural	definite singular	plural
@@ -11976,9 +11979,8 @@ spøk	to haunt, appear as a ghost	having a poor outlook; not look good	joke
 spørjast	to ask
 stakk	to sting	to stab	to thrust	to stick	to prick	to prod, poke	to protrude	to go away quickly, to scarper
 stakkar	a skirt (mainly referring to traditional or pre-modern clothing)	a stack (such as a haystack)
-standa	condition, order, state	height, level, reading	a stand (e.g. at an exhibition)	orstand n (definite singular standet, indefinite plural stand, definite plural standa)	(historical) an estate (a social class)
 stele	to steal (illegally take possession of)	to consume, take	to achieve or gain something by tricking someone or something
-stemna	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemna	convention, congress, gathering	course, direction
 stemne	to set course, steer towards	to summon to court, subpoena
 sterkt	strong, powerful	emotional
 stige	to rise, move upwards	to step (take a step), get on or get off (bus, train)
@@ -11986,8 +11988,8 @@ stilla	quiet	still (not moving)	quiet, silent.	definite of still
 stille	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
 stokk	to shuffle (playing cards)
 strand	(nautical) to run aground, to beach	to fail, break down
-strekk	to stretch
 strekk	to suffice, be enough
+strekk	to stretch
 strekka	stretch	tension	elasticity	traction (for a broken limb)	sprain
 strekka	to stretch
 strev	to toil, work hard
@@ -12000,8 +12002,8 @@ stupa	a dive (especially in sport), plunge	a cliff, precipice, steep slope
 styra	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styre	to govern, to rule	to guide, to pilot, to steer	to control
 styrke	to strengthen
-styrte	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styrte	to govern, to rule	to guide, to pilot, to steer	to control
+styrte	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 stødt	form removed with the spelling reform of 1938; superseded by stø
 stør	steady	to support (keep upright)	to support (help)	to lean against something
 støtt	steady	to support (keep upright)	to support (help)	to lean against something
@@ -12082,7 +12084,7 @@ utfordrar	challenge
 utslett	completely remove; exterminate
 utsletta	rash; diseased skin
 utstyr	to equip
-uttala	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttala	pronunciation	statement
 uttale	to pronounce	to express
 utvandrar	to emigrate
 utviklar	develop
@@ -12100,7 +12102,6 @@ vel	choose, pick	elect
 vene	friend	beautiful
 venta	that which is to come; only used in the expression i vente, see there.
 vente	wait	expect
-verdi	(definite singular form) world (human collective existence)	(definite singular form) the Earth	world, planet	worth (equal in value to)
 verja	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
 verk	to work (have effect)	to seem, appear
 verk	to ache
@@ -12121,7 +12122,6 @@ visst	know
 visst	certain	if
 voks	to grow	to increase
 voks	to wax (apply wax to something)
-vorte	to stay, remain.	(as an auxiliary verb to create passive voice with the main verb in past participle) to be	(change, development over time) to become, get, go.	to be, become, will, going to, turn out,	to be necessary, to have to, to be	(bills and payments) to be, come to
 vorte	to become
 ynska	to wish, desire	wish something for another; express a hope for something to happen
 ynska	a wish, desire	a friendly thought or wish for someone else
@@ -12134,7 +12134,6 @@ ynska	a wish, desire	a friendly thought or wish for someone else
 æra	honor (US) or honour (UK)
 øvst	upper
 øyra	ear (organ of hearing)	property, goods
-ablegøyer	a prank
 adlar	nobility
 adlar	to knight (someone), raise (someone) to the peerage, ennoble
 akillessena	an Achilles tendon
@@ -12204,9 +12203,6 @@ bankar	a bank (financial institution)
 bankar	a bank (underwater area of higher elevation, a sandbank)	a bank (of clouds or fog)
 bankane	a bank (financial institution)
 bankane	a bank (underwater area of higher elevation, a sandbank)	a bank (of clouds or fog)
-ber	to pray	to ask something of someone
-ber	to carry, bear
-ber	to carry, bear	a female bear, she-bear
 barna	a child
 barna	to make pregnant	to birth or have a child
 beda	(horticulture) a bed (for plants)
@@ -12244,6 +12240,9 @@ beitande	pasture; land area, cultivated or not, where animals may feed on the ve
 beit	graze (eat grass from a pasture)
 beit	pasture; land area, cultivated or not, where animals may feed on the vegetation
 beit	to bite
+ber	to pray	to ask something of someone
+ber	to carry, bear
+ber	to carry, bear	a female bear, she-bear
 bore	to carry, bear
 bore	to carry, bear	a female bear, she-bear
 berast	to carry, bear
@@ -12256,8 +12255,6 @@ bereknande	to calculate
 berekn	to calculate
 berga	a mountain or hill	rock
 berga	to rescue, save, salvage
-best	good, fine
-best	good
 besøkte	visit
 besøkte	plural definite of besøk
 besøkt	visit
@@ -12380,10 +12377,8 @@ bydde	town, city (regardless of population size or land area)	to command, order	
 bydd	town, city (regardless of population size or land area)	to command, order	to bid, offer	to offer
 bydt	town, city (regardless of population size or land area)	to command, order	to bid, offer	to offer
 bydande	town, city (regardless of population size or land area)	to command, order	to bid, offer	to offer
-byggje	to build
-bygga and bygge	to build
-bygga	to build
 bygga	barley (Hordeum)	building
+bygga	to build
 bygde	to build
 bygt	to build
 byggjer	to build
@@ -12438,12 +12433,12 @@ definer	to define
 dekka	a deck (of a ship, bridge etc.)	a tyre (UK), or tire (US)
 dekka	to cover (place something over or upon)	to cover (provide coverage of)
 dekka	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
-dekket	a deck (of a ship, bridge etc.)	a tyre (UK), or tire (US)
-dekket	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
 dekte	to cover (place something over or upon)	to cover (provide coverage of)
 dekte	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
 dekt	to cover (place something over or upon)	to cover (provide coverage of)
 dekt	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
+dekket	a deck (of a ship, bridge etc.)	a tyre (UK), or tire (US)
+dekket	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
 dekker	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
 dekkast	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
 dekkande	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
@@ -12602,6 +12597,7 @@ fargar	a colour (UK), or color (US)	to colour (UK) or color (US)	to dye
 fargast	a colour (UK), or color (US)	to colour (UK) or color (US)	to dye
 fargande	a colour (UK), or color (US)	to colour (UK) or color (US)	to dye
 farg	a colour (UK), or color (US)	to colour (UK) or color (US)	to dye
+fascinerande	fascinating
 fasinerer	to fascinate
 fasinerte	to fascinate
 fasinert	to fascinate
@@ -12852,15 +12848,10 @@ gissast	to guess
 gissande	to guess
 giss	to guess
 galdt	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-galdt	orgjelde (present tense gjeldar or gjelder, past tense gjelda or gjelde, past participle gjelda or gjeldt, present participle gjeldande, imperative gjeld)
 gjaldt	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-gjaldt	orgjelde (present tense gjeldar or gjelder, past tense gjelda or gjelde, past participle gjelda or gjeldt, present participle gjeldande, imperative gjeld)
 golde	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-golde	orgjelde (present tense gjeldar or gjelder, past tense gjelda or gjelde, past participle gjelda or gjeldt, present participle gjeldande, imperative gjeld)
 gjeldt	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-gjeldt	orgjelde (present tense gjeldar or gjelder, past tense gjelda or gjelde, past participle gjelda or gjeldt, present participle gjeldande, imperative gjeld)
 gjeldande	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-gjeldande	orgjelde (present tense gjeldar or gjelder, past tense gjelda or gjelde, past participle gjelda or gjeldt, present participle gjeldande, imperative gjeld)
 gjennomfører	carry out, execute
 gjennomførte	carry out, execute
 gjennomført	carry out, execute
@@ -12913,6 +12904,8 @@ gløymt	to forget
 gløymast	to forget
 gløymande	to forget
 gløym	to forget
+best	good, fine
+best	good
 beste	good, fine
 beste	good
 googlar	to google
@@ -12999,9 +12992,9 @@ haustar	autumn, fall	harvest
 haustar	to harvest
 haustast	to harvest
 haustande	to harvest
-havast	have (possess, own)	have (auxiliary verb, taking a past participle) Used in forming the perfect aspect and the past perfect aspect.
+havast	have (possess, own)
 havast	form removed with the spelling reform of 2012; superseded by ha
-havande	have (possess, own)	have (auxiliary verb, taking a past participle) Used in forming the perfect aspect and the past perfect aspect.
+havande	have (possess, own)
 havande	form removed with the spelling reform of 2012; superseded by ha
 hev	form removed with the spelling reform of 2012; superseded by ha
 havde	form removed with the spelling reform of 2012; superseded by ha
@@ -13022,7 +13015,6 @@ heimsøk	to visit	to haunt
 heimsøkjer	to visit	to haunt
 heimsøkjast	to visit	to haunt
 heimsøkjande	to visit	to haunt
-heimsøkje	to visit	to haunt
 heiter	(intransitive) to be called or named; have a name
 heitte	(intransitive) to be called or named; have a name
 het	(intransitive) to be called or named; have a name
@@ -13089,9 +13081,9 @@ hjelpte	help
 hjelpt	help
 hjelpast	help
 hjelpande	help
-hoa	she, it (third person singular, feminine)	her	she, it (third person singular, feminine)	her	female
-hoer	she, it (third person singular, feminine)	her	she, it (third person singular, feminine)	her	female
-hoene	she, it (third person singular, feminine)	her	she, it (third person singular, feminine)	her	female
+hoa	she, it (third person singular, feminine)	her	female
+hoer	she, it (third person singular, feminine)	her	female
+hoene	she, it (third person singular, feminine)	her	female
 hofta	(anatomy) a hip
 hofter	(anatomy) a hip
 hoftene	(anatomy) a hip
@@ -13137,14 +13129,12 @@ hola	a hole
 hòla	a hole
 holer	a cave	a cavity (anatomy)	a den
 holene	a cave	a cavity (anatomy)	a den
-hovet	orhov f (definite singular hova, indefinite plural høver, definite plural høvene)	a hoof	(historical) a pagan temple in the Old Norse religion
-hova	orhov f (definite singular hova, indefinite plural høver, definite plural høvene)	a hoof	(historical) a pagan temple in the Old Norse religion
-høver	orhov f (definite singular hova, indefinite plural høver, definite plural høvene)	a hoof	(historical) a pagan temple in the Old Norse religion
-høver	orhóv m (definite singular hóva, indefinite plural høver, definite plural høvene)
+hovet	a hoof	(historical) a pagan temple in the Old Norse religion
+hova	a hoof	(historical) a pagan temple in the Old Norse religion
+høver	a hoof	(historical) a pagan temple in the Old Norse religion
 høver	to suit, fit
 høver	occasion	chance, opportunity
-høvene	orhov f (definite singular hova, indefinite plural høver, definite plural høvene)	a hoof	(historical) a pagan temple in the Old Norse religion
-høvene	orhóv m (definite singular hóva, indefinite plural høver, definite plural høvene)
+høvene	a hoof	(historical) a pagan temple in the Old Norse religion
 høgda	height, altitude	a hill	floor (of a building, storey)	(athletics) high jump (usually spelt høgde)
 høgder	height, altitude	a hill	floor (of a building, storey)	(athletics) high jump (usually spelt høgde)
 høgdene	height, altitude	a hill	floor (of a building, storey)	(athletics) high jump (usually spelt høgde)
@@ -13215,6 +13205,8 @@ jagande	to hunt, chase
 jag	to hunt, chase
 jaktast	hunt
 jaktande	hunt
+meg	I (first-person singular personal pronoun)
+meg	form removed with the spelling reform of 1938; superseded by eg
 jorda	earth, soil, ground	the earth, or the Earth (the planet we live on)
 jorda	(agriculture) a field
 kaia	quay, wharf, dock
@@ -13237,10 +13229,10 @@ kikk	to look	to glance	to peek, peep	to peer	to gaze
 kikkar	to look	to glance	to peek, peep	to peer	to gaze
 kikka	to look	to glance	to peek, peep	to peer	to gaze
 kikkande	to look	to glance	to peek, peep	to peer	to gaze
-kjent	well-known
-kjent	to feel, sense	feel	know
 kjende	well-known
 kjende	to feel, sense	feel	know
+kjent	well-known
+kjent	to feel, sense	feel	know
 kjenner	to feel, sense	feel	know
 kjente	to feel, sense	feel	know
 kjennast	to feel, sense	feel	know
@@ -13287,9 +13279,10 @@ klubbar	(weapon) club	gavel	lollipop	to club, hit with a club	to go to a nightcl
 knoken	knuckle
 knokar	knuckle
 knokane	knuckle
+knytt	To express dissatisfaction, to complain
+knytt	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
 knyter	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
 knytte	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
-knytt	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
 knytast	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
 knytande	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
 knyt	to knot, tie	to link (til / to)	knyte saman - to connect	to clench (one's fist)
@@ -13407,6 +13400,10 @@ kvervande	to whirl, spin	to disappear, move out of sight	to distort
 kverver	to whirl, spin	to disappear, move out of sight	to distort
 kvervde	to whirl, spin	to disappear, move out of sight	to distort
 kvervt	to whirl, spin	to disappear, move out of sight	to distort
+kvikkar	kvikka opp:	to enliven
+kvikkast	kvikka opp:	to enliven
+kvikkande	kvikka opp:	to enliven
+kvikk	kvikka opp:	to enliven
 kviler	rest
 kvilte	rest
 kvilt	rest
@@ -13462,8 +13459,6 @@ laupte	to run (move quickly)	to run, flow (of a liquid)
 laupt	to run (move quickly)	to run, flow (of a liquid)
 laupast	to run (move quickly)	to run, flow (of a liquid)
 laupande	to run (move quickly)	to run, flow (of a liquid)
-leggje	lay; put something in a horizontal position
-legga and legge	lay; put something in a horizontal position
 lagt	lay; put something in a horizontal position
 leggjast	lay; put something in a horizontal position
 leggjande	lay; put something in a horizontal position
@@ -13477,25 +13472,25 @@ leitt	to search
 leiast	(maritime) route, sea route (a route, mostly along a coastline or between islands, that is safe to sail)	direction	tired, fed up, bored	awkward, uncomfortable
 leiast	to command, lead, direct	to conduct (music, heat, electricity)	to hold someone's hand, have on a leash (dog)	to lead (be in the lead)
 leidde	to command, lead, direct	to conduct (music, heat, electricity)	to hold someone's hand, have on a leash (dog)	to lead (be in the lead)
-leidde	form removed with the spelling reform of 1938; superseded by leia
-leidde	form removed with the spelling reform of 1938; superseded by leie
+leidde	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by leia
+leidde	form removed with the spelling reform of 1938; superseded by leie	(non-standard since 1938)
 leidd	to command, lead, direct	to conduct (music, heat, electricity)	to hold someone's hand, have on a leash (dog)	to lead (be in the lead)
 leiande	to command, lead, direct	to conduct (music, heat, electricity)	to hold someone's hand, have on a leash (dog)	to lead (be in the lead)
 leider	form removed with the spelling reform of 1938; superseded by lei	form removed with the spelling reform of 1938; superseded by lei
-leider	form removed with the spelling reform of 1938; superseded by leia
-leider	form removed with the spelling reform of 1938; superseded by leie
+leider	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by leia
+leider	form removed with the spelling reform of 1938; superseded by leie	(non-standard since 1938)
 leidt	form removed with the spelling reform of 1938; superseded by lei	form removed with the spelling reform of 1938; superseded by lei
-leidt	form removed with the spelling reform of 1938; superseded by leia
-leidt	form removed with the spelling reform of 1938; superseded by leie
-leidande	form removed with the spelling reform of 1938; superseded by leia
-leidande	form removed with the spelling reform of 1938; superseded by leie
-leikar	to play, (to act in a manner such that one has fun)
-leiker	to play, (to act in a manner such that one has fun)
-leikte	to play, (to act in a manner such that one has fun)
-leikt	to play, (to act in a manner such that one has fun)
-leikast	to play, (to act in a manner such that one has fun)
-leikande	to play, (to act in a manner such that one has fun)
-leik	to play, (to act in a manner such that one has fun)
+leidt	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by leia
+leidt	form removed with the spelling reform of 1938; superseded by leie	(non-standard since 1938)
+leidande	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by leia
+leidande	form removed with the spelling reform of 1938; superseded by leie	(non-standard since 1938)
+leikar	a game with a certain set rules	the act of playing	a lek
+leikar	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
+leiker	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
+leikte	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
+leikt	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
+leikast	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
+leikande	to play, (to act in a manner such that one has fun)	a toy, an object used for playing
 leitar	to search
 leiter	to search
 leitte	to search
@@ -13512,7 +13507,6 @@ lengtar	to long for
 lengtast	to long for
 lengtande	to long for
 lengt	to long for
-lese	read
 les	read
 las	read
 lesast	read
@@ -13523,8 +13517,6 @@ levde	to live (be alive)	to subsist (nourish oneself)
 levt	to live (be alive)	to subsist (nourish oneself)
 levd	to live (be alive)	to subsist (nourish oneself)
 lev	to live (be alive)	to subsist (nourish oneself)
-liggje	to lie (to be in a horizontal position.)	to lie (location), be located
-ligga and ligge	to lie (to be in a horizontal position.)	to lie (location), be located
 liggjast	to lie (to be in a horizontal position.)	to lie (location), be located
 liggjande	to lie (to be in a horizontal position.)	to lie (location), be located
 lika	similar, alike	equal	good (mainly used in comparative and superlative form)	a corpse, (dead) body	edge of a sail; leech
@@ -13533,12 +13525,12 @@ likt	similar, alike	equal	good (mainly used in comparative and superlative form)
 likt	to like	as, equally	just, immediately
 lista	cunning, craftiness, slyness
 lista	a list	to list (as above)
-mindre	small, little
-mindre	little
-minst	small, little
-minst	little
 litast	to rely on, have faith in; trust
 litast	little
+mindre	little
+mindre	small, little
+minst	little
+minst	small, little
 livnar	to quicken, come alive
 livnast	to quicken, come alive
 livnande	to quicken, come alive
@@ -13771,15 +13763,15 @@ njupene	form removed with the spelling reform of 1938; superseded by nype
 njupene	form removed with the spelling reform of 1938; superseded by nypa
 njupone	form removed with the spelling reform of 1938; superseded by nype
 njupone	form removed with the spelling reform of 1938; superseded by nypa
-nytt	to enjoy
-nytt	new (as above)
-nytt	to use
-nyst	plural definite of nyste	to wind (yarn or string) into a ball
 nyst	recently
+nyst	plural definite of nyste	to wind (yarn or string) into a ball
 nystar	plural definite of nyste	to wind (yarn or string) into a ball
 nystast	plural definite of nyste	to wind (yarn or string) into a ball
 nystande	plural definite of nyste	to wind (yarn or string) into a ball
 nøste	plural definite of nyste	to wind (yarn or string) into a ball
+nytt	new (as above)
+nytt	to enjoy
+nytt	to use
 nytande	to enjoy
 nyttar	to use
 nyttast	to use
@@ -13936,10 +13928,10 @@ påverkar	to influence
 påverkast	to influence
 påverkande	to influence
 påverk	to influence
-rakar	to rake (use a rake on leaves, a lawn, etc.)	to shave	to concern (mainly used in the negative sense)
-rakast	to rake (use a rake on leaves, a lawn, etc.)	to shave	to concern (mainly used in the negative sense)
-rakande	to rake (use a rake on leaves, a lawn, etc.)	to shave	to concern (mainly used in the negative sense)
-rak	to rake (use a rake on leaves, a lawn, etc.)	to shave	to concern (mainly used in the negative sense)
+rakar	to rake (use a rake on leaves, a lawn, etc.)	to shave
+rakast	to rake (use a rake on leaves, a lawn, etc.)	to shave
+rakande	to rake (use a rake on leaves, a lawn, etc.)	to shave
+rak	to rake (use a rake on leaves, a lawn, etc.)	to shave
 raserer	to raze; destroy completely, demolish, ravage; tear down
 raserte	to raze; destroy completely, demolish, ravage; tear down
 rasert	to raze; destroy completely, demolish, ravage; tear down
@@ -13964,13 +13956,13 @@ regnande	to rain
 reisa	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
 reiser	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
 reisene	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
-reis	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
-reis	to rise, stand up, get up	to spank	plural definite of ris
-reis	a giant, jotun
 reiste	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
 reist	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
 reisast	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
 reisande	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
+reis	a journey	(drugs) a trip	to travel	to trip (on drugs)	to raise, erect
+reis	to rise, stand up, get up	to spank	plural definite of ris
+reis	a giant, jotun
 reknar	to calculate	to consider	(archaic) to count (to enumerate or determine numbers)
 reknast	to calculate	to consider	(archaic) to count (to enumerate or determine numbers)
 reknande	to calculate	to consider	(archaic) to count (to enumerate or determine numbers)
@@ -14165,10 +14157,7 @@ sit	sit
 sat	sit
 sitjast	sit
 sitjande	sit
-sitje	sit
-sitta and sitte	sit
 sitt	(reflexive) her/his/its/their	indicating possession; 's, of
-sitt	sit
 sjarmerer	to charm
 sjarmerte	to charm
 sjarmert	to charm
@@ -14217,9 +14206,9 @@ skisser	a sketch (drawing)
 skisser	to sketch, outline, draft
 skeit	to defecate, shit
 skitande	to defecate, shit
-skite	to defecate, shit
 skiten	shit, muck, feces	dirt, rubbish (something useless)
 skiten	dirty, filthy, grimy
+skite	to defecate, shit
 skitne	dirty, filthy, grimy
 skitnare	dirty, filthy, grimy
 skitnast	dirty, filthy, grimy
@@ -14228,18 +14217,12 @@ skjelv	to quake, tremble, quiver, shake
 skalv	to quake, tremble, quiver, shake
 skolve	to quake, tremble, quiver, shake
 skjelvande	to quake, tremble, quiver, shake
-skar	to cut	to cross (meet), intersect	to carve
 skar	plural definite of skjer	to cut	to cross (meet), intersect	to carve
-skore	to cut	to cross (meet), intersect	to carve
+skar	to cut	to cross (meet), intersect	to carve
 skore	plural definite of skjer	to cut	to cross (meet), intersect	to carve
-skjerande	to cut	to cross (meet), intersect	to carve
+skore	to cut	to cross (meet), intersect	to carve
 skjerande	plural definite of skjer	to cut	to cross (meet), intersect	to carve
-skyt	to shoot
-skyt	form removed with the spelling reform of 2012; superseded by skyta
-skote	to shoot
-skote	form removed with the spelling reform of 2012; superseded by skyta
-skytande	to shoot
-skytande	form removed with the spelling reform of 2012; superseded by skyta
+skjerande	to cut	to cross (meet), intersect	to carve
 skjønar	to understand, fathom; to see (understand)
 skjønast	to understand, fathom; to see (understand)
 skjønande	to understand, fathom; to see (understand)
@@ -14322,6 +14305,12 @@ skynar	form removed with the spelling reform of 1938; superseded by skjøna
 skynast	form removed with the spelling reform of 1938; superseded by skjøna
 skynande	form removed with the spelling reform of 1938; superseded by skjøna
 skyn	form removed with the spelling reform of 1938; superseded by skjøna
+skyt	form removed with the spelling reform of 2012; superseded by skyta
+skyt	to shoot
+skote	form removed with the spelling reform of 2012; superseded by skyta
+skote	to shoot
+skytande	form removed with the spelling reform of 2012; superseded by skyta
+skytande	to shoot
 skyver	to push, shove
 skyv	to push, shove
 skyvde	to push, shove
@@ -14394,7 +14383,6 @@ snuten	a muzzle, nose, snout (of an animal)
 snutar	a muzzle, nose, snout (of an animal)
 snutane	a muzzle, nose, snout (of an animal)
 somme	as	(reflexive) who, which, that	some
-somt	as	(reflexive) who, which, that	some
 søv	to sleep
 sov	to sleep
 sovande	to sleep
@@ -14476,7 +14464,7 @@ stampar	to stomp	(nautical) to pitch, sail into oncoming waves
 stampast	to stomp	(nautical) to pitch, sail into oncoming waves
 stampande	to stomp	(nautical) to pitch, sail into oncoming waves
 stamp	to stomp	(nautical) to pitch, sail into oncoming waves
-stender	condition, order, state	height, level, reading	a stand (e.g. at an exhibition)	orstand n (definite singular standet, indefinite plural stand, definite plural standa)	(historical) an estate (a social class)
+stender	condition, order, state	height, level, reading	a stand (e.g. at an exhibition)	(historical) an estate (a social class)
 stender	form removed with the spelling reform of 2012; superseded by stå
 staren	a starling (a songbird, Sturnus vulgaris)
 starar	a starling (a songbird, Sturnus vulgaris)
@@ -14504,17 +14492,17 @@ stemt	a voice	a vote	to tune (e.g. a guitar or a piano)	to vote	to put in a cert
 stemmande	a voice	a vote	to tune (e.g. a guitar or a piano)	to vote	to put in a certain mood
 stem	a voice	a vote	to tune (e.g. a guitar or a piano)	to vote	to put in a certain mood
 stemner	to set course, steer towards	to summon to court, subpoena
-stemner	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemner	convention, congress, gathering	course, direction
 stemnar	to set course, steer towards	to summon to court, subpoena
-stemnar	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemnar	convention, congress, gathering	course, direction
 stemnde	to set course, steer towards	to summon to court, subpoena
-stemnde	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemnde	convention, congress, gathering	course, direction
 stemnt	to set course, steer towards	to summon to court, subpoena
-stemnt	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemnt	convention, congress, gathering	course, direction
 stemnande	to set course, steer towards	to summon to court, subpoena
-stemnande	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemnande	convention, congress, gathering	course, direction
 stemn	to set course, steer towards	to summon to court, subpoena
-stemn	orstemne n (definite singular stemnet, indefinite plural stemne, definite plural stemna)	convention, congress, gathering	course, direction
+stemn	convention, congress, gathering	course, direction
 stemorsblomen	heartsease (Viola tricolor)
 stemorsblomar	heartsease (Viola tricolor)
 stemorsblomane	heartsease (Viola tricolor)
@@ -14532,25 +14520,25 @@ stigande	a ladder
 stikk	to sting	to stab	to thrust	to stick	to prick	to prod, poke	to protrude	to go away quickly, to scarper
 stukke	to sting	to stab	to thrust	to stick	to prick	to prod, poke	to protrude	to go away quickly, to scarper
 stikkande	to sting	to stab	to thrust	to stick	to prick	to prod, poke	to protrude	to go away quickly, to scarper
-still	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
-still	quiet	still (not moving)	quiet, silent.	definite of still
-stiller	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
-stiller	quiet	still (not moving)	quiet, silent.	definite of still
-stilte	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
-stilte	quiet	still (not moving)	quiet, silent.	definite of still
-stilt	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
 stilt	quiet	still (not moving)	quiet, silent.	definite of still
-stillande	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
-stillande	quiet	still (not moving)	quiet, silent.	definite of still
+stilt	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
 stillast	quiet	still (not moving)	quiet, silent.	definite of still
+stiller	quiet	still (not moving)	quiet, silent.	definite of still
+stiller	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
+stilte	quiet	still (not moving)	quiet, silent.	definite of still
+stilte	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
+stillande	quiet	still (not moving)	quiet, silent.	definite of still
+stillande	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
+still	quiet	still (not moving)	quiet, silent.	definite of still
+still	to place, put, position	to assume a certain position, literally or figuratively	to stop, alleviate (only in certain contexts, or poetic/archaic)
 stokkar	stokk dauv - stone deaf	stokk konservativ - ultraconservative	a log, trunk (of a tree)	a stick, cane, walking stick	a baton	a pack or deck (of cards)
 stokkar	to shuffle (playing cards)
 stranda	a beach or shore
 stranda	(nautical) to run aground, to beach	to fail, break down
-strekte	to stretch
 strekte	to suffice, be enough
-strekt	to stretch
+strekte	to stretch
 strekt	to suffice, be enough
+strekt	to stretch
 strekker	to suffice, be enough
 strekkande	to suffice, be enough
 strekkjer	to stretch
@@ -14586,17 +14574,17 @@ staup	to dive (jump head-first)	to fall suddenly, fall in battle
 stupt	to dive (jump head-first)	to fall suddenly, fall in battle
 stope	to dive (jump head-first)	to fall suddenly, fall in battle
 stupande	to dive (jump head-first)	to fall suddenly, fall in battle
-styrer	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styrer	to govern, to rule	to guide, to pilot, to steer	to control
-styrt	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
+styrer	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styrt	to govern, to rule	to guide, to pilot, to steer	to control
+styrt	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styrt	to rush, dash	to fall down, topple over, plunge	to crash (aircraft)	to overthrow, topple (a government)
-styrast	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styrast	to govern, to rule	to guide, to pilot, to steer	to control
-styrande	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
+styrast	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styrande	to govern, to rule	to guide, to pilot, to steer	to control
-styr	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
+styrande	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styr	to govern, to rule	to guide, to pilot, to steer	to control
+styr	administration, government, rule	a board of directors, or board of any organisation.	handlebar(s) of a bicycle or motorcycle.
 styrkte	to strengthen
 styrkte	strength	force; team
 styrkt	to strengthen
@@ -14628,8 +14616,6 @@ sukkar	to sigh
 sukkast	to sigh
 sukkande	to sigh
 sukk	to sigh
-sumt	a sum (addition or aggregation)	a sum (amount of money)	buzz (continuous noise)	an act of swimming	form removed with the spelling reform of 2012; superseded by som
-sumt	to swim
 svalast	cool (temperature)
 svalast	swallow (bird of the family Hirundinidae)	to cool, refresh
 svarar	to answer
@@ -14657,6 +14643,8 @@ svingande	to turn	to swing
 sviv	to rotate	to wander	to float (in the air)
 sveiv	to rotate	to wander	to float (in the air)
 svivande	to rotate	to wander	to float (in the air)
+sumt	a sum (addition or aggregation)	a sum (amount of money)	buzz (continuous noise)	an act of swimming	form removed with the spelling reform of 2012; superseded by som
+sumt	to swim
 sym	to swim
 sumde	to swim
 symjast	to swim
@@ -14777,7 +14765,6 @@ tilsette	employ
 tilsette	employed
 tilsetjast	employ
 tilsetjande	employ
-tilsetje	employ
 toler	to bear, endure, stand, tolerate
 tolte	to bear, endure, stand, tolerate
 tolt	to bear, endure, stand, tolerate
@@ -14866,12 +14853,12 @@ tykte	to think (be of the opinion that)
 tykt	to think (be of the opinion that)
 tykkjande	to think (be of the opinion that)
 tykk	to think (be of the opinion that)
-tyrst	thirsty
 tyrste	to be thirsty	(tørsta etter) to thirst for (something)
 tørstar	(a) thirst
 tørstar	to be thirsty	(tørsta etter) to thirst for (something)
 tørster	(a) thirst
 tørster	to be thirsty	(tørsta etter) to thirst for (something)
+tyrst	thirsty
 tyrsta	to be thirsty	(tørsta etter) to thirst for (something)
 tær	a toe (as above)
 tær	to corrode, erode	to wear, wear out
@@ -14928,17 +14915,17 @@ utslettar	completely remove; exterminate
 utslettast	completely remove; exterminate
 utslettande	completely remove; exterminate
 uttalar	to pronounce	to express
-uttalar	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttalar	pronunciation	statement
 uttaler	to pronounce	to express
-uttaler	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttaler	pronunciation	statement
 uttalte	to pronounce	to express
-uttalte	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttalte	pronunciation	statement
 uttalt	to pronounce	to express
-uttalt	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttalt	pronunciation	statement
 uttalande	to pronounce	to express
-uttalande	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttalande	pronunciation	statement
 uttal	to pronounce	to express
-uttal	oruttale f (definite singular uttala, indefinite plural uttaler, definite plural uttalene)	pronunciation	statement
+uttal	pronunciation	statement
 utviklast	develop
 utviklande	develop
 utvikl	develop
@@ -14958,11 +14945,6 @@ vantande	to lack	be wrong with; have an issue
 vantande	a glove
 vant	to lack	be wrong with; have an issue
 vant	a glove
-vart	to stay, remain.	(as an auxiliary verb to create passive voice with the main verb in past participle) to be	(change, development over time) to become, get, go.	to be, become, will, going to, turn out,	to be necessary, to have to, to be	(bills and payments) to be, come to
-vart	wary, careful	nervous, timid	sensitive	was
-vart	to defend, protect
-vart	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
-vart	to become
 varmast	hot, warm
 varmast	warmth, heat, heating	to warm, heat, warm up
 vaskar	to wash (something, someone, oneself (reflexive))
@@ -15001,8 +14983,6 @@ vakse	to grow	to increase
 veks	to grow	to increase
 vaksi	to grow	to increase
 veksande	to grow	to increase
-vekkje	to awaken; wake up (cause to become awake)	to awaken (cause to become conscious)	to cause, create
-vekka and vekke	to awaken; wake up (cause to become awake)	to awaken (cause to become conscious)	to cause, create
 valde	choose, pick	elect
 valt	choose, pick	elect
 veljast	choose, pick	elect
@@ -15037,6 +15017,10 @@ verande	to be
 ver	to be
 ver	to defend, protect
 ver	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
+vart	wary, careful	nervous, timid	sensitive	was
+vart	to defend, protect
+vart	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
+vart	to become
 verjar	to defend, protect
 verjar	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
 verjast	to defend, protect
@@ -15103,7 +15087,6 @@ visnast	withered
 visnaste	withered
 visse	withered
 visse	certain	if
-vite	know
 vitast	know
 vitande	know
 vit	know
@@ -15153,11 +15136,11 @@ ynsk	plural definite of ynske
 ynskjer	to wish, desire	wish something for another; express a hope for something to happen
 ynskjast	to wish, desire	wish something for another; express a hope for something to happen
 ynskjande	to wish, desire	wish something for another; express a hope for something to happen
-åra	a year	an oar	a year
+åra	a year	an oar	a vein (artery, blood vessel; vein of ore / minerals)
 åra	a vein (as above)	an oar (as above)
-årer	a year	an oar	a year
+årer	a year	an oar	a vein (artery, blood vessel; vein of ore / minerals)
 årer	a vein (as above)	an oar (as above)
-årene	a year	an oar	a year
+årene	a year	an oar	a vein (artery, blood vessel; vein of ore / minerals)
 årene	a vein (as above)	an oar (as above)
 åtar	to spread earth, ash etc. onto snow in spring in order to make it melt sooner
 åtast	to spread earth, ash etc. onto snow in spring in order to make it melt sooner
