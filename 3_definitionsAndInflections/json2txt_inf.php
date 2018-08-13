@@ -162,6 +162,9 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 				echo "\nWord definition:\n";
 			}
 			for ($x = 1; $x < count($fuck); $x++) {
+				if (isInflectionLine($fuck[$x])){
+					continue;
+				}
 				$fuck[$x] = stripDefinitionGarbage($fuck[$x], $word, $finalInflectionArray);
 				if($fuck[$x] != ""){
 					if ($verboseMode == "1"){
@@ -285,6 +288,26 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 		array_push($finalWordDefinitionArray, $wordDefinitionString);
 	}
 }
+
+function isInflectionLine($line) {
+	// Filter mostly same as inflection filter with a few deletions since definitions can easily contain things like "plural".
+	$filterArray = ["inflections same as above", "inflections as above", "preceded by ei", "used as a modifier", "past tense and past participle ", "simple past and past participle ", "definite and plural form ",
+	"past simple and past participle", "past tense and participle",
+	"definite singular and plural ", "no plural form", "definite and plural ", "singular and plural ", "imperative and present tense ", "indefinite neuter singular ", "indefinite superlative ",
+	"singular definite ", "definite superlative", "singular indefinite", "indefinite singular ", "indefinite plural", "dative form ", "definite plural", "definite form", "neuter singular ",
+	"past participle ", "stressed form ",
+	"present participle ", "not declined", "no gender", "gender indeterminate", "singular masculine ", "genitive form ", "imperative ", "passive form of",
+	"past perfect ", "past tense ", "present tense ", "past tense ", "uppercase", "upper case", "lowercase", "lower case", "singulare tantum",
+	"feminine singular ", "objective case "];
+	for ($x = 0; $x < count($filterArray); $x++) {
+		if(strpos($line, $filterArray[$x]) !== false) {
+			echo("$line removed because it maches '$filterArray[$x]'");
+			return true;
+		}
+	}
+	return false;
+}
+
 function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray) {
 	// If the array is fresh
 	if (count($finalInflectionArray) == 0) {
