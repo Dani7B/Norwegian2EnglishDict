@@ -233,6 +233,7 @@ bore
 bortføre
 bosette
 braute
+bre
 brekke
 bremse
 brenne
