@@ -9,6 +9,7 @@ dens
 egen
 eget
 ene
+enhver
 forrige
 halvannen
 halvannet

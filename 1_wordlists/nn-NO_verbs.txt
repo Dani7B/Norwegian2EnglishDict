@@ -457,6 +457,7 @@ gå og legge seg
 gå sin veg
 gå til sengs
 gå til sengs med
+gøy
 gøyma
 gøyme
 ha
@@ -903,6 +904,7 @@ pusla
 pusle
 putla
 putle
+pådra
 påkalle
 påverka
 påverke
@@ -956,6 +958,8 @@ roe
 romme
 ropa
 rope
+rosa
+rose
 rumle
 runka
 runke

@@ -183,6 +183,7 @@ boliviansk
 borgarleg
 bornert
 bortkasta
+bortskjemt
 bosnisk
 botanisk
 botswansk
@@ -606,6 +607,7 @@ gyldig
 gyllen
 gåtefull
 gælisk
+gøy
 haitisk
 halelaus
 halv
@@ -2017,6 +2019,7 @@ vegetabilsk
 vegetariansk
 veik
 vekselvarm
+velbrukt
 velbygd
 veldefinert
 veletablert

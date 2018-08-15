@@ -774,6 +774,7 @@ hulle
 humre
 huse
 huske
+hvese
 hvile
 hviske
 hvitvaske
@@ -787,6 +788,7 @@ hærta
 hølje
 høljeregne
 høre
+høres
 høste
 iaktta
 identifisere
@@ -1380,6 +1382,7 @@ puste
 putte
 pynte
 påbegynne
+pådra
 påfyll
 påføre
 pågripe
@@ -1842,6 +1845,7 @@ trives
 tro
 trollbinde
 trone
+trosse
 tru
 true
 trykke

@@ -240,6 +240,7 @@ borgerlig
 bornert
 bortglemt
 bortkastet
+bortskjemt
 bosnisk
 botanisk
 botswansk
@@ -913,6 +914,7 @@ hårreisende
 hårsår
 høflig
 hørbar
+hørlig
 høy
 høyeksplosiv
 høygravid
@@ -1440,6 +1442,7 @@ monoton
 montenegrinsk
 monumental
 moralsk
+morken
 morsom
 mosambikisk
 motbydelig
@@ -2706,6 +2709,7 @@ vegetariansk
 vekselvarm
 vektløs
 velbegrunnet
+velbrukt
 velbygd
 veldedig
 veldefinert

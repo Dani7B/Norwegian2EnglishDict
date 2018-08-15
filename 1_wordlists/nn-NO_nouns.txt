@@ -861,6 +861,8 @@ brekkasje
 brekkjern
 brems
 bremse
+bremselengd
+bremselengde
 bremsepedal
 bremsing
 brennesle
@@ -2130,6 +2132,7 @@ fritidsaktivitet
 fritidsbåt
 fritte
 front
+frontkollisjon
 frontrute
 frosk
 frost
@@ -2761,6 +2764,7 @@ hierarki
 hieroglyf
 hijab
 hikke
+hikst
 himmel
 himmellekam
 himmelrike
@@ -3249,6 +3253,7 @@ kafé
 kahytt
 kai
 kaie
+kaikant
 kajakk
 kakao
 kakaopulver
@@ -4917,6 +4922,7 @@ nattøy
 natur
 naturalisme
 naturarv
+naturfiber
 naturgass
 naturhistorie
 naturkatastrofe
@@ -6298,6 +6304,7 @@ sekspakning
 sekstant
 seksualitet
 seksuell orientering
+seksuell trakassering
 sekt
 sektor
 sekund
@@ -6643,6 +6650,7 @@ skriftspråk
 skrik
 skrimsel
 skritt
+skriv
 skrivebok
 skrivebord
 skrivefeil
@@ -7429,6 +7437,7 @@ takst
 takstein
 takstmann
 takt
+takterrasse
 taktikk
 tal
 talar
@@ -7815,6 +7824,7 @@ tronfølgjer
 trong
 troposfære
 tropp
+trosse
 trost
 tru
 truisme

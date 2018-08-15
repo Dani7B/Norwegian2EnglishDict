@@ -1033,6 +1033,7 @@ brekkasje
 brekkjern
 brems
 bremse
+bremselengde
 bremsepedal
 bremsevæske
 bremsing
@@ -2560,6 +2561,7 @@ fritte
 frokost
 frokostblanding
 front
+frontkollisjon
 frontrute
 frosk
 frost
@@ -3254,6 +3256,7 @@ hierarki
 hieroglyf
 hijab
 hikke
+hikst
 hilsen
 himmel
 himmellegeme
@@ -3281,6 +3284,7 @@ hjemby
 hjemland
 hjemmebane
 hjemmekamp
+hjemmel
 hjemmelekse
 hjemmeside
 hjemsendelse
@@ -3859,6 +3863,7 @@ kaffer
 kafé
 kahytt
 kai
+kaikant
 kajakk
 kakao
 kakaopulver
@@ -5700,6 +5705,7 @@ nattøy
 natur
 naturalisme
 naturarv
+naturfiber
 naturforsker
 naturgass
 naturhistorie
@@ -7260,6 +7266,7 @@ sekstant
 sekstentallsystem
 seksualitet
 seksuell orientering
+seksuell trakassering
 sekt
 sektor
 sekund
@@ -8556,6 +8563,7 @@ takst
 takstein
 takstmann
 takt
+takterrasse
 taktikk
 takvindu
 tale
@@ -8994,6 +9002,7 @@ trontale
 troposfære
 tropp
 troskap
+trosse
 trost
 troverdighet
 tru
