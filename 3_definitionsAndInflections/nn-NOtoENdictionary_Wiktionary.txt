@@ -301,6 +301,7 @@ ankel	(anatomy) an ankle (joint between leg and foot)
 anker	(nautical) an anchor
 ankerplass	(nautical) an anchorage
 ankringsplass	(nautical) an anchorage
+anledning	opportunity, occasion
 anlegg	(a) plant (industrial), an installation, equipment, a facility, a system
 anløp	(nautical) a call or visit (at or to a port by a ship)
 annan	other, another	second
@@ -776,7 +777,7 @@ be	to pray	to ask something of someone
 bearnés	béarnaise sauce
 beaufortskala	(meteorology) the Beaufort scale
 bed	(horticulture) a bed (for plants)
-bede	(archaic) to ask; request	to pray
+bede	to ask; request	to pray
 bedrageri	fraud
 bedrift	a company or business
 bedømme	to appraise, judge	to mark, or grade (US) (exams etc.)
@@ -888,6 +889,7 @@ bevisst	conscious	deliberate
 bhutanar	Bhutanese
 bhutansk	Bhutanese (as above)
 bibel	a bible (as above)
+bibelselskap	(Christianity) a bible society
 bibelsk	biblical
 bibliofil	bibliophilic (as above)	a bibliophile (as above)
 bibliotek	a library (as above)
@@ -1109,6 +1111,7 @@ borte	away; in some other place	gone
 bortføre	to abduct, kidnap, carry off (abduct, kidnap)
 bortimot	approximately	almost, nearly
 bortkasta	wasted (not profitably used)
+bortskjemt	spoiled, spoilt (e.g. child)
 bosniar	Bosnian (person from Bosnia and Herzegovina)
 bosnisk	Bosnian (as above)	Bosnian (the language)
 boson	(physics) boson
@@ -1157,6 +1160,7 @@ brekkasje	breakage
 brekkjern	crowbar
 brems	a brake (also used figuratively)
 bremse	a brake (also used figuratively)
+bremselengde	(transport) braking distance, stopping distance
 bremsepedal	a brake pedal
 bremsing	braking
 brenna	(intransitive) burn	(transitive) burn
@@ -1270,6 +1274,7 @@ buffé	sideboard, or buffet (US); dining room furniture containing table linen a
 bugge	(dialectal) great man
 buk	belly, abdomen, stomach
 bukett	a bouquet (of flowers)
+bukhinne	(anatomy) peritoneum
 bukk	the male of some species, especially deer, reindeer, sheep, and goats.
 bukkeblad	buckbean (Menyanthes trifoliata)
 bukse	trousers
@@ -1323,6 +1328,7 @@ byfornying	urban renewal
 bygd	country district or settlement (as above)
 bygdeby	a smaller unincorporated town within a municipality, which does not have town or city status (bystatus)
 bygg	barley (Hordeum)	building
+byggekostnad	building cost (usually plural: cost of building something)
 byggemateriale	a building material
 byggestein	a building block
 bygging	building (of something), construction
@@ -1544,6 +1550,8 @@ desarmere	to disarm, defuse (a bomb)
 desember	December (twelfth month)
 desentralisere	to decentralise
 desertør	a deserter
+desillusjonere	to disillusion (someone)
+desillusjonert	disillusioned
 desimal	(arithmetic) a decimal (decimal fraction)
 desimalkomma	(arithmetic) a decimal point (a comma is used)
 desinfeksjon	disinfection
@@ -1827,7 +1835,7 @@ dødsfelle	a deathtrap or death trap
 dødsleie	a deathbed
 dødsleir	a death camp
 dødsoffer	a victim (person who dies as a result of an accident, disaster, terrorism etc.)
-dødsrate	death rate, mortality rate
+dødsrate	death rate
 dødsskvadron	a death squad
 dødsstraff	capital punishment, death penalty
 dødssynd	(religion) a deadly sin
@@ -2247,6 +2255,7 @@ falskneri	a forgery
 familie	a family (father, mother and their sons and daughters)	(biology) family (a principal taxonomic category)
 familiebil	a family car
 familiemedlem	a family member, close relative or relation
+famle	to fumble, grope
 fanatikar	fanatic
 fanatisk	fanatical
 fancy	fancy
@@ -2537,9 +2546,10 @@ flat	flat
 flate	a surface	an area of flat land
 flaum	flood (overflow of water)
 fleinsopp	liberty cap; Psilocybe semilanceata	mushroom of the genus Psilocybe
+fleipa	to joke
 fleire	more (exact comparison)	more (rough comparison), extra	several
 fleirkulturell	multicultural
-fleirtal	majority (subgroup that does not form a numerical majority)	(grammar) plural
+fleirtal	plurality (i.e., relative majority versus absolute majority) (subgroup that does not form a numerical majority)	(grammar) plural
 flekk	a stain, spot, mark, speck, smudge, patch (also of colour)
 flekket	form removed with the spelling reform of 2012; superseded by flekkete
 flekkete	spotty, stained
@@ -2906,6 +2916,7 @@ fritte	paste used to make frit porcelain
 frittståande	detached (e.g. house, building)	free-standing, freestanding
 frodig	lush (vegetation)	fertile (land)	buxom (woman)
 front	front
+frontkollisjon	(transport) a head-on collision
 frontrute	a windscreen (UK) or windshield (US)
 frosk	a frog (amphibian)
 frost	frost
@@ -2967,6 +2978,7 @@ funn	a find or discovery	a finding (result of research or investigation)
 fura	(dated, høgnorsk) a pine (tree of the genus Pinus)	(dated, høgnorsk) pine (wood from pine trees)
 fure	a pine (tree of the genus Pinus)	pine (wood from pine trees)
 furu	a pine (tree of the genus Pinus)	pine (wood from pine trees)
+furutømmer	pine timber
 fusjon	fusion (as above)	a merger
 fusk	trickery, cheating, fraud
 fuskepels	fake fur, faux fur
@@ -3103,6 +3115,7 @@ gardbrukar	a farmer
 garderobe	a cloakroom	a dressing room, changing room, or locker room	a wardrobe (the clothes a person owns)
 garderobeskap	a wardrobe (cabinet for storing clothes)
 gardin	a curtain
+gardsarbeid	farm work
 gardsarbeidar	farm worker
 garn	(uncountable) yarn (spun thread)	a net (fishing)
 garnere	to garnish (food)
@@ -3213,6 +3226,7 @@ gjeld	debt, indebtedness
 gjelda	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
 gjelle	a gill (of a fish etc.)
 gjenbruk	reuse
+gjenferd	apparition, ghost, spectre
 gjeng	a gang
 gjenge	a thread (as above)
 gjennom	(idiomatic) through and through	through (from one side of an opening to the other)	through, during (from start to finish)	with help from, via
@@ -3512,6 +3526,7 @@ gåtefull	enigmatic, mysterious
 gåtur	a walk
 gåve	a present or gift (something given to someone, e.g. for Christmas or a birthday)	a gift (a talent or natural ability)
 gælisk	Gaelic (as above)	Gaelic (a Celtic language)
+gøy	fun	to bark
 gøyma	to hide, cover, keep out of sight
 gøyme	to hide, cover, keep out of sight
 gøymestad	a hiding place
@@ -3611,6 +3626,7 @@ harding	a person from Hardanger, Norway.
 hardingfele	(music) a Hardanger fiddle
 hardkokt	hard-boiled
 hare	a mountain hare, Lepus timidus	a hare, a small animal of the genus Lepus
+harmonere	to be in harmony, be harmonious
 harmoni	harmony
 harmonisere	to harmonise, or harmonize
 harmonisk	harmonious
@@ -3779,6 +3795,7 @@ hierarkisk	hierarchical
 hieroglyf	a hieroglyph (also hieroglyphics in plural form)
 hijab	a hijab
 hikke	hiccups (the condition of having hiccup spasms)
+hikst	a sob, gasp
 himmel	sky (atmosphere above a point)	heaven (paradise)
 himmellekam	(astronomy) a celestial body or heavenly body
 himmelrike	Kingdom of Heaven
@@ -4092,6 +4109,7 @@ indianar	American Indian, Native American
 indiansk	Indian (relating to American Indians)
 indikasjon	an indication
 indikator	an indicator (most senses)
+indikatorart	(biology) an indicator species or bioindicator
 indirekte	indirect
 indisk	Indian (relating to India and the Indian people)
 individ	individual
@@ -4333,6 +4351,7 @@ jernbane	a railway (UK), or railroad (US)
 jernbanebru	a railway bridge
 jernbanelinje	a railway line (UK)
 jernbanenett	(rail transport) a rail / railroad / railway network
+jernbanespor	(rail transport) a railway track
 jernbanestasjon	a railway station (UK)
 jernklorid	ferric chloride (FeCl3)
 jernmalm	iron ore
@@ -4437,6 +4456,7 @@ kafé	a café or cafe
 kahytt	(nautical) a cabin
 kai	quay, wharf, dock
 kaie	jackdaw, particularly western jackdaw Corvus monedula
+kaikant	quayside
 kajakk	(nautical) a kayak
 kakao	cocoa
 kakaopulver	cocoa powder
@@ -4733,6 +4753,7 @@ kjøttfull	fleshy, fat, succulent
 kjøttkake	a kind of meatball, usually bigger and flatter than a «kjøttbolle».
 klage	complaint (a grievance, problem, difficulty, or concern; the act of complaining)
 klaka	freeze over, get a frozen crust	frozen on the surface
+klamre	to cling (to something)	to clamp (something to something)
 klan	a clan
 klappa	to clap (strike the palms of the hands together, applaud)	to clap (to bring two surfaces together forcefully)	to pat (gently tap the flat of one's hand on a person or thing)	to stroke (e.g. to pet an animal)
 klappmyss	a hooded seal (Cystophora cristata)
@@ -4816,6 +4837,8 @@ klumpete	lumpy	(person) dumpy
 klunger	dog rose, Rosa canina
 klut	a cloth
 klynge	a cluster, group	a knot (of people)
+klynk	a whimper, whine
+klynke	to whine, whimper
 klype	a clip (e.g. paper clip)	a clamp	a peg (clothes peg)	a small amount held between the fingers
 klyppe	Alternative spelling of klippe
 kløe	an itch, itching
@@ -4831,6 +4854,7 @@ knapp	a button
 knapt	barely, hardly
 kne	(anatomy) a knee (joint in the leg)
 knebel	a gag	a clapper	clipping of  knebelsbart – a handlebar moustache	a male puppy
+knegge	(horse) to neigh, whinny	(person) to chuckle
 kneippbrød	Kneipp bread, a variety of wheat bread especially common in Norway
 knekk	a blow (shock, disappointment, setback), damage, injury	a bend, bow	a creak, crackling noise	a crack (e.g. in a glass)	toffee, brittle
 knekt	jack (playing card)
@@ -4843,6 +4867,7 @@ kniv	knife (utensil or tool designed for cutting)
 knoke	knuckle
 knop	a knot (e.g. in a rope)
 knopp	(botany) a bud (of a flower, leaf or shoot)
+knurre	to growl, snarl	to complain, grumble
 knute	a knot
 knutepunkt	hub, junction
 kny	To express dissatisfaction, to complain
@@ -4898,6 +4923,7 @@ komet	(astronomy) a comet	a person or team that makes great and fast progress.
 komfort	comfort
 komfortabel	comfortable
 komfyr	a stove (for cooking), or cooker (UK)
+komikar	a comedian
 komisk	comical
 komité	a committee
 komma	comma
@@ -4961,6 +4987,7 @@ konditor	a confectioner
 kondolere	to commiserate, express condolences
 kondom	a condom
 kondor	a condor
+konduktør	a conductor (on public transport)
 kone	housewife; mistress of the house	wife
 konfekt	confectionery
 konferanse	a conference
@@ -5715,6 +5742,7 @@ lokalavis	a local newspaper
 lokalitet	a locality
 lokalsamfunn	a local community
 lokasjon	a location
+lokførar	(rail transport) a train driver, loco driver, engineer (US)
 lokk	lid	cover	lock (of hair)	A special type of song used to call the animals home from their pastures; a herding call song.
 lokke	to allure, entice, tempt, lure	to attract, fascinate	to call (an animal), give a mating call	(reflexive, of hair) to curl	(of metal) to punch
 lokomotiv	(rail transport) a locomotive
@@ -5862,6 +5890,7 @@ lærling	an apprentice	a trainee
 lêr	leather
 løfte	a promise or vow
 løgn	a lie
+løgndetektor	a lie detector
 løkke	a loop, noose (e.g. in a rope; this sense may only be spelt lykkje)	an enclosure, paddock	a playing field (e.g. for football)
 lønn	a maple (tree)	salary, wage
 lønnesirup	maple syrup
@@ -6583,6 +6612,7 @@ natur	nature (essential characteristics)	(uncountable) nature (natural landscape
 naturalisme	naturalism
 naturalistisk	naturalistic
 naturarv	natural heritage
+naturfiber	natural fibre
 naturgass	natural gas
 naturhistorie	(sciences) natural history
 naturhistorisk	(relating to) natural history
@@ -6835,7 +6865,7 @@ næringsrik	nutritious
 næringsstoff	a nutrient
 nærkamp	close combat, hand-to-hand fighting
 nærkontakt	close contact
-nærleik	proximity
+nærleik	proximity, vicinity
 nærliggjande	likely, understandable, natural
 nærområde	local area
 nærsynt	short-sighted, near-sighted, myopic
@@ -6993,6 +7023,7 @@ oppfatte	to comprehend, understand	to construe, interpret
 oppfinning	invention (act of inventing)	[an] invention (result of inventing, something invented)
 oppfordring	a request, a call, an appeal
 oppfølging	a follow-up
+oppføre	to construct, erect	to stage (perform a play)	(reflexive) to behave; to carry on (followed by seg)
 oppgåve	task	exercise
 opphaldsrom	a living room, sitting room
 opphav	origin	cause
@@ -7306,6 +7337,7 @@ pedagog	a pedagogue (esp. historically)	a teacher, educationalist
 pedagogikk	(education) pedagogy
 pedagogisk	educational, pedagogic, pedagogical (relating to teaching)
 pedal	a pedal
+pedikyr	pedicure
 pedofil	relating to paedophilia and paedophiles, paedophilic	(as a noun) a paedophile
 peika	to point (one's finger, walking stick, etc.)	to choose, pick (someone)	to stand out (be distinquished)
 peikefinger	a forefinger or index finger
@@ -7431,6 +7463,7 @@ plakett	a plaque
 plakk	plaque (as above)
 plan	plane	level	a plan	plane, flat
 planarbeid	planning work
+planere	to flatten, level, plane, smooth
 planet	a planet
 planetarisk	planetary
 planetarium	a planetarium
@@ -7607,6 +7640,7 @@ primært	primarily
 prinsesse	a princess
 prinsipiell	in principle, of principle
 prinsipp	principle
+prioritere	to prioritise (UK) or prioritize; give priority to (something)
 prioritet	a priority
 pris	a price (as above)	a fare (as above)	a prize
 prisbevisst	price-conscious
@@ -7729,6 +7763,7 @@ pund	a pound (monetary unit in the United Kingdom, Egypt, etc.)	a pound (former 
 pung	a pouch (including of marsupials)	a purse (pengepung)	(anatomy) a scrotum
 pungdyr	a marsupial
 punkt	(generally) point	a dot (also in Braille: a raised dot)
+punktlegskap	punctuality
 punktskrift	Braille
 punktum	a full stop (UK) or period (US) (punctuation mark)
 punktvis	point by point	point by point
@@ -7758,6 +7793,7 @@ på nytt	afresh, again, anew
 på rad	in a row (successively, one after the other)
 på si	(idiomatic) on the side, outside of
 på	on (touching from above or touching, hanging from)	on, against, touching; hanging from or being attached to (a vertical surface)	on (a certain day)	at (some abstract concepts)	at (concerning time)	in (islands and many towns that are not on the coast)	in (a language)	in (part of the day, time of day)	(of machines, etc) turned on; functioning
+pådra	to bring on, entail, incur (expenses)	(reflexive, with seg) to incur (responsibility), catch (e.g. a cold), contract (disease), suffer (e.g. an injury), get (catch, contract, suffer)
 påfallande	conspicuous
 påfugl	peacock
 påhengsmotor	an outboard motor
@@ -8118,7 +8154,7 @@ rop	a shout, call, cry
 ropa	to shout
 ror	(nautical, aviation) a rudder	(nautical) the helm
 rorbu	small house used for shorter periods of time by fishermen
-rosa	pink (colour)	pink, rose (colour)
+rosa	pink (colour)	pink, rose (colour)	To praise, to compliment
 rose	a rose (plant and flower of genus Rosa)
 rosemåling	rosemaling (rose painting)
 rosenkrans	a rosary
@@ -8377,6 +8413,7 @@ sceneshow	a stage show
 scenografi	scenography
 schizofreni	schizophrenia
 scientolog	Scientologist
+scooter	a scooter (type of motorcycle)	short for snøscooter, vasscooter etc..
 score	a score	to score (earn points in a game)
 sebra	a zebra
 seder	a cedar (tree of genus Cedrus)
@@ -8418,6 +8455,7 @@ sekstiande	(ordinal) sixtieth
 seksualisere	to sexualise (something)
 seksualitet	sexuality
 seksuell orientering	sexual orientation
+seksuell trakassering	sexual harassment
 seksuell	sexual
 seksuelt	sexually
 sekt	a sect
@@ -8584,6 +8622,7 @@ single	(music) a single (record or CD)	(sports) singles (e.g. in tennis)
 sink	zinc (chemical element, symbol Zn)
 sinksulfat	zinc sulphate, chemical formula ZnSO4.
 sinn	mind
+sinne	anger, temper
 sint	angry, cross, mad
 sinus	(trigonometry) sine	(anatomy) sinus
 siriss	a cricket (insect)
@@ -8764,6 +8803,7 @@ skilt	sign, notice
 skilta	mark with signs; put up signs	plural definite of skilt
 skilting	the use of traffic signs
 skiløping	skiing
+skiløype	a ski run, ski track or ski trail
 skimta	to glimpse (to barely see, to see unclearly)
 skina	shine
 skinke	ham (meat from the thighs of pigs)
@@ -8778,6 +8818,7 @@ skipsverft	a shipyard
 skipsvrak	(nautical) a shipwreck
 skisenter	a ski centre or skiing centre (outdoors, with natural slopes)
 skiskyting	biathlon (as above)
+skispor	a ski track
 skisse	a sketch (drawing)
 skissere	to sketch, outline, draft
 skit	shit, muck, feces	dirt, rubbish (something useless)
@@ -8792,6 +8833,7 @@ skjebne	fate, destiny
 skjede	(anatomy) a vagina
 skjegg	a beard (facial hair)
 skjelett	a skeleton (as above)
+skjelettaktig	skeleton-like, skeletal
 skjellsord	term / word of abuse, insult
 skjelva	to quake, tremble, quiver, shake
 skjema	a form (as above)
@@ -8866,7 +8908,8 @@ skrik	cry; scream, shriek	an item, usually a piece of fashion, when used in the 
 skrimsel	a thin layer, remnant
 skrinn	gaunt, emaciated	shallow, not deep (mostly of soil)
 skritt	step (space passed over by one movement of the foot in walking or running)	groin
-skriva	to write
+skriv	A written piece of paper, typically with serious information, officially sent to a number of people in an organization
+skriva	to write	plural definite of skriv
 skrivebok	(education) an exercise book
 skrivebord	a desk
 skrivefeil	a typo, typographical error	a writing error, slip of the pen
@@ -8909,6 +8952,7 @@ skumring	dusk, twilight, nightfall
 skur	a shed (a slight or temporary structure built to shade or shelter something)	a shower (a brief fall of rain or hail)
 skura	to scrub (to rub hard)	plural definite of skur
 skute	a ship (mostly used for sailing ships)
+skuter	short for snøskuter, vasskuter etc..
 skvadron	(military) a squadron
 skvåsj	squash (fruit)	squash (sport)	squash (soft drink)
 sky	shy	a cloud	to avoid, shun
@@ -8981,7 +9025,9 @@ sloven	Slovenian (person)
 slovenar	Slovenian (person)
 slovensk	Slovenian (relating to Slovenia and Slovenians)	Slovenian (the language)
 sludd	sleet (as above)
+sluk	A fishing lure	A drain
 sluke	to swallow, devour, bolt (food), wolf down, gobble up
+slum	a slum
 slump	random event, chance, happenstance	a good amount, quite a bit
 slumpa	to happen by chance, happen randomly (often slumpa til)
 slumre	to doze, slumber
@@ -9008,6 +9054,7 @@ smal	narrow (having a small width)	slim (waist etc.)
 smaragd	(an) emerald (gemstone)
 smaragdgrøn	emerald green (colour)
 smart	clever (mentally sharp or bright)	smart
+smartklokke	a smartwatch
 smed	smith (craftsperson who works metal)
 smell	a bang (sudden loud noise)	a knock, an impact
 smeltedigel	melting pot, crucible
@@ -9213,6 +9260,7 @@ spel	a game	play, playing
 spela	to play
 spelar	player (who plays any game)	player (who plays on a musical instrument)	player (electronic device)
 spelkort	playing card.
+spenn	a span
 spennande	exciting, thrilling
 spenning	excitement	tension	(electricity) voltage
 spennvidde	span (measurement of an arch or bridge)	range, scope (of something)
@@ -9460,7 +9508,7 @@ storfugl	a capercaillie or wood grouse, genus Tetrao urogallus
 storindustri	big / large(-scale) / major industry
 stork	stork
 storkobbe	a bearded seal, (Erignathus barbatus)
-storleik	size
+storleik	size	a size
 storm	storm (a very strong wind, stronger than a gale, less than a hurricane)
 stormakt	(politics) a great power, major power
 stormfull	stormy, tempestuous
@@ -9581,7 +9629,7 @@ stødig	firm, stable, steady
 stødt	(non-standard since 1938)	form removed with the spelling reform of 1938; superseded by støtt
 støpsel	a plug (as above)
 stør	a sturgeon, a fish of the family Acipenseridae. Specifically the common sturgeon (Acipenser sturio)
-størrelse	size
+størrelse	size	a size
 størstepart	the bulk, the majority, the greatest part
 støtt	all the time, frequently
 støtte	(a) support	to support
@@ -9903,6 +9951,8 @@ taksi	taxi (car)
 takst	a valuation, assessment	a charge, fee, rate, fare (for transport)
 takstein	a roof tile, or roofing tile
 takstmann	assessor, valuer
+takt	(especially music) time, rhythm, tempo, beat	(engine piston) stroke	tact
+takterrasse	a roof terrace
 taktfull	tactful, discreet
 taktikk	a tactic
 taktil	tactile
@@ -10277,6 +10327,7 @@ trakt	a funnel (tool, utensil)
 traktat	a treaty
 traktor	a tractor
 tralla	to sing casually, wordlessly, (sing tralala), to hum
+trampe	to stamp (one's foot / feet)	to tramp (on something)	to trample (underfoot)	to beat (time or a rhythm (takt) with one's foot)
 trampoline	a trampoline
 trane	crane (large bird of the family Gruidae), particularly the common crane, Grus grus.
 tranebær	cranberry (berry or plant)
@@ -10318,6 +10369,7 @@ treffe	to hit, strike	to meet	to nail	to place
 trefning	an encounter, engagement, a skirmish (as above)
 treg	slow, sluggish
 tregrense	treeline
+trehest	a wooden horse (including the torture device)
 trehjuls	three-wheel(ed) (having three wheels)
 trehjulssykkel	a tricycle
 trehus	a wooden house
@@ -10398,6 +10450,7 @@ trong	need	tight, narrow
 tropisk	tropical
 troposfære	the troposphere
 tropp	a troop	form removed with the spelling reform of 2012; superseded by trapp
+trosse	(nautical) a hawser
 trost	(zoology) thrush, one of several species of songbirds of the family Turdidae
 tru	belief, faith	trust, confidence	to think, believe	imagine, suppose	to believe	to believe (have religious faith)	entrust	faithful, loyal	true
 true	to threaten
@@ -10673,6 +10726,7 @@ underjordisk	subterranean	underground
 underkomité	a subcommittee
 underlag	a base, basis, foundation	a mat, pad, underlay, underlayer
 underleg	strange, odd	strange, unwell
+underleppe	(anatomy) lower lip, bottom lip
 underliv	(anatomy) abdomen	(of a woman also) sexual and reproductive organs
 undermenneske	a subhuman
 undermotorisert	underpowered (vehicle)
@@ -10973,6 +11027,7 @@ vaskeservant	a washbasin
 vassavkjølt	water-cooled
 vassbasert	water-based (of a substance or solution, having water as a medium or main ingredient)
 vassblemme	(medicine) a blister (filled with fluid, as opposed to blood)
+vasscooter	a water scooter, jetski
 vassdrag	(geomorphology) drainage system, river system
 vassfarge	(art) watercolour (UK) or watercolor (US) (paint)	the colour of the water, e.g. of the sea
 vasskilje	(hydrology) a watershed (divide between catchment areas)
@@ -11030,6 +11085,7 @@ vektløfting	(sports) weightlifting
 vektor	a vector (physics, mathematics, biology)
 vekttap	weight loss, loss of weight
 vel	well	certainly, probably
+velbrukt	well-used
 velbygd	well-built, solidly built or constructed
 veldefinert	well-defined
 veldig	very (to a high degree)	really (very)
@@ -11204,6 +11260,7 @@ vinna	to win
 vinnar	a winner
 vinsj	a winch
 vinter	winter
+vinterføre	winter conditions (on roads etc.)
 vinternatt	winter night
 vinterpels	winter coat (of an animal)
 vintertid	winter, wintertime (season, time of year)
@@ -11461,7 +11518,7 @@ auka	increase
 auke	(transitive) increase	(intransitive) increase
 avl	breed	grow, cultivate
 bad	to pray	to ask something of someone
-bad	(archaic) to ask; request	to pray
+bad	to ask; request	to pray
 bak	to bake (something)
 bakar	at the back, behind	behind	(anatomy) behind, bottom, backside	back, rear, seat (of trousers)
 bakar	to bake (something)
@@ -11469,7 +11526,7 @@ bar	to carry, bear
 bar	to carry, bear	a female bear, she-bear
 barn	to make pregnant	to birth or have a child
 basar	(chemistry, military, general) a base
-bed	(archaic) to ask; request	to pray
+bed	to ask; request	to pray
 bede	to pray	to ask something of someone
 beita	pasture; land area, cultivated or not, where animals may feed on the vegetation
 beite	graze (eat grass from a pasture)
@@ -11534,6 +11591,7 @@ dekk	to cover (place something over or upon)	to cover (provide coverage of)
 dekk	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
 dekke	to cover (place something over or upon)	to cover (provide coverage of)
 del	to divide	to split	to share
+desillusjonert	to disillusion (someone)
 det	(demonstrative pronoun) that	the; only used if there is an adjective in front of the noun.
 dette	this; this one
 dobbelt	double
@@ -11708,6 +11766,7 @@ kjærast	dear (loved; lovable)	beloved
 kjæraste	dear (loved; lovable)	beloved
 kjøp	to buy
 klubb	(weapon) club	gavel	lollipop	to club, hit with a club	to go to a nightclub, go clubbing
+klynk	to whine, whimper
 kollaps	to collapse
 komma	a coma	come (to move from further away to nearer to)	come (to arrive)
 kontakt	to contact (establish communication with)
@@ -11877,6 +11936,7 @@ rop	to shout
 ropa	a shout, call, cry
 ror	peace, tranquility, quiet	to row (a boat)
 rosa	a rose (plant and flower of genus Rosa)
+rose	pink (colour)	pink, rose (colour)	To praise, to compliment
 runde	round
 rundt	round
 rust	to rev an engine	to rush
@@ -11932,6 +11992,8 @@ skjønne	to understand, fathom; to see (understand)
 skremmande	frighten
 skrift	(religion) to confess one's sins in order to gain absolution
 skrifta	writing	den heilage skrifta - the Holy Scripture or Scriptures (the Bible)	a generic term for a piece of writing, a book, a pamphlet, a brochure, etc.
+skriv	to write	plural definite of skriv
+skriva	A written piece of paper, typically with serious information, officially sent to a number of people in an organization
 skryt	to brag, boast	to bray (donkey)
 skugga	a shadow	to shadow (the act of casting a shadow), to shade	to shadow (to keep under surveillance)
 skula	school	to scowl; stare at someone or something with a look of displeasure or anger; to frown	form removed with the spelling reform of 1987; superseded by skulle
@@ -11944,6 +12006,8 @@ skulle	school	to scowl; stare at someone or something with a look of displeasure
 skum	to foam, froth	to lather (soap)	to skim (e.g. cream; when reading)
 skur	to scrub (to rub hard)	plural definite of skur
 skura	a shed (a slight or temporary structure built to shade or shelter something)	a shower (a brief fall of rain or hail)
+skuter	a scooter (type of motorcycle)	short for snøscooter, vasscooter etc..
+skuter	a ship (mostly used for sailing ships)
 skygge	shy, frightened
 slang	a snake	a hose, a tube	(reflexive) slange seg - to move like a snake
 slapp	to be released from something	to not have to do something	avoid	to release, let go, let loose
@@ -11953,6 +12017,7 @@ sletta	level, even, flat, smooth
 sletta	a plain (geography; a large expanse of relatively flat ground)
 slette	level, even, flat, smooth
 slette	to smooth (make smooth or even)	to delete
+sluk	to swallow, devour, bolt (food), wolf down, gobble up
 slump	to happen by chance, happen randomly (often slumpa til)
 slutt	to end
 slått	to beat, punch, hit	to tack (to turn a vessel onto the other tack; come about)	to cut, mow, reap (grass, hay, grain)	a bolt for a door.
@@ -12206,13 +12271,13 @@ bankane	a bank (underwater area of higher elevation, a sandbank)	a bank (of clou
 barna	a child
 barna	to make pregnant	to birth or have a child
 beda	(horticulture) a bed (for plants)
-beda	(archaic) to ask; request	to pray
+beda	to ask; request	to pray
 bedd	to pray	to ask something of someone
-bedd	(archaic) to ask; request	to pray
+bedd	to ask; request	to pray
 bedt	to pray	to ask something of someone
-bedt	(archaic) to ask; request	to pray
+bedt	to ask; request	to pray
 bedande	to pray	to ask something of someone
-bedande	(archaic) to ask; request	to pray
+bedande	to ask; request	to pray
 begynner	to begin (to start, to initiate or take the first step into something.)
 begynte	to begin (to start, to initiate or take the first step into something.)
 begynt	to begin (to start, to initiate or take the first step into something.)
@@ -12341,6 +12406,9 @@ breidslone	form removed with the spelling reform of 1938; superseded by breisla
 breier	to lay out, arrange, pull over (e.g. a tablecloth onto a table, a blanket over someone going to sleep)	to spread (e.g. a rumour)
 breidde	to lay out, arrange, pull over (e.g. a tablecloth onto a table, a blanket over someone going to sleep)	to spread (e.g. a rumour)
 breiande	to lay out, arrange, pull over (e.g. a tablecloth onto a table, a blanket over someone going to sleep)	to spread (e.g. a rumour)
+bremselengda	(transport) braking distance, stopping distance
+bremselengder	(transport) braking distance, stopping distance
+bremselengdene	(transport) braking distance, stopping distance
 brenn	(intransitive) burn	(transitive) burn
 brunne	(intransitive) burn	(transitive) burn
 brennast	(intransitive) burn	(transitive) burn
@@ -12445,6 +12513,8 @@ dekkande	cover	surface (of a road; of asphalt, gravel, concrete, charcoal etc.)
 dekkjer	to cover (place something over or upon)	to cover (provide coverage of)
 dekkjast	to cover (place something over or upon)	to cover (provide coverage of)
 dekkjande	to cover (place something over or upon)	to cover (provide coverage of)
+desillusjonerte	to disillusion (someone)
+desillusjonerte	disillusioned
 desse	this; this one
 dreg	to pull; drag	to leave; depart; go
 dreg	to pull; drag	to leave; depart; go	plural definite of drag
@@ -13276,6 +13346,11 @@ klinkande	to rivet	to clink glasses against each other, when making a toast
 klink	to rivet	to clink glasses against each other, when making a toast
 klubbar	a club (organisation)
 klubbar	(weapon) club	gavel	lollipop	to club, hit with a club	to go to a nightclub, go clubbing
+klynka	a whimper, whine
+klynka	to whine, whimper
+klynkar	to whine, whimper
+klynkast	to whine, whimper
+klynkande	to whine, whimper
 knoken	knuckle
 knokar	knuckle
 knokane	knuckle
@@ -14016,6 +14091,14 @@ roper	to shout
 ropte	to shout
 ropt	to shout
 ropande	to shout
+rosar	a rose (plant and flower of genus Rosa)
+rosar	pink (colour)	pink, rose (colour)	To praise, to compliment
+rosast	a rose (plant and flower of genus Rosa)
+rosast	pink (colour)	pink, rose (colour)	To praise, to compliment
+rosande	a rose (plant and flower of genus Rosa)
+rosande	pink (colour)	pink, rose (colour)	To praise, to compliment
+ros	a rose (plant and flower of genus Rosa)
+ros	pink (colour)	pink, rose (colour)	To praise, to compliment
 runkar	(colloquial) wank	(nautical) roll, sway, rock	walk heavily and slowly, typically by oneself
 runkast	(colloquial) wank	(nautical) roll, sway, rock	walk heavily and slowly, typically by oneself
 runkande	(colloquial) wank	(nautical) roll, sway, rock	walk heavily and slowly, typically by oneself
@@ -14153,6 +14236,8 @@ singlar	(music) a single (record or CD)	(sports) singles (e.g. in tennis)	shingl
 singlar	(music) a single (record or CD)	(sports) singles (e.g. in tennis)
 singlane	(music) a single (record or CD)	(sports) singles (e.g. in tennis)	shingle (pebbles, gravel)
 singlane	(music) a single (record or CD)	(sports) singles (e.g. in tennis)
+sinnet	mind
+sinnet	anger, temper
 sit	sit
 sat	sit
 sitjast	sit
@@ -14264,10 +14349,9 @@ skrem	frighten
 skriftar	(religion) to confess one's sins in order to gain absolution
 skriftast	(religion) to confess one's sins in order to gain absolution
 skriftande	(religion) to confess one's sins in order to gain absolution
-skriv	to write
-skreiv	to write
-skrivast	to write
-skrivande	to write
+skreiv	to write	plural definite of skriv
+skrivast	to write	plural definite of skriv
+skrivande	to write	plural definite of skriv
 skuggar	to shadow (the act of casting a shadow), to shade	to shadow (to keep under surveillance)
 skuggar	a shadow	to shadow (the act of casting a shadow), to shade	to shadow (to keep under surveillance)
 skuggast	to shadow (the act of casting a shadow), to shade	to shadow (to keep under surveillance)
