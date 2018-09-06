@@ -278,14 +278,15 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 				echo "\n-----------------------------------------------------------------------------------------\n";
 			}
 	}
-	if ($inflectionString != ""){ // Ehh why is this shit happening? First two lines are blank
-		if ($verboseMode == "1"){
-			echo "Inflections: $inflectionString\n\n";
-		}
-		//array_push($finalInflectionArray, $inflectionString);
+	if ($verboseMode == "1"){
+		echo "Inflections: $inflectionString\n\n";
 	}
-	if ($wordDefinitionString != ""){ // Ehh why is this shit happening? First two lines are blank
-		array_push($finalWordDefinitionArray, $wordDefinitionString);
+	//array_push($finalInflectionArray, $inflectionString);
+	array_push($finalWordDefinitionArray, $wordDefinitionString);
+
+	if ($inflectionString == "" || $wordDefinitionString == ""){
+		echo "ERROR: inflectionString or wordDefinitionString is empty for word $word";
+		exit(3);
 	}
 }
 
