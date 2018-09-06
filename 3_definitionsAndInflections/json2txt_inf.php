@@ -13,7 +13,7 @@ function scrapShit($languageToScrap) {
 	
 	foreach($files as $file) {
 		//do your work here
-		if ($file != "." || $file != "..") {
+		if ($file != "." && $file != "..") {
 			$word = substr($file, 0, -5 );
 			getDefinitions($word, $finalInflectionArray, $finalWordDefinitionArray, $languageToScrap);
 		}
