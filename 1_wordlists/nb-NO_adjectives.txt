@@ -249,6 +249,7 @@ brakk
 brannsikker
 brasiliansk
 bratt
+brav
 bred
 brei
 brennbar
@@ -291,6 +292,7 @@ daglig
 dagligdags
 dagsaktuell
 dansk
+dau
 daud
 defekt
 deilig
@@ -498,6 +500,7 @@ farmasøytisk
 fasjonabel
 fast
 fastboende
+fastmontert
 fatal
 fattig
 feid
@@ -611,6 +614,7 @@ forretningsmessig
 forreven
 forrevet
 forrædersk
+forsettlig
 forsiktig
 forsinket
 forskjellig
@@ -658,6 +662,7 @@ frigjort
 frisisk
 frisk
 fristende
+frittgående
 frittstående
 frivillig
 frodig
@@ -939,6 +944,7 @@ iherdig
 ikonisk
 ille
 illeluktende
+illojal
 illustrerende
 imitert
 immateriell
@@ -1129,6 +1135,7 @@ kongeblå
 kongelig
 kongolesisk
 konisk
+konkav
 konkret
 konkurransedyktig
 konkurs
@@ -1312,6 +1319,7 @@ lysegrønn
 lysende
 lyserød
 lysfølsom
+lystig
 låsbar
 lærd
 lærerik
@@ -1377,6 +1385,7 @@ mekanisk
 meksikansk
 mektig
 melkeaktig
+mellomamerikansk
 mellomstor
 meningsfull
 meningsløs
@@ -1589,6 +1598,7 @@ ombygget
 omdiskutert
 omfangsrik
 omfattende
+omgjengelig
 omgående
 omhyggelig
 omkringliggende
@@ -1805,8 +1815,10 @@ renslig
 rentefri
 representativ
 republikansk
+reservert
 resiprok
 resirkulerbar
+resolutt
 respektiv
 respektløs
 respiratorisk
@@ -1915,6 +1927,7 @@ selvisk
 selvlært
 selvmotsigende
 selvpåført
+selvsikker
 selvstendig
 selvtilfreds
 semittisk
@@ -1988,6 +2001,7 @@ skikkelig
 skinnende
 skitten
 skjelettaktig
+skjelven
 skjematisk
 skjermet
 skjær
@@ -1996,6 +2010,7 @@ skogkledd
 skotsk
 skreddersydd
 skrekkelig
+skrekkslagen
 skrellet
 skreven
 skriftlig
@@ -2010,6 +2025,7 @@ skyggefull
 skyhøy
 skyldig
 skånsom
+slagen
 slags
 slank
 slapp
@@ -2109,6 +2125,7 @@ stillestående
 stiv
 stjernespekket
 stjålen
+stoisk
 stokastisk
 stolt
 stor
@@ -2123,6 +2140,7 @@ stressende
 stroppeløs
 strukturell
 strømførende
+stusslig
 stygg
 stødig
 støvet
@@ -2391,6 +2409,7 @@ ubetydelig
 ubevegelig
 ubevisst
 ubevæpnet
+ublid
 ublodig
 ubrukbar
 ubrukt
@@ -2575,6 +2594,7 @@ urørt
 USA-amerikansk
 usaklig
 usaltet
+usannsynlig
 usbekisk
 usedvanlig
 uselvisk
@@ -2667,6 +2687,7 @@ uvilkårlig
 uvirkelig
 uviss
 uvitende
+uvitenskapelig
 uvurderlig
 uåpnet
 uærbødig
@@ -2696,6 +2717,7 @@ vanvittig
 variabel
 varig
 varm
+varsom
 vassavkjølt
 vassrett
 vasstett
@@ -2780,6 +2802,7 @@ viss
 vissen
 visuell
 vital
+vitebegjærlig
 vitenskapelig
 vittig
 voksen

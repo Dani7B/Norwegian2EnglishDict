@@ -19,6 +19,7 @@ annars
 annleis
 anslagsvis
 att
+attantil
 attende
 atter
 attpåtil

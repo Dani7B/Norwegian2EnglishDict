@@ -337,6 +337,7 @@ arbeidsstasjon
 arbeidsstyrke
 arbeidstager
 arbeidstaker
+arbeidstrykk
 arbeidsuke
 areal
 arena
@@ -716,6 +717,7 @@ berg
 bergart
 bergenser
 berging
+bergingsbil
 bergmann
 bergvegg
 berømthet
@@ -803,6 +805,7 @@ bildekk
 bildel
 bildør
 bilferge
+bilfører
 bilist
 biljard
 bilkø
@@ -813,6 +816,7 @@ billettkontroll
 billettkontrollør
 bilmotor
 bilnøkkel
+bilpanser
 bilskip
 bind
 bindemiddel
@@ -902,6 +906,7 @@ blokade
 blokk
 blokkbokstav
 blomkål
+blomkåløre
 blomst
 blomsterbed
 blomsterbutikk
@@ -1123,6 +1128,7 @@ bryter
 bryting
 brød
 brødblings
+brødkniv
 brødrasp
 brødrister
 brødskive
@@ -1171,6 +1177,8 @@ bunt
 bur
 burgunder
 burgundervin
+burhøne
+burhøns
 burka
 burkiner
 burmeser
@@ -1179,8 +1187,10 @@ bursdagskake
 burundier
 busk
 buss
+buss-skur
 busserull
 bussjåfør
+busskur
 bussrute
 busstasjon
 busstur
@@ -1312,7 +1322,9 @@ dametoalett
 dameundertøy
 damp
 damper
+dampkjele
 damplokomotiv
+dampmaskin
 dampskip
 dampturbin
 dane
@@ -1459,6 +1471,7 @@ diskriminering
 diskusjon
 dispensasjon
 disposisjon
+disseksjon
 distanse
 distribusjon
 distrikt
@@ -1695,6 +1708,7 @@ eksakthet
 eksamen
 eksempel
 eksemplar
+eksemplarfremstilling
 eksentriker
 eksentrisitet
 eksess
@@ -1885,6 +1899,7 @@ ettermiddag
 etternavn
 etterord
 etterretning
+etterskrift
 etterslep
 ettersmak
 etterspørsel
@@ -2036,6 +2051,7 @@ fengselscelle
 fengsling
 fennek
 fenomen
+ferd
 ferdighet
 ferdigmat
 ferdsel
@@ -2187,6 +2203,7 @@ flagg
 flaggermus
 flaggskip
 flaggstang
+flak
 flamingo
 flamme
 flammekaster
@@ -2200,6 +2217,7 @@ flekkhyene
 fleksibilitet
 flertall
 flestepart
+flir
 flis
 flo
 flod
@@ -2617,6 +2635,7 @@ fylkesvei
 fyll
 fyllplass
 fyr
+fyrbøter
 fyrst
 fyrstbiskop
 fyrste
@@ -2850,11 +2869,14 @@ glidefly
 glidelås
 glimmer
 glimt
+glis
 glo
 global oppvarming
 globalisering
 globus
 glorie
+glose
+glosebok
 glugg
 glugge
 glykol
@@ -3087,10 +3109,12 @@ halvsøster
 halvtime
 halvår
 halvøy
+ham
 hamburger
 hammar
 hammer
 hamp
+hamskifte
 hamster
 hand
 handball
@@ -3246,6 +3270,7 @@ hestesko
 hestesport
 hete
 hetebølge
+heteflate
 heteroseksualitet
 hets
 hette
@@ -3290,6 +3315,7 @@ hjemmeside
 hjemsendelse
 hjemsted
 hjerne
+hjernerystelse
 hjerneskade
 hjernestamme
 hjernevask
@@ -3313,6 +3339,7 @@ hode
 hodebunn
 hodelus
 hodepine
+hodeskade
 hodeskalle
 hodetelefon
 hoff
@@ -3560,8 +3587,10 @@ ikke-røyker
 ikon
 ikosaeder
 ild
+ildflue
 ildsjel
 ildsted
+illojalitet
 illusjon
 illustrasjon
 illustratør
@@ -3712,6 +3741,7 @@ isbre
 isbryter
 iscenesettelse
 isfjell
+isflak
 iskaffe
 iskappe
 iskemi
@@ -4081,6 +4111,7 @@ kjernemelk
 kjernereaktor
 kjerre
 kjerring
+kjerringråd
 kjertel
 kjerub
 kjetting
@@ -4100,10 +4131,12 @@ kjøkkenbenk
 kjøkkenbord
 kjøkkenhage
 kjøkkenhåndkle
+kjøkkenkniv
 kjøkkenpapir
 kjøkkenredskap
 kjøkkenrull
 kjøkkensjef
+kjøkkenstol
 kjøl
 kjøleribbe
 kjøleskap
@@ -4218,6 +4251,8 @@ knekt
 knep
 knipetang
 kniv
+knivblad
+knivblokk
 knoke
 knop
 knopp
@@ -4598,6 +4633,7 @@ kunstverk
 kupong
 kupp
 kuppforsøk
+kupé
 kur
 kurder
 kurdisk
@@ -4680,6 +4716,7 @@ kølle
 køntri
 køye
 køyeseng
+labfrakk
 laboratorium
 labyrint
 lacrosse
@@ -4708,6 +4745,7 @@ landegrense
 landemerke
 landesorg
 landing
+landingsstripe
 landkode
 landkrabbe
 landmasse
@@ -4956,6 +4994,7 @@ loppefarge
 loppemarked
 los
 lotteri
+lounge
 lov
 lovbrott
 lovbrudd
@@ -5023,6 +5062,7 @@ luxemburger
 luxemburgsk
 ly
 lyd
+lydanlegg
 lydbok
 lydbånd
 lydbølge
@@ -5259,6 +5299,7 @@ mave
 medalje
 medarbeider
 medeier
+medfart
 medgift
 medhjelper
 medikament
@@ -5440,6 +5481,7 @@ minnesmerke
 minoritet
 minoritetsgruppe
 minoritetsspråk
+minstelønn
 minstepris
 minusgrad
 minustegn
@@ -5474,12 +5516,15 @@ modell
 modellfly
 modelljernbane
 modenhet
+moder
 Moder Jord
 modernisering
+moderskip
 modifikasjon
 modifisering
 modus
 mokasin
+mold
 moldover
 moldovsk
 moldvarp
@@ -5577,6 +5622,7 @@ motvilje
 motvind
 mudder
 mudderflate
+muld
 muldvarp
 mulighet
 mulm
@@ -5639,6 +5685,7 @@ måltid
 målvakt
 måne
 måned
+måneformørkelse
 måneskinn
 måse
 måte
@@ -5696,6 +5743,7 @@ natt
 nattarbeid
 nattehimmel
 nattkjole
+nattog
 nattpotte
 nattskift
 nattsyn
@@ -5736,6 +5784,8 @@ nederlender
 nederlending
 nedertysk
 nedetid
+nedfall
+nedfallstre
 nedgang
 nedgangstid
 nedleggelse
@@ -5890,6 +5940,7 @@ nøkkelkort
 nøkkelord
 nøkkelring
 nøtt
+nøtteknekker
 nøyaktighet
 nøytron
 oase
@@ -6278,6 +6329,7 @@ pedagogikk
 pedal
 pedikyr
 pedo
+peis
 peiskos
 pekefinger
 pelikan
@@ -6455,6 +6507,7 @@ politimester
 politisk fange
 politistasjon
 politistyrke
+polka
 pollen
 pollinering
 polo
@@ -6631,6 +6684,7 @@ pubertet
 publikasjon
 publikum
 publikummer
+publisist
 publisitet
 puddel
 pudder
@@ -7016,6 +7070,7 @@ ruin
 rulett
 rull
 rullebane
+rullebanelys
 rullemotstand
 rulleskøyte
 rullestol
@@ -7035,6 +7090,7 @@ rupi
 rus
 rusk
 rusmiddel
+russefeiring
 russer
 russisk
 russisk rulett
@@ -7304,6 +7360,7 @@ semester
 semifinale
 semikolon
 seminar
+semitrailer
 senat
 senator
 sendebud
@@ -7486,6 +7543,7 @@ sjøbein
 sjøbod
 sjøbunn
 sjøbunnsutnyttelse
+sjøfly
 sjøfolk
 sjøfront
 sjøfugl
@@ -7610,6 +7668,8 @@ skjorte
 skjulested
 skjær
 skjære
+skjærebrett
+skjærefjøl
 skjærer
 skjærgård
 skjæring
@@ -7652,7 +7712,9 @@ skonnert
 skorpion
 skorstein
 skotte
+skrap
 skred
+skrekk
 skrekkfilm
 skrev
 skribent
@@ -7695,6 +7757,7 @@ skulptør
 skum
 skumgummi
 skumring
+skur
 skuter
 skvadron
 skvåsj
@@ -7931,6 +7994,7 @@ sovepille
 sovepose
 soverom
 sovetablett
+sovevogn
 soveværelse
 soyabønne
 soyasaus
@@ -8412,6 +8476,7 @@ svingbro
 svingbru
 svinghjul
 svingning
+svingskive
 sviske
 svoger
 svovel
@@ -8558,6 +8623,7 @@ tak
 takgrind
 takkekort
 takknemlighet
+takluke
 takrenne
 takst
 takstein
@@ -8611,6 +8677,7 @@ tape
 taper
 tapet
 tapetlim
+tarantell
 tariff
 tariffavtale
 tarm
@@ -8801,7 +8868,6 @@ tiltak
 tiltrekning
 tilvekst
 tilværelse
-time
 timeglass
 timian
 ting
@@ -8978,6 +9044,7 @@ trinn
 trio
 tristhet
 triumf
+triumfferd
 tro
 trofé
 trojaner
@@ -9175,6 +9242,7 @@ ulyd
 ulydighet
 ulykke
 umesamisk
+umodenhet
 under
 underarm
 underart
@@ -9344,6 +9412,7 @@ utvikling
 utviklingsland
 utålmodighet
 utøver
+uvesen
 uvitenhet
 uvær
 uår

@@ -149,6 +149,7 @@ befolke
 befri
 befrukte
 begi
+beglo
 begrave
 begrense
 begrunne
@@ -197,6 +198,7 @@ betale
 betegne
 betjene
 betrakte
+betråkke
 bety
 beundre
 bevare
@@ -309,6 +311,7 @@ dirigere
 diskriminere
 diskutere
 diskvalifisere
+dissekere
 distansere
 distrahere
 distribuere
@@ -449,6 +452,7 @@ fjernstyre
 fjerte
 fjære
 flankere
+flekke
 flekse
 flombelyse
 fluktuere
@@ -521,6 +525,7 @@ forlate
 forlegge
 forlenge
 forlove
+forløpe
 formalisere
 forme
 formidle
@@ -584,6 +589,7 @@ frakte
 frambringe
 framføre
 framheve
+framlegge
 framstille
 framstå
 fraråde
@@ -886,6 +892,7 @@ kaste
 kaste opp
 katalysere
 kategorisere
+kave
 kidnappe
 kike
 kikke
@@ -893,6 +900,7 @@ kile
 kjede
 kjempe
 kjenne
+kjennes
 kjennetegne
 kjevle
 kjøle
@@ -1253,6 +1261,7 @@ oppløse
 oppløyse
 oppmuntre
 oppnå
+opponere
 opprette
 opprettholde
 oppsluke
@@ -1325,6 +1334,7 @@ pensjonere
 perfeksjonere
 personifisere
 pine
+piple
 piske
 pisse
 plage
@@ -1372,6 +1382,7 @@ prøve
 prøvekjøre
 psyke
 publisere
+pugge
 pule
 pulsere
 pulverisere
@@ -1398,6 +1409,7 @@ pøse
 raffinere
 rakne
 ramme
+ramponere
 rane
 rangere
 ransake
@@ -1409,6 +1421,7 @@ rasle
 raslende
 raspe
 ratifisere
+ratte
 raute
 reagere
 redde
@@ -1472,6 +1485,7 @@ ronke
 rope
 rote
 rotere
+rugge
 rulle
 rumle
 runde
@@ -1480,6 +1494,7 @@ ruse
 ruste
 rydde
 rygge
+ryke
 rykke frem
 råde
 råtne
@@ -1527,6 +1542,7 @@ sette
 sette pris på
 si
 si seg selv
+sige
 signalisere
 signere
 sikre
@@ -1585,6 +1601,7 @@ skule
 skulke
 skulle
 skumme
+skvette
 skvise
 sky
 skye
@@ -1602,6 +1619,7 @@ slappe
 slenge
 slepe
 slette
+slipe
 slippe
 slite
 slokke
@@ -1661,9 +1679,11 @@ sponse
 spore
 spore av
 sprade
+spraye
 spre
 sprekke
 sprenge
+sprette
 sprute
 sprøyte
 spy
@@ -1688,6 +1708,7 @@ stene
 stenge
 sterilisere
 stige
+stikke
 stilisere
 stille
 stimulere
@@ -1736,6 +1757,7 @@ svelge
 sverge
 svette
 sveve
+svi
 svikte
 svinge
 svinne
@@ -1818,6 +1840,7 @@ tiltrekke
 tindre
 tippe
 tipse
+tirre
 tisse
 tisse på seg
 tjene
@@ -1974,6 +1997,7 @@ vokse
 volde
 voldta
 vorde
+vri
 vurdere
 våkne
 væpne

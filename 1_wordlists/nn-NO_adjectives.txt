@@ -36,6 +36,8 @@ alliert
 allmektig
 allmenn
 allsidig
+allvetande
+allvitande
 alternativ
 alvorleg
 ambisiøs
@@ -399,6 +401,7 @@ fasinerande
 fasjonabel
 fast
 fastlagd
+fastmontert
 fatal
 fattig
 feil
@@ -477,6 +480,7 @@ fotografisk
 fotovoltaisk
 framand
 framgangsrik
+framsynt
 framtidig
 frankisk
 fransk
@@ -687,6 +691,7 @@ idiotisk
 idiotsikker
 idyllisk
 ikonisk
+illojal
 immateriell
 imperialistisk
 implisitt
@@ -852,6 +857,7 @@ kongeblå
 kongeleg
 kongolesisk
 konisk
+konkav
 konkret
 konkurransedyktig
 konkurs
@@ -1008,6 +1014,7 @@ lynrask
 lys
 lyseblå
 lysebrun
+lystig
 låg
 låsbar
 låtteleg
@@ -1066,6 +1073,7 @@ mekanisert
 mekanisk
 meksikansk
 mektig
+mellomamerikansk
 mellomstor
 menneskeleg
 menneskeskapt
@@ -1379,6 +1387,7 @@ punktvis
 på kreditt
 påfallande
 påtatt
+påteken
 qatarsk
 radikal
 radioaktiv
@@ -1407,6 +1416,7 @@ rentefri
 representativ
 republikansk
 resiprok
+resolutt
 respektiv
 respektlaus
 respiratorisk
@@ -1437,6 +1447,8 @@ rosa
 rumensk
 rund
 rural
+rusa
+rusk
 russisk
 rusten
 rutinemessig
@@ -1542,6 +1554,7 @@ skikkeleg
 skiten
 skitten
 skjelettaktig
+skjelven
 skjematisk
 skjønn
 skjør
@@ -1630,6 +1643,7 @@ still
 stille
 stillferdig
 stiv
+stoisk
 stokastisk
 stolt
 stor
@@ -1836,6 +1850,7 @@ ubekrefta
 ubestemt
 ubetalt
 ubevisst
+ublid
 ublodig
 ubroten
 ubrukbar
@@ -1964,6 +1979,7 @@ uspesifisert
 ustabil
 usteril
 usunn
+utakande
 utandørs
 utanlandsk
 utdatert
@@ -2107,5 +2123,6 @@ zoologisk
 økumenisk
 ønskeleg
 ørliten
+ørnøygd
 øvre
 øvst

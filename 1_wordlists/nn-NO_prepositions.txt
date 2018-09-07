@@ -1,4 +1,5 @@
 attanfor
+attantil
 attmed
 attom
 attum
@@ -79,6 +80,7 @@ utanfor
 utanfrå
 utanom
 utanum
+utfor
 uti
 utover
 ved

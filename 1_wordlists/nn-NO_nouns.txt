@@ -277,12 +277,14 @@ arbeidsklede
 arbeidskraft
 arbeidsleir
 arbeidsliv
+arbeidsmann
 arbeidsmiljø
 arbeidsplass
 arbeidsplattform
 arbeidsstasjon
 arbeidsstyrke
 arbeidstakar
+arbeidstrykk
 areal
 arena
 argentinar
@@ -306,6 +308,7 @@ armbrøst
 armenar
 armeniar
 armensk
+arming
 armlene
 armé
 aroma
@@ -363,6 +366,7 @@ attentatforsøk
 attentatmann
 attest
 attraksjon
+attval
 audiens
 auditorium
 audn
@@ -510,6 +514,7 @@ bankboks
 banke
 bankett
 bankkonto
+bankkvelv
 bankran
 banner
 baptist
@@ -616,6 +621,7 @@ berg
 bergart
 bergensar
 berging
+bergingsbil
 bergmann
 bergvegg
 berøring
@@ -680,6 +686,7 @@ billettautomat
 billettkontroll
 billettkontrollør
 bilmotor
+bilpanser
 bilskip
 bind
 bindemiddel
@@ -939,6 +946,7 @@ brytar
 bryting
 brød
 brødblings
+brødkniv
 brødrasp
 brødskive
 brødtekst
@@ -985,7 +993,9 @@ bursdagskake
 burundiar
 busk
 buss
+buss-skur
 bussjåfør
+busskur
 bussrute
 busstasjon
 busstur
@@ -1106,7 +1116,9 @@ dame
 dametoalett
 dameundertøy
 damp
+dampkjele
 damplokomotiv
+dampmaskin
 dampskip
 dampturbin
 dane
@@ -1235,6 +1247,7 @@ diskriminering
 diskusjon
 dispensasjon
 disposisjon
+disseksjon
 distanse
 distribusjon
 distrikt
@@ -1604,6 +1617,7 @@ ettermiddag
 etternamn
 etterord
 etterretning
+etterskrift
 etterslep
 ettersmak
 ettersyn
@@ -1868,6 +1882,7 @@ fjøre
 flagg
 flaggermus
 flaggskip
+flak
 flamingo
 flamme
 flaske
@@ -1880,6 +1895,7 @@ fleirtal
 flekk
 fleksibilitet
 flesk
+flir
 flis
 flod
 flodbølgje
@@ -2091,6 +2107,7 @@ framlegg
 frammarsj
 framstamn
 framstilling
+framstøyt
 framtid
 framvekst
 fransk
@@ -2393,11 +2410,14 @@ glidefly
 glidelås
 glimmer
 glimt
+glis
 glo
 global oppvarming
 globalisering
 globus
 glorie
+glose
+glosebok
 glugg
 glugge
 glykol
@@ -2604,12 +2624,14 @@ halvsøster
 halvtime
 halvår
 halvøy
+ham
 hamarhai
 hamløypar
 hammar
 hammarhai
 hamn
 hamp
+hamskifte
 hamster
 hand
 handbak
@@ -2752,6 +2774,7 @@ hesterygg
 hestesko
 hestesport
 hete
+heteflate
 heteroseksualitet
 hets
 hette
@@ -2971,6 +2994,7 @@ idé
 ikon
 ikorn
 ilder
+illojalitet
 illusjon
 illustrasjon
 illustratør
@@ -3101,6 +3125,7 @@ isbit
 isbjørn
 isbre
 isfjell
+isflak
 iskappe
 iskemi
 iskrem
@@ -3320,6 +3345,8 @@ kapitalisme
 kapitalist
 kapittel
 kapp
+kappa
+kappe
 kappverdar
 kaprar
 kapsel
@@ -3450,6 +3477,7 @@ kjernereaktor
 kjerr
 kjerre
 kjerring
+kjerringråd
 kjertel
 kjerub
 kjetting
@@ -3468,6 +3496,7 @@ kjøkkenhage
 kjøkkenpapir
 kjøkkenrull
 kjøkkensjef
+kjøkkenstol
 kjøl
 kjøleribbe
 kjøleskap
@@ -3581,6 +3610,7 @@ knekt
 knep
 knipetong
 kniv
+knivblad
 knok
 knoke
 knop
@@ -3933,6 +3963,7 @@ kunstverk
 kupong
 kupp
 kuppforsøk
+kupé
 kur
 kurdar
 kurdisk
@@ -4025,6 +4056,7 @@ køy
 køye
 køyeseng
 køyretøy
+labfrakk
 laboratorium
 labyrint
 lacrosse
@@ -4051,6 +4083,7 @@ landegrense
 landemerke
 landesorg
 landing
+landingsstripe
 landkode
 landkrabbe
 landmasse
@@ -4310,6 +4343,7 @@ luxembourgsk
 luxemburgar
 luxemburgsk
 lyd
+lydanlegg
 lydbok
 lyddempar
 lydmur
@@ -4519,6 +4553,7 @@ mausoleum
 medalje
 medarbeidar
 medeigar
+medfart
 medgift
 medikament
 medisin
@@ -4668,6 +4703,7 @@ minnesmerke
 minoritet
 minoritetsgruppe
 minoritetsspråk
+minstelønn
 minstepris
 minusgrad
 minutt
@@ -4697,8 +4733,10 @@ mobiltelefon
 mod
 modell
 modellfly
+moder
 Moder Jord
 modernisering
+moderskip
 modifikasjon
 modifisering
 modning
@@ -4707,6 +4745,7 @@ mogelegheit
 moglegheit
 mogning
 mokasin
+mold
 moldovar
 moldovsk
 moldvarp
@@ -4914,6 +4953,7 @@ natt
 nattarbeid
 nattehimmel
 nattkjole
+nattog
 nattpotte
 nattskift
 nattsyn
@@ -4955,6 +4995,8 @@ nederlendar
 nederlending
 nedertysk
 nedetid
+nedfall
+nedfallstre
 nedgang
 nedgangstid
 neger
@@ -5590,6 +5632,7 @@ politimeister
 politisk fange
 politistasjon
 politistyrke
+polka
 pollen
 pollinering
 polo
@@ -5748,6 +5791,7 @@ pub
 pubertet
 publikasjon
 publikum
+publisist
 publisitet
 puddel
 pudder
@@ -6108,9 +6152,12 @@ rundstykke
 rundtur
 rune
 rupi
+rus
+rusk
 rusmiddel
 russ
 russar
+russefeiring
 russisk
 russisk rulett
 rust
@@ -6325,6 +6372,7 @@ sementfabrikk
 semifinale
 semikolon
 seminar
+semitrailer
 senat
 senator
 sendar
@@ -6423,6 +6471,7 @@ singaporar
 singel
 singelplate
 single
+singling
 sink
 sinksulfat
 sinn
@@ -6492,6 +6541,7 @@ sjåfør
 sjø
 sjøaure
 sjøbein
+sjøfly
 sjøfolk
 sjøfront
 sjøfugl
@@ -6565,6 +6615,7 @@ skildring
 skilje
 skiljeline
 skiljelinje
+skilling
 skilnad
 skilsmisse
 skilt
@@ -6641,7 +6692,9 @@ skorpion
 skorstein
 skotte
 skotår
+skrap
 skred
+skrekk
 skrekkfilm
 skribent
 skrift
@@ -6890,6 +6943,7 @@ sovepille
 sovepose
 soverom
 sovetablett
+sovevogn
 sovjetar
 soyabønne
 soyasaus
@@ -6918,6 +6972,7 @@ spektrum
 spekulasjon
 spel
 spelar
+spelemann
 spelkort
 spenn
 spenning
@@ -6953,6 +7008,7 @@ sporveksel
 sporvidde
 sporvogn
 spove
+sprang
 spray
 sprayboks
 sprekk
@@ -7301,6 +7357,7 @@ svinekjøtt
 sving
 svingbru
 svinghjul
+svingskive
 sviske
 svoger
 svolt
@@ -7376,6 +7433,7 @@ sæd
 særtrekk
 søk
 søkelys
+søkk
 søknad
 søle
 sølibat
@@ -7431,6 +7489,7 @@ takgrind
 takkekort
 takknemlegheit
 takksemd
+takluke
 takrenne
 taksi
 takst
@@ -7486,6 +7545,7 @@ tapar
 tape
 tapet
 tapetlim
+tarantell
 tariff
 tariffavtale
 tarm
@@ -7642,7 +7702,6 @@ tiltrekking
 tilvekst
 tilvokster
 timber
-time
 timeglas
 timian
 ting
@@ -7798,6 +7857,7 @@ trinidadar
 trinn
 trio
 triumf
+triumfferd
 trivnad
 trofé
 troll
@@ -8087,6 +8147,8 @@ utviklar
 utvikling
 utviklingsland
 uver
+uvesen
+uvisse
 uvled
 uvêr
 uår
@@ -8196,6 +8258,7 @@ vekt
 vektløfting
 vektor
 vekttap
+vele
 velferd
 velferdsstat
 velkomen
@@ -8311,6 +8374,7 @@ vinkel
 vinkelhake
 vinkjellar
 vinnar
+vinning
 vinsj
 vinter
 vinterføre
@@ -8384,6 +8448,7 @@ våtdrakt
 våtmark
 væske
 vêr
+vêrhane
 vêrmelding
 vêrvarsel
 walisisk

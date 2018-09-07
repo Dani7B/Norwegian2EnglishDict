@@ -171,8 +171,11 @@ dette
 digitalisere
 dille
 dingle
+dirka
+dirke
 diskriminere
 diskutere
+dissekere
 divergere
 dra
 draga
@@ -197,6 +200,8 @@ drøyma
 drøyme
 duga
 duge
+dukka
+dukke
 dundre
 dynja
 dynje
@@ -280,6 +285,7 @@ flakke
 flaksa
 flakse
 fleipa
+flekke
 fljota
 fljote
 fluktuere
@@ -566,9 +572,12 @@ kalle
 kanalisere
 kansellere
 kantre
+kappa
+kappe
 kassere
 kasta
 kaste
+kave
 kika
 kike
 kikka
@@ -595,6 +604,8 @@ klubbe
 klynka
 klynke
 klyppe
+kløyva
+kløyve
 knegge
 knipe
 knirke
@@ -680,6 +691,7 @@ lagerføre
 lagre
 lake
 lamme
+lande
 laste
 lata
 late
@@ -843,6 +855,7 @@ oppføre
 oppleva
 oppleve
 oppnå
+opponere
 oppretthalde
 oppstå
 opptre
@@ -871,6 +884,7 @@ peke
 pendle
 personifisere
 pine
+piple
 piske
 pissa
 pisse
@@ -899,6 +913,7 @@ pryda
 pryde
 prøva
 prøve
+pugge
 purre
 pusla
 pusle
@@ -910,12 +925,14 @@ påverka
 påverke
 raka
 rake
+ramponere
 rangere
 rasera
 rasere
 rasjonalisere
 raspe
 ratifisere
+ratte
 raute
 redda
 reddast
@@ -956,14 +973,18 @@ rodna
 rodne
 roe
 romme
+romstera
+romstere
 ropa
 rope
 rosa
 rose
+rugge
 rumle
+rumstera
 runka
 runke
-ruse
+rusa
 rusla
 rusle
 ruva
@@ -976,6 +997,7 @@ rygga
 rygge
 ryggja
 ryggje
+ryke
 rå
 råda
 råde
@@ -1036,6 +1058,7 @@ sjarmere
 sjå
 skaffa
 skaffe
+skaka
 skanne
 skapa
 skape
@@ -1096,6 +1119,7 @@ skura
 skure
 skuva
 skuve
+skvette
 sky
 skyna
 skyne
@@ -1114,6 +1138,7 @@ sleppa
 sleppe
 sletta
 slette
+slipe
 slita
 slite
 sluke
@@ -1154,6 +1179,7 @@ splintra
 splintre
 spolere
 spore
+spraye
 spreia
 spreie
 sprekka
@@ -1248,6 +1274,7 @@ svare
 sveitta
 sveitte
 svekke
+svi
 svika
 svike
 svikta
@@ -1323,6 +1350,7 @@ tilsetta
 tilsette
 tindre
 tipla
+tirre
 tola
 tole
 tolerere
@@ -1480,6 +1508,7 @@ vitja
 vitje
 vokse
 voldta
+vri
 vurdera
 vurdere
 vyrda
