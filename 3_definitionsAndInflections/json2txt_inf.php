@@ -80,12 +80,12 @@ function scrapShit($languageToScrap) {
 			if (in_array($inflectionExplode[$k], $tempTestInflectionArray)) {
 				if ( ! in_array($inflectionExplode[$k], $finalTestInflectionArray)) {
 					array_push($finalTestInflectionArray, $inflectionExplode[$k]);
-//					echo count($finalTestInflectionArray)." - added $inflectionExplode[$k] to final\n";
+					//echo count($finalTestInflectionArray)." - added $inflectionExplode[$k] to final\n";
 				}
 			}
 			else {
 				array_push($tempTestInflectionArray, $inflectionExplode[$k]);
-//				echo count($tempTestInflectionArray)." - test\n";
+				//echo count($tempTestInflectionArray)." - test\n";
 			}
 		}
 	}
@@ -173,10 +173,6 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 					$wordDefinitionString = $wordDefinitionString."	".$fuck[$x];
 				}
 			}
-/*			if (count(explode(" ",$word)) > 1 ){
-				echo "WARNING: DETECTED SPACE, WORD IS A PHRASE, IGNORING INFLECTIONS FOR WORD: ".$word;
-				continue;
-			}*/
 			// This array gets filtered out before any other processing
 			$filterArrayFirst = ["(uncountable)", "(indeclinable)", "(mostly used in definite form)", "(not comparable)", "(superlative)", "(Until 2005)",
 			"(usually in plural form)", "(especially in plural form)", "(mainly in plural form)", "(often reflexive, with seg / oneself)", "(mainly used in plural form)",
@@ -273,7 +269,7 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 			}
 		}
 
-//			var_dump($inflectionArray);
+			//var_dump($inflectionArray);
 			if ($verboseMode == "1"){
 				echo "\n-----------------------------------------------------------------------------------------\n";
 			}
@@ -329,8 +325,8 @@ function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray)
 	}
 	// In case we're still here, the for loop did not find a result, so just create a new entry
 	array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
-
 }
+
 function stripDefinitionGarbage($definitionToStrip, &$word, &$finalInflectionArray) {
 	$filterArray = ["indefinite singular form of ", "indefinite singular genitive of ","indefinite masculine plural of ", "definite masculine singular of ", "definite singular and plural of ", "definite neuter plural of ", "neuter past participle of ", "indefinite singular past participle of ", "alternative form of ",
 	"Alternative form of ", "masculine and feminine past participle of ", "masculine, feminine and neuter past participle of ", "singular definite of ",
