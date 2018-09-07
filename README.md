@@ -70,3 +70,7 @@ Then it runs `json2txt_inf.php` in `3_definitionsAndInflections`, which is a PHP
 Then it runs `makemobi.sh` in `4_finalDictionary`, which runs some tests to detect broken unicode(shouldn't happen), `cat`s the .inf and .txt files from `3_definitionsAndInflections`, runs `tab2opf.py` which is an old modified Python2 script to generate .html and .opf files. Finally it runs `kindlegen.exe` through WINE against the .opf files to generate the final .mobi dictionary.
 
 If a connected Kindle is detected, it'll copy the .mobi files on it too.
+
+## License
+
+Everything unless mentioned otherwise is licensed under AGPLv3. That is everything but index.js responsible for wordlist generation(MIT), the wordlist itself(whatever license Wiktionary uses), tab2opf(GPLv3+) and kindlegen/mobigen binaries(proprietary I assume).
