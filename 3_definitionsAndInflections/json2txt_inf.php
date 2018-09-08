@@ -146,7 +146,10 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 	$json = json_decode($data);
 	for ($i = 0; $i < count($json); $i++) { // There can be multiple $json's inside each other each with a number of definitions[]
 		for ($z = 0; $z < count($json[$i]->definitions); $z++) {
-			$defString = $json[$i]->definitions[$z]->text;
+			$defString = "";
+			for ($zz = 0; $zz < count($json[$i]->definitions[$z]->text); $zz++){
+				$defString = $defString.$json[$i]->definitions[$z]->text[$zz]."\n";
+			}
 			if ($verboseMode == "1"){
 				echo "Raw entry:\n";
 				echo $defString."";
@@ -226,7 +229,7 @@ function processInflectionLine($line, $word, &$finalInflectionArray, $inflection
 			"(inflection identical to the previous definition)", "(not inflected or declined in any way)", "(uncertain of plural forms, possibly same as Bokmål)",
 			"(hardly used in plural form)", "(With a comparative or more and a verb phrase, establishes a parallel with one or more other such comparatives.)",
 			"(mostly used as a past participle)", "(inflections as for vin, musserende is indeclinable)", "(the drink itself)", "(a glass, bottle or can of beer)", "(seg)",
-			"(mainly plural)",
+			"(mainly plural)", "(reflexive)",
 			$word." f, m", $word." f", $word." m",$word." n"];
 			// ^ Since the inflection multiline definition always starts with "WORD m" for example, we remove those.
 
