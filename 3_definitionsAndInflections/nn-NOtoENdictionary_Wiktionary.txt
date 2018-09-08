@@ -11678,6 +11678,7 @@ fura	a pine (tree of the genus Pinus)	pine (wood from pine trees)
 fyll	to fill	to stuff	to reach, turn (a certain age)
 fyr	to fire (supply a fire with fuel)	to fire (bake in a kiln)	fyra (opp) - to light (a fire)	fyra (av) - to fire (a shot, rocket etc.)	(slang) to drink copious amounts of alcohol in a party setting
 fyr	to fire (supply a fire with fuel)	to fire (bake in a kiln)	fyre (opp) - to light (a fire)	fyre (av) - to fire (a shot, rocket etc.)	(slang) to drink copious amounts of alcohol in a party setting	form removed with the spelling reform of 1938; superseded by føre
+fyra	guy, bloke	fire	light (means of starting a fire)	lighthouse, beacon
 fyrst	first
 fór	travel, go	move fast; rush
 fór	danger
@@ -12044,6 +12045,7 @@ spøk	to haunt, appear as a ghost	having a poor outlook; not look good	joke
 spørjast	to ask
 stakk	to sting	to stab	to thrust	to stick	to prick	to prod, poke	to protrude	to go away quickly, to scarper
 stakkar	a skirt (mainly referring to traditional or pre-modern clothing)	a stack (such as a haystack)
+standa	condition, order, state	height, level, reading	a stand (e.g. at an exhibition)	(historical) an estate (a social class)
 stele	to steal (illegally take possession of)	to consume, take	to achieve or gain something by tricking someone or something
 stemna	convention, congress, gathering	course, direction
 stemne	to set course, steer towards	to summon to court, subpoena
@@ -12187,6 +12189,7 @@ visst	know
 visst	certain	if
 voks	to grow	to increase
 voks	to wax (apply wax to something)
+vorte	or	to stay, remain.	(as an auxiliary verb to create passive voice with the main verb in past participle) to be	(change, development over time) to become, get, go.	to be, become, will, going to, turn out,	to be necessary, to have to, to be	(bills and payments) to be, come to
 vorte	to become
 ynska	to wish, desire	wish something for another; express a hope for something to happen
 ynska	a wish, desire	a friendly thought or wish for someone else
@@ -12917,11 +12920,15 @@ gissar	to guess
 gissast	to guess
 gissande	to guess
 giss	to guess
+gjeldar	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
+gjelder	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
+gjeldt	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
+gjeldande	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
 galdt	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
 gjaldt	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
 golde	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-gjeldt	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
-gjeldande	to be valid	to count, matter (be of significance)	to regard, concern (have to do with)	to geld, castrate
+non-standard since 2012) of ganga	a gang
+non-standard since 2012) of ganga	a thread (as above)
 gjennomfører	carry out, execute
 gjennomførte	carry out, execute
 gjennomført	carry out, execute
@@ -14091,14 +14098,20 @@ roper	to shout
 ropte	to shout
 ropt	to shout
 ropande	to shout
-rosar	a rose (plant and flower of genus Rosa)
-rosar	pink (colour)	pink, rose (colour)	To praise, to compliment
+roser	a rose (plant and flower of genus Rosa)
+roser	pink (colour)	pink, rose (colour)	To praise, to compliment
+roste	a rose (plant and flower of genus Rosa)
+roste	pink (colour)	pink, rose (colour)	To praise, to compliment
+rost	a rose (plant and flower of genus Rosa)
+rost	pink (colour)	pink, rose (colour)	To praise, to compliment
 rosast	a rose (plant and flower of genus Rosa)
 rosast	pink (colour)	pink, rose (colour)	To praise, to compliment
 rosande	a rose (plant and flower of genus Rosa)
 rosande	pink (colour)	pink, rose (colour)	To praise, to compliment
 ros	a rose (plant and flower of genus Rosa)
 ros	pink (colour)	pink, rose (colour)	To praise, to compliment
+rosar	a rose (plant and flower of genus Rosa)
+rosar	pink (colour)	pink, rose (colour)	To praise, to compliment
 runkar	(colloquial) wank	(nautical) roll, sway, rock	walk heavily and slowly, typically by oneself
 runkast	(colloquial) wank	(nautical) roll, sway, rock	walk heavily and slowly, typically by oneself
 runkande	(colloquial) wank	(nautical) roll, sway, rock	walk heavily and slowly, typically by oneself
@@ -14998,10 +15011,10 @@ utsetjande	delay, postpone	say something negative about something	expose to
 utslettar	completely remove; exterminate
 utslettast	completely remove; exterminate
 utslettande	completely remove; exterminate
-uttalar	to pronounce	to express
-uttalar	pronunciation	statement
 uttaler	to pronounce	to express
 uttaler	pronunciation	statement
+uttalar	to pronounce	to express
+uttalar	pronunciation	statement
 uttalte	to pronounce	to express
 uttalte	pronunciation	statement
 uttalt	to pronounce	to express
@@ -15029,6 +15042,11 @@ vantande	to lack	be wrong with; have an issue
 vantande	a glove
 vant	to lack	be wrong with; have an issue
 vant	a glove
+vart	or	to stay, remain.	(as an auxiliary verb to create passive voice with the main verb in past participle) to be	(change, development over time) to become, get, go.	to be, become, will, going to, turn out,	to be necessary, to have to, to be	(bills and payments) to be, come to
+vart	wary, careful	nervous, timid	sensitive	was
+vart	to defend, protect
+vart	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
+vart	to become
 varmast	hot, warm
 varmast	warmth, heat, heating	to warm, heat, warm up
 vaskar	to wash (something, someone, oneself (reflexive))
@@ -15101,10 +15119,6 @@ verande	to be
 ver	to be
 ver	to defend, protect
 ver	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
-vart	wary, careful	nervous, timid	sensitive	was
-vart	to defend, protect
-vart	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
-vart	to become
 verjar	to defend, protect
 verjar	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
 verjast	to defend, protect
@@ -15115,6 +15129,7 @@ verj	to defend, protect
 verj	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
 varde	to defend, protect
 varde	to defend, protect	guardian (legally responsible for a minor)	protector (someone who protects)
+Etymology 2	to work (have effect)	to seem, appear
 verke	to work (have effect)	to seem, appear
 verke	to ache
 verkte	to work (have effect)	to seem, appear

@@ -16136,6 +16136,10 @@ koster	a broom or brush	diet (what one usually eats, not a restricted diet)	boar
 koster	to cost (e.g. a certain price)	to sweep (something)
 krangler	a quarrel	an argument	a row (UK) (quarrel, argument)
 krangler	to quarrel, bicker, argue
+krasja	a crash
+krasja	to crash
+krasjet	a crash
+krasjet	to crash
 kremer	cream (either edible or inedible)
 kremer	to cremate
 kryssa	crossing, junction	a cross
@@ -16968,6 +16972,8 @@ voksa	wax
 voksa	to grow (get bigger)	to wax (something: with wax)
 vokset	wax
 vokset	to grow (get bigger)	to wax (something: with wax)
+Etymology 2	a golfer
+Etymology 2	To be.
 var	an article or item (of goods)	a commodity	(in plural form) goods, merchandise, wares	This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}.	to last, take (last)
 var	To be.
 var	to be	(archaic) to sense or feel

@@ -8,7 +8,7 @@ CD-spelar, CD-spelaren, CD-spelarar, CD-spelarane
 CD, CD-en, CD-ar, CD-ane
 DVD-spelar, DVD-spelaren, DVD-spelarar, DVD-spelarane
 DVD, DVD-en, DVD-ar, DVD-ane
-T-bane, T-bana, T-baner, T-banene
+T-bane, T-bana, T-baner, T-banene, T-banen, T-banar, T-banane
 T-kryss, T-krysset, T-kryssa
 T-skjorte, T-skjorta, T-skjorter, T-skjortene
 TV, TV-en, TV-ar, TV-ane
@@ -25,7 +25,6 @@ abdisere, abdiserer, abdiserte, abdisert, abdiserast, abdiserande, abdiser
 abessinsk, abessinske
 abkhasisk, abkhasiske, meir abkhasisk, mest abkhasisk
 ablegøye, ablegøya, ablegøyer, ablegøyene
-feminine ablegøye, ablegøyer
 abnorm, abnormt, abnorme
 abnormitet, abnormiteten, abnormitetar, abnormitetane
 abonnement, abonnementet, abonnementa
@@ -59,7 +58,7 @@ administrasjon, administrasjonen, administrasjonar, administrasjonane
 administrasjonssenter, administrasjonssenteret, administrasjonssentera
 administrativ, administrativt, administrative
 administrator, administratoren, administratorar, administratorane
-admiral, Cyrillic spelling адмѝра̄л
+admiral, admiralen, admiralar, admiralane
 adopsjon, adopsjonen, adopsjonar, adopsjonane
 adrenalin, adrenalinet
 adressat, adressaten, adressatar, adressatane
@@ -196,7 +195,6 @@ allergi, allergien, allergiar, allergiane
 allergisk, allergiske
 allianse, alliansen, alliansar, alliansane
 alliert, allierte
-alliere, alliert
 alligator, alligatoren, alligatorar, alligatorane
 allmektig, allmektige
 allmenn, allment, allmenne, ålmenn
@@ -255,7 +253,7 @@ anatomi, anatomien, anatomiar, anatomiane
 anatomisk, anatomiske
 anbefaling, anbefalinga, anbefalingar, anbefalingane
 and, anda, ender, endene
-anda, and, andar, andast, andande, ande
+anda, andar, andast, andande, and, ande
 ande, anden, andar, andane, anda, andast, andande, and
 andlet, andletet, andleta
 andletsuttrykk, andletsuttrykket, andletsuttrykka
@@ -290,6 +288,7 @@ ankel, ankelen, anklar, anklane
 anker, ankeret, ankera
 ankerplass, ankerplassen, ankerplassar, ankerplassane
 ankringsplass, ankringsplassen, ankringsplassar, ankringsplassane
+anledning, anledninga, anledningar, anledningane
 anlegg, anlegget, anlegga
 anløp, anløpet, anløpa
 anneks, annekset, anneksa
@@ -337,10 +336,10 @@ antropologi, antropologien
 antropologisk, antropologiske
 anvise, anviser, anviste, anvist, anvisast, anvisande, anvis
 apal, apalen, aplar, aplane
-ape, apa, aper, apene, apar, apte, apt, apast, apande, ap
+ape, apa, aper, apene, apen, apar, apane, apte, apt, apast, apande, ap
 apekatt, apekatten, apekattar, apekattane
 apokalypse, apokalypsen
-apostol, apostel
+apostel, apostelen, apostlar, apostlane
 apostrof, apostrofen, apostrofar, apostrofane
 apotek, apoteket, apoteka
 apotekar, apotekaren, apotekarar, apotekarane
@@ -357,7 +356,7 @@ arabar, arabaren, arabarar, arabarane
 arabisk, arabiske, arabisken
 arameisk, arameiske, arameisken
 arbeid, arbeidet, arbeida
-arbeide, arbeid, arbeida, arbeider, arbeidde, arbeidd, arbeidt, arbeidast, arbeidande
+arbeide, arbeida, arbeider, arbeidde, arbeidd, arbeidt, arbeidast, arbeidande, arbeid
 arbeida, arbeider, arbeidde, arbeidd, arbeidt, arbeidast, arbeidande, arbeid
 arbeidar, arbeidaren, arbeidarar, arbeidarane
 arbeidsforhold, arbeidsforholdet, arbeidsforholda
@@ -442,7 +441,6 @@ assimilasjon, assimilasjonen, assimilasjonar, assimilasjonane
 assistent, assistenten, assistentar, assistentane
 assosiasjon, assosiasjonen, assosiasjonar, assosiasjonane
 assosiert, assosierte
-assosiere, assosiert
 assyrisk, assyriske
 astat, astatet
 asteroide, asteroiden, asteroidar, asteroidane
@@ -530,7 +528,6 @@ autoritativ, autoritativt, autoritative
 autoritet, autoriteten, autoritetar, autoritetane
 autoritær, autoritært, autoritære
 avansert, avanserte, meir avansert, mest avansert
-avansere and avansera, avansert
 avarisk, avariske, meir avarisk, mest avarisk
 avbilde, avbilda, avbildar, avbildast, avbildande, avbild
 avbilda, avbildar, avbildast, avbildande, avbild
@@ -559,7 +556,6 @@ avisartikkel, avisartikkelen, avisartiklar, avisartiklane
 avispapir, avispapiret
 avkastning, avkastninga, avkastningar, avkastningane
 avl, avlen, avlar, avlane
-avla and avle, avl
 avla, avlar, avlast, avlande, avl, avle
 avlang, avlangt, avlange
 avle, avlar, avla, avlast, avlande, avl
@@ -589,11 +585,10 @@ baby, babyen, babyar, babyane
 babylonsk, babylonisk, babylonske
 babylonisk, babyloniske
 babymat, babymaten
-babyolje, babyolja, babyoljer, babyoljene
-bachelorgrad, bachelorgrada, bachelorgrader, bachelorgradene
+babyolje, babyolja, babyoljer, babyoljene, babyoljen, babyoljar, babyoljane
+bachelorgrad, bachelorgraden, bachelorgradar, bachelorgradane, bachelorgrada, bachelorgrader, bachelorgradene
 bacon, baconet
 bad, badet, bada
-be, bad, ber, bede, bedd, bedt, bedande
 badebukse, badebuksa, badebukser, badebuksene
 badeby, badebyen, badebyar, badebyane
 badedrakt, badedrakta, badedrakter, badedraktene
@@ -675,7 +670,6 @@ bankran, bankranet, bankrana
 banner, banneret, bannera
 baptist, baptisten, baptistar, baptistane
 bar, baren, barar, barane, baret
-bera, bar, ber, bore, berast, berande
 barbadar, barbadaren, barbadarar, barbadarane
 barbadisk, barbadiske
 barbar, barbaren, barbarar, barbarane
@@ -691,6 +685,7 @@ barlind, barlinda, barlinder, barlindene
 barm, barmen, barmar, barmane
 barn, barnet, born, barna, borna
 barndom, barndomen, barndommen
+barndomstid, barndomstida, barndomstider, barndomstidene
 barne, barnar, barna, barnast, barnande, barn
 barnearbeid, barnearbeidet
 barnebarn, barnebarnet, barneborn, barnebarna, barneborna
@@ -719,7 +714,7 @@ bartre, bartreet, bartrea
 baryton, barytonen, barytonar, barytonane
 basalt, basalten, basaltar, basaltane
 basar, basaren, basarar, basarane
-base, basar, basen, basane
+base, basen, basar, basane
 basere, baserer, baserte, basert, baserast, baserande, baser
 basilika, basilikaen, basilikaer, basilikaene
 basilikum, basilikumen, basilikumar, basilikumane
@@ -739,10 +734,11 @@ baune, bauna, bauner, baunene
 bauxitt, bauxitten
 bavian, bavianen, bavianar, bavianane
 bayersk, bayerske
+be, ber, bad, bede, bedd, bedt, bedande
 bearnés, bearnésen
 beaufortskala, beaufortskalaen
 bed, bedet, beda
-bede, bed, beda, bad, bedd, bedt, bedande
+bede, beda, bed, bad, bedd, bedt, bedande
 beda, bed, bad, bede, bedd, bedt, bedande
 bedrageri, bedrageriet, bedrageria
 bedrift, bedrifta, bedrifter, bedriftene
@@ -769,7 +765,7 @@ beinlaus, beinlaust, beinlause
 beisel, beiselet, beisla
 beist, beistet, beista
 beita, beitar, beiter, beitte, beitt, beitast, beitande, beit, beite
-beite, beita, beitet, beitar, beiter, beitte, beitt, beitast, beitande, beit
+beite, beitet, beita, beitar, beiter, beitte, beitt, beitast, beitande, beit
 beiteland, beitelandet, beitelanda
 beiting, beitinga, beitingar, beitingane
 bekk, bekken, bekker, bekkar, bekkene, bekkane
@@ -795,13 +791,14 @@ bensinstasjon, bensinstasjonen, bensinstasjonar, bensinstasjonane
 bensintank, bensintanken, bensintankar, bensintankane
 benzosyre, benzosyra
 beordre, beordrar, beordra, beordrast, beordrande, beordr
-bere, bera, ber, bar, bore, berast, berande, berer, berene
+bera, ber, bar, bore, berast, berande
 berbar, berbart, berbare
+bere, ber, bar, bore, berast, berande, bera, berer, berene
 beredskap, beredskapen, beredskapar, beredskapane
 berekna, bereknar, bereknast, bereknande, berekn, berekne
 berekne, bereknar, berekna, bereknast, bereknande, berekn
 berg, berget, berga
-bergart, bergarta, bergarter, bergartene
+bergart, bergarta, bergarter, bergartene, bergarten, bergartar, bergartane
 berge, bergar, berga, bergast, bergande, berg
 bergensar, bergensaren, bergensarar, bergensarane
 bergensk, bergenske
@@ -816,8 +813,6 @@ besetning, besetninga, besetningen, besetningar, besetningane
 beskjed, beskjeden, beskjedar, beskjedane, beskjeda, beskjeder, beskjedene
 beskjeden, beskjedent, beskjedne
 beskrive, beskriv, beskreiv, beskrivast, beskrivande
-ingod, best
-inbra, best
 bestand, bestanden, bestandar, bestandane
 bestandig, bestandige
 bestefar, bestefaren, bestefedrar, bestefedrane
@@ -833,7 +828,7 @@ bestikk, bestikket, bestikka
 bestilling, bestillinga, bestillingar, bestillingane
 bestå, består, bestod, bestått, beståast, beståande
 besøk, besøket, besøka
-besøkja, besøkje, besøka and besøke, besøk, besøka, besøke, besøkjer, besøkte, besøkt, besøkjast, besøkjande
+besøkja, besøka, besøke, besøkjer, besøkte, besøkt, besøkjast, besøkjande, besøk, besøkje
 besøka, besøker, besøkte, besøkt, besøkast, besøkande, besøk
 besøke, besøker, besøkte, besøkt, besøkast, besøkande, besøk
 besøkje, besøkjer, besøkte, besøkt, besøkjast, besøkjande, besøk
@@ -861,6 +856,7 @@ bevisst, bevisste
 bhutanar, bhutanaren, bhutanarar, bhutanarane
 bhutansk, bhutanske
 bibel, bibelen, biblar, biblane
+bibelselskap, bibelselskapet, bibelselskapa
 bibelsk, bibelske
 bibliofil, bibliofilt, bibliofile, bibliofilen, bibliofilar, bibliofilane
 bibliotek, biblioteket, biblioteka
@@ -934,6 +930,7 @@ bjode, byd, baud, bode, bodi, bjodande, bjod
 bjørk, bjørka, bjørker, bjørkene
 bjørkefink, bjørkefinken, bjørkefinkar, bjørkefinkane
 bjørkemus, bjørkemusa, bjørkemyser, bjørkemusene, bjørkemysene
+bjørkeved, bjørkeveden
 bjørn, bjørnen, bjørnar, bjørnane
 bjørnebær, bjørnebæret, bjørnebæra
 bjørnepels, bjørnepelsen, bjørnepelsar, bjørnepelsane
@@ -959,20 +956,19 @@ blenkja, blenka, blenke, blenkjer, blenkte, blenkt, blenkjande, blenk, blenkje
 blenka, blenker, blenkte, blenkt, blenkast, blenkande, blenk
 blenke, blenker, blenkte, blenkt, blenkast, blenkande, blenk
 blenkje, blenkjer, blenkte, blenkt, blenkjande, blenk
-bli, blir, vart, vorte, blivande
+bli, blir, vart, vorte, blivande, blei, blitt
 blikk, blikket, blikka
 blikkfang, blikkfanget, blikkfanga
 blind, blindt, blinde, blindare, blindast, blindaste
-blinda, blind, blindar, blindast, blindande, blinde
+blinda, blindar, blindast, blindande, blind, blinde
 blinde, blindar, blinda, blindast, blindande, blind
 blindeskrift, blindeskrifta
 blindgate, blindgata, blindgater, blindgatene
 blindpassasjer, blindpassasjeren, blindpassasjerar, blindpassasjerane
 blindskap, blindskapen
 blings, blingsen, blingsar, blingsane
-blingse, blings, blingsar, blingsa, blingsast, blingsande
+blingse, blingsar, blingsa, blingsast, blingsande, blings
 blink, blinken, blinkar, blinkane
-blinka and blinke, blink
 blinka, blinkar, blinkast, blinkande, blink, blinke
 blinke, blinkar, blinka, blinkast, blinkande, blink
 blinklys, blinklyset, blinklysa
@@ -995,7 +991,6 @@ blodtørstig, blodtørstige
 blodåre, blodåra, blodårer, blodårene
 blogg, bloggen, bloggar, bloggane
 bloggar, bloggaren, bloggarar, bloggarane
-blogga and blogge, bloggar
 blokade, blokaden, blokadar, blokadane
 blokk, blokka, blokker, blokkene, blokken, blokkar, blokkane
 blokkbokstav, blokkbokstaven, blokkbokstavar, blokkbokstavane
@@ -1068,7 +1063,7 @@ bomull, bomulla
 bonde, bonden, bønder, bøndene
 bongotromme, bongotromma, bongotrommer, bongotrommene
 bonus, bonusen, bonusar, bonusane
-bor, boret, boren, borar, borane
+bor, boret, boren, borar, borane, bora
 boraks, boraksen
 bord, bordet, borda, borden, bordar, bordane
 bordduk, bordduken, borddukar, borddukane
@@ -1085,6 +1080,7 @@ bornert, bornerte
 borsyre, borsyra, borsyrer, borsyrene
 bortføre, bortfører, bortførte, bortført, bortførast, bortførande, bortfør
 bortkasta, meir bortkasta, mest bortkasta
+bortskjemt, bortskjemte
 bosniar, bosniaren, bosniarar, bosniarane
 bosnisk, bosniske, bosnisken
 bot, bota, bøter, bøtene
@@ -1099,7 +1095,6 @@ bra, betre, best, beste
 brakk, brakt, brakke
 brakkvatn, brakkvatnet
 brann, brannen, brannar, brannane
-brenna and brenne, brann
 brannalarm, brannalarmen, brannalarmar, brannalarmane
 brannbil, brannbilen, brannbilar, brannbilane
 branndør, branndøra, branndører, branndørene
@@ -1117,7 +1112,6 @@ brassespark, brassesparket, brassesparka
 bratsj, bratsjen, bratsjar, bratsjane
 bratt, bratte, brattare, brattast, brattaste
 braut, brauta, brauter, brautene
-bryta and bryte, braut
 bre, breen, brear, breane, brede
 bredd, bredda, bredder, breddene
 brede, breden, bredar, bredane
@@ -1136,6 +1130,8 @@ brekkasje, brekkasjen, brekkasjar, brekkasjane
 brekkjern, brekkjernet, brekkjerna
 brems, bremsen, bremsar, bremsane
 bremse, bremsa, bremser, bremsene
+bremselengde, bremselengd, bremselengda, bremselengder, bremselengdene
+bremselengd, bremselengda, bremselengder, bremselengdene
 bremsepedal, bremsepedalen, bremsepedalar, bremsepedalane
 bremsing, bremsinga, bremsingar, bremsingane
 brenna, brenn, brann, brunne, brennast, brennande, brenner, brende, brent, brenne
@@ -1193,11 +1189,10 @@ brudekjole, brudekjolen, brudekjolar, brudekjolane
 brudepar, brudeparet, brudepara
 brudgom, brudgomen, brudgommen, brudgomar, brudgommar, brudgomane, brudgommane
 bruk, bruken, bruket, bruka
-bruka, bruk, brukar, bruker, brukte, brukt, brukast, brukande, bruke
-bruke, bruk, brukar, bruker, bruka, brukte, brukt, brukast, brukande
+bruka, Noun 2, brukar, bruker, brukte, brukt, brukast, brukande, bruk, bruke
 brukar, brukaren, brukarar, brukarane
-bruka and bruke, brukar, brukt
 brukbar, brukbart, brukbare
+bruke, brukar, bruker, bruka, brukte, brukt, brukast, brukande, bruk
 brukskonto, brukskontoen, brukskontoar, brukskonti, brukskontoane, brukskontiane
 bruksområde, bruksområdet, bruksområda
 brukt, brukte
@@ -1250,6 +1245,7 @@ buffé, bufféen, buffeen, bufféar, buffear, bufféane, buffeane
 bugge, buggen, buggar, buggane
 buk, buken, bukar, bukane
 bukett, buketten, bukettar, bukettane
+bukhinne, bukhinna, bukhinner, bukhinnene
 bukk, bukken, bukkar, bukkane
 bukkeblad, bukkebladet, bukkeblada
 bukse, buksa, bukser, buksene
@@ -1305,13 +1301,12 @@ byde, byd, byder, baud, bydde, bode, bydd, bydt, bydande
 bydel, bydelen, bydelar, bydelane
 byfornying, byfornyinga
 bygd, bygda, bygder, bygdene
-masculine, feminine and byggja, byggje, bygga and bygge, bygd
-byggja, byggje, bygga and bygge, bygd, bygga, bygge, byggjer, bygde, bygt, byggjast, byggjande, bygg
 bygdeby, bygdebyen, bygdebyar, bygdebyane
 bygg, bygget, byggen, bygga
-byggja, byggje, bygga and bygge, bygg
-bygga, bygger, bygde, bygd, bygt, byggast, byggande, bygg
+bygga, Etymology 2, bygger, bygde, bygd, bygt, byggast, byggande, bygg
+byggja, bygga, bygge, byggjer, bygde, bygd, bygt, byggjast, byggjande, bygg, byggje
 bygge, bygger, bygde, bygd, bygt, byggast, byggande, bygg
+byggekostnad, byggekostnaden, byggekostnader, byggekostnadar, byggekostnadene, byggekostnadane
 byggemateriale, byggematerialet, byggemateriala
 byggjeplass, byggeplass, byggjeplassen, byggjeplassar, byggjeplassane
 byggeplass, byggeplassen, byggeplassar, byggeplassane
@@ -1351,7 +1346,6 @@ båthus, båthuset, båthusa
 båtmesse, båtmessa, båtmesser, båtmessene
 bær, bæret, bæra
 bæsj, bæsjen, bæsjar, bæsjane
-bæsje, bæsj
 bøffel, bøffelen, bøflar, bøflane
 bøk, bøken, bøkar, bøkane
 bølge, bølga, bølger, bølgene
@@ -1436,9 +1430,8 @@ dampturbin, dampturbinen, dampturbinar, dampturbinane
 dane, danen, danar, daner, danane, danene
 danne, dannar, danna, dannast, dannande, dann
 dans, dansen, dansar, dansane
-dansa, dans, dansar, dansast, dansande, danse
+dansa, dansar, dansast, dansande, dans, danse
 dansar, dansaren, dansarar, dansarane
-dansa and danse, dansar
 danse, dansar, dansa, dansast, dansande, dans
 dansk, dansken, danske
 danske, dansken, danskar, danskane
@@ -1450,7 +1443,7 @@ database, databasen, databasar, databasane
 databehandling, databehandlinga, databehandlingar, databehandlingane
 datablad, databladet, datablada
 dataillustrasjon, dataillustrasjonen, dataillustrasjonar, dataillustrasjonane
-datamaskin, datamaskina, datamaskiner, datamaskinene
+datamaskin, datamaskina, datamaskiner, datamaskinene, datamaskinen, datamaskinar, datamaskinane
 datamus, datamusa, datamuser, datamusene
 dataprogram, dataprogrammet, dataprogramma
 datasimulering, datasimuleringa, datasimuleringar, datasimuleringane
@@ -1481,11 +1474,12 @@ degenerasjon, degenerasjonen
 the, dei
 dei, deira
 deig, deigen, deigar, deigane
+deim, høgnorsk) of dei
 deisme, deismen
 dekk, dekket, dekka
-dekkja, dekkje, dekka and dekke, dekk, dekka, dekke, dekkjer, dekte, dekt, dekkjast, dekkjande
-dekke, dekka, dekket, dekker, dekte, dekt, dekkast, dekkande, dekk
+dekkja, dekka, dekke, dekkjer, dekte, dekt, dekkjast, dekkjande, dekk, dekkje
 dekka, dekker, dekte, dekt, dekkast, dekkande, dekk
+dekke, dekket, dekka, dekker, dekte, dekt, dekkast, dekkande, dekk
 dekkje, dekkjer, dekte, dekt, dekkjast, dekkjande, dekk
 deklarasjon, deklarasjonen, deklarasjonar, deklarasjonane
 dekning, dekninga, dekningar, dekningane
@@ -1528,6 +1522,8 @@ derifrå, derfrå
 desarmere, desarmerer, desarmerte, desarmert, desarmerast, desarmerande, desarmer
 desentralisere, desentraliserer, desentraliserte, desentralisert, desentraliserast, desentraliserande, desentraliser
 desertør, desertøren, desertørar, desertørane
+desillusjonere, desillusjonerer, desillusjonerte, desillusjonert, desillusjonerast, desillusjonerande, desillusjoner
+desillusjonert, desillusjonerte
 desimal, desimalen, desimalar, desimalane
 desimalkomma, desimalkommaet, desimalkommaa
 desinfeksjon, desinfeksjonen, desinfeksjonar, desinfeksjonane
@@ -1642,9 +1638,7 @@ dodraug, dodraugen, dodraugar, dodraugane
 dogg, dogga
 dogme, dogmet, dogma
 dokk, dokka, dokker, dokkene
-dokka and dokke, dokkar
 dokker, dokkar
-dokke, dokker
 doktor, doktoren, doktorar, doktorane
 doktorgrad, doktorgraden, doktorgrada, doktorgradar, doktorgrader, doktorgradane, doktorgradene
 doktrine, doktrinen, doktrinar, doktrinane
@@ -1688,7 +1682,6 @@ dramatisk, dramatiske, meir dramatisk, mest dramatisk
 dramaturgi, dramaturgien, dramaturgiar, dramaturgiane
 drammensar, drammensaren, drammensarar, drammensarane
 drap, drapet, drapa
-drepa and drepe, drap
 drapsmann, drapsmannen, drapsmenn, drapsmennene
 drastisk, drastiske
 draug, draugen, draugar, draugane
@@ -1704,7 +1697,7 @@ dresse, dressar, dressa, dressast, dressande, dress
 drift, drifta, drifter, driftene
 driftskostnad, driftskostnaden, driftskostnader, driftskostnadar, driftskostnadene, driftskostnadane
 drikk, drikken, drikker, drikkar, drikkene, drikkane, drykk
-drikke, drikk, drikka, drikker, drikkene, drakk, drukke, drikkast, drikkande
+drikke, drikka, drikker, drikkene, drikk, drakk, drukke, drikkast, drikkande
 drikka, drikk, drakk, drukke, drikkast, drikkande
 drikkbar, drikkbart, drikkbare
 drille, drillar, drilla, drillast, drillande, drill
@@ -1726,7 +1719,6 @@ drone, dronen, dronar, dronane
 dronefly, droneflyet, droneflya
 dronning, dronninga, dronningar, dronningane
 drope, dropen, dropar, dropane
-drypa, drope, dryp, draup, drypande, drype
 drosje, drosja, drosjen, drosjer, drosjar, drosjene, drosjane
 drosjesjåfør, drosjesjåføren, drosjesjåførar, drosjesjåførane
 drott, drotten, drottar, drottane
@@ -1734,6 +1726,7 @@ druide, druiden, druidar, druidane
 drukna, druknar, druknast, druknande, drukn, drukne
 drukne, druknar, drukna, druknast, druknande, drukn
 drykk, drykken, drykker, drykkar, drykkene, drykkane
+drypa, dryp, draup, drope, drypande, drype
 drype, dryp, draup, drope, drypande
 drypp, dryppet, dryppa
 drysse, drysser, dryste, dryst, dryssast, dryssande, dryss
@@ -1755,6 +1748,7 @@ dumbe, dumba, dumber, dumbene
 dumheit, dumheita, dumheiter, dumheitene
 dumming, dummingen, dummingar, dummingane
 dun, duna, duner, dunene, dunet
+dundre, dundrar, dundra, dundrast, dundrande, dundr
 dunge, dungen, dungar, dungane
 dunk, dunken, dunkar, dunkane, dunket, dunka
 duo, duoen, duoar, duoane
@@ -1824,11 +1818,11 @@ døkk, døkt, døkke, døkkare, døkkast
 dølja, døl, dulde, dult, døljast, døljande, dølje
 dølje, døl, dulde, dult, døljande
 døma, dømer, dømde, dømte, dømt, dømande, døm, døme, dømma, dømme
-døme, døma, dømet, dømer, dømde, dømte, dømt, dømande, døm
+døme, dømet, døma, dømer, dømde, dømte, dømt, dømande, døm
 dømma, dømmer, dømde, dømte, dømt, dømmande, døm
 dømme, dømmer, dømde, dømte, dømt, dømmande, døm
 dønning, dønningen, dønningar, dønningane
-dør, døra, dører, dørene
+dør, døra, dører, dørene, non-standard since 2012) of dø
 dørkarm, dørkarmen, dørkarmar, dørkarmane
 dørklokke, dørklokka, dørklokker, dørklokkene
 dørmatte, dørmatta, dørmatter, dørmattene
@@ -1865,15 +1859,14 @@ eggeplomme, eggeplomma, eggeplommer, eggeplommene
 eggstokk, eggstokken, eggstokkar, eggstokkane
 egyptar, egyptaren, egyptarar, egyptarane
 egyptisk, egyptiske
-ein, ei, eitt, stressed éin, stressed éi, eit, éin
 eid, eiden, eidar, eidane, eidet, eida
-eigen, eiga, eige, eigne
 eiga, eig, åtte, ått, eigast, eigande
-eige, eiga, eig, åtte, ått, eigast, eigande
 eigar, eigaren, eigarar, eigarane
 eigarskap, eigarskapen, eigarskapar, eigarskapane, eigarskapet, eigarskapa
+eige, eig, åtte, ått, eigast, eigande
 eigedom, eigedomen, eigedommen, eigedomar, eigedommar, eigedomane, eigedommane
 eigedomsrett, eigedomsretten, eigedomsrettar, eigedomsrettane
+eigen, eiga, eige, eigne
 eigentleg, eigenleg, eigentlege, meir eigentleg, mest eigentleg
 eigenleg, eigenlege, eigenlegare, eigenlegast, eigenlegaste
 eigenskap, eigenskapen, eigenskapar, eigenskapane
@@ -1884,6 +1877,7 @@ eike, eika, eiker, eikene
 eikenøtt, eikenøtta, eikenøtter, eikenøttene
 eiketre, eiketreet, eiketrea
 eim, eimen, eimar, eimane
+ein, ei, eitt, stressed éin, stressed éi, eit
 einaste, meir einaste, mest einaste
 eindimensjonal, eindimensjonalt, eindimensjonale
 eineståande, meir eineståande, mest eineståande
@@ -2007,6 +2001,7 @@ emballasje, emballasjen, emballasjar, emballasjane
 embete, embetet, embeta
 embetsmann, embetsmannen, embetsmenn, embetsmennene
 emblem, emblemet, emblema
+embryo, embryoet, embryoa
 emir, emiren, emirar, emirane
 emirat, emiratet, emirata
 emiratarabar, emiratarabaren, emiratarabarar, emiratarabarane
@@ -2145,7 +2140,7 @@ etterord, etterordet, etterorda
 etterretning, etterretninga, etterretningar, etterretningane
 etterslep, etterslepet, etterslepa
 ettersmak, ettersmaken, ettersmakar, ettersmakane
-ettersyn, ettersyna, ettersyner, ettersynene
+ettersyn, ettersyna, ettersyner, ettersynene, ettersynet
 ettertanke, ettertanken, ettertankar, ettertankane
 ettertid, ettertida
 etylen, etylenen, etylenet
@@ -2200,8 +2195,8 @@ falkeblikk, falkeblikket
 fall, fallet, falla
 falle, fall, falla, fell, fallande
 falla, fell, fall, falle, fallast, fallande
-fallen, falle, falne
 falleferdig, falleferdige
+fallen, falle, falne
 fallgruve, fallgruva, fallgruver, fallgruvene
 fallos, fallosen, fallosar, fallosane
 fallskjerm, fallskjermen, fallskjermar, fallskjermane
@@ -2212,10 +2207,11 @@ falskneri, falskneriet, falskneria
 familie, familien, familiar, familiane
 familiebil, familiebilen, familiebilar, familiebilane
 familiemedlem, familiemedlemen, familiemedlemmen, familiemedlemar, familiemedlemmar, familiemedlemer, familiemedlemmer, familiemedlemane, familiemedlemmane, familiemedlemene, familiemedlemmene
+famle, famlar, famla, famlast, famlande, faml
 fanatikar, fanatikaren, fanatikarar, fanatikarane
 fanatisk, fanatiske
 fang, fanget, fanga
-fanga, fang, fangar, fangast, fangande
+fanga, fangar, fangast, fangande, fang
 fange, fangen, fangar, fangane, fanga, fangast, fangande, fang
 fangeleir, fangeleiren, fangeleirar, fangeleirane
 fangenskap, fangenskapet, fangenskapa
@@ -2227,7 +2223,7 @@ fantastisk, fantastiske
 fanteri, fanteriet
 fantom, fantomet, fantoma
 far, faren, fedrar, fedrane, faret, fara
-fara, far, fer, fór, fare, farast, farande
+fara, fer, fór, fare, farast, farande, far
 farao, faraoen, faraoar, faraoane
 farar, fararen, fararar, fararane
 fare, farar, faren, farane, fer, fór, farast, farande, far
@@ -2331,7 +2327,6 @@ fennek, fenneken, fennekar, fennekane
 fenomen, fenomenet, fenomena
 fenomenal, fenomenalt, fenomenale
 ferd, ferda, ferder, ferdene
-ferda and ferde, ferd
 ferda, ferdar, ferdast, ferdande, ferd, ferde
 ferdamål, ferdamålet, ferdamåla
 ferde, ferdar, ferda, ferdast, ferdande, ferd
@@ -2447,6 +2442,7 @@ fiskevær, fiskeværet, fiskeværa
 fivreld, fivreldet, fivrelda, fivrelde
 fivrelde, fivreldet, fivrelda
 fjell, fjellet, fjella
+fjellgrunn, fjellgrunnen, fjellgrunnar, fjellgrunnane
 fjellheim, fjellheimen, fjellheimar, fjellheimane
 fjellkjede, fjellkjeda, fjellkjeder, fjellkjedene
 fjellklatrar, fjellklatraren, fjellklatrarar, fjellklatrarane
@@ -2460,7 +2456,6 @@ fjelltopp, fjelltoppen, fjelltoppar, fjelltoppane
 fjellvåk, fjellvåken, fjellvåkar, fjellvåkane
 fjerdedel, fjerdedelen, fjerdedelar, fjerdedelane
 fjern, fjernt, fjerne, fjernare, fjernast, fjernaste
-fjerna and fjerne, fjern
 fjerna, fjernar, fjernast, fjernande, fjern, fjerne
 fjerne, fjernar, fjerna, fjernast, fjernande, fjern
 fjernkontroll, fjernkontrollen, fjernkontrollar, fjernkontrollane
@@ -2501,6 +2496,7 @@ flat, flatt, flate, flatare, flatast, flataste
 flate, flata, flater, flatene
 flaum, flaumen, flaumar, flaumane
 fleinsopp, fleinsoppen, fleinsoppar, fleinsoppane
+fleipa, fleipar, fleipast, fleipande, fleip
 fleire, flest
 fleirkulturell, fleirkulturelt, fleirkulturelle
 fleirtal, fleirtalet, fleirtala
@@ -2524,7 +2520,6 @@ flokut, meir flokut, mest flokut
 flopp, floppen, floppar, floppane
 floskel, floskelen, flosklar, flosklane
 flote, floten, flotar, flotane
-flyta, flote, flyt, flaut, flytande, flyte
 flott, flotte, flottare, flottast, flottaste
 fluge, fluga, fluger, flugene
 fluid, fluidet, fluida
@@ -2542,7 +2537,7 @@ flygefisk, flygefisken, flygefiskar, flygefiskane
 flygel, flygelet, flygla
 flyging, flyginga, flygingar, flygingane
 flykaprar, flykapraren, flykaprarar, flykaprarane
-flykrasj, flykrasjet, flykrasja
+flykrasj, flykrasjet, flykrasja, flykrasjen, flykrasjar, flykrasjane
 flykropp, flykroppen, flykroppar, flykroppane
 flykta, flyktar, flyktast, flyktande, flykt, flykte
 flykte, flyktar, flykta, flyktast, flyktande, flykt
@@ -2553,6 +2548,7 @@ flyselskap, flyselskapet, flyselskapa
 flystasjon, flystasjonen, flystasjonar, flystasjonane
 flystripe, flystripa, flystriper, flystripene
 flyt, flyten, flytar, flytane
+flyta, flyt, flaut, flote, flytande, flyte
 flyte, flyt, flaut, flote, flytande
 flytebrygge, flytebrygga, flytebrygger, flytebryggene
 flytedokk, flytedokka, flytedokker, flytedokkene
@@ -2642,11 +2638,10 @@ forenkling, forenklinga, forenklingar, forenklingane
 foreslå, foreslår, foreslo, foreslått, foreslege, foreslåast, foreslåande
 forfader, forfaderen, forfedrar, forfedrane
 forfall, forfallet, forfalla
-forfalla, forfall, forfell, forfalle, forfallande
+forfalla, forfell, forfall, forfalle, forfallande
 forfalle, forfell, forfall, forfallande
 forfallen, forfalle, forfalne, forfallnare, forfallnast, forfallnaste
 forfattar, forfattaren, forfattarar, forfattarane
-forfatta and forfatte, forfattar
 forferdeleg, forferdelege, forferdelegare, forferdelegast, forferdelegaste
 forfine, forfinar, forfina, forfinast, forfinande, forfin
 forføre, forfører, forførte, forført, forførast, forførande, forfør
@@ -2667,7 +2662,7 @@ forklare, forklarar, forklarer, forklara, forklarte, forklart, forklarast, forkl
 forklaring, forklaringa, forklaringar, forklaringane
 forkle, forkleet, forklea, forkler, forkledde, forkledd, forkledt, forkledande, forklede
 forklede, forkledet, forkleda, forkleder, forkledde, forkledd, forkledt, forkledande, forkled
-forkledning, forkledningen, forkledningar, forkledningane
+forkledning, forkledningen, forkledningar, forkledningane, forkledninga
 forkorting, forkortinga, forkortingar, forkortingane
 forlag, forlaget, forlaga
 forlegge, forlegg, forla, forlagt, forleggast, forleggande
@@ -2726,7 +2721,6 @@ forstad, forstaden, forstader, forstadar, forstadene, forstadane
 forstand, forstanden
 forstå, forstår, forstod, forstått, forståast, forståande
 forsvar, forsvaret, forsvara
-forsvara and forsvare, forsvar
 forsvara, forsvarar, forsvarer, forsvarte, forsvart, forsvarast, forsvarande, forsvar, forsvare
 forsvare, forsvarar, forsvarer, forsvara, forsvarte, forsvart, forsvarast, forsvarande, forsvar
 forsvarsspelar, forsvarsspelaren, forsvarsspelarar, forsvarsspelarane
@@ -2829,7 +2823,7 @@ fredag, fredagen, fredagar, fredagane
 frede, fredar, freda, fredast, fredande, fred
 fredeleg, fredelege, fredelegare, fredelegast, fredelegaste
 fredfull, fredfullt, fredfulle
-fredsavtale, fredsavtala, fredsavtaler, fredsavtalene
+fredsavtale, fredsavtala, fredsavtaler, fredsavtalene, fredsavtalen, fredsavtalar, fredsavtalane
 fredsdue, fredsdua, fredsduer, fredsduene
 fredstid, fredstida, fredstider, fredstidene
 fregatt, fregatten, fregattar, fregattane
@@ -2859,7 +2853,7 @@ friluftsmuseum, friluftsmuseet, friluftsmusea
 frimerke, frimerket, frimerka
 frimerkealbum, frimerkealbumet, frimerkealbuma
 frimerkesamling, frimerkesamlinga, frimerkesamlingar, frimerkesamlingane
-friminutt, friminutten, friminuttar, friminuttane
+friminutt, friminutten, friminuttar, friminuttane, friminuttet, friminutta
 frimurar, frimuraren, frimurarar, frimurarane
 frisisk, frisiske, frisisken
 frisk, friskt, friske, friskare, friskast, friskaste
@@ -2875,6 +2869,7 @@ fritidsbåt, fritidsbåten, fritidsbåtar, fritidsbåtane
 fritte, fritten, frittar, frittane
 frodig, frodige, frodigare, frodigast, frodigaste
 front, fronten, frontar, frontane
+frontkollisjon, frontkollisjonen, frontkollisjonar, frontkollisjonane
 frontrute, frontruta, frontruter, frontrutene
 frosk, frosken, froskar, froskane
 frost, frosten
@@ -2930,6 +2925,7 @@ funn, funnet, funna
 fure, fura, furer, furene
 fura, furor, furur, furone, furune
 furu, furua, furuer, furuene
+furutømmer, furutømmeret
 fusjon, fusjonen, fusjonar, fusjonane
 fusk, fusket
 fuskepels, fuskepelsen, fuskepelsar, fuskepelsane
@@ -2945,8 +2941,8 @@ fylla, fyller, fylte, fylt, fyllast, fyllande, fyll
 fylling, fyllinga, fyllingar, fyllingane
 fyllplass, fyllplassen, fyllplassar, fyllplassane
 fyllug, fylluge, fyllugare, fyllugast, fyllugaste
-fyr, fyren, fyrar, fyrane, fyra
-fyra, fyr, fyrer, fyrte, fyrt, fyrast, fyrande
+fyr, fyren, fyrar, fyrane, fyret, fyra
+fyra, fyrer, fyrte, fyrt, fyrast, fyrande, fyr
 fyre, fyrer, fyrte, fyrt, fyrast, fyrande, fyr
 fyrebuing, fyrebuinga, fyrebuingar, fyrebuingane
 fyrig, fyrige
@@ -2988,7 +2984,7 @@ følgje, følgjer, følgde, følgd, følgt, følgjast, følgjande, følg
 fønikar, fønikaren, fønikarar, fønikarane, fønikane
 fønikisk, fønikiske
 føniks, føniksen, føniksar, føniksane
-føra, før, fører, førte, ført, førast, førande, føre
+føra, fører, førte, ført, førast, førande, før, føre
 førar, føraren, førarar, førarane
 førarhund, førarhunden, førarhundar, førarhundane
 førarkort, førarkortet, førarkorta
@@ -3021,8 +3017,8 @@ galder, galderen, galdrar, galdrane
 galdra, galdrar, galdrast, galdrande, galdr, galdre
 galdre, galdrar, galdra, galdrast, galdrande, galdr
 gale, gjel, gol, galande, gal
-galen, gale, galent, galne, galnare, galnast, galnaste
 galei, galeien, galeiar, galeiane
+galen, gale, galent, galne, galnare, galnast, galnaste
 galge, galgen, galgar, galgane
 galgenhumor, galgenhumoren
 galisisk, galisisken
@@ -3033,7 +3029,7 @@ gallionsfigur, gallionsfiguren, gallionsfigurar, gallionsfigurane
 gallisk, galliske
 galning, galningen, galningar, galningane
 galopp, galoppen, galoppar, galoppane
-galoppbane, galoppbanen, galoppbanar, galoppbanane
+galoppbane, galoppbana, galoppbaner, galoppbanene, galoppbanen, galoppbanar, galoppbanane
 galvanisere, galvaniserer, galvaniserte, galvanisert, galvaniserast, galvaniserande, galvaniser
 galvanisert, galvaniserte
 galvanisk, galvaniske
@@ -3067,6 +3063,7 @@ gardbrukar, gardbrukaren, gardbrukarar, gardbrukarane
 garderobe, garderoben, garderobar, garderobane
 garderobeskap, garderobeskapet, garderobeskapa
 gardin, gardina, gardiner, gardinene, gardinet
+gardsarbeid, gardsarbeidet
 gardsarbeidar, gardsarbeidaren, gardsarbeidarar, gardsarbeidarane
 garn, garnet, garna
 garnere, garnerer, garnerte, garnert, garnerast, garnerande, garner
@@ -3075,7 +3072,7 @@ gas, gasen, gasar, gasane
 gasell, gasellen, gasellar, gasellane
 gass, gassen, gassar, gassane
 gassar, gassaren, gassarar, gassarane
-gasse, gassar, gassen, gassane, gassa, gassast, gassande, gass
+gasse, gassen, gassar, gassane, gassa, gassast, gassande, gass
 gassflaske, gassflaska, gassflasker, gassflaskene
 gassformig, gassformige
 gassisk, gassiske, gassisken
@@ -3134,7 +3131,7 @@ geometrisk, geometriske
 geomorfologi, geomorfologien
 geopolitisk, geopolitiske
 georgiar, georgiaren, georgiarar, georgiarane
-georgine, georgina, georginer, georginene
+georgine, georgina, georginer, georginene, georginen, georginar, georginane
 georgisk, georgiske, georgisken
 geotermisk, geotermiske
 gerilja, geriljaen, geriljaer, geriljaar, geriljaene, geriljaane
@@ -3163,7 +3160,7 @@ gigantisk, gigantiske
 gips, gipsen
 gipsbandasje, gipsbandasjen, gipsbandasjar, gipsbandasjane
 gir, giret, gira
-girkasse, girkassa, girkasser, girkassene
+girkasse, girkassa, girkasser, girkassene, girkassen, girkassar, girkassane
 giro, giroen, giroar, giroane
 girspak, girspaken, girspakar, girspakane
 gissa, gissar, gissast, gissande, giss, gisse
@@ -3177,11 +3174,12 @@ gjedde, gjedda, gjedder, gjeddene
 gjel, gjelet, gjela
 gjeld, gjelda
 gjelda, gjeld, galdt, gjaldt, golde, gjeldt, gjeldande, gjeldar, gjelder, gjelde
-gjelde, gjeld, galdt, gjaldt, golde, gjeldt, gjeldande
+gjelde, gjeldar, gjelder, gjelda, gjeldt, gjeldande, gjeld, galdt, gjaldt, golde
 gjelle, gjella, gjeller, gjellene
 gjenbruk, gjenbruken, gjenbruket
-gjeng, gjengen, gjengar, gjengane
-gjenge, gjenget, gjenga
+gjenferd, gjenferdet, gjenferda
+gjeng, gjengen, gjengar, gjengane, non-standard since 2012) of ganga
+gjenge, gjenget, gjenga, non-standard since 2012) of ganga
 gjennomfart, gjennomfarten, gjennomfartar, gjennomfartane
 gjennomføra, gjennomfører, gjennomførte, gjennomført, gjennomførast, gjennomførande, gjennomfør, gjennomføre
 gjennomføre, gjennomfører, gjennomførte, gjennomført, gjennomførast, gjennomførande, gjennomfør
@@ -3197,7 +3195,6 @@ gjenreise, gjenreiser, gjenreiste, gjenreist, gjenreisast, gjenreisande, gjenrei
 gjensidig, gjensidige
 gjenstand, gjenstanden, gjenstandar, gjenstandane
 gjer, gjert, gjere, gjerare, gjerast, gjeraste
-gjera and gjere, gjer
 gjera, gjer, gjorde, gjort, gjerast, gjerande, gjere
 gjerde, gjerdet, gjerda
 gjerding, gjerdinga, gjerdingar, gjerdingane
@@ -3246,7 +3243,7 @@ glidefly, glideflyet, glideflya
 glidelås, glidelåsen, glidelåset, glidelåsar, glidelåsane, glidelåsa
 glimmer, glimmeren
 glimt, glimtet, glimta, glimten, glimtar, glimtane
-glimta, glimt, glimtar, glimtast, glimtande, glimte
+glimta, glimtar, glimtast, glimtande, glimt, glimte
 glimte, glimtar, glimta, glimtast, glimtande, glimt
 glo, gloa, glør, glørne, glor, glodde, glodd, glott, gloande
 global, globalt, globale
@@ -3286,9 +3283,8 @@ google, googlar, googla, googlast, googlande, googl
 gorilla, gorillaen, gorillaer, gorillaar, gorillaene, gorillaane
 gosse, gossen, gossar, gossane
 gotisk, gotiske
-grad, graden, gradar, gradane
+grad, grada, grader, gradene, graden, gradar, gradane
 gradert, graderte
-gradere, gradert
 gradvis, gradvise, gradvisare, gradvisast, gradvisaste
 graf, grafen, grafar, grafane
 graffiti, graffitien, graffitiar, graffitiane
@@ -3312,10 +3308,9 @@ grashoppe, grashoppa, grashopper, grashoppene
 grasiøs, grasiøst, grasiøse
 graut, grauten, grautar, grautane
 grav, grava, graver, gravene
-grava and grave, grav, grov
 grava, grev, grov, grave, gravast, gravande, grav
 grave, grev, grov, gravast, gravande, grav
-gravemaskin, gravemaskinen, gravemaskinar, gravemaskinane
+gravemaskin, gravemaskina, gravemaskiner, gravemaskinene, gravemaskinen, gravemaskinar, gravemaskinane
 gravhaug, gravhaugen, gravhaugar, gravhaugane
 gravid, gravide
 graviditet, graviditeten, graviditetar, graviditetane
@@ -3330,11 +3325,11 @@ gravplass, gravplassen, gravplassar, gravplassane
 gravstein, gravsteinen, gravsteinar, gravsteinane
 green, greenen, greenar, greenane
 grei, greitt, greie, greiare, greiast, greiaste
-greia and greie, grei
 greia, greier, greidde, greidd, greitt, greiast, greiande, grei
 greie, greia, greier, greiene
 grein, greina, greiner, greinene
 grekar, grekaren, grekarar, grekarane
+gremja, grem, gramde, gramt, gremjast, gremjande
 grenadiar, grenadiaren, grenadiarar, grenadiarane
 grenadisk, grenadiske
 grense, grensa, grenser, grensene, grensar, grensast, grensande, grens
@@ -3403,6 +3398,7 @@ gruve, gruva, gruver, gruvene
 gruvearbeidar, gruvearbeidaren, gruvearbeidarar, gruvearbeidarane
 gruvedrift, gruvedrifta, gruvedrifter, gruvedriftene
 gruveindustri, gruveindustrien
+gry, gryr, grydde, grydd, grytt, gryast, gryande
 gryte, gryta, gryter, grytene
 grå, grått, gråe, gråare, gråast, gråaste
 gråaktig, gråaktige
@@ -3410,7 +3406,6 @@ grådig, grådige, grådigare, grådigast, grådigaste
 gråsidemus, gråsidemusa, gråsidemyser, gråsidemusene, gråsidemysene
 gråsone, gråsona, gråsoner, gråsonene
 gråt, gråten
-gråta and gråte, gråt
 gråta, græt, gret, gråte, gråtast, gråtande, gråt
 gråtass, gråtassen, gråtassar, gråtassane
 gråte, græt, gret, gråtast, gråtande, gråt
@@ -3486,10 +3481,11 @@ gåtefull, gåtefullt, gåtefulle
 gåtur, gåturen, gåturar, gåturane
 gåve, gåva, gåver, gåvene
 gælisk, gæliske, gælisken
+gøy, gøye, gøyare, gøyast, gøyaste, gøyr, gøydde, gøydd, gøytt, gøyande
 gøyma, gøymer, gøymde, gøymt, gøymast, gøymande, gøym
 gøyme, gøymer, gøymde, gøymt, gøymast, gøymande, gøym
 gøymestad, gøymestaden, gøymestadar, gøymestader, gøymestadane, gøymestadene
-ha, har, hadde, hatt, havast, havande
+ha, auxiliary verb, taking a participle) Used in forming the perfect aspect and the aspect., har, hadde, hatt, havast, havande
 habitat, habitatet, habitata
 hage, hagen, hagar, hagane
 hagebruk, hagebruket
@@ -3510,7 +3506,8 @@ halde, held, heldt, haldast, haldande, hald, haldt
 haldeplass, haldeplassen, haldeplassar, haldeplassane
 hale, halen, halar, halane
 halefinne, halefinnen, halefinnar, halefinnane
-hall, hallen, hallar, hallane, hallet, halla
+halelaus, halelaust, halelause
+hall, halla, haller, hallene, hallen, hallar, hallane, hallet
 hallusinasjon, hallusinasjonen, hallusinasjonar, hallusinasjonane
 halm, halmen
 halmtak, halmtaket, halmtaka
@@ -3544,7 +3541,7 @@ hamløypar, hamløyparen, hamløyparar, hamløyparane
 hammar, hammaren, hamrar, hamrane
 hammarhai, hammarhaien, hammarhaiar, hammarhaiane
 hamn, hamna, hamner, hamnene
-hamna, hamn, hamnar, hamnast, hamnande, hamne
+hamna, hamnar, hamnast, hamnande, hamn, hamne
 hamne, hamnar, hamna, hamnast, hamnande, hamn
 hamp, hampen
 hamster, hamsteren, hamsterar, hamsterane
@@ -3588,6 +3585,7 @@ harding, hardingen, hardingar, hardingane
 hardingfele, hardingfela, hardingfeler, hardingfelene
 hardkokt, hardkokte
 hare, haren, harar, harane
+harmonere, harmonerer, harmonerte, harmonert, harmonerast, harmonerande, harmoner
 harmoni, harmonien, harmoniar, harmoniane
 harmonisere, harmoniserer, harmoniserte, harmonisert, harmoniserast, harmoniserande, harmoniser
 harmonisk, harmoniske
@@ -3600,7 +3598,7 @@ hasselnøtt, hasselnøtta, hasselnøtter, hasselnøttene
 hastigheit, hastigheita, hastigheiter, hastigheitene
 hastverk, hastverket
 hat, hatet, hata
-hate, hat, hata, hatar, hatast, hatande
+hate, hata, hatar, hatast, hatande, hat
 hata, hatar, hatast, hatande, hat
 hatar, hataren, hatarar, hatarane
 hatefull, hatefullt, hatefulle, meir hatefull, mest hatefull
@@ -3609,7 +3607,7 @@ haug, haugen, haugar, haugane
 hauk, hauken, haukar, haukane
 haus, hausen, hausar, hausane
 haust, hausten, haustar, haustane
-hausta, haust, haustar, haustast, haustande, hauste
+hausta, haustar, haustast, haustande, haust, hauste
 hauste, haustar, hausta, haustast, haustande, haust
 hav, havet, hava, havsens, havs
 hava, hev, havde, havt, havast, havande, hav
@@ -3652,15 +3650,12 @@ heimsøka, heimsøker, heimsøkte, heimsøkt, heimsøkast, heimsøkande, heimsø
 heimsøke, heimsøker, heimsøkte, heimsøkt, heimsøkast, heimsøkande, heimsøk
 heimsøkje, heimsøkjer, heimsøkte, heimsøkt, heimsøkjast, heimsøkjande, heimsøk
 heimsøkt, heimsøkte, meir heimsøkt, mest heimsøkt
-heimsøkja, heimsøkje, heimsøka and heimsøke, heimsøkt
 heis, heisen, heisar, heisane
 heisesjakt, heisesjakta, heisesjakter, heisesjaktene
 heissjakt, heissjakta, heissjakter, heissjaktene
 heita, heiter, heitte, het, heitt, heitande, heit, heite
 heite, heiter, heitte, het, heitt, heitast, heitande, heit
 hekk, hekken, hekkar, hekkane
-hekka and hekke, hekk
-henga, hekk, heng, hang, hange, hengande, henger, hengde, hengt, henge
 hekka, hekkar, hekkast, hekkande, hekk, hekke
 hekke, hekkar, hekka, hekkast, hekkande, hekk
 hekkesesong, hekkesesongen, hekkesesongar, hekkesesongane
@@ -3697,6 +3692,7 @@ hemoroide, hemoroiden, hemoroidar, hemoroidane
 hende, hender, hendt, hendast, hendande, hend
 hendig, hendige, hendigare, hendigast, hendigaste
 hending, hendinga, hendingar, hendingane
+henga, heng, hang, hekk, hange, hengande, henger, hengde, hengt, henge
 hengja, henga, henge, hengjer, hengde, hengt, hengjande, heng, hengje
 henge, heng, hang, hekk, hange, hengande, henger, hengde, hengt
 hengebru, hengebrua, hengebruer, hengebruene
@@ -3731,7 +3727,7 @@ hertuginne, hertuginna, hertuginner, hertuginnene
 hest, hesten, hestar, hestane
 hestehale, hestehalen, hestehalar, hestehalane
 hestekastanje, hestekastanjen, hestekastanjar, hestekastanjane
-hestekraft, hestekrafta, hestekrefter, hestekreftene
+hestekraft, hestekrafta, hestekrafter, hestekraftene, hestekrefter, hestekreftene
 hesteløp, hesteløpet, hesteløpa
 hesterygg, hesteryggen
 hestesko, hesteskoen, hesteskor, hesteskoa, hesteskorne
@@ -3739,7 +3735,6 @@ hestesport, hestesporten, hestesportar, hestesportane
 hete, heten, hetar, heta
 heteroseksualitet, heteroseksualiteten
 hets, hetsen, hetsar, hetsane
-hetse, hets
 hette, hetta, hetter, hettene
 hettitt, hettitten, hettittar, hettittane
 hettittisk, hettittiske, meir hettittisk, mest hettittisk, hettittisken
@@ -3747,17 +3742,18 @@ hevda, hevdar, hevdast, hevdande, hevd, hevde
 hevde, hevdar, hevda, hevdast, hevdande, hevd
 hevelse, hevelsen, hevelsar, hevelsane
 hi, hiet, hia
-hin, hi, hitt, hine
 hidsjab, hidsjaben, hidsjabar, hidsjabane
 hierarki, hierarkiet, hierarkia
 hierarkisk, hierarkiske
 hieroglyf, hieroglyfen, hieroglyfar, hieroglyfane
 hijab, hijaben, hijabar, hijabane
 hikke, hikken
+hikst, hiksten, hikstar, hikstane
 himmel, himmelen, himlar, himlane
 himmellekam, himmellekamen, himmellekamar, himmellekamane
 himmelrike, himmelriket
 himmelseng, himmelsenga, himmelsenger, himmelsengene
+hin, hi, hitt, hine
 hindi, hindien
 hindring, hindringa, hindringar, hindringane
 hindu, hinduen, hinduar, hinduane
@@ -3775,7 +3771,6 @@ hjarta, hjarto, meir hjarta, mest hjarta
 hjarte, hjartet, hjarta
 hjelm, hjelmen, hjelmar, hjelmane
 hjelp, hjelpa
-hjelpa and hjelpe, hjelp
 hjelpa, hjelper, hjelpte, hjelpt, hjelpast, hjelpande, hjelp, hjelpe
 hjelpe, hjelper, hjelpte, hjelpt, hjelpast, hjelpande, hjelp
 hjelpemiddel, hjelpemiddelet, hjelpemidla
@@ -3789,7 +3784,7 @@ hjuloppheng, hjulopphenget, hjulopphenga
 hjørne, hjørnet, hjørna
 hjørneflagg, hjørneflagget, hjørneflagga
 hjørnestein, hjørnesteinen, hjørnesteinar, hjørnesteinane
-ho, hoa, hoer, hoene, hoe
+ho, henne, hennar, hoa, hoer, hoene, hoe
 hobbit, hobbiten, hobbitar, hobbitane
 hobby, hobbyen, hobbyar, hobbyane
 hockey, hockeyen
@@ -3803,7 +3798,7 @@ hogga, høgg, hogger, hogg, hogde, hogge, hogt, hogd, hoggast, hoggande
 hoggbratt, hoggbratte, hoggbrattare, hoggbrattast, hoggbrattaste
 hogge, høgg, hogger, hogg, hogde, hogt, hogd, hoggast, hoggande
 hoggorm, hoggormen, hoggormar, hoggormane
-hoggtann, hoggtanna, hoggtenner, hoggtennene, mainly
+hoggtann, hoggtanna, hoggtenner, hoggtennene
 hole, hola, holer, holene, hòle
 hollandsk, hollandske
 holme, holmen, holmar, holmane
@@ -3836,10 +3831,9 @@ horngjel, horngjelen, horngjela, horngjelar, horngjeler, horngjelane, horngjelen
 hornhinne, hornhinna, hornhinner, hornhinnene
 horoskop, horoskopet, horoskopa
 host, hostet, hosta, hosten, hostar, hostane
-hosta and hoste, host
 hotell, hotellet, hotella
 hotellrom, hotellrommet, hotellromma
-hov, hoven, hovar, høver, hovane, høvene, hovet, hova, hòv, hóv
+hov, hova, høver, høvene, hoven, hovar, hovane, hovet, hòv, hóv
 hovud, hovudet, hovuda
 hovudbygning, hovudbygningen, hovudbygningar, hovudbygningane, hovudbygninga
 hovuddel, hovuddelen, hovuddelar, hovuddelane
@@ -3965,7 +3959,7 @@ hærverk, hærverket, hærverka
 hòl, hòlet, holet, hòla, hola
 hòle, hòla, hola, hòler, holer, hòlene, holene
 hòv, hòvet, hovet, hòva, hova
-hóv, hóven, hóvar, høver, hóvane, høvene
+hóv, hóva, høver, høvene, hóven, hóvar, hóvane
 høg, høgt, høge, høgre, høgare, høgst, høgast, høgste, høgaste
 høgd, høgda, høgder, høgdene, høgde
 høgde, høgda, høgder, høgdene
@@ -3982,7 +3976,7 @@ hønsehus, hønsehuset, hønsehusa
 høra, hører, hørde, hørte, hørt, hørande, hør
 høre, hører, hørde, hørte, hørt, hørande, hør
 høva, høver, høvde, høvd, høvt, høvande, høv, høve
-høve, høva, høvet, høver, høvde, høvd, høvt, høvande, høv
+høve, høvet, høva, høver, høvde, høvd, høvt, høvande, høv
 høvel, høvelen, høvlar, høvlane
 høveleg, høvelege, høvelegare, høvelegast, høvelegaste
 høy, høyet
@@ -4048,6 +4042,7 @@ indianar, indianaren, indianarar, indianarane
 indiansk, indianske
 indikasjon, indikasjonen, indikasjonar, indikasjonane
 indikator, indikatoren, indikatorar, indikatorane
+indikatorart, indikatorarten, indikatorartar, indikatorartane, indikatorarta, indikatorarter, indikatorartene
 indisk, indiske
 individ, individet, individa
 individuell, individuelt, individuelle
@@ -4127,7 +4122,6 @@ inntektsskatt, inntektsskatten, inntektsskattar, inntektsskattane
 inntrykk, inntrykket, inntrykka
 innvandra, innvandrar, innvandrast, innvandrande, innvandr, innvandre
 innvandrar, innvandraren, innvandrarar, innvandrarane
-innvandra and innvandre, innvandrar
 innvandre, innvandrar, innvandra, innvandrast, innvandrande, innvandr
 innvandring, innvandringa, innvandringar, innvandringane
 innvendig, innvendige
@@ -4248,7 +4242,6 @@ jagarfly, jagarflyet, jagarflya
 jage, jagar, jaga, jagast, jagande, jag
 jakke, jakka, jakker, jakkene
 jakt, jakta, jakter, jaktene
-jakta and jakte, jakt, jaktar
 jakta, jaktar, jaktast, jaktande, jakt, jakte
 jaktar, jaktaren, jaktarar, jaktarane
 jakte, jaktar, jakta, jaktast, jaktande, jakt
@@ -4271,6 +4264,7 @@ jarnbanelinje, jarnbanelinja, jarnbanelinjer, jarnbanelinjene
 jarnbanestasjon, jarnbanestasjonen, jarnbanestasjonar, jarnbanestasjonane
 javanesisk, javanesiske
 jazz, jazzen
+je, meg
 jeger, jegeren, jegerar, jegerane
 jekk, jekken, jekkar, jekkane
 jemenitt, jemenitten, jemenittar, jemenittane
@@ -4279,12 +4273,14 @@ jente, jenta, jenter, jentene
 jentunge, jentungen, jentungar, jentungane
 jern, jernet, jerna
 jernbane, jernbanen, jernbana, jernbanar, jernbaner, jernbanane, jernbanene
+jernbanebru, jernbanebrua, jernbanebruer, jernbanebruene
 jernbanenett, jernbanenettet, jernbanenetta
+jernbanespor, jernbanesporet, jernbanespora
 jernbanestasjon, jernbanestasjonen, jernbanestasjonar, jernbanestasjonane
 jernklorid, jernkloridet
 jernmalm, jernmalmen, jernmalmar, jernmalmane
 jernvare, jernvara, jernvarer, jernvarene
-jerpe, jerpen, jerpar, jerpane
+jerpe, jerpa, jerper, jerpene, jerpen, jerpar, jerpane
 jerrykanne, jerrykanna, jerrykanner, jerrykannene
 jerv, jerven, jervar, jervane
 jesuitt, jesuitten, jesuittar, jesuittane
@@ -4306,7 +4302,7 @@ jol, jola, joler, jolene
 jolaftan, jolaftanen, jolaftnar, jolaftnane
 joletid, joletida, joletider, joletidene
 joletre, joletreet, joletrea, juletre
-jolle, jollen, jollar, jollane
+jolle, jollen, jollar, jollane, jolla, joller, jollene
 jomfru, jomfrua, jomfruer, jomfruene
 jomfruhinne, jomfruhinna, jomfruhinner, jomfruhinnene
 jord, jorda
@@ -4381,6 +4377,7 @@ kafé, kaféen, kafeen, kaféar, kafear, kaféane, kafeane
 kahytt, kahytta, kahytter, kahyttene
 kai, kaia, kaien, kaier, kaiar, kaiene, kaiane
 kaie, kaia, kaier, kaiene
+kaikant, kaikanten, kaikantar, kaikantane
 kajakk, kajakken, kajakkar, kajakkane
 kakao, kakaoen
 kakaopulver, kakaopulveret
@@ -4437,7 +4434,7 @@ kanadisk, kanadiske
 kanal, kanalen, kanalar, kanalane
 kanalisere, kanaliserer, kanaliserte, kanalisert, kanaliserast, kanaliserande, kanaliser
 kandidat, kandidaten, kandidatar, kandidatane
-kandidatur, kandidaturen, kandidaturar, kandidaturane
+kandidatur, kandidaturet, kandidatura, kandidaturen, kandidaturar, kandidaturane
 kanel, kanelen
 kanin, kaninen, kaninar, kaninane
 kanne, kanna, kanner, kannene
@@ -4511,12 +4508,11 @@ kassere, kasserer, kasserte, kassert, kasserast, kasserande, kasser
 kasserolle, kasserollen, kasserollar, kasserollane
 kassett, kassetten, kassettar, kassettane
 kast, kastet, kasta
-kasta and kaste, kast, kastar
 kasta, kastar, kastast, kastande, kast, kaste
 kastanje, kastanjen, kastanjar, kastanjane
 kastanjebrun, kastanjebrunt, kastanjebrune
-kaste, kastar, kasten, kastane, kasta, kastast, kastande, kast
 kastar, kastaren, kastarar, kastarane
+kaste, kasten, kastar, kastane, kasta, kastast, kastande, kast
 kasus, kasusen, kasusa, kasuset
 katakombe, katakomben, katakombar, katakombane
 katalansk, katalanske
@@ -4565,7 +4561,7 @@ kikke, kikk, kikkar, kikka, kikkande
 kikkert, kikkerten, kikkertar, kikkertane
 kikkertsikte, kikkertsiktet, kikkertsikta
 kile, kilen, kilar, kilane
-kilo, kiloet, kiloa
+kilo, kiloet, kiloa, kiloen
 kilometer, kilometeren, kilometerane, kilometrane
 kilowattime, kilowattimen, kilowattimar, kilowattimane
 kinesar, kinesaren, kinesarar, kinesarane
@@ -4606,14 +4602,12 @@ kjempemessig, kjempemessige
 kjempestor, kjempestort, kjempestore
 kjempesuksess, kjempesuksessen, kjempesuksessar, kjempesuksessane
 kjend, kjent, kjende, meir kjend, mest kjend
-kjenna and kjenne, kjend, kjent
 kjendis, kjendisen, kjendisar, kjendisane
 kjenna, kjenner, kjende, kjente, kjent, kjennast, kjennande, kjenn, kjenne
 kjenne, kjenner, kjende, kjente, kjent, kjennast, kjennande, kjenn
 kjennskap, kjennskapen, kjennskapar, kjennskapane
 kjensle, kjensla, kjensler, kjenslene
 kjent, kjente, meir kjent, mest kjent
-masculine, feminine and kjenna and kjenne, kjent
 kjerne, kjernen, kjernar, kjernane
 kjernefamilie, kjernefamilien, kjernefamiliar, kjernefamiliane
 kjernefysikk, kjernefysikken
@@ -4662,7 +4656,7 @@ kjønnsmoden, kjønnsmode, kjønnsmodent, kjønnsmodne, kjønnsmogen
 kjønnsmogen, kjønnsmoge, kjønnsmogent, kjønnsmogne
 kjønnsnøytral, kjønnsnøytralt, kjønnsnøytrale
 kjøp, kjøpet, kjøpa
-kjøpe, kjøp, kjøpa, kjøper, kjøpte, kjøpt, kjøpast, kjøpande
+kjøpe, kjøpa, kjøper, kjøpte, kjøpt, kjøpast, kjøpande, kjøp
 kjøpa, kjøper, kjøpte, kjøpt, kjøpast, kjøpande, kjøp
 kjøpar, kjøparen, kjøparar, kjøparane
 kjøpekraft, kjøpekrafta
@@ -4683,12 +4677,12 @@ kjøttmeis, kjøttmeisa, kjøttmeiser, kjøttmeisene
 klage, klaga, klager, klagene, klagen, klagar, klagane
 klaka, klakar, klakast, klakande, klak, meir klaka, mest klaka, klake
 klake, klakar, klaka, klakast, klakande, klak
+klamre, klamrar, klamra, klamrast, klamrande, klamr
 klan, klanen, klanar, klanane
 klappa, klappar, klappast, klappande, klapp, klappe
 klappe, klappar, klappa, klappast, klappande, klapp
 klappmyss, klappmyssen, klappmyssar, klappmyssane
 klar, klart, klare, klarare, klarast, klaraste, klår
-klare, klar
 klarinett, klarinetten, klarinettar, klarinettane
 klarinettist, klarinettisten, klarinettistar, klarinettistane
 klase, klasen, klasar, klasane
@@ -4767,6 +4761,9 @@ klump, klumpen, klumpar, klumpane
 klunger, klungeren, klungrar, klungrane
 klut, kluten, klutar, klutane
 klynge, klynga, klynger, klyngene
+klynk, klynket, klynka
+klynke, klynka, klynkar, klynkast, klynkande, klynk
+klynka, klynkar, klynkast, klynkande, klynk
 klype, klypa, klyper, klypene
 klyppe, klypper, klypte, klypt, klyppast, klyppande, klypp
 klår, klårt, klåre, klårare, klårast, klåraste
@@ -4781,6 +4778,7 @@ knallsyre, knallsyra
 knapp, knappen, knappar, knappane
 kne, kneet, knea, knes
 knebel, knebelen, kneblar, kneblane
+knegge, kneggar, knegga, kneggast, kneggande, knegg
 kneippbrød, kneippbrødet
 knekk, knekken, knekkar, knekkane, knekket, knekka
 knekt, knekten, knektar, knektane
@@ -4794,8 +4792,10 @@ knoke, knok, knoken, knokar, knokane
 knok, knoken, knokar, knokane
 knop, knopen, knopar, knopane
 knopp, knoppen, knoppar, knoppane
+knurre, knurrar, knurra, knurrast, knurrande, knurr
 knute, knuten, knutar, knutane
 knutepunkt, knutepunktet, knutepunkta
+kny, knyr, knydde, knydd, knytt, knyast, knyande
 knyte, knyta, knyter, knytte, knytt, knytast, knytande, knyt
 knyta, knyter, knytte, knytt, knytast, knytande, knyt
 knyttneve, knyttneven, knyttnevar, knyttnevane
@@ -4852,6 +4852,7 @@ komet, kometen, kometar, kometane
 komfort, komforten
 komfortabel, komfortabelt, komfortable
 komfyr, komfyren, komfyrar, komfyrane
+komikar, komikaren, komikarar, komikarane
 komisk, komiske
 komité, komite, komitéen, komiteen, komitéar, komitear, komitéane, komiteane
 komite, komiteen, komitear, komiteane
@@ -4920,6 +4921,7 @@ konditor, konditoren, konditorar, konditorane
 kondolere, kondolerer, kondolerte, kondolert, kondolerast, kondolerande, kondoler
 kondom, kondomet, kondoma
 kondor, kondoren, kondorar, kondorane
+konduktør, konduktøren, konduktørar, konduktørane
 kone, kona, koner, konene
 konfekt, konfekten, konfektar, konfektane
 konferanse, konferansen, konferansar, konferansane
@@ -4938,7 +4940,7 @@ kongeleg, kongelege, meir kongeleg, mest kongeleg
 kongepar, kongeparet, kongepara
 kongerike, kongeriket, kongerika
 kongeørn, kongeørnen, kongeørnar, kongeørnane, kongeørna, kongeørner, kongeørnene
-kongle, kongla, kongler, konglene
+kongle, kongla, kongler, konglene, konglen, konglar, konglane
 konglekjertel, konglekjertelen, konglekjertlar, konglekjertlane
 konglomerat, konglomeratet, konglomerata
 kongolesisk, kongolesiske
@@ -5077,7 +5079,6 @@ kosmologisk, kosmologiske
 kosmopolitisk, kosmopolitiske
 kosovar, kosovaren, kosovarar, kosovarane
 kost, kosten, kostar, kostane
-kosa and kose, kost
 kostarikan, kostarikanen, kostarikanar, kostarikanane
 kostarikanar, kostarikanaren, kostarikanarar, kostarikanarane
 kostarikansk, kostarikanske
@@ -5166,8 +5167,8 @@ krokus, krokusen, krokusar, krokusane
 krom, krommet
 kromosom, kromosomet, kromosoma
 krona, kronar, kronast, kronande, kron, krone
-krone, krona, kroner, kronene, kronar, kronast, kronande, kron
 kronblad, kronbladet, kronblada
+krone, krona, kroner, kronene, kronar, kronast, kronande, kron
 kronhjort, kronhjorten, kronhjortar, kronhjortane
 kronidiot, kronidioten, kronidiotar, kronidiotane
 kronisk, kroniske
@@ -5175,6 +5176,7 @@ kronologi, kronologien
 kronologisk, kronologiske
 kronprins, kronprinsen, kronprinsar, kronprinsane
 kropp, kroppen, kroppar, kroppane
+kroppsarbeid, kroppsarbeidet
 kroppsspråk, kroppsspråket, kroppsspråka
 kroppsvekt, kroppsvekta, kroppsvekter, kroppsvektene
 kroppsvæske, kroppsvæska, kroppsvæsker, kroppsvæskene
@@ -5184,6 +5186,7 @@ krukke, krukka, krukker, krukkene
 krum, krumt, krumme
 krumme, krummar, krumma, krummast, krummande, krum
 krusifiks, krusifikset, krusifiksa
+kry, kryr, krydde, krydd, krytt, kryast, kryande, krye, kryare, kryst, kryaste
 krydder, krydderet, kryddera
 krykkje, krykke, krykkja, krykkjer, krykkjene
 krykke, krykka, krykker, krykkene
@@ -5204,10 +5207,9 @@ krystallklar, krystallklart, krystallklare
 krå, kråa, krær, krærne
 kråke, kråka, kråker, kråkene
 krøll, krøllen, krøllar, krøllane
-krølla/krølle, krøll
 krønike, krønika, krøniker, krønikene
 ku, kua, kyr, kyrne
-kua, ku, kuar, kuast, kuande, kue
+kua, kuar, kuast, kuande, ku, kue
 kuban, kubanen, kubanar, kubanane
 kubanar, kubanaren, kubanarar, kubanarane
 kubansk, kubanske
@@ -5217,8 +5219,8 @@ kue, kuar, kua, kuast, kuande, ku
 kufte, kufta, kufter, kuftene
 kugalskap, kugalskapen
 kul, kulen, kular, kulane, kult, kule, kulare, kulast, kulaste
-kule, kul, kula, kuler, kulene
 kulde, kulda, kulden
+kule, kula, kuler, kulene
 kuleramme, kuleramma, kulerammer, kulerammene
 kulinarisk, kulinariske
 kuling, kulinga, kulingar, kulingane
@@ -5233,8 +5235,8 @@ kum, kummen, kummar, kummane
 kumjølk, kumjølka
 kumlokk, kumlokket, kumlokka
 kunde, kunden, kundar, kundane
-kunna, kunde, kan, kunne
 kunne, kunna, kan
+kunna, kan, kunne
 kunnskap, kunnskapen, kunnskapar, kunnskapane
 kunnskapsrik, kunnskapsrikt, kunnskapsrike
 kunst, kunsten, kunsta, kunstar, kunster, kunstane, kunstene
@@ -5319,7 +5321,7 @@ kverulant, kverulanten, kverulantar, kverulantane
 kverva, kverv, kvarv, kvorve, kvervande, kverver, kvervde, kvervt, kverve
 kverve, kverv, kvarv, kvorve, kvervande, kverver, kvervde, kvervt
 kvik, kvikt, kvike, kvikare, kvikast, kvikaste, kviken, kvikar, kvikane
-kvikka, kvikke
+kvikka, kvikkar, kvikkast, kvikkande, kvikk, kvikke
 kvikke, kvikkar, kvikka, kvikkast, kvikkande, kvikk
 kvikksand, kvikksanden
 kvikksølv, kvikksølvet
@@ -5327,6 +5329,7 @@ kvila, kviler, kvilte, kvilt, kvilast, kvilande, kvil, kvile
 kvile, kviler, kvilte, kvilt, kvilast, kvilande, kvil
 kvileheim, kvileheimen, kvileheimar, kvileheimane
 kvinne, kvinna, kvinner, kvinnene
+kvinnebryst, kvinnebrystet, kvinnebrysta
 kvinnehatar, kvinnehataren, kvinnehatarar, kvinnehatarane
 kvinnekropp, kvinnekroppen, kvinnekroppar, kvinnekroppane
 kvinneleg, kvinnelege, meir kvinneleg, mest kvinneleg
@@ -5377,12 +5380,11 @@ køyra, køyrer, køyrde, køyrt, køyrast, køyrande, køyr, køyre
 køyre, køyrer, køyrde, køyrt, køyrast, køyrande, køyr
 køyretøy, køyretøyet, køyretøya
 la, lèt, lar, lét, let, late, latt, lata
-leggja, leggje, legga and legge, la, legga, legge, legg, lagt, leggjast, leggjande
 laber, labert, labre
 laboratorium, laboratoriet, laboratoria
 labyrint, labyrinten, labyrintar, labyrintane
 lag, laget, laga
-laga, lag, lagar, lagast, lagande, lage
+laga, lagar, lagast, lagande, lag, lage
 lage, lagar, laga, lagast, lagande, lag
 lager, lageret, lagera
 lagerføre, lagerfører, lagerførte, lagerført, lagerførast, lagerførande, lagerfør
@@ -5457,7 +5459,7 @@ lastebåt, lastebåten, lastebåtar, lastebåtane
 lasterom, lasterommet, lasteromma
 lasteskip, lasteskipet, lasteskipa
 lat, latt, late, latare, latast, lataste
-late, lat, lata, lèt, lét, latast, latande
+late, lata, lèt, lét, latast, latande, lat
 lata, lèt, lét, late, latast, latande, lat
 latin, latinen
 latinamerikansk, latinamerikanske
@@ -5467,13 +5469,10 @@ latterleg, latterlege, latterlegare, latterlegast, latterlegaste
 latviar, latviaren, latviarar, latviarane
 latvisk, latviske
 laug, lauget, lauga
-lauga, laug, laugar, laugast, laugande, lauge
-ljuga and ljuge, laug
-lyga and lyge, laug
+lauga, laugar, laugast, laugande, laug, lauge
 lauge, laugar, lauga, laugast, laugande, laug
 lauk, lauken, laukar, laukane, løk
 laup, laupen, laupar, laupane, laupet, laupa
-laupa and laupe, laup
 laupa, lauper, laupte, laupt, laupast, laupande, laup, laupe
 laupe, lauper, laupte, laupt, laupast, laupande, laup
 laurbærblad, laurbærbladet, laurbærblada
@@ -5488,15 +5487,13 @@ leddik, leddiken, leddikar, leddikane
 ledig, ledige
 legat, legatet, legata
 lege, legen, legar, legane
-liggja, liggje, ligga and ligge, lege, ligga, ligge, ligg, låg, liggjast, liggjande
 legemiddel, legemiddelet, legemidla
 legendarisk, legendariske
 legende, legenda, legender, legendene
 legere, legerer, legerte, legert, legerast, legerande, leger
 legering, legeringa, legeringar, legeringane
 legg, leggen, leggar, legger, leggane, leggene
-leggja, leggje, legga and legge, legg
-leggja, leggje, legga and legge, legg
+leggja, legga, legge, legg, la, lagt, leggjast, leggjande, leggje
 legga, legg, la, lagt, leggast, leggande
 legge, legg, la, lagt, leggast, leggande
 leggetid, leggetida, leggetider, leggetidene
@@ -5505,13 +5502,14 @@ legion, legionen, legionar, legionane
 legitim, legitimt, legitime
 legitimere, legitimerer, legitimerte, legitimert, legitimerast, legitimerande, legitimer
 lei, leia, leier, leiene, leitt, leie, leiare, leiast, leiaste
-leie, lei, leia, leiar, leier, leidde, leidd, leitt, leiast, leiande
+leie, leia, leiar, leier, leidde, leidd, leitt, leiast, leiande, lei
 leia, leiar, leier, leidde, leidd, leitt, leiast, leiande, lei
 leiar, leiaren, leiarar, leiarane
 leid, leida, leider, leidene, leidt, leide, leidare, leidast, leidaste
-leida, leid, leider, leidde, leidt, leidande
+leida, leider, leidde, leidt, leidande, leid
 leide, leider, leidde, leidt, leidande, leid
-leike, leika, leikar, leiker, leikte, leikt, leikast, leikande, leik
+leik, leiken, leikar, leikane
+leike, leika, leikar, leiker, leikte, leikt, leikast, leikande, leik, leikene
 leika, leikar, leiker, leikte, leikt, leikast, leikande, leik
 leikeplass, leikeplassen, leikeplassar, leikeplassane
 leiketøy, leiketøyet, leiketøya
@@ -5521,8 +5519,6 @@ leirbål, leirbålet, leirbåla
 leirdue, leirdua, leirduer, leirduene
 leirdueskyting, leirdueskytinga
 leire, leira
-lita and lite, leit, lit, liten
-leita and leite, leit
 leita, leitar, leiter, leitte, leitt, leitande, leit, leite
 leite, leitar, leiter, leita, leitte, leitt, leitande, leit
 lekam, lekamen, lekamar, lekamane
@@ -5558,7 +5554,6 @@ lesar, lesaren, lesarar, lesarane
 lesbar, lesbart, lesbare
 lesbe, lesba, lesber, lesbene
 lesbisk, lesbiske
-lesa and lese, lese
 lese, les, las, lesast, lesande
 leselampe, leselampen, leselampar, leselampane, leselampa, leselamper, leselampene
 lesestoff, lesestoffet, lesestoffa
@@ -5568,7 +5563,7 @@ lesothoar, lesothoaren, lesothoarar, lesothoarane
 lespe, lespar, lespa, lespast, lespande, lesp
 let, leten, letar, leter, letane, letene
 lett, lette, lettare, lettast, lettaste
-letta, lett, lettar, lettast, lettande
+letta, lettar, lettast, lettande, lett
 lettvinn, lettvint, lettvinne
 lettvint, lettvinte
 leva, lever, levde, levt, levd, levande, lev, leve
@@ -5597,9 +5592,8 @@ libysk, libyske
 lidenskap, lidenskapen, lidenskapar, lidenskapane
 liechtensteinar, liechtensteinaren, liechtensteinarar, liechtensteinarane
 liechtensteinsk, liechtensteinske
-liggja, liggje, ligga and ligge, ligg
-liggja, liggje, ligga and ligge, ligg
 ligg, ligget
+liggja, ligga, ligge, ligg, låg, lege, liggjast, liggjande, liggje
 ligga, ligg, låg, lege, liggast, liggande
 ligge, ligg, låg, lege, liggast, liggande
 liggje, ligg, låg, lege, liggjast, liggjande
@@ -5637,11 +5631,11 @@ list, lista
 liste, lista, lister, listene
 lit, lita, liten
 lita, lit, leit, lite, litast, litande
-liten, lita, lite, litle, lisle, vesle, små, småe, mindre, minst, minste
 litande, meir litande, mest litande
 litauar, litauaren, litauarar, litauarane
 litauisk, litauiske, litauisken
 lite, mindre, minst, lit, leit, litast, litande
+liten, lita, lite, litle, lisle, vesle, små, småe, mindre, minst, minste
 liter, literen, literane, litrane
 litium, litiumet
 litografi, litografien, litografiar, litografiane
@@ -5653,7 +5647,7 @@ liv, livet, liva, livsens
 liva, liver, livde, livd, livande, liv
 livande, meir livande, mest livande
 livbåt, livbåten, livbåtar, livbåtane
-livbøye, livbøyen, livbøyar, livbøyane
+livbøye, livbøyen, livbøyar, livbøyane, livbøya, livbøyer, livbøyene
 livmor, livmora, livmorer, livmorene
 livmorhals, livmorhalsen, livmorhalsar, livmorhalsane
 livna, livnar, livnast, livnande, livn, livne
@@ -5667,8 +5661,8 @@ livssyn, livssynet, livssyna, livssyner, livssynene
 livvakt, livvakta, livvakter, livvaktene
 lyd, ljod, lyden, lydar, lydane
 ljod, ljoden, ljodar, ljodane
-ljoda, ljod, ljodar, ljodast, ljodande
-lyda, ljoda, ljode, lyd, lyder, lydde, lydd, lydt, lydande, lyde
+lyda, ljoda, ljode, lyder, lydde, lydd, lydt, lydande, lyd, lyde
+ljoda, ljodar, ljodast, ljodande, ljod
 lydbok, ljodbok, lydboka, lydbøker, lydbøkene
 ljodbok, ljodboka, ljodbøker, ljodbøkene
 ljode, ljodar, ljoda, ljodast, ljodande, ljod
@@ -5701,11 +5695,13 @@ lokalavis, lokalavisa, lokalaviser, lokalavisene
 lokalitet, lokaliteten, lokalitetar, lokalitetane
 lokalsamfunn, lokalsamfunnet, lokalsamfunna
 lokasjon, lokasjonen, lokasjonar, lokasjonane
+lokførar, lokføraren, lokførarar, lokførarane
 lokke, lokkar, lokka, lokkast, lokkande, lokk
 lokomotiv, lokomotivet, lokomotiva
 lom, lomen, lommen, lomar, lommar, lomane, lommane
 lomme, lomma, lommer, lommene
 lommebok, lommeboka, lommebøker, lommebøkene
+lommekniv, lommekniven, lommeknivar, lommeknivane
 lommelerke, lommelerka, lommelerker, lommelerkene
 lommelykt, lommelykta, lommelykter, lommelyktene
 lommetjuv, lommetjuven, lommetjuvar, lommetjuvane
@@ -5719,7 +5715,7 @@ losna, losnar, losnast, losnande, losn, losne
 losne, losnar, losna, losnast, losnande, losn
 lotteri, lotteriet, lotteria
 lov, lova, loven, lover, lovar, lovene, lovane
-lova, lov, lovar, lover, lovde, lovt, lovd, lovande, love
+lova, lovar, lover, lovde, lovt, lovd, lovande, lov, love
 lovbrot, lovbrotet, lovbrota, lovbrott
 lovbrott, lovbrottet, lovbrotta
 love, lovar, lover, lova, lovde, lovt, lovd, lovande, lov
@@ -5773,7 +5769,7 @@ lunsjtid, lunsjtida, lunsjtider, lunsjtidene
 lupe, lupa, luper, lupene
 lupin, lupinen, lupinar, lupinane
 lur, lurt, lure, lurare, lurast, luraste, luren, lurar, lurane
-lura, lur, lurar, lurer, lurte, lurt, lurande, lure
+lura, lurar, lurer, lurte, lurt, lurande, lur, lure
 lure, lurar, lurer, lura, lurte, lurt, lurande, lur
 lus, lusa, lyser, lusene, lysene
 lut, luten, lutar, luter, lutane, lutene
@@ -5791,7 +5787,7 @@ lydmur, lydmuren, lydmurar, lydmurane
 lydord, lydordet, lydorda
 lydpotte, lydpotta, lydpotter, lydpottene
 lyft, lyftet, lyfta, løft
-lyfta, lyft, lyftar, lyfter, lyfte, lyftande, løfta, løfte
+lyfta, lyftar, lyfter, lyfte, lyft, lyftande, løfta, løfte
 lyfte, lyftar, lyfter, lyfta, lyft, lyftande
 lyfting, lyftingen, lyftingar, lyftingane
 lyga, lyg, laug, loge, lygast, lygande
@@ -5808,7 +5804,7 @@ lynrask, lynraskt, lynraske
 lynsje, lynsjar, lynsja, lynsjast, lynsjande, lynsj
 lyrikk, lyrikken, lyrikkar, lyrikkane
 lys, lyset, lysa, lyst, lyse, lysare, lysast, lysaste
-lysa, lys, lyser, lyste, lyst, lysast, lysande, lyse
+lysa, lyser, lyste, lyst, lysast, lysande, lys, lyse
 lysbølge, lysbølga, lysbølger, lysbølgene
 lysbøye, lysbøya, lysbøyer, lysbøyene, lysbøyen, lysbøyar, lysbøyane
 lysdiode, lysdioden, lysdiodar, lysdiodane
@@ -5827,7 +5823,6 @@ lyta, lyt, laut, lote, lytande, lyte
 lyte, lyt, laut, lote, lytande
 lyttar, lyttaren, lyttarar, lyttarane
 låg, lågt, låge, lågare, lægre, lågast, lægst, lågaste, lægste
-liggja, liggje, ligga and ligge, låg
 lån, lånet, låna
 låne, låner, lånte, lånt, lånast, lånande, lån
 lånord, lånordet, lånorda
@@ -5857,9 +5852,10 @@ lærling, lærlingen, lærlingar, lærlingane
 lêr, lêret, lêra
 lòden, lòde, lòdent, lòdne, lòdnare, lòdnast, lòdnaste
 løft, løftet, løfta
-løfta, løft, løftar, løfter, løfte, løftande
-løfte, løfta, løftet, løftar, løfter, løft, løftande
+løfta, løftar, løfter, løfte, løft, løftande
+løfte, løftet, løfta, løftar, løfter, løft, løftande
 løgn, løgna, løgner, løgnene
+løgndetektor, løgndetektoren, løgndetektorar, løgndetektorane
 løk, løken, løkar, løkane
 løkke, løkka, løkker, løkkene
 lønn, lønna, lønnen, lønner, lønnar, lønnene, lønnane
@@ -5925,7 +5921,7 @@ maktfordeling, maktfordelinga, maktfordelingar, maktfordelingane
 maktkamp, maktkampen, maktkampar, maktkampane
 maktvakuum, maktvakuumet, maktvakuuma
 mal, malen, malar, malane
-mala, mal, mel, mol, male, malande, malar, malast
+mala, mel, mol, male, malande, mal, malar, malast
 malaria, malariaen
 malawiar, malawiaren, malawiarar, malawiarane
 malawisk, malawiske
@@ -5935,7 +5931,7 @@ malaysiar, malaysiaren, malaysiarar, malaysiarane
 malaysisk, malaysiske
 maldiv, maldiven, maldivar, maldivane
 maldivar, maldivaren, maldivarar, maldivarane
-maldivisk, maldiviske, maldivisken
+maldivisk, maldiviske
 male, mel, mol, malande, mal, malar, mala, malast
 maliar, maliaren, maliarar, maliarane
 maling, malinga, malingar, malingane
@@ -6012,8 +6008,8 @@ marxistisk, marxistiske
 masa, masar, masast, masande, mas, mase
 mase, masar, masa, masast, masande, mas
 maskara, maskaraen, maskaraer, maskaraene
-maske, maska, masker, maskene
-maskin, maskina, maskiner, maskinene
+maske, maska, masker, maskene, masken, maskar, maskane
+maskin, maskina, maskiner, maskinene, maskinen, maskinar, maskinane
 maskinell, maskinelt, maskinelle
 maskineri, maskineriet, maskineria
 maskingevær, maskingeværet, maskingeværa
@@ -6042,7 +6038,7 @@ materie, materien, materiar, materiane
 materiell, materielt, materielle, materiellet
 matine, matineen, matinear, matineane
 matiné, matinéen, matineen, matinéar, matinear, matinéane, matineane
-matolje, matolja, matoljer, matoljene
+matolje, matolja, matoljer, matoljene, matoljen, matoljar, matoljane
 matpakke, matpakken, matpakkar, matpakkane
 matrest, matresten, matrestar, matrestane
 matrise, matrisa, matriser, matrisene
@@ -6070,11 +6066,12 @@ medisinstudent, medisinstudenten, medisinstudentar, medisinstudentane
 meditasjon, meditasjonen, meditasjonar, meditasjonane
 medium, mediet, media
 medlem, medlemen, medlemmen, medlemar, medlemer, medlemmar, medlemmer, medlemane, medlemene, medlemmane, medlemmene
-medlemskap, medlemskapet, medlemskapa
+medlemskap, medlemskapet, medlemskapa, medlemskapen, medlemskapar, medlemskapane
 medlemskort, medlemskortet, medlemskorta
 medlemsland, medlemslandet, medlemslanda
 medpassasjer, medpassasjeren, medpassasjerar, medpassasjerane
 medskyldig, medskyldige
+meg, direct object of a verb); of eg
 megafon, megafonen, megafonar, megafonane
 meina, meiner, meinte, meint, meinast, meinande, mein, meine
 meine, meiner, meinte, meint, meinast, meinande, mein
@@ -6167,7 +6164,7 @@ metrisk, metriske
 metronom, metronomen, metronomar, metronomane
 metropol, metropolen, metropolar, metropolane
 mett, mette, mettare, mettast, mettaste
-metta, mett, mettar, mettast, mettande, mette
+metta, mettar, mettast, mettande, mett, mette
 mette, mettar, metta, mettast, mettande, mett
 mexican, mexicanen, mexicanar, mexicanane
 mexicanar, mexicanaren, mexicanarar, mexicanarane
@@ -6225,7 +6222,7 @@ million, millionen, millionar, millionane
 millionær, millionæren, millionærar, millionærane
 milt, milten, miltet, miltar, miltane, milta
 min, mi, mitt, mine
-mina, min, minar, miner, minte, mint, minast, minande, mine
+mina, minar, miner, minte, mint, minast, minande, min, mine
 mine, mina, miner, minene, minar, minte, mint, minast, minande, min
 mindretal, mindretalet, mindretala
 mindreverd, mindreverdet
@@ -6254,7 +6251,7 @@ minoritet, minoriteten, minoritetar, minoritetane
 minoritetsgruppe, minoritetsgruppa, minoritetsgrupper, minoritetsgruppene
 minoritetsspråk, minoritetsspråket, minoritetsspråka
 minstepris, minsteprisen, minsteprisar, minsteprisane
-minusgrad, minusgraden, minusgradar, minusgradane
+minusgrad, minusgraden, minusgradar, minusgradane, minusgrada, minusgrader, minusgradene
 minutt, minuttet, minutta, minutten, minuttar, minuttane
 mirakel, mirakelet, mirakla
 mirakuløs, mirakuløst, mirakuløse, meir mirakuløs, mest mirakuløs
@@ -6318,7 +6315,6 @@ molekylær, molekylært, molekylære
 moll, mollen
 molo, moloen, moloar, moloane
 moment, momentet, momenta
-momentan, momentant
 moms, momsen
 monark, monarken, monarkar, monarkane
 monarki, monarkiet, monarkia
@@ -6477,12 +6473,11 @@ mytologi, mytologien, mytologiar, mytologiane
 mytologisk, mytologiske
 måke, måken, måkar, måkane, måka, måker, måkene
 mål, målet, måla
-måle, mål, målar, måla, målast, målande, måler, målte, målt
 måla, målar, målast, målande, mål, måler, målte, målt
 målar, målaren, målarar, målarane
-måla and måle, målar
 målarkunst, målarkunsten, målarkunsta
 målbar, målbart, målbare
+måle, målar, måla, målast, målande, mål, måler, målte, målt
 måleri, måleriet, måleria
 målestokk, målestokken, målestokkar, målestokkane
 målføre, målføret, målføra
@@ -6574,13 +6569,14 @@ natur, naturen, naturar, naturane
 naturalisme, naturalismen
 naturalistisk, naturalistiske
 naturarv, naturarven
+naturfiber, naturfiberen, naturfibrar, naturfibrane
 naturgass, naturgassen, naturgassar, naturgassane
 naturhistorie, naturhistoria
 naturhistorisk, naturhistoriske
 naturkatastrofe, naturkatastrofen, naturkatastrofar, naturkatastrofane
 naturkraft, naturkrafta, naturkrafter, naturkrefter, naturkraftene, naturkreftene
 naturleg, naturlege, naturlegare, naturlegast, naturlegaste
-naturlov, naturloven, naturlovar, naturlovane
+naturlov, naturloven, naturlovar, naturlovane, naturlova, naturlover, naturlovene
 naturreservat, naturreservatet, naturreservata
 naturressurs, naturressursen, naturressursar, naturressursane
 naud, nauda, nauder, naudene
@@ -6683,7 +6679,7 @@ njupe, njupa, njuper, njupor, njupene, njupone
 njupa, njuper, njupor, njupene, njupone
 no, noet, noa, nå
 nobelpris, nobelprisen, nobelprisar, nobelprisane
-nokon, noko, noka, nokre, nokor
+nokon, noka, noko, nokre
 nomade, nomaden, nomadar, nomadane
 nomadisk, nomadiske
 nominasjon, nominasjonen, nominasjonar, nominasjonane
@@ -6723,7 +6719,6 @@ nostalgisk, nostalgiske
 notat, notatet, notata
 notatbok, notatboka, notatbøker, notatbøkene
 note, noten, notar, notane
-nyta, note, nyt, naut, nytt, nytande, nyte
 notisbok, notisboka, notisbøker, notisbøkene
 notorisk, notoriske
 nubiar, nubiaren, nubiarar, nubiarane
@@ -6767,9 +6762,10 @@ nyse, nys, naus, nose, nysast, nysande
 nysgjerrig, nysgjerrige
 nysgjerrigper, nysgjerrigperen, nysgjerrigperar, nysgjerrigperane
 nysnø, nysnøen
-nysta, nyst, nystar, nystast, nystande, nyste, nøsta, nøste
 nyss, nyst
+nysta, nystar, nystast, nystande, nyst, nyste, nøsta, nøste
 nyste, nystar, nysta, nystast, nystande, nyst, nøste
+nyta, nyt, naut, note, nytt, nytande, nyte
 nyte, nyt, naut, note, nytt, nytande
 nytte, nytta, nyttar, nyttast, nyttande, nytt
 nytta, nyttar, nyttast, nyttande, nytt
@@ -6826,7 +6822,7 @@ nøyaktig, nøyaktige
 nøye, nøyare, nøyast, nøyaste
 nøyen, nøye, nøyent, nøgne, nøgnare, nøgnast, nøgnaste
 nøytral, nøytralt, nøytrale
-nøytron, nøytronen, nøytronar, nøytronane
+nøytron, nøytronen, nøytronar, nøytronane, nøytronet, nøytrona
 oase, oasen, oasar, oasane
 objekt, objektet, objekta
 objektiv, objektivet, objektiva
@@ -6854,7 +6850,6 @@ ofte, oftare, oftast
 oganesson, oganessonet
 okkupant, okkupanten, okkupantar, okkupantane
 okkupasjon, okkupasjonen, okkupasjonar, okkupasjonane
-okle, oklet, okla, okler, oklene
 okse, oksen, oksar, oksane
 oksekjøtt, oksekjøttet
 oksel, oksla, oksler, okslene
@@ -6874,7 +6869,7 @@ oldtid, oldtida
 oligarki, oligarkiet, oligarkia
 oligarkisk, oligarkiske
 oliven, olivenen, olivenar, olivenane
-olivenolje, olivenolja, olivenoljer, olivenoljene
+olivenolje, olivenolja, olivenoljer, olivenoljene, olivenoljen, olivenoljar, olivenoljane
 oliventre, oliventreet, oliventrea
 olje, oljen, olja, oljar, oljer, oljane, oljene
 oljeaktig, oljeaktige
@@ -6951,6 +6946,7 @@ oppfatte, oppfattar, oppfatta, oppfattast, oppfattande, oppfatt
 oppfinning, oppfinninga, oppfinningar, oppfinningane
 oppfordring, oppfordringa, oppfordringar, oppfordringane
 oppfølging, oppfølginga, oppfølgingar, oppfølgingane
+oppføre, oppfører, oppførte, oppført, oppførast, oppførande, oppfør
 oppgåve, oppgåva, oppgåver, oppgåvene
 opphaldsrom, opphaldsrommet, opphaldsromma
 opphav, opphavet, opphava
@@ -6991,9 +6987,9 @@ opptatt, opptatte, opptattare, opptattast, opptattaste
 opptre, opptrer, opptredde, opptredd, opptrett, opptreast, opptreande
 opptrykk, opptrykket, opptrykka
 oppvarming, oppvarminga, oppvarmingar, oppvarmingane
-oppvask, oppvasket, oppvaska
+oppvask, oppvasket, oppvaska, oppvasken, oppvaskar, oppvaskane
 oppvaskklut, oppvaskkluten, oppvaskklutar, oppvaskklutane
-oppvaskmaskin, oppvaskmaskina, oppvaskmaskiner, oppvaskmaskinene
+oppvaskmaskin, oppvaskmaskina, oppvaskmaskiner, oppvaskmaskinene, oppvaskmaskinen, oppvaskmaskinar, oppvaskmaskinane
 oppvaskmiddel, oppvaskmiddelet, oppvaskmidla
 oppvekst, oppveksten
 oppvisning, oppvisninga, oppvisningar, oppvisningane
@@ -7004,7 +7000,7 @@ optimisme, optimismen
 optimist, optimisten, optimistar, optimistane
 optimistisk, optimistiske
 optisk, optiske
-or, oren, orar, orane
+or, oren, orar, orane, ora, orer, orene
 orangutang, orangutangen, orangutangar, orangutangane
 oransje, oransjen
 ord, ordet, orda
@@ -7014,7 +7010,7 @@ ordentleg, ordentlege, meir ordentleg, mest ordentleg
 ordforråd, ordforrådet, ordforråda
 ordførar, ordføraren, ordførarar, ordførarane
 ordinær, ordinært, ordinære
-ordklasse, ordklassa, ordklasser, ordklassene
+ordklasse, ordklassa, ordklasser, ordklassene, ordklassen, ordklassar, ordklassane
 ordliste, ordlista, ordlister, ordlistene
 ordlyd, ordlyden
 ordre, ordren, ordrar, ordrane
@@ -7107,7 +7103,7 @@ overside, oversida, oversider, oversidene
 oversikt, oversikta, oversikter, oversiktene
 oversjøisk, oversjøiske
 overskrift, overskrifta, overskrifter, overskriftene
-overtaka, overta, overtak, overtek, overtok, overteke, overtakast, overtakande, overtake
+overtaka, overta, overtek, overtok, overteke, overtakast, overtakande, overtak, overtake
 overta, overtek, overtar, overtok, overteke, overtatt, overtakast, overtakande
 overtak, overtaket, overtaka
 overtake, overtek, overtok, overteke, overtakast, overtakande, overtak
@@ -7131,7 +7127,7 @@ paddehatt, paddehatten, paddehattar, paddehattane
 pai, paien, paiar, paiane
 pakistanar, pakistanaren, pakistanarar, pakistanarane
 pakistansk, pakistanske
-pakke, pakka, pakker, pakkene
+pakke, pakka, pakker, pakkene, pakken, pakkar, pakkane
 pakkhest, pakkhesten, pakkhestar, pakkhestane
 pakning, pakninga, pakningar, pakningane, pakningen
 pakt, pakta, pakter, paktene
@@ -7197,7 +7193,6 @@ parasitt, parasitten, parasittar, parasittane
 parentes, parentesen, parentesar, parentesane
 parfyme, parfymen, parfymar, parfymane
 parfymert, parfymerte
-parfymere, parfymert
 pariserhjul, pariserhjulet, pariserhjula
 park, parken, parkar, parkane
 parkering, parkeringa, parkeringar, parkeringane
@@ -7258,6 +7253,7 @@ pedagog, pedagogen, pedagogar, pedagogane
 pedagogikk, pedagogikken, pedagogikkar, pedagogikkane
 pedagogisk, pedagogiske
 pedal, pedalen, pedalar, pedalane
+pedikyr, pedikyren, pedikyrar, pedikyrane
 pedofil, pedofilt, pedofile
 peika, peiker, peikte, peikt, peikast, peikande, peik, peikar, peike
 peike, peikar, peiker, peika, peikte, peikt, peikast, peikande, peik
@@ -7348,7 +7344,7 @@ pikk, pikken, pikkar, pikkane, pikket, pikka
 piknik, pikniken, piknikar, piknikane
 piksel, pikselen, pikslar, pikslane
 piktogram, piktogrammet, piktogramma
-pil, pilen, pilar, pilane
+pil, pilen, pilar, pilane, pila, piler, pilene
 pilar, pilaren, pilarar, pilarane
 pilegrim, pilegrimen, pilegrimar, pilegrimane
 pille, pilla, piller, pillene
@@ -7359,7 +7355,7 @@ pine, pina, piner, pinene, pinte, pint, pinast, pinande, pin
 pingvin, pingvinen, pingvinar, pingvinane
 pinleg, pinlege, pinlegare, pinlegast, pinlegaste
 pinn, pinnen, pinnar, pinnane
-pinse, pinsen, pinsar, pinsane
+pinse, pinsen, pinsar, pinsane, pinsa, pinser, pinsene
 pinsle, pinsla, pinsler, pinslene
 pion, pionen, pionar, pionane
 pioner, pioneren, pionerar, pionerane
@@ -7383,6 +7379,7 @@ plakett, plaketten, plakettar, plakettane
 plakk, plakket
 plan, planet, plana, planen, planar, planane, plant, plane, planare, planast, planaste
 planarbeid, planarbeidet
+planere, planerer, planerte, planert, planerast, planerande, planer
 planet, planeten, planetar, planetane
 planetarisk, planetariske
 planetarium, planetariet, planetaria
@@ -7391,8 +7388,8 @@ plankton, planktonet
 planlegging, planlegginga, planleggingar, planleggingane
 planovergang, planovergangen, planovergangar, planovergangane
 planta, plantar, plantast, plantande, plant, plante
-plante, planta, planten, plantar, planter, plantane, plantene, plantast, plantande, plant
 plantasje, plantasjen, plantasjar, plantasjane
+plante, planten, planta, plantar, planter, plantane, plantene, plantast, plantande, plant
 planteetar, planteetaren, planteetarar, planteetarane
 planteliv, plantelivet
 plask, plasket, plaska
@@ -7511,7 +7508,7 @@ potetpure, potetpureen
 potetpuré, potetpuréen
 potetstappe, potetstappa
 potte, potta, potter, pottene
-potteplante, potteplanta, potteplanter, potteplantene
+potteplante, potteplanta, potteplanter, potteplantene, potteplanten, potteplantar, potteplantane
 pragmatisk, pragmatiske, meir pragmatisk, mest pragmatisk
 praksis, praksisen, praksisar, praksisane
 praktfull, praktfullt, praktfulle, meir praktfull, mest praktfull
@@ -7519,7 +7516,6 @@ praktisk, praktiske
 pram, prammen, prammar, prammane
 prat, praten, pratar, pratane, pratet, prata
 prefabrikkert, prefabrikkerte
-prefabrikkere, prefabrikkert
 preferanse, preferansen, preferansar, preferansane
 prekambrisk, prekambriske
 prekær, prekært, prekære
@@ -7556,6 +7552,7 @@ primærproduksjon, primærproduksjonen
 prinsesse, prinsessa, prinsesser, prinsessene
 prinsipiell, prinsipielt, prinsipielle
 prinsipp, prinsippet, prinsippa
+prioritere, prioriterer, prioriterte, prioritert, prioriterast, prioriterande, prioriter
 prioritet, prioriteten, prioritetar, prioritetane
 pris, prisen, prisar, prisane
 prisbevisst, prisbevisste
@@ -7671,7 +7668,6 @@ puls, pulsen, pulsar, pulsane
 pulsar, pulsaren, pulsarar, pulsarane
 pulsåre, pulsåra, pulsårer, pulsårene
 pult, pulten, pultar, pultane
-pule, pult
 pulver, pulveret, pulvera
 pumpe, pumpa, pumper, pumpene
 pumpestasjon, pumpestasjonen, pumpestasjonar, pumpestasjonane
@@ -7679,6 +7675,7 @@ pund, pundet, punda
 pung, pungen, pungar, pungane
 pungdyr, pungdyret, pungdyra
 punkt, punktet, punkta
+punktlegskap, punktlegskapen
 punktskrift, punktskrifta
 punktum, punktumet, punktuma
 punktvis, punktvise
@@ -7704,12 +7701,13 @@ pynt, pynten
 pyramide, pyramiden, pyramidar, pyramidane
 pysjamas, pysjamasen, pysjamasar, pysjamasane
 pyttipanne, pytt-i-panne
+pådra, pådreg, pådrar, pådrog, pådrege, pådratt, pådradd, pådragande, pådragast
 påfallande, meir påfallande, mest påfallande
 påfugl, påfuglen, påfuglar, påfuglane
 påhengsmotor, påhengsmotoren, påhengsmotorar, påhengsmotorane
 påkalle, påkallar, påkalla, påkallast, påkallande, påkall
 pålandsvind, pålandsvinden, pålandsvindar, pålandsvindane
-påske, påsken, påskar, påskane
+påske, påsken, påskar, påskane, påska, påsker, påskene
 påskedag, påskedagen, påskedagar, påskedagane
 påskeegg, påskeegget, påskeegga
 påskelilje, påskelilja, påskeliljer, påskeliljene
@@ -7746,10 +7744,9 @@ radiostyrt, radiostyrte
 radius, radiusen, radiusar, radiusane
 raffineri, raffineriet, raffineria
 raffinert, raffinerte
-raffinere, raffinert
 ragg, ragget
 ragnarok, ragnaroket, ragnaroka
-raka, rakar, rakast, rakande, rak, rake
+raka, rakar, rakast, rakande, rak, mainly used in the negative sense, rake
 rake, rakar, raka, rakast, rakande, rak
 rakett, raketten, rakettar, rakettane
 rally, rallyet, rallya
@@ -7757,7 +7754,7 @@ ramme, ramma, rammer, rammene
 rammeavtale, rammeavtalen, rammeavtalar, rammeavtalane, rammeavtala, rammeavtaler, rammeavtalene
 rammeverk, rammeverket, rammeverka
 ramn, ramnen, ramnar, ramnane
-rampe, rampa, ramper, rampene
+rampe, rampa, ramper, rampene, rampen, rampar, rampane
 ran, ranet, rana
 ranar, ranaren, ranarar, ranarane
 rand, randa, render, rendene, randen, randane
@@ -7779,7 +7776,7 @@ rate, raten, ratar, ratane
 ratifikasjon, ratifikasjonen, ratifikasjonar, ratifikasjonane
 ratifisere, ratifiserer, ratifiserte, ratifisert, ratifiserast, ratifiserande, ratifiser
 ratt, rattet, ratta
-rattstamme, rattstamma, rattstammer, rattstammene
+rattstamme, rattstamma, rattstammer, rattstammene, rattstammen, rattstammar, rattstammane
 raud, raudt, raude, raudare, raudast, raudaste
 raudmus, raudmusa, raudmyser, raudmusene, raudmysene
 raudrev, raudreven, raudrevar, raudrevane
@@ -7790,7 +7787,7 @@ raust, rauste, raustare, raustast, raustaste
 raute, rautar, rauta, rautast, rautande, raut
 rauv, rauva, rauver, rauvene
 rav, ravet
-reagens, reagenset, reagensa
+reagens, reagenset, reagensa, reagensen, reagensar, reagensane
 reaksjon, reaksjonen, reaksjonar, reaksjonane
 reaksjonstid, reaksjonstida, reaksjonstider, reaksjonstidene
 reaktant, reaktanten, reaktantar, reaktantane, reaktantet, reaktanta
@@ -7803,9 +7800,7 @@ realitet, realiteten, realitetar, realitetane
 redaksjon, redaksjonen, redaksjonar, redaksjonane
 redaktør, redaktøren, redaktørar, redaktørane
 redd, redde, reddare, reddast, reddaste
-redda and redde, redd
 redda, reddar, reddast, reddande, redd, redde
-inredd, reddast
 redde, reddar, redda, reddast, reddande, redd
 reddik, reddiken, reddikar, reddikane
 redning, redninga, redningar, redningane
@@ -7844,7 +7839,7 @@ regjering, regjeringa, regjeringar, regjeringane
 regjeringssete, regjeringssetet, regjeringsseta
 regjeringstid, regjeringstida, regjeringstider, regjeringstidene
 regn, regnet
-regna, regn, regnar, regner, regnde, regnt, regnande, regne
+regna, regnar, regner, regnde, regnt, regnande, regn, regne
 regnboge, regnbogen, regnbogar, regnbogane
 regnbogeaure, regnbogeauren, regnbogeaurar, regnbogeaurane
 regndrope, regndropen, regndropar, regndropane
@@ -7863,7 +7858,6 @@ reip, reipet, reipa
 reir, reiret, reira
 reise, reis, reisa, reiser, reisene, reiste, reist, reisast, reisande
 reis, reisa, reiser, reisene
-risa, reis, ris, rise, risande, risar, risast
 reisa, reiser, reiste, reist, reisast, reisande, reis
 reisebyrå, reisebyrået, reisebyråa
 reisemål, reisemålet, reisemåla
@@ -8011,7 +8005,7 @@ rime, rim, rimar, rima
 rimeleg, rimelege, rimelegare, rimelegast, rimelegaste
 rimfrost, rimfrosten
 ring, ringen, ringar, ringane
-ringja, ringje, ringa and ringe, ring, ringa, ringe, ringjer, ringde, ringt, ringjast, ringjande
+ringja, ringa, ringe, ringjer, ringde, ringt, ringjast, ringjande, ring, ringje
 ringa, ringer, ringde, ringt, ringast, ringande, ring
 ringdue, ringdua, ringduer, ringduene
 ringe, ringer, ringde, ringt, ringast, ringande, ring
@@ -8020,6 +8014,7 @@ ringje, ringjer, ringde, ringt, ringjast, ringjande, ring
 ringsel, ringselen, ringselar, ringselane
 rips, ripsen, ripsar, ripsane
 ris, risen, riset, risa
+risa, ris, reis, rise, risande, risar, risast
 rise, risen, risar, risane, ris, reis, risande, risa, risast
 risikabel, risikabelt, risikable
 risiko, risikoen, risikoar, risikoane
@@ -8077,7 +8072,8 @@ ropa, rop, ropar, roper, ropte, ropt, ropande, rope
 rope, rop, ropar, roper, ropa, ropte, ropt, ropande
 ror, roret, rora
 rorbu, rorbua, rorbuer, rorbuene
-rose, rosa, roser, rosene
+rose, rosa, roser, rosene, roste, rost, rosast, rosande, ros, rosar
+rosa, roser, roste, rost, rosast, rosande, ros, rosar, rose
 rosemåling., rosemaling
 rosemaling, rosemalinga, rosemalingar, rosemalingane
 rosemåling, rosemålinga, rosemålingar, rosemålingane
@@ -8100,7 +8096,7 @@ ruging, ruginga, rugingar, rugingane
 ruin, ruinen, ruinar, ruinane
 rulett, ruletten, rulettar, rulettane
 rull, rullen, rullar, rullane
-rullebane, rullebana, rullebaner, rullebanene
+rullebane, rullebana, rullebaner, rullebanene, rullebanen, rullebanar, rullebanane
 rullemotstand, rullemotstanden
 rulleskøyte, rulleskøyta, rulleskøyter, rulleskøytene
 rullestol, rullestolen, rullestolar, rullestolane
@@ -8150,7 +8146,7 @@ rydde, ryddar, rydda, ryddast, ryddande, rydd
 ryddig, ryddige, ryddigare, ryddigast, ryddigaste
 rydje, ryd, rudde, rudt, rudd, rydjande
 rygg, ryggen, rygger, ryggar, ryggene, ryggane
-rygge, rygg, rygga, ryggar, ryggast, ryggande, ryggja, ryggje
+rygge, rygga, ryggar, ryggast, ryggande, rygg, ryggja, ryggje
 rygga, ryggar, ryggast, ryggande, rygg
 ryggja, ryggjer, rygde, rygt, rygd, ryggjande, rygg
 ryggje, ryggjer, rygde, rygt, rygd, ryggjande, rygg
@@ -8166,7 +8162,7 @@ rytmikk, rytmikken
 rytmisk, rytmiske
 rå, rått, råe, råare, råast, råaste, råa, rær, rærne, rår, rådde, rådd, rådt, rådande, råda, råde
 råd, rådet, råda, råden, rådar, rådane
-råda, råd, råder, rådde, rådd, rådt, rådande
+råda, råder, rådde, rådd, rådt, rådande, råd
 råde, råden, rådar, rådane, råder, rådde, rådd, rådt, rådande, råd
 rådgjevar, rådgivar, rådgjevaren, rådgjevarar, rådgjevarane
 rådgivar, rådgivaren, rådgivarar, rådgivarane
@@ -8183,15 +8179,15 @@ røntgen, røntgenen, røntgenar, røntgenane
 røntgenbilde, røntgenbildet, røntgenbilda
 røntgenfotografere, røntgenfotograferer, røntgenfotograferte, røntgenfotografert, røntgenfotograferast, røntgenfotograferande, røntgenfotografer
 rørsle, rørsla, rørsler, rørslene
-røsslyng, røsslynget, røsslynga
+røsslyng, røsslynget, røsslynga, røsslyngen, røsslyngar, røsslyngane
 røvar, røvaren, røvarar, røvarane
 røvarkjøp, røvarkjøpet, røvarkjøpa
 røyk, røyken
-røyke, røyk, røyker, røykte, røykt, røykast, røykande
-røykja, røyk, røyke, røykjer, røykte, røykt, røykjast, røykjande
 røykdetektor, røykdetektoren, røykdetektorar, røykdetektorane
 røykdukkar, røykdukkaren, røykdukkarar, røykdukkarane
 røykdykkar, røykdykkaren, røykdykkarar, røykdykkarane
+røykja, røyke, røykjer, røykte, røykt, røykjast, røykjande, røyk
+røyke, røyker, røykte, røykt, røykast, røykande, røyk
 røyking, røykinga
 røykjar, røykjaren, røykjarar, røykjarane
 røyksopp, røyksoppen, røyksoppar, røyksoppane
@@ -8257,7 +8253,6 @@ samanlikna, samanliknar, samanliknast, samanliknande, samanlikn, samanlikne
 samanlikne, samanliknar, samanlikna, samanliknast, samanliknande, samanlikn
 samansetting, samansettinga, samansettingar, samansettingane
 samarbeid, samarbeidet, samarbeida
-samarbeida and samarbeide, samarbeid
 samarbeida, samarbeider, samarbeidde, samarbeidd, samarbeidt, samarbeidast, samarbeidande, samarbeid, samarbeide
 samarbeide, samarbeider, samarbeidde, samarbeidd, samarbeidt, samarbeidast, samarbeidande, samarbeid
 samaritan, samaritanen, samaritanar, samaritanane
@@ -8265,7 +8260,6 @@ samband, sambandet, sambanda
 samd, samde, meir samd, mest samd
 same, samen, samar, samane
 sameint, sameinte
-sameine, sameint
 sameksistens, sameksistensen
 samfund, samfundet, samfunda
 samfunn, samfunnet, samfunna
@@ -8345,6 +8339,7 @@ sceneshow, sceneshowet, sceneshowa
 scenografi, scenografien, scenografiar, scenografiane
 schizofreni, schizofrenien
 scientolog, scientologen, scientologar, scientologane
+scooter, scooteren, scooterar, scooterane, skuter
 score, scoren, scorar, scorane, scora, scorast, scorande, scor
 sebra, sebraen, sebraer, sebraar, sebraene, sebraane
 seder, sederen, sedrar, sedrane
@@ -8354,12 +8349,11 @@ sedvane, sedvanen, sedvanar, sedvanane
 segja, segjer, sa, sagde, sagt
 segje, segjer, sa, sagde, sagt
 segl, seglet, segla
+segle, segla, segl, seglar, segler, seglde, seglt, seglande, sigla, sigle
 segla, segl, seglar, segler, seglde, seglt, seglande
-segle, segl, segla, seglar, segler, seglde, seglt, seglande, sigla, sigle
 seglfartøy, seglfartøyet, seglfartøya
 seglskip, seglskipet, seglskipa
 sei, seien, seiar, seiane
-seia and seie, sei
 seia, seier, sa, sagt, seiast, seiande, sei
 seidel, seidelen, seidlar, seidlane
 seie, seier, sa, sagt, seiast, seiande, sei
@@ -8385,7 +8379,7 @@ sekt, sekta, sekter, sektene
 sekterisk, sekteriske
 sektor, sektoren, sektorar, sektorane
 sekulær, sekulært, sekulære
-sekund, sekunden, sekundar, sekundane
+sekund, sekunden, sekundar, sekundane, sekundet, sekunda
 sekundær, sekundært, sekundære
 sekvens, sekvensen, sekvensar, sekvensane
 sel, selen, selar, selane
@@ -8467,7 +8461,6 @@ sesong, sesongen, sesongar, sesongane
 sesongkort, sesongkortet, sesongkorta
 sesongmessig, sesongmessige
 sete, setet, seta
-sitja, sitje, sitta and sitte, sete, sit, sat, sitjast, sitjande, sitta, sitte
 setebelte, setebeltet, setebelta
 setel, setelen, setlar, setlane
 setja, set, sette, sett, setjast, setjande, setje, setta
@@ -8486,7 +8479,6 @@ shetlendar, shetlendaren, shetlendarar, shetlendarane
 shetlending, shetlendingen, shetlendingar, shetlendingane
 shorts, shortsen, shortsar, shortsane
 show, showet, showa
-sin, si, sitt, sine
 sibirsk, sibirske
 siciliansk, sicilianske
 sid, sidt, side, sidare, sidast, sidaste
@@ -8537,6 +8529,7 @@ silo, siloen, siloar, siloane
 silt, silten
 simpel, simpelt, simple, simplare, simplast, simplaste
 simulering, simuleringa, simuleringar, simuleringane
+sin, si, sitt, sine
 singalesar, singalesaren, singalesarar, singalesarane
 singalesisk, singalesiske, singalesisken
 singaporar, singaporaren, singaporarar, singaporarane
@@ -8547,6 +8540,7 @@ single, singlen, singlar, singlane
 sink, sinken, sinket
 sinksulfat, sinksulfatet
 sinn, sinnet, sinna
+sinne, sinnet
 sint, sinte, sintare, sintast, sintaste
 sinus, sinusen, sinusar, sinusane
 siriss, sirissen, sirissar, sirissane
@@ -8562,13 +8556,13 @@ sist, siste
 sitat, sitatet, sitata
 siter, siteren, siterar, siterane
 sitere, siterer, siterte, sitert, siterast, siterande, siter
+sitja, sit, sat, sete, sitjast, sitjande, sitje, sitta, sitte
 sitje, sit, sat, sete, sitjast, sitjande
 sitron, sitronen, sitronar, sitronane
 sitronbrus, sitronbrusen, sitronbrusar, sitronbrusane
 sitronsaft, sitronsafta
 sitronsyre, sitronsyra
 sitrusfrukt, sitrusfrukta, sitrusfrukter, sitrusfruktene
-sitja, sitje, sitta and sitte, sitt
 sitta, sit, sat, sete, sittast, sittande, sitt
 sitte, sit, sat, sete, sittast, sittande, sitt
 sitteplass, sitteplassen, sitteplassar, sitteplassane
@@ -8576,9 +8570,8 @@ situasjon, situasjonen, situasjonar, situasjonane
 situasjonskomedie, situasjonskomedien, situasjonskomediar, situasjonskomediane
 sivil, sivilt, sivile, meir sivil, mest sivil
 sivilforsvar, sivilforsvaret, sivilforsvara
-sivilisasjon, sivilisasjonen, sivilisasjonar, sivilisasjonane
+sivilisasjon, mostly in ) civilisation, human society, particularly civil society, sivilisasjonen, sivilisasjonar, sivilisasjonane
 sivilisert, siviliserte
-sivilisere, sivilisert
 sivilist, sivilisten, sivilistar, sivilistane
 sivilkledd, sivilkledt, sivilkledde
 sjablong, sjablongen, sjablongar, sjablongane
@@ -8603,7 +8596,6 @@ sjef, sjefen, sjefar, sjefane
 sjefingeniør, sjefingeniøren, sjefingeniørar, sjefingeniørane
 sjeik, sjeiken, sjeikar, sjeikane
 sjekk, sjekken, sjekkar, sjekkane
-sjekke, sjekk
 sjekkhefte, sjekkheftet, sjekkhefta
 sjel, sjela, sjeler, sjelene
 sjeldan, sjeldnare, sjeldnast, sjeldne
@@ -8671,7 +8663,6 @@ skaffa, skaffar, skaffast, skaffande, skaff, skaffe
 skaffe, skaffar, skaffa, skaffast, skaffande, skaff
 skaft, skaftet, skafta
 skal, skalet, skala
-skulla and skulle, skal
 skala, skalaen, skalaer, skalaar, skalaene, skalaane
 skaldyr, skaldyret, skaldyra
 skalle, skallen, skallar, skallane
@@ -8686,7 +8677,7 @@ skandinavisme, skandinavismen
 skanne, skannar, skanna, skannast, skannande, skann
 skåp, skap, skåpet, skåpa
 skap, skapet, skapa
-skapa, skap, skapar, skaper, skapte, skapt, skapande, skape
+skapa, skapar, skaper, skapte, skapt, skapande, skap, skape
 skape, skaper, skapa, skapte, skapt, skapande, skap
 skapning, skapningen, skapningar, skapningane
 skarp, skarpt, skarpe, skarpare, skarpast, skarpaste
@@ -8702,7 +8693,6 @@ skatteparadis, skatteparadiset, skatteparadisa
 skattlegge, skattlegg, skattla, skattlagt, skattleggast, skattleggande
 skau, skaua, skauer, skauene
 skaut, skautet, skauta
-skyta, skaut, skyt, skote, skytande, skyte
 skeise, skeisa, skeiser, skeisene
 skepsis, skepsisen
 skeptisk, skeptiske
@@ -8710,8 +8700,8 @@ sketsj, sketsjen, sketsjar, sketsjane
 ski, skia, skier, skiene
 skibakke, skibakken, skibakkar, skibakkane
 skift, skiftet, skifta
-skifta, skift, skifter, skiftar, skifte, skiftast, skiftande
 skifte, skifta, skiftet, skifter, skiftar, skift, skiftast, skiftande
+skifta, skifter, skiftar, skifte, skift, skiftast, skiftande
 skiftarbeid, skiftarbeidet
 skihopping, skihoppinga
 skiidrett, skiidretten
@@ -8730,11 +8720,11 @@ skiljelinje, skiljelinja, skiljelinjer, skiljelinjene
 skilnad, skilnaden, skilnader, skilnadar, skilnadene, skilnadane
 skilsmisse, skilsmissa, skilsmisser, skilsmissene
 skilt, skiltet, skilta
-skilta and skilte, skilt
 skilta, skiltar, skiltast, skiltande, skilt, skilte
 skilte, skiltar, skilta, skiltast, skiltande, skilt
 skilting, skiltinga
 skiløping, skiløpinga
+skiløype, skiløypa, skiløyper, skiløypene
 skimta, skimtar, skimtast, skimtande, skimt, skimte
 skimte, skimtar, skimta, skimtast, skimtande, skimt
 skina, skin, skein, skine, skinast, skinande
@@ -8752,13 +8742,14 @@ skipsverft, skipsverftet, skipsverfta
 skipsvrak, skipsvraket, skipsvraka
 skisenter, skisenteret, skisentera
 skiskyting, skiskytinga
+skispor, skisporet, skispora
 skisse, skissa, skisser, skissene
 skissere, skisserer, skisserte, skissert, skisserast, skisserande, skisser
 skit, skiten, skitar, skitane, skitt
 skita, skit, skeit, skite, skitande
 skite, skit, skeit, skitande
-skiten, skite, skitent, skitne, skitnare, skitnast, skitnaste
 skitten, skiten, skitte, skittent, skitne, skitnare, skitnast, skitnaste
+skiten, skite, skitent, skitne, skitnare, skitnast, skitnaste
 skitrekk, skitrekket, skitrekka
 skitt, skitten, skittar, skittane
 skittentøy, skittentøyet
@@ -8769,14 +8760,15 @@ skjebne, skjebnen, skjebnar, skjebnane
 skjede, skjeden, skjedar, skjedane
 skjegg, skjegget, skjegga
 skjelett, skjelettet, skjeletta
+skjelettaktig, skjelettaktige
 skjellsord, skjellsordet, skjellsorda
 skjelva, skjelv, skalv, skolve, skjelvande, skjelve
 skjelve, skjelv, skalv, skolve, skjelvande
 skjema, skjemaet, skjemaa
 skjematisk, skjematiske
 skjer, skjeret, skjera
-skjere, skjer, skar, skore, skjerande
 skjera, skjer, skar, skore, skjerande
+skjere, skjer, skar, skore, skjerande
 skjerf, skjerfet, skjerfa
 skjering, skjeringa, skjeringar, skjeringane
 skjerm, skjermen, skjermar, skjermane
@@ -8788,7 +8780,7 @@ skjule, skjuler, skjulte, skjult, skjulast, skjulande, skjul
 skjøna, skjønar, skjøner, skjønte, skjønt, skjønast, skjønande, skjøn
 skjøne, skjønar, skjøna, skjønast, skjønande, skjøn, skjøner, skjønte, skjønt
 skjønn, skjønt, skjønne, skjønnare, skjønnast, skjønnaste
-skjønna, skjønn, skjønnar, skjønnast, skjønnande, skjønner, skjønte, skjønt, skjønne
+skjønna, skjønnar, skjønnast, skjønnande, skjønn, skjønner, skjønte, skjønt, skjønne
 skjønne, skjønnar, skjønner, skjønna, skjønte, skjønt, skjønnande, skjønn
 skjønnheit, skjønnheita, skjønnheiter, skjønnheitene
 skjønnlitteratur, skjønnlitteraturen
@@ -8853,13 +8845,14 @@ skrik, skriket, skrika
 skrimsel, skrimselet, skrimsla
 skrinn, skrint, skrinne, skrinnare, skrinnast
 skritt, skrittet, skritta
+skriv, skrivet, skriva
 skriva, skriv, skreiv, skrive, skrivast, skrivande
 skrive, skriv, skreiv, skriven, skrivast, skrivande
 skrivebok, skriveboka, skrivebøker, skrivebøkene
 skrivebord, skrivebordet, skriveborda
 skrivefeil, skrivefeilen, skrivefeila
 skrivekrampe, skrivekrampen, skrivekrampar, skrivekrampane
-skrivemaskin, skrivemaskinen, skrivemaskinar, skrivemaskinane
+skrivemaskin, skrivemaskina, skrivemaskiner, skrivemaskinene, skrivemaskinen, skrivemaskinar, skrivemaskinane
 skriving, skrivinga
 skrog, skroget, skroga
 skrote, skrotar, skrota, skrotast, skrotande, skrot
@@ -8896,9 +8889,10 @@ skumgummi, skumgummien
 skumme, skummar, skumma, skummast, skummande, skum
 skumring, skumringa, skumringar, skumringane
 skur, skuret, skura, skurer, skurene
-skura, skur, skurar, skurast, skurande, skure
+skura, skurar, skurast, skurande, skur, skure
 skure, skurar, skura, skurast, skurande, skur
 skute, skuta, skuter, skutene
+skuter, skuteren, skuterar, skuterane
 skyva, skuva, skuve, skyver, skyv, skyvde, skauv, skyvt, skyvd, skove, skyvande, skyve
 skuva, skuvar, skuvande, skuv
 skuve, skuvar, skuva, skuvande, skuv
@@ -8913,6 +8907,7 @@ skyldig, skyldige
 skyna, skynar, skynast, skynande, skyn
 skyne, skynar, skyna, skynast, skynande, skyn
 skyss, skyssen, skyssar, skyssane
+skyta, skyt, skaut, skote, skytande, skyte
 skytar, skytaren, skytarar, skytarane, skytane
 skyte, skyt, skaut, skote, skytande
 skytevåpen, skytevåpenet, skytevåpena
@@ -8937,7 +8932,6 @@ slang, slangen
 slange, slangen, slangar, slangane, slanga, slangast, slangande, slang
 slank, slankt, slanke, slankare, slankast, slankaste
 slapp, slapt, slappe, slappare, slappast, slappaste
-sleppa, slapp, slepp, sloppe, sleppande, slepper, sleppte, sleppt, sleppe
 slave, slaven, slavar, slavane
 slavearbeid, slavearbeidet
 slavehandel, slavehandelen
@@ -8948,7 +8942,7 @@ sleggje, slegge, sleggja, sleggjer, sleggjene
 slegge, slegga, slegger, sleggene
 slekt, slekta, slekter, slektene
 slektning, slektningen, slektningar, slektningane
-slektskap, slektskapet, slektskapa
+slektskap, slektskapet, slektskapa, slektskapen, slektskapar, slektskapane
 slengja, slenga, slenge, slengjer, slengde, slengt, slengjast, slengjande, sleng, slengje
 slenga, slenger, slengde, slengt, slengast, slengande, sleng
 slenge, slenger, slengde, slengt, slengast, slengande, sleng
@@ -8956,10 +8950,11 @@ slengje, slengjer, slengde, slengt, slengjast, slengjande, sleng
 slepa, slepar, sleper, slepte, slept, slepande, slep, slepe
 slepe, slepar, sleper, slepa, slepte, slept, slepande, slep
 slepebåt, slepebåten, slepebåtar, slepebåtane
+sleppa, slepp, slapp, sloppe, sleppande, slepper, sleppte, sleppt, sleppe
 sleppe, slepp, slapp, sloppe, sleppande
 slett, slette, slettare, slettast, slettaste, sletta, sletter, slettene
 slette, slett, sletta, sletter, slettene, slettar, slettast, slettande
-sletta, slett, slettar, slettast, slettande, slette
+sletta, slettar, slettast, slettande, slett, slette
 slik, slikt, slike
 slikkepott, slikkepotten, slikkepottar, slikkepottane
 slipepapir, slipepapiret, slipepapira
@@ -8976,16 +8971,17 @@ sloven, slovenen, slovenar, slovenane
 slovenar, slovenaren, slovenarar, slovenarane
 slovensk, slovenske, slovensken
 sludd, sluddet
+sluk, sluken, slukar, slukane, sluket, sluka
 sluke, sluker, slukte, slukt, slukast, slukande, sluk
+slum, slummen, slummar, slummane
 slump, slumpen, slumpar, slumpane
-slumpa, slump, slumpar, slumpast, slumpande, slumpe
+slumpa, slumpar, slumpast, slumpande, slump, slumpe
 slumpe, slumpar, slumpa, slumpast, slumpande, slump
 slumre, slumrar, slumra, slumrast, slumrande, slumr
 slupp, sluppen, sluppar, sluppane
 sluse, slusa, sluser, slusene
 slutning, slutninga, slutningar, slutningane
 slutt, meir slutt, mest slutt, slutten, sluttar, sluttane
-slutta and slutte, slutt
 slutta, sluttar, sluttast, sluttande, slutt, slutte
 slutte, sluttar, slutta, sluttast, sluttande, slutt
 slynge, slynga, slynger, slyngene
@@ -8997,7 +8993,7 @@ sløkkja, sløkkjer, sløkte, sløkt, sløkkjast, sløkkjande, sløkk, sløkkje
 sløkkje, sløkkjer, sløkte, sløkt, sløkkjast, sløkkjande, sløkk
 sløyfe, sløyfa, sløyfer, sløyfene
 smak, smaken, smakar, smakane
-smaka, smak, smakar, smaker, smakte, smakt, smakande, smake
+smaka, smakar, smaker, smakte, smakt, smakande, smak, smake
 smake, smakar, smaker, smaka, smakte, smakt, smakande, smak
 smakebit, smakebiten, smakebitar, smakebitane
 smakfull, smakfullt, smakfulle
@@ -9007,6 +9003,7 @@ smal, smalt, smale, smalare, smalast, smalaste
 smaragd, smaragden, smaragdar, smaragdane
 smaragdgrøn, smaragdgrønt, smaragdgrøne
 smart, smarte, smartare, smartast, smartaste
+smartklokke, smartklokka, smartklokker, smartklokkene
 smed, smeden, smedar, smedane
 smell, smellet, smella, smellen, smellar, smellane
 smeltedigel, smeltedigelen, smeltediglar, smeltediglane
@@ -9019,7 +9016,7 @@ smertelindring, smertelindringa, smertelindringar, smertelindringane
 smidig, smidige, smidigare, smidigast, smidigaste
 smie, smia, smier, smiene
 smijern, smijernet
-smil, smilen, smilar, smilane
+smil, smilen, smilar, smilane, smilet, smila
 smitte, smitten, smittar, smittane
 smoking, smokingen, smokingar, smokingane
 smokk, smokken, smokkar, smokkane
@@ -9037,13 +9034,13 @@ småjobb, småjobben, småjobbar, småjobbane
 småkake, småkaka, småkaker, småkakene
 småregn, småregnet
 småskogmus, småskogmusa, småskogmyser, småskogmusene, småskogmysene
+småstein, småsteinen, småsteinar, småsteinane
 småting, småtingen, småtinga
 småvilt, småviltet
 smør, smøret
 smørbrød, smørbrødet, smørbrøda
 snabel, snabelen, snablar, snablane
 snakk, snakket
-snakka and snakke, snakk
 snakka, snakkar, snakkast, snakkande, snakk, snakke
 snakke, snakkar, snakka, snakkast, snakkande, snakk
 snakkeboble, snakkebobla, snakkebobler, snakkeboblene
@@ -9094,8 +9091,9 @@ snørik, snørikt, snørike
 snøring, snøringa, snøringar, snøringane
 snørr, snørra, snørret
 snørydding, snøryddinga
-snøscooter, snøscooteren, snøscooterar, snøscooterane
+snøscooter, snøscooteren, snøscooterar, snøscooterane, snøskuter
 snøskred, snøskredet, snøskreda
+snøskuter, snøskuteren, snøskuterar, snøskuterane
 snøsmelting, snøsmeltinga, snøsmeltingar, snøsmeltingane
 snøstorm, snøstormen, snøstormar, snøstormane
 snøteppe, snøteppet, snøteppa
@@ -9105,12 +9103,10 @@ sofagris, sofagrisen, sofagrisar, sofagrisane
 sofistikert, sofistikerte
 softis, softisen, softisar, softisane
 soge, soga, soger, sogene
-suga, soge, syg, saug, sugande, sug, suge
 sogeskrivar, sogeskrivaren, sogeskrivarar, sogeskrivarane
 sokk, sokken, sokkar, sokkane
-søkka, sokk, søkk, sokke, søkkande, søkker, søkkte, søkkt, søkke, søkkja, søkkje
 sokkel, sokkelen, soklar, soklane
-sokn, sokna, sokner, soknene
+sokn, soknet, sokna, sokner, soknene
 sol, sola, soler, solene
 solbading, solbadinga
 solbrend, solbrent, solbrende, meir solbrend, mest solbrend
@@ -9147,13 +9143,13 @@ somalisk, somaliske
 sumar, sommar, sumaren, sumrar, sumrane
 sommar, sommaren, somrar, somrane
 sommartid, sommartida, sommartider, sommartidene
-some, somme, somt
+some, somme
+somt, of som
 son, sonen, søner, sønene
 sonate, sonaten, sonatar, sonatane
 sonde, sonden, sondar, sondane
 sone, sona, soner, sonene
 song, songen, songar, songane
-syngja, syngje, synga and synge, song, synga, synge, syng, sunge, syngjast, syngjande
 songar, songaren, songarar, songarane
 songbok, songboka, songbøker, songbøkene
 sonor, sonort, sonore, sonorare, sonorast, sonoraste
@@ -9197,7 +9193,6 @@ spaniar, spaniaren, spaniarar, spaniarane
 spanjol, spanjolen, spanjolar, spanjolane
 spansk, spanske, spansken
 spar, sparen, sparar, sparane
-spara, spar
 sparebank, sparebanken, sparebankar, sparebankane
 sparegris, sparegrisen, sparegriser, sparegrisar, sparegrisene, sparegrisane
 spark, sparket, sparka
@@ -9220,12 +9215,13 @@ spekulasjon, spekulasjonen, spekulasjonar, spekulasjonane
 spekulativ, spekulativt, spekulative
 spekulere, spekulerer, spekulerte, spekulert, spekulerast, spekulerande, spekuler
 spel, spelet, spela
-spela and spele, spel, spelar
 spela, spelar, speler, spelte, spelt, spelast, spelande, spel, spele
 spelar, spelaren, spelarar, spelarane
 spele, spelar, speler, spela, spelte, spelt, spelast, spelande, spel
 spelkort, spelkortet, spelkorta
+spenn, spennet, spenna
 spenning, spenninga, spenningar, spenningane
+spennvidde, spennvidda, spennvidder, spennviddene
 spent, spente
 spermkval, spermkvalen, spermkvalar, spermkvalane
 sperring, sperringa, sperringar, sperringane
@@ -9277,7 +9273,7 @@ spreia, spreier, spreidde, spreidd, spreitt, spreiast, spreiande, sprei, spreie
 spreie, spreier, spreidde, spreidd, spreitt, spreiast, spreiande, sprei
 sprekk, sprekken, sprekkar, sprekkane
 sprekke, sprekk, sprakk, sprokke, sprekkast, sprekkande, sprekker, sprekte, sprekt
-sprekkje, sprekk, sprekke, sprekkja, sprekkjer, sprekte, sprekt, sprekkjande
+sprekkje, sprekke, sprekkja, sprekkjer, sprekte, sprekt, sprekkjande, sprekk
 sprekkja, sprekkjer, sprekte, sprekt, sprekkjande, sprekk
 sprengja, sprenga, sprenge, sprengjer, sprengde, sprengt, sprengjande, spreng, sprengje
 sprenga, sprenger, sprengde, sprengt, sprengande, spreng
@@ -9307,7 +9303,7 @@ spyrja, spør, spurde, spurt
 spyrje, spør, spurde, spurt
 spytt, spyttet
 spøk, spøken, spøkar, spøkane
-spøkja, spøkje, spøka and spøke, spøk, spøka, spøke, spøkjer, spøkte, spøkt, spøkjast, spøkjande
+spøkja, spøka, spøke, spøkjer, spøkte, spøkt, spøkjast, spøkjande, spøk, spøkje
 spøka, spøker, spøkte, spøkt, spøkast, spøkande, spøk
 spøke, spøker, spøkte, spøkt, spøkast, spøkande, spøk
 spøkelse, spøkelset, spøkelsa
@@ -9333,7 +9329,6 @@ stafett, stafetten, stafettar, stafettane
 stafettløp, stafettløpet, stafettløpa
 stagnasjon, stagnasjonen, stagnasjonar, stagnasjonane
 stakk, stakken, stakkar, stakkane
-stikka, stakk, stikk, stukke, stikkande, stikke
 stall, stallen, stallar, stallane
 stambane, stambanen, stambanar, stambanane, stambana, stambaner, stambanene
 stamfar, stamfaren, stamfedrar, stamfedrane
@@ -9342,7 +9337,7 @@ stammekrig, stammekrigen, stammekrigar, stammekrigane
 stampa, stampar, stampast, stampande, stamp, stampe
 stampe, stampar, stampa, stampast, stampande, stamp
 stamtre, stamtreet, stamtrea
-stand, standen, standar, standane, stender, stendene, standa
+stand, standen, standar, standane, standet, standa, stender, stendene
 standa, stend, stender, sto, stod, stade, stadi, standande, statt
 standard, standarden, standardar, standardane
 standardisering, standardiseringa, standardiseringar, standardiseringane
@@ -9358,7 +9353,7 @@ stasjon, stasjonen, stasjonar, stasjonane
 stasjonere, stasjonerer, stasjonerte, stasjonert, stasjonerast, stasjonerande, stasjoner
 stasjonsvogn, stasjonsvogna, stasjonsvogner, stasjonsvognene
 stasjonær, stasjonært, stasjonære
-stat, staten, statar, statane
+stat, ) the government, authorities, staten, statar, statane
 statisk, statiske
 statist, statisten, statistar, statistane
 statistikk, statistikken, statistikkar, statistikkane
@@ -9377,7 +9372,7 @@ statue, statuen, statuar, statuane
 statuett, statuetten, statuettar, statuettane
 status, statusen, statusar, statusane
 statussymbol, statussymbolet, statussymbola
-statutt, statuttet, statutta
+statutt, statuttet, statutta, statutten, statuttar, statuttane
 staurkval, staurkvalen, staurkvalar, staurkvalane
 stavefeil, stavefeilen, stavefeila
 stavekontroll, stavekontrollen, stavekontrollar, stavekontrollane
@@ -9401,7 +9396,7 @@ steinalder, steinalderen
 steinaldermann, steinaldermannen, steinaldermenn, steinaldermennene
 steinarbeid, steinarbeidet
 steinbit, steinbiten, steinbitar, steinbitane
-steinblokk, steinblokken, steinblokkar, steinblokkane
+steinblokk, steinblokken, steinblokkar, steinblokkane, steinblokka, steinblokker, steinblokkene
 steinbrot, steinbrotet, steinbrota, steinbrott
 steinbrott, steinbrottet, steinbrotta
 steindød, steindødt, steindøde
@@ -9413,13 +9408,14 @@ steinras, steinraset, steinrasa
 steinsirkel, steinsirkelen, steinsirklar, steinsirklane
 steinsopp, steinsoppen, steinsoppar, steinsoppane
 steinsprang, steinspranget, steinspranga
+steinvegg, steinveggen, steinvegger, steinveggar, steinveggene, steinveggane
 stela, stel, stal, stole, stelast, stelande, stele
 stele, stelen, stelar, stelane, stel, stal, stole, stelast, stelande
 stemme, stemma, stemmer, stemmene, stemde, stemte, stemt, stemmande, stem
 stemma, stemmer, stemde, stemte, stemt, stemmande, stem
 stemmerett, stemmeretten
-stemna, stemnar, stemner, stemnde, stemnt, stemnande, stemn, stemne
-stemne, stemna, stemner, stemnene, stemnar, stemnde, stemnt, stemnande, stemn
+stemna, stemnar, stemner, stemnde, stemnt, stemnande, stemn, Etymology 1, stemne
+stemne, stemna, stemnet, stemner, stemnene, stemnar, stemnde, stemnt, stemnande, stemn
 stemning, stemninga, stemningar, stemningane
 stemor, stemora, stemødrer, stemødrene
 stemorsblom, stemorsblomen, stemorsblomar, stemorsblomane
@@ -9445,15 +9441,16 @@ stige, stigen, stigar, stigane, stig, steig, stigande
 stigning, stigninga, stigningar, stigningane
 stikkontakt, stikk-kontakt, stikkontakten, stikkontaktar, stikkontaktane
 stikk-kontakt, stikk-kontakten, stikk-kontaktar, stikk-kontaktane
+stikka, stikk, stakk, stukke, stikkande, stikke
 stikke, stikk, stakk, stukke, stikkande
 stil, stilen, stilar, stilane
 stilfull, stilfullt, stilfulle
 stilig, stilige, stiligare, stiligast, stiligaste
 stilisere, stiliserer, stiliserte, stilisert, stiliserast, stiliserande, stiliser
 stilk, stilken, stilker, stilkar, stilkene, stilkane
-stilla, still, stiller, stilte, stilt, stillande, stille
 stille, still, stilla, stiller, stillene, stilte, stilt, stillast, stillande
 still, stilt, stille, stillare, stillast, stillaste
+stilla, stiller, stilte, stilt, stillande, still, stille
 stillas, stillaset, stillasa
 stillehavsøy, stillehavsøya, stillehavsøyar, stillehavsøyer, stillehavsøyane, stillehavsøyene
 stillferdig, stillferdige, stillferdigare, stillferdigast, stillferdigaste
@@ -9473,14 +9470,13 @@ stjert, stjerten, stjertar, stjertane
 stoff, stoffet, stoffa
 stokastisk, stokastiske
 stokk, stokken, stokkar, stokkane
-stokke, stokk, stokkar, stokka, stokkast, stokkande
+stokke, stokkar, stokka, stokkast, stokkande, stokk
 stol, stolen, stolar, stolane
 stolheis, stolheisen, stolheisar, stolheisane
 stolpe, stolpen, stolpar, stolpane
 stolt, stolte, stoltare, stoltast, stoltaste
 stong, stonga, stenger, stengene
 stopp, stoppen, stoppar, stoppane, stoppet, stoppa
-stoppe and stoppa, stopp
 stoppeklokke, stoppeklokka, stoppeklokker, stoppeklokkene
 stoppekran, stoppekrana, stoppekraner, stoppekranene
 stoppestad, stoppestaden, stoppestader, stoppestadar, stoppestadene, stoppestadane
@@ -9509,6 +9505,7 @@ straffbar, straffbart, straffbare
 straffelov, straffelova, straffelover, straffelovene, straffeloven, straffelovar, straffelovane
 straffemerke, straffemerket, straffemerka
 strafferett, strafferetten
+straffesak, straffesaka, straffesaker, straffesakene
 straffespark, straffesparket, straffesparka
 straffesparkkonkurranse, straffesparkkonkurransen, straffesparkkonkurransar, straffesparkkonkurransane
 strak, strakt, strake, strakare, strakast, strakaste
@@ -9525,9 +9522,9 @@ straummålar, straummålaren, straummålarar, straummålarane
 straumstyrke, straumstyrken, straumstyrkar, straumstyrkane
 streik, streiken, streikar, streikane
 strek, streken, strekar, strekane, streket, streka
-strekk, strekket, strekka
-strekkja, strekk, strekka, strekke, strekkjer, strekte, strekt, strekkjande, strekkje
+strekk, strekket, strekka, strekken, strekkar, strekkane
 strekka, strekk, strakk, strokke, strekkande, strekker, strekte, strekt
+strekkja, strekka, strekke, strekkjer, strekte, strekt, strekkjande, strekk, strekkje
 strekke, strekker, strekte, strekt, strekkande, strekk
 strekkje, strekkjer, strekte, strekt, strekkjande, strekk
 strekkmerke, strekkmerket, strekkmerka
@@ -9536,7 +9533,7 @@ strekning, strekninga, strekningar, strekningane, strekningen
 streng, strengt, strenge, strengare, strengast, strengaste, strengen, strenger, strengar, strengene, strengane
 strengeinstrument, strengeinstrumentet, strengeinstrumenta
 strev, strevet
-streva, strev, strevar, strever, strevde, strevd, strevt, strevande, streve
+streva, strevar, strever, strevde, strevd, strevt, strevande, strev, streve
 streve, strevar, strever, streva, strevde, strevd, strevt, strevande, strev
 stri, stritt, strie, striare, striast, striaste, strid
 strid, striden, stridar, stridane, stridt, stride, stridare, stridast, stridaste
@@ -9580,17 +9577,16 @@ stuert, stuerten, stuertar, stuertane
 stuing, stuinga, stuingar, stuingane
 stump, stumpen, stumpar, stumpane
 stund, stunda, stunder, stundene
-stunda, stund
 stunt, stuntet, stunta
 stuntmann, stuntmannen, stuntmenn, stuntmennene
 stup, stupet, stupa
-stupa, stup, stuper, styp, stupte, staup, stupt, stope, stupande, stupe
+stupa, stuper, styp, stupte, staup, stupt, stope, stupande, stup, stupe
 stupe, stuper, styp, stupte, staup, stupt, stope, stupande, stup
 stuping, stupinga
 stygg, stygt, stygge, styggare, styggast, styggaste
 stykke, stykket, stykka
-styre, styra, styret, styrer, styrte, styrt, styrast, styrande, styr
 styra, styrer, styrte, styrt, styrast, styrande, styr, styre
+styre, styret, styra, styrer, styrte, styrt, styrast, styrande, styr
 styrehus, styrehuset, styrehusa
 styremakt, styremakta, styremakter, styremaktene, styresmakt
 styremøte, styremøtet, styremøta
@@ -9604,7 +9600,6 @@ styrke, styrken, styrkar, styrkane, styrker, styrkte, styrkt, styrkast, styrkand
 styrkje, styrkjer, styrkte, styrkt, styrkjast, styrkjande, styrk
 styrmann, styrmannen, styrmenn, styrmennene
 styrte, styrtar, styrta, styrtast, styrtande, styrt
-styra and styre, styrte
 styrtregn, styrtregnet
 stå, står, stod, stått, ståast, ståande
 stål, stålet
@@ -9646,16 +9641,17 @@ sudansk, sudanske
 suffigera, suffigerer, suffigerte, suffigert, suffigerast, suffigerande, suffiger, suffigere
 suffigere, suffigerer, suffigerte, suffigert, suffigerast, suffigerande, suffiger
 suffiks, suffikset, suffiksa
+suga, syg, saug, soge, sugande, sug, suge
 suge, syg, saug, soge, sugande, sug
 sugekopp, sugekoppen, sugekoppar, sugekoppane
 suite, suiten, suitar, suitane
 sukka, sukkar, sukkast, sukkande, sukk, sukke
 sukke, sukkar, sukka, sukkast, sukkande, sukk
 sukker, sukkeret, sukkera
-sukkerbete, sukkerbeta, sukkerbeter, sukkerbetene
+sukkerbete, sukkerbeta, sukkerbeter, sukkerbetene, sukkerbeten, sukkerbetar, sukkerbetane
 sukkerbrød, sukkerbrødet, sukkerbrøda
 sukkerfri, sukkerfritt, sukkerfrie
-sukkerroe, sukkerroa, sukkerroer, sukkerroene
+sukkerroe, sukkerroa, sukkerroer, sukkerroene, sukkerroen, sukkerroar, sukkerroane
 sukkersøt, sukkersøtt, sukkersøte
 suksesjon, suksesjonen, suksesjonar, suksesjonane
 suksess, suksessen, suksessar, suksessane
@@ -9667,7 +9663,7 @@ sultan, sultanen, sultanar, sultanane
 sultanat, sultanatet, sultanata
 sum, summen, summar, summane, summet, sumet, suma, sumt, sume
 sump, sumpen, sumpar, sumpane
-symje, sumt, sym, sumde, symjast, symjande
+sumt, non-standard since 2012) of sum
 sund, sundet, sunda
 sundag, sundagen, sundagar, sundagane
 sunn, sunt, sunne, sunnare, sunnast, sunnaste
@@ -9700,7 +9696,7 @@ svaneunge, svaneungen, svaneungar, svaneungane
 svanger, svangert, svangre
 svangerskap, svangerskapet, svangerskapen, svangerskapar, svangerskapa, svangerskapane
 svar, svaret, svara
-svara, svar, svarar, svarer, svarte, svart, svarande, svare
+svara, svarar, svarer, svarte, svart, svarande, svar, svare
 svare, svarar, svarer, svara, svarte, svart, svarande, svar
 svart hòl, svarte hòlet, svarte hòl, svarte hòla
 svart, svarte, svartare, svartast, svartaste
@@ -9725,21 +9721,16 @@ sverm, svermen, svermar, svermane
 søvn, svevn, søvnen, søvne
 svevn, svevnen
 svidd, svidt, svidde
-svi, svidd
-svide, svidd
-svida, svidd
 svigerbror, svigerbroren, svigerbrør, svigerbrørne
 svigerfamilie, svigerfamilien, svigerfamiliar, svigerfamiliane
 svigerfar, svigerfaren, svigerfedrar, svigerfedrane
 svigerinne, svigerinna, svigerinner, svigerinnene
 svigermor, svigermora, svigermødrer, svigermødrene
 svik, sviket, svika
-svika and svike, svik
 svika, svik, sveik, svike, svikast, svikande
 svikar, svikaren, svikarar, svikarane
 svike, svik, sveik, svikast, svikande
 svikt, svikten, svikta, sviktar, svikter, sviktane, sviktene
-svikta and svikte, svikt
 svikta, sviktar, sviktast, sviktande, svikt, svikte
 svikte, sviktar, svikta, sviktast, sviktande, svikt
 svin, svinet, svina
@@ -9747,7 +9738,7 @@ svindel, svindelen, svindlar, svindlane
 svineinfluensa, svineinfluensaen, svineinfluensaer, svineinfluensaar, svineinfluensaene, svineinfluensaane
 svinekjøtt, svinekjøttet
 sving, svingen, svingar, svingane
-svinga, sving, svingar, svingast, svingande, svinge
+svinga, svingar, svingast, svingande, sving, svinge
 svingbru, svingbrua, svingbruer, svingbruene
 svinge, svingar, svinga, svingast, svingande, sving
 svinghjul, svinghjulet, svinghjula
@@ -9794,17 +9785,18 @@ sylindrisk, sylindriske
 syltetøy, syltetøyet, syltetøya
 syltynn, syltynt, syltynne
 sylv, sylvet, sylva
-symaskin, symaskina, symaskiner, symaskinene
+symaskin, symaskina, symaskiner, symaskinene, symaskinen, symaskinar, symaskinane
 symbol, symbolet, symbola
 symbolsk, symbolske
 symfoni, symfonien, symfoniar, symfoniane
+symje, sym, sumde, sumt, symjast, symjande
 symmetri, symmetrien, symmetriar, symmetriane
 symmetrisk, symmetriske
 sympatisk, sympatiske
 sympatisør, sympatisøren, sympatisørar, sympatisørane
 symptom, symptomet, symptoma
 syn, synet, syna, syner, synene
-syna, syn, syner, synte, synt, synast, synande, syne
+syna, syner, synte, synt, synast, synande, syn, syne
 synagoge, synagogen, synagoga, synagogar, synagoger, synagogane, synagogene
 synast, synest, syntest, synst
 synd, synda, synder, syndene
@@ -9815,6 +9807,7 @@ syndrom, syndromet, syndroma
 syne, syner, synte, synt, synast, synande, syn
 synergi, synergien, synergiar, synergiane
 synergisk, synergiske
+syngja, synga, synge, syng, song, sunge, syngjast, syngjande, syngje
 synga, syng, song, sunge, syngast, syngande
 synge, syng, song, sunge, syngast, syngande
 syngje, syng, song, sunge, syngjast, syngjande
@@ -9873,6 +9866,7 @@ søka, søker, søkte, søkt, søkast, søkande, søk
 søke, søker, søkte, søkt, søkast, søkande, søk
 søkelys, søkelyset, søkelysa
 søkje, søkjer, søkte, søkt, søkjast, søkjande, søk
+søkka, søkk, sokk, sokke, søkkande, søkker, søkkte, søkkt, søkke, søkkja, søkkje
 søkke, søkk, sokk, sokke, søkkande
 søkkja, søkker, søkkte, søkkt, søkkande, søkk
 søkkje, søkker, søkkte, søkkt, søkkande, søkk
@@ -9933,7 +9927,6 @@ taigaspissmus, taigaspissmusa, taigaspissmyser, taigaspissmusene, taigaspissmyse
 taiwanar, taiwanaren, taiwanarar, taiwanarane
 taiwansk, taiwanske
 tak, taket, taka
-taka and take, tak
 take, tek, tok, teke, takast, takande, tak
 takgrind, takgrinda, takgrinder, takgrindene
 takkekort, takkekortet, takkekorta
@@ -9946,6 +9939,8 @@ taksere, takserer, takserte, taksert, takserast, takserande, takser
 takst, taksten, takstar, takstane
 takstein, taksteinen, taksteinar, taksteinane
 takstmann, takstmannen, takstmenn, takstmennene
+takt, takta, takter, taktene, takten, taktar, taktane
+takterrasse, takterrassen, takterrassar, takterrassane
 taktfull, taktfullt, taktfulle
 taktikk, taktikken, taktikkar, taktikkane
 taktil, taktilt, taktile
@@ -9971,7 +9966,6 @@ tamilsk, tamilske
 tang, tangen, tanget
 tangent, tangenten, tangentar, tangentane
 tank, tanken, tankar, tankane
-tanka and tanke, tank, tankar
 tanka, tankar, tankast, tankande, tank, tanke
 tankar, tankaren, tankarar, tankarane
 tanke, tankar, tanken, tankane, tanka, tankast, tankande, tank
@@ -9992,6 +9986,7 @@ tannkost, tannkosten, tannkostar, tannkostane
 tannkrem, tannkremen, tannkremar, tannkremane
 tannlege, tannlegen, tannlegar, tannlegane
 tannlækjar, tannlækjaren, tannlækjarar, tannlækjarane
+tannmerke, tannmerket, tannmerka
 tannpasta, tannpastaen, tannpastaer, tannpastaar, tannpastaene, tannpastaane
 tannpine, tannpina
 tannpirkar, tannpirkaren, tannpirkarar, tannpirkarane
@@ -10004,7 +9999,6 @@ tap, tapet, tapa
 tapa, tapar, taper, tapte, tapt, tapast, tapande, tap, tape
 teipa, tapa, tape
 tapar, taparen, taparar, taparane
-tapa and tape, tapar
 teip, tape, teipen, teipar, teipane
 tape, tapen, tapar, tapane, tapa, tapast, tapande, tap, taper, tapte, tapt
 tapet, tapetet, tapeta
@@ -10057,7 +10051,7 @@ teknisk, tekniske
 teknologi, teknologien, teknologiar, teknologiane
 teknologisk, teknologiske
 tekopp, tekoppen, tekoppar, tekoppane
-tekst, teksta, tekster, tekstene
+tekst, teksta, tekster, tekstene, teksten, tekstar, tekstane
 tekstil, tekstilen, tekstilet, tekstilar, tekstilane, tekstila
 tekstkritikk, tekstkritikken, tekstkritikkar, tekstkritikkane
 tekstmelding, tekstmeldinga, tekstmeldingar, tekstmeldingane
@@ -10197,8 +10191,6 @@ tilsetja, tilset, tilsette, tilsett, tilsetjast, tilsetjande, tilsetje, tilsetta
 tilsetje, tilset, tilsette, tilsett, tilsetjast, tilsetjande
 tilsetning, tilsetninga, tilsetningar, tilsetningane
 tilsett, tilsette
-tilsetja, tilsetje, tilsetta and tilsette, tilsett
-tilsetja and tilsetje, tilsett
 tilsetta, tilset, tilsette, tilsett, tilsettast, tilsettande
 tilsette, tilset, tilsett, tilsettast, tilsettande
 tilskodar, tilskodaren, tilskodarar, tilskodarane
@@ -10239,7 +10231,6 @@ toalettsete, toalettsetet, toalettseta
 toast, toasten, toastar, toastane
 tobakk, tobakken, tobakkar, tobakkane
 todelt, todelte
-todele, todelt
 todimensjonal, todimensjonalt, todimensjonale
 tog, toget, toga
 toga, togaen, togaer, togaar, togaene, togaane
@@ -10326,6 +10317,7 @@ traktat, traktaten, traktatar, traktatane
 traktor, traktoren, traktorar, traktorane
 tralla, trallar, trallast, trallande, trall, tralle
 tralle, trallar, tralla, trallast, trallande, trall
+trampe, trampar, trampa, trampast, trampande, tramp
 trampoline, trampolinen, trampolinar, trampolinane
 trane, trana, traner, tranene
 tranebær, tranebæret, tranebæra
@@ -10367,6 +10359,7 @@ treffe, treffer, trefte, treft, treffast, treffande, treff
 trefning, trefningen, trefningar, trefningane, trefninga
 treg, tregt, trege, tregare, tregast, tregaste
 tregrense, tregrensa, tregrenser, tregrensene
+trehest, trehesten, trehestar, trehestane
 trehjulssykkel, trehjulssykkelen, trehjulssyklar, trehjulssyklane
 trehus, trehuset, trehusa
 trekant, trekanten, trekantar, trekantane
@@ -10379,7 +10372,6 @@ tremasse, tremassen, tremassar, tremassane
 tremenning, tremenningen, tremenningar, tremenningane
 trena, trenar, trener, trente, trent, trenast, trenande, tren, trene
 trenar, trenaren, trenarar, trenarane
-trena and trene, trenar
 trend, trenden, trendar, trendane
 trene, trenar, trener, trena, trente, trent, trenast, trenande, tren
 trenga, treng, trong, trunge, trengast, trengande, trenger, trengde, trengt, trenge
@@ -10393,7 +10385,7 @@ treskjerar, treskjeraren, treskjerarar, treskjerarane
 tresko, treskoen, treskor, treskoa, treskorne
 tresleiv, tresleiva, tresleiver, tresleivene
 tresnitt, tresnittet, tresnitta
-trestamme, trestamma, trestammer, trestammene
+trestamme, trestamma, trestammer, trestammene, trestammen, trestammar, trestammane
 trestykke, trestykket, trestykka
 trette, tretta, tretter, trettene, trettar, trett, trettast, trettande
 treverk, treverket, treverka
@@ -10443,10 +10435,10 @@ tronfølgjar, tronfylgjar, tronfølgjaren, tronfølgjarar, tronfølgjarane, tron
 tronfylgjar, tronfylgjaren, tronfylgjarar, tronfylgjarane
 tronfølgjer, tronfølgjeren, tronfølgjerar, tronfølgjerane
 trong, trongen, trongt, tronge, trongare, trongast, trongaste
-trenga and trenge, trong
 tropisk, tropiske
 troposfære, troposfæren
 tropp, troppen, troppar, troppane, troppa, tropper, troppene
+trosse, trossa, trosser, trossene
 tru, trua, truer, truene, trur, trudde, trudd, trutt, truast, truande
 true, truar, trua, truast, truande, tru
 trufast, trufaste, meir trufast, mest trufast
@@ -10508,10 +10500,10 @@ tungvekt, tungvekta
 tunisiar, tunisiaren, tunisiarar, tunisiarane
 tunisisk, tunisiske
 tunn, tunt, tunne, tunnare, tunnast
-tunne, tunna, tunner, tunnene, tunnar, tunnast, tunnande, tunn
+tunne, tunna, tunner, tunnene, tunnar, tunnast, tunnande, tunn, non-standard since 2012) of tunn
 tunna, tunnar, tunnast, tunnande, tunn
 tunnel, tunnelen, tunnelar, tunnelane
-tunnelbane, tunnelbana, tunnelbaner, tunnelbanene
+tunnelbane, tunnelbana, tunnelbaner, tunnelbanene, tunnelbanen, tunnelbanar, tunnelbanane
 tunnelsyn, tunnelsynet, tunnelsyna
 tupé, tupéen, tupeen, tupéar, tupear, tupéane, tupeane
 tur, turen, turar, turane
@@ -10526,7 +10518,7 @@ turistattraksjon, turistattraksjonen, turistattraksjonar, turistattraksjonane
 turistbuss, turistbussen, turistbussar, turistbussane
 turistisk, turistiske
 turistmål, turistmålet, turistmåla
-tørke, turka, turke, tørk, tørka, tørken, tørkar, tørkane, tørkast, tørkande
+tørke, turka, turke, tørka, tørken, tørkar, tørkane, tørkast, tørkande, tørk
 turka, turkar, turkast, turkande, turk
 turke, turken, turkar, turkane, turka, turkast, turkande, turk
 turkis, turkist, turkise, turkisen, turkisar, turkisane
@@ -10552,7 +10544,7 @@ tvangstrøye, tvangstrøya, tvangstrøyer, tvangstrøyene
 tverrhalehauk, tverrhalehauken, tverrhalehaukar, tverrhalehaukane
 tverrsnitt, tverrsnittet, tverrsnitta
 tvil, tvilen, tvilar, tvilane
-tvila, tvil, tvilar, tviler, tvilte, tvilt, tvilande, tvile
+tvila, tvilar, tviler, tvilte, tvilt, tvilande, tvil, tvile
 tvile, tvilar, tviler, tvila, tvilte, tvilt, tvilande, tvil
 tvilling, tvillingen, tvillingar, tvillingane
 tvist, tvisten, tvistar, tvistane
@@ -10588,10 +10580,10 @@ tyrefekting, tyrefektinga, tyrefektingar, tyrefektingane
 tyrk, tyrken, tyrkar, tyrkane
 tyrkar, tyrkaren, tyrkarar, tyrkarane
 tyrkisk, tyrkiske, tyrkisken
-tyrsta, tyrst, tyrstar, tyrster, tyrste
 tørst, tyrst, tørste, tørstare, tørstast, tørstaste
 tyrst, tyrste, tyrstare, tyrstast, tyrstaste
 tørsta, tyrsta, tyrste, tørst, tørstar, tørster, tørste
+tyrsta, tyrst, tyrstar, tyrster, tyrste
 tyrste, tyrst, tyrstar, tyrster, tyrsta
 tysdag, tysdagen, tysdagar, tysdagane
 tysk, tyske, tysken
@@ -10716,7 +10708,7 @@ umøblert, umøblerte
 unaturleg, unaturlege
 under, underet, undera
 underarm, underarmen, underarmar, underarmane
-underart, underarta, underarter, underartene
+underart, underarta, underarter, underartene, underarten, underartar, underartane
 underavdeling, underavdelinga, underavdelingar, underavdelingane
 underernæring, underernæringa
 underfundig, underfundige
@@ -10730,6 +10722,7 @@ underkomité, underkomite, underkomitéen, underkomiteen, underkomitéar, underk
 underkomite, underkomiteen, underkomitear, underkomiteane
 underlag, underlaget, underlaga
 underleg, underlege, underlegare, underlegast, underlegaste
+underleppe, underleppa, underlepper, underleppene
 underliv, underlivet, underliva
 undermenneske, undermennesket, undermenneska
 undermotorisert, undermotoriserte
@@ -10859,7 +10852,6 @@ utflytting, utflyttinga, utflyttingar, utflyttingane
 utfordra, utfordrar, utfordrast, utfordrande, utfordr, utfordre
 utfordrande, meir utfordrande, mest utfordrande
 utfordrar, utfordraren, utfordrarar, utfordrarane
-utfordra and utfordre, utfordrar
 utfordre, utfordrar, utfordra, utfordrast, utfordrande, utfordr
 utfordring, utfordringa, utfordringar, utfordringane
 utforming, utforminga, utformingar, utformingane
@@ -10897,7 +10889,6 @@ utsiktspunkt, utsiktspunktet, utsiktspunkta
 utskiftbar, utskiftbart, utskiftbare
 utskrift, utskrifta, utskrifter, utskriftene
 utslett, utslettet, utsletta
-utsletta and utslette, utslett
 utsletta, utslettar, utslettast, utslettande, utslett, utslette
 utslette, utslettar, utsletta, utslettast, utslettande, utslett
 utsmykking, utsmykkinga, utsmykkingar, utsmykkingane
@@ -10906,9 +10897,9 @@ utstilling, utstillinga, utstillingar, utstillingane
 utstrekning, utstrekninga, utstrekningar, utstrekningane, utstrekningen
 utstyr, utstyret
 utstyre, utstyrer, utstyrte, utstyrt, utstyrast, utstyrande, utstyr
-utsyn, utsynet, utsyna
+utsyn, utsynet, utsyna, utsyner, utsynene
 uttala, uttalar, uttaler, uttalte, uttalt, uttalande, uttal, uttale
-uttale, uttala, uttalen, uttalar, uttalane, uttaler, uttalte, uttalt, uttalande, uttal
+uttale, uttala, uttaler, uttalene, uttalen, uttalar, uttalane, uttalte, uttalt, uttalande, uttal
 uttrekk, uttrekket, uttrekka
 uttrykk, uttrykket, uttrykka
 uttrykksfull, uttrykksfullt, uttrykksfulle
@@ -10922,7 +10913,6 @@ utveksling, utvekslinga, utvekslingar, utvekslingane
 utvendig, utvendige
 utvikla, utviklar, utviklast, utviklande, utvikl, utvikle
 utviklar, utviklaren, utviklarar, utviklarane
-utvikla and utvikle, utviklar
 utvikle, utviklar, utvikla, utviklast, utviklande, utvikl
 utvikling, utviklinga, utviklingar, utviklingane
 utviklingsland, utviklingslandet, utviklingslanda
@@ -10952,8 +10942,6 @@ vaier, vaieren, vaierar, vaierane
 vaken, vake, vakent, vakne, vaknare, vaknast, vaknaste
 vakker, vakkert, vakre, vakrare, vakrast, vakraste
 vaksen, vakse, vaksne, vaksnare, vaksnast, vaksnaste
-definite singular veksa and vekse, vaksen
-plural veksa and vekse, vaksen
 vaksine, vaksinen, vaksinar, vaksinane
 vakt, vakta, vakter, vaktene
 vaktel, vaktelen, vaktlar, vaktlane
@@ -10961,7 +10949,6 @@ vaktmeister, vaktmeisteren, vakmeistrar, vaktmeistrane
 vakuum, vakuumet, vakuuma
 val, valet, vala
 vald, valden, valdet
-velja and velje, vald, vel
 valdshandling, valdshandlinga, valdshandlingar, valdshandlingane
 valdtekt, valdtekta, valdtekter, valdtektene
 valid, valide
@@ -10993,7 +10980,6 @@ vanuatisk, vanuatiske
 vanuatuar, vanuatuaren, vanuatuarar, vanuatuarane
 vanære, vanæra
 var, vart, vare, varare, varast, varaste
-vera and vere, var
 vare, vara, varer, varene
 varebil, varebilen, varebilar, varebilane
 varelager, varelageret, varelagera
@@ -11006,7 +10992,7 @@ varietet, varieteten, varietetar, varietetane
 varig, varige
 varleg, varlege, varlegare, varlegast, varlegaste
 varm, varmt, varme, varmare, varmast, varmaste
-varme, varm, varmen, varmar, varma, varmast, varmande
+varme, varmen, varmar, varma, varmast, varmande, varm
 varmeopptak, varmeopptaket
 varmetap, varmetapet, varmetapa
 varmevekslar, varmevekslaren, varmevekslarar, varmevekslarane
@@ -11024,18 +11010,21 @@ vaske, vaska, vaskar, vaskast, vaskande, vask
 vaska, vaskar, vaskast, vaskande, vask
 vaskebjørn, vaskebjørnen, vaskebjørnar, vaskebjørnane
 vaskebrett, vaskebrettet, vaskebretta
-vaskemaskin, vaskemaskinen, vaskemaskinar, vaskemaskinane
+vaskemaskin, vaskemaskina, vaskemaskiner, vaskemaskinene, vaskemaskinen, vaskemaskinar, vaskemaskinane
 vaskemiddel, vaskemiddelet, vaskemidla
 vaskeri, vaskeriet, vaskeria
 vaskeservant, vaskeservanten, vaskeservantar, vaskeservantane
+vasscooter, vass-scooter, vass-skuter, vasscooteren, vasscooterar, vasscooterane, vasskuter
+vass-scooter, vass-scooteren, vass-scooterar, vass-scooterane
+vass-skuter, vass-skuteren, vass-skuterar, vass-skuterane
 vassavkjølt, vassavkjølte
-vassavkjøle, vassavkjølt
 vassbasert, vassbaserte
 vassblemme, vassblemma, vassblemmer, vassblemmene
 vassdrag, vassdraget, vassdraga
 vassfarge, vassfargen, vassfargar, vassfargane, vassfarga, vassfarger, vassfargene
 vasskilje, vasskiljet, vasskilja
 vasskraft, vasskrafta
+vasskuter, vasskuteren, vasskuterar, vasskuterane
 vasslilje, vasslilja, vassliljer, vassliljene
 vassløyseleg, vassløyselege
 vassmelon, vassmelonen, vassmelonar, vassmelonane
@@ -11054,7 +11043,7 @@ vedde, veddar, vedda, veddast, veddande, vedd
 vedlikehald, vedlikehaldet, vedlikehalda
 vedta, vedtek, vedtar, vedtok, vedteke, vedtatt, vedtakande, vedtaka, vedtake
 vedtak, vedtaket, vedtaka
-vedtaka, vedtak, vedtek, vedtok, vedteke, vedtakande
+vedtaka, vedtek, vedtok, vedteke, vedtakande, vedtak
 vedtake, vedtek, vedtok, vedteke, vedtakande, vedtak
 vedunderleg, vedunderlege, vedunderlegare, vedunderlegast, vedunderlegaste
 veg, vegen, vegar, vegane
@@ -11079,7 +11068,7 @@ veiv, veiva, veiver, veivene
 veivaksel, veivakselen, veivakslar, veivakslane
 veive, veivar, veiver, veiva, veivde, veivd, veivt, veivast, veivande, veiv
 veke, veka, veker, vekene
-vekkja, vekkje, vekka and vekke, vekk, vekka, vekke, vekkjer, vekte, vekt, vekkjast, vekkjande
+vekkja, vekka, vekke, vekkjer, vekte, vekt, vekkjast, vekkjande, vekk, vekkje
 vekka, vekker, vekte, vekt, vekkast, vekkande, vekk
 vekke, vekker, vekte, vekt, vekkast, vekkande, vekk
 vekkje, vekkjer, vekte, vekt, vekkjast, vekkjande, vekk
@@ -11092,10 +11081,10 @@ vekst, veksten, vekstar, vekstane
 veksthus, veksthuset, veksthusa
 vekstsesong, vekstsesongen, vekstsesongar, vekstsesongane
 vekt, vekta, vekter, vektene
-vekkja, vekkje, vekka and vekke, vekt
 vektløfting, vektløftinga
 vektor, vektoren, vektorar, vektorane
 vekttap, vekttapet, vekttapa
+velbrukt, velbrukte
 velbygd, velbygt, velbygde
 veldefinert, veldefinerte
 veletablert, veletablerte
@@ -11144,8 +11133,8 @@ vera, er, var, vore, verast, verande, ver, vere
 veranda, verandaen, verandaer, verandaar, verandaene, verandaane
 verb, verbet, verba
 verbbøying, verbbøyinga, verbbøyingar, verbbøyingane
-verd, verda, verder, verdene, verdt, verde, verdi
-verdi, verdien, verdiar, verdiane
+verd, verda, verder, verdene, verdt, verde
+verdi, verdien, verdiar, verdiane, non-standard since 2012) of verd
 verdifull, verdifullt, verdifulle
 verdig, verdige, verdigare, verdigast, verdigaste
 verdisak, verdisaka, verdisaker, verdisakene
@@ -11157,10 +11146,10 @@ verdsrekord, verdsrekorden, verdsrekordar, verdsrekordane
 verdsrom, verdsrommet
 vere, er, var, vore, verast, verande, ver
 verja, verjar, verjast, verjande, verj, ver, varde, vart
-verje, verja, verjar, verjast, verjande, verj, ver, varde, vart, verjer, verjene
+verje, verjar, verja, verjast, verjande, verj, ver, varde, vart, verjer, verjene
 verk, verken, verket, verka
-verka, verk, verkar, verkast, verkande, verker, verkte, verkt, verke
-verkja, verk, verka, verke, verkjer, verkte, verkt, verkjande, verkje
+verka, verkar, verkast, verkande, verk, verker, verkte, verkt, Etymology 2, verke
+verkja, verka, verke, verkjer, verkte, verkt, verkjande, verk, verkje
 verke, verkar, verka, verkast, verkande, verk, verker, verkte, verkt
 verkeleg, verkelege, verkelegare, verkelegast, verkelegaste
 verkje, verkjer, verkte, verkt, verkjast, verkjande, verk
@@ -11169,7 +11158,6 @@ verksemd, verksemda, verksemder, verksemdene
 verktøy, verktøyet, verktøya
 verktøykasse, verktøykassen, verktøykassa, verktøykassar, verktøykasser, verktøykassane, verktøykassene
 vern, vernet, verna
-verna and verne, vern, vernar
 verna, vernar, vernast, vernande, vern, verne
 vernar, vernaren, vernarar, vernarane
 verne, vernar, verna, vernast, vernande, vern
@@ -11180,7 +11168,6 @@ vernesko, verneskoen, verneskor, verneskoa, verneskorne
 vers, verset, versa
 versjon, versjonen, versjonar, versjonane
 vert, verten, vertar, vertane
-verta/verte, vert
 verta, vert, vart, vorte, vertast, vertande
 verte, vert, vart, vorte, vorti, vertande
 vertikal, vertikalt, vertikale
@@ -11212,7 +11199,6 @@ vetter, vetteren, vetrar, vetrane
 vev, veven, vever, vevar, vevene, vevane, vevet, veva
 veving, vevinga, vevingar, vevingane
 vevstol, vevstolen, vevstolar, vevstolane
-via and vie, vi
 vibrasjon, vibrasjonen, vibrasjonar, vibrasjonane
 vibrere, vibrerer, vibrerte, vibrert, vibrerast, vibrerande, vibrer
 vibrering, vibreringa, vibreringar, vibreringane
@@ -11254,8 +11240,8 @@ vime, vimar, vima, vimast, vimande, vim
 vin, vinen, vinar, vinane
 vinbær, vinbæret, vinbæra
 vind, vinden, vindar, vindane
-vindauge, vindauga, vindauget
 vindauga, vindaugo, vindauge
+vindauge, vindauget, vindauga
 vindeltrapp, vindeltrappa, vindeltrapper, vindeltrappene
 vindfull, vindfullt, vindfulle
 vindgenerator, vindgeneratoren, vindgeneratorar, vindgeneratorane
@@ -11276,6 +11262,7 @@ vinna, vinn, vann, vunne, vinnande, vinne
 vinnar, vinnaren, vinnarar, vinnarane
 vinne, vinn, vann, vunne, vinnande
 vinsj, vinsjen, vinsjar, vinsjane
+vinterføre, vinterføret
 vinternatt, vinternatta, vinternetter, vinternettene
 vinterpels, vinterpelsen, vinterpelsar, vinterpelsane
 vintertid, vintertida, vintertider, vintertidene
@@ -11286,7 +11273,6 @@ virveldyr, virveldyret, virveldyra
 virvelsøyle, virvelsøyla, virvelsøyler, virvelsøylene
 virvelvind, virvelvinden, virvelvindar, virvelvindane
 vis, visen, visar, visane, visa, viser, visene, viset, vist, vise, visare, visast, visaste
-visa, vis
 visdom, visdomen, visdommen
 visdomsord, visdomsordet, visdomsorda
 visdomstann, visdomstanna, visdomstenner, visdomstennene
@@ -11304,7 +11290,6 @@ viskositet, viskositeten, viskositetar, viskositetane
 viskøs, viskøst, viskøse
 visp, vispen, vispar, vispane
 viss, visst, visse
-vita, vite, veta and vete, visst
 visuell, visuelt, visuelle
 visum, visumet, visuma
 vital, vitalt, vitale
@@ -11352,7 +11337,6 @@ vy, vyen, vyar, vyane
 vyrda, vyrder, vyrde, vyrdt, vyrdande, vyrd, vørda, vørde
 vyrde, vyrder, vyrdt, vyrdande, vyrd
 våg, vågen, vågar, vågane
-våga, våg
 vågekval, vågekvalen, vågekvalar, vågekvalane
 våk, våken, våkar, våkane
 vånd, vånden, våndar, våndane, våndet, vånda
@@ -11452,8 +11436,7 @@ zoomobjektiv, zoomobjektivet, zoomobjektiva
 åsside, åssida, åssider, åssidene
 åst, åsta, åster, åstene
 åsyn, åsynet, åsyna
-eta and ete, åt
-åta, åt, åtar, åtast, åtande, åte
+åta, åtar, åtast, åtande, åt, åte
 åtak, åtaket, åtaka
 åtaka, åtek, åtok, åteke, åtakast, åtakande, åtak
 åte, åtar, åta, åtast, åtande, åt
@@ -11493,8 +11476,8 @@ eta and ete, åt
 øl, ølet
 ølboks, ølboksen, ølboksar, ølboksane
 ølkveis, ølkveisa, ølkveiser, ølkveisene
-ønske, ønska, ønsket, ønsker, ønskte, ønskt, ønskast, ønskande, ønsk
 ønska, ønsker, ønskte, ønskt, ønskast, ønskande, ønsk
+ønske, ønsket, ønska, ønsker, ønskte, ønskt, ønskast, ønskande, ønsk
 ønskeleg, ønskelege, meir ønskeleg, mest ønskeleg
 ønskeliste, ønskelista, ønskelister, ønskelistene
 ønskja, ønskjer, ønskte, ønskt, ønskjast, ønskjande, ønsk
@@ -11517,8 +11500,8 @@ eta and ete, åt
 øydelegging, øydelegginga, øydeleggingar, øydeleggingane
 øydeleggje, øydelegg, øydela, øydelagt, øydeleggjast, øydeleggjande
 øygruppe, øygruppa, øygrupper, øygruppene
-øyre, øyra, øyret, øyren, øyrar, øyrane
 øyra, øyro
+øyre, øyret, øyra, øyren, øyrar, øyrane
 øyremerke, øyremerka, øyremerket, øyremerker, øyremerkte, øyremerkt, øyremerkast, øyremerkande, øyremerk
 øyremerka, øyremerker, øyremerkte, øyremerkt, øyremerkast, øyremerkande, øyremerk
 øyresus, øyresuset, øyresusa
