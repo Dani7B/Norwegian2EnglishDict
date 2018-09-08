@@ -117,6 +117,7 @@ brjota
 brjote
 bruka
 bruke
+brusa
 bry seg faen om
 bryta
 bryte
@@ -987,6 +988,8 @@ runke
 rusa
 rusla
 rusle
+rusta
+ruste
 ruva
 ruve
 rydda
@@ -1101,6 +1104,8 @@ skremma
 skremme
 skrifta
 skrifte
+skrika
+skrike
 skriva
 skrive
 skrote
@@ -1367,6 +1372,8 @@ trenga
 trengast
 trenge
 trette
+trippa
+trippe
 trivast
 trjota
 trjote

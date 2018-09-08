@@ -4253,6 +4253,7 @@ knipetang
 kniv
 knivblad
 knivblokk
+knivstikk
 knoke
 knop
 knopp
@@ -7606,6 +7607,7 @@ skattelette
 skattelettelse
 skatteparadis
 skau
+skei
 skepsis
 skeptiker
 sketsj
@@ -8868,6 +8870,7 @@ tiltak
 tiltrekning
 tilvekst
 tilværelse
+time
 timeglass
 timian
 ting

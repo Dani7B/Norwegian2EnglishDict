@@ -3308,6 +3308,7 @@ kalv
 kalvekjøtt
 kam
 kamaksel
+kamb
 kambodsjan
 kambodsjanar
 kamel
@@ -3611,6 +3612,7 @@ knep
 knipetong
 kniv
 knivblad
+knivstikk
 knok
 knoke
 knop
@@ -6598,6 +6600,7 @@ skattelette
 skatteparadis
 skau
 skaut
+skei
 skeise
 skepsis
 sketsj
@@ -7702,6 +7705,7 @@ tiltrekking
 tilvekst
 tilvokster
 timber
+time
 timeglas
 timian
 ting
@@ -8360,6 +8364,7 @@ vinbær
 vind
 vindauga
 vindauge
+vinddrag
 vindeltrapp
 vindgenerator
 vindjakke
