@@ -161,6 +161,7 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 			}
 			for ($x = 1; $x < count($fuck); $x++) {
 				if (isInflectionLine($fuck[$x])){
+					processInflectionLine($fuck[$x], $word, $finalInflectionArray, $inflectionString, $verboseMode);
 					continue;
 				}
 				$fuck[$x] = stripDefinitionGarbage($fuck[$x], $word, $finalInflectionArray);
