@@ -59,6 +59,8 @@ if [[ -e /run/media/${USER}/Kindle ]]; then
 	echo "Detected connected kindle, copying dictionaries to it..."
 	cp ${NB}.mobi /run/media/${USER}/Kindle/documents/dictionaries/
 	cp ${NN}.mobi /run/media/${USER}/Kindle/documents/dictionaries/
+	echo "Also copying testbook.txt to it..."
+	cp ../testbook.txt /run/media/${USER}/Kindle/documents/
 	echo "Doing a 'sync' to ensure the files were copied correctly..."
 	sync
 fi

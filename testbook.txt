@@ -1,0 +1,9 @@
+forreven forrevet de
+
+
+Following are two different words that should have different definitions, but they seem to share them instead: 
+var
+vår
+
+This word is not shown because of the above combined with kindle FW issues, så is shown instead:
+sa
