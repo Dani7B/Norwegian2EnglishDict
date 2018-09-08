@@ -12,7 +12,6 @@ function scrapShit($languageToScrap) {
 	$finalWordDefinitionArray = array();
 	
 	foreach($files as $file) {
-		//do your work here
 		if ($file != "." && $file != "..") {
 			$word = substr($file, 0, -5 );
 			getDefinitions($word, $finalInflectionArray, $finalWordDefinitionArray, $languageToScrap);
@@ -144,7 +143,6 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 	$data = file_get_contents("../2_wiktionaryDump/$languageToScrap/$word.json");
 	$inflectionString = $word;
 	$wordDefinitionString = $word;
-	$inflectionCheckArray = array($word);
 	$json = json_decode($data);
 	for ($i = 0; $i < count($json); $i++) { // There can be multiple $json's inside each other each with a number of definitions[]
 		for ($z = 0; $z < count($json[$i]->definitions); $z++) {
@@ -173,6 +171,48 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 					$wordDefinitionString = $wordDefinitionString."	".$fuck[$x];
 				}
 			}
+			processInflectionLine($fuck[0], $word, $finalInflectionArray, $inflectionString, $verboseMode);
+		}
+
+			//var_dump($inflectionArray);
+			if ($verboseMode == "1"){
+				echo "\n-----------------------------------------------------------------------------------------\n";
+			}
+	}
+	if ($verboseMode == "1"){
+		echo "Inflections: $inflectionString\n\n";
+	}
+	//array_push($finalInflectionArray, $inflectionString);
+	array_push($finalWordDefinitionArray, $wordDefinitionString);
+
+	if ($inflectionString == "" || $wordDefinitionString == ""){
+		echo "ERROR: inflectionString or wordDefinitionString is empty for word $word";
+		exit(3);
+	}
+}
+
+function isInflectionLine($line) {
+	// Filter mostly same as inflection filter with a few deletions since definitions can easily contain things like "plural".
+	$filterArray = ["inflections same as above", "inflections as above", "preceded by ei", "used as a modifier", "past tense and past participle ", "simple past and past participle ", "definite and plural form ",
+	"past simple and past participle", "past tense and participle",
+	"definite singular and plural ", "no plural form", "definite and plural ", "singular and plural ", "imperative and present tense ", "indefinite neuter singular ", "indefinite superlative ",
+	"singular definite ", "definite superlative", "singular indefinite", "indefinite singular ", "indefinite plural", "dative form ", "definite plural", "definite form", "neuter singular ",
+	"past participle ", "stressed form ",
+	"present participle ", "not declined", "no gender", "gender indeterminate", "singular masculine ", "genitive form ", "imperative ", "passive form of",
+	"past perfect ", "past tense ", "present tense ", "past tense ", "uppercase", "upper case", "lowercase", "lower case", "singulare tantum",
+	"feminine singular ", "objective case "];
+	for ($x = 0; $x < count($filterArray); $x++) {
+		if(strpos($line, $filterArray[$x]) !== false) {
+			echo("$line removed because it maches '$filterArray[$x]'");
+			return true;
+		}
+	}
+	return false;
+}
+
+function processInflectionLine($line, $word, &$finalInflectionArray, $inflectionString, $verboseMode) {
+	$inflectionCheckArray = array($word);
+
 			// This array gets filtered out before any other processing
 			$filterArrayFirst = ["(uncountable)", "(indeclinable)", "(mostly used in definite form)", "(not comparable)", "(superlative)", "(Until 2005)",
 			"(usually in plural form)", "(especially in plural form)", "(mainly in plural form)", "(often reflexive, with seg / oneself)", "(mainly used in plural form)",
@@ -190,20 +230,21 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 			// ^ Since the inflection multiline definition always starts with "WORD m" for example, we remove those.
 
 			for ($xy = 0; $xy < count($filterArrayFirst); $xy++) {
-				$fuck[0] = str_replace($filterArrayFirst[$xy], '', $fuck[0]);
+				$line = str_replace($filterArrayFirst[$xy], '', $line);
 			}
 			// Some rare cases like `skula`
 			if ($word != "bie"){ // bie is retarded, maybe the 'or' in there should be removed?
-				$fuck[0] = str_replace($word." (", '(', $fuck[0]);
+				$line = str_replace($word." (", '(', $line);
 			}
 			// explode by ( so first element is "fly n " and second is "definite singular flyet, indefinite plural fly, definite plural flya or flyene)"
-			$me = explode("(", $fuck[0]);
+			$me = explode("(", $line);
 			// Trim the ending ) so we end up with "imperative fly, present tense flyr, simple past fløy, past participle flydd or fløyet"
 			if (count($me) < 2) {
 				if ($verboseMode == "1"){
 					fwrite(STDOUT, "NOTICE: NO INFLECTIONS FOUND FOR THE WORD: ".$word.", JUMPING OUT\n");
 				}
-				continue;
+				return;
+				#				continue;
 			}
 			// Since words like `antiklimaks` have more than one "line" with inflections (the parser does not actually make it a new line making it easy to work with)
 			$kurva = "";
@@ -267,42 +308,6 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 					}
 				}
 			}
-		}
-
-			//var_dump($inflectionArray);
-			if ($verboseMode == "1"){
-				echo "\n-----------------------------------------------------------------------------------------\n";
-			}
-	}
-	if ($verboseMode == "1"){
-		echo "Inflections: $inflectionString\n\n";
-	}
-	//array_push($finalInflectionArray, $inflectionString);
-	array_push($finalWordDefinitionArray, $wordDefinitionString);
-
-	if ($inflectionString == "" || $wordDefinitionString == ""){
-		echo "ERROR: inflectionString or wordDefinitionString is empty for word $word";
-		exit(3);
-	}
-}
-
-function isInflectionLine($line) {
-	// Filter mostly same as inflection filter with a few deletions since definitions can easily contain things like "plural".
-	$filterArray = ["inflections same as above", "inflections as above", "preceded by ei", "used as a modifier", "past tense and past participle ", "simple past and past participle ", "definite and plural form ",
-	"past simple and past participle", "past tense and participle",
-	"definite singular and plural ", "no plural form", "definite and plural ", "singular and plural ", "imperative and present tense ", "indefinite neuter singular ", "indefinite superlative ",
-	"singular definite ", "definite superlative", "singular indefinite", "indefinite singular ", "indefinite plural", "dative form ", "definite plural", "definite form", "neuter singular ",
-	"past participle ", "stressed form ",
-	"present participle ", "not declined", "no gender", "gender indeterminate", "singular masculine ", "genitive form ", "imperative ", "passive form of",
-	"past perfect ", "past tense ", "present tense ", "past tense ", "uppercase", "upper case", "lowercase", "lower case", "singulare tantum",
-	"feminine singular ", "objective case "];
-	for ($x = 0; $x < count($filterArray); $x++) {
-		if(strpos($line, $filterArray[$x]) !== false) {
-			echo("$line removed because it maches '$filterArray[$x]'");
-			return true;
-		}
-	}
-	return false;
 }
 
 function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray) {
