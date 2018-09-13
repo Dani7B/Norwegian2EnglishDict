@@ -1062,6 +1062,7 @@ børste
 bøtte
 bøye
 bøying
+camping
 campingplass
 campingvogn
 canadiar
@@ -1669,6 +1670,7 @@ falskneri
 familie
 familiebil
 familiemedlem
+familietur
 fanatikar
 fang
 fange
@@ -1845,6 +1847,7 @@ fiskekake
 fiskekrok
 fiskeri
 fiskeskipper
+fisketur
 fiskevær
 fivreld
 fivrelde
@@ -1869,6 +1872,7 @@ fjert
 fjes
 fjomp
 fjompenisse
+fjor
 fjord
 fjordarm
 fjorår
@@ -1901,6 +1905,7 @@ flod
 flodbølgje
 flodhest
 flog
+floke
 flokk
 flopp
 floskel
@@ -2491,6 +2496,7 @@ grevskap
 gribb
 grill
 grimase
+grin
 grind
 grindkval
 gris
@@ -2686,6 +2692,7 @@ hav
 havari
 havbotn
 havert
+havfiske
 havfru
 havfrue
 havklima
@@ -5142,6 +5149,7 @@ nød
 nødkanal
 nødlanding
 nødrakett
+nødsfall
 nødsignal
 nødutgang
 nøgd
@@ -6659,6 +6667,7 @@ skjerm
 skjold
 skjor
 skjorte
+skjorteerme
 skjønnheit
 skjønnlitteratur
 skjørbuk
@@ -6785,6 +6794,7 @@ slette
 slikkepott
 slipepapir
 slips
+slire
 slitasje
 slott
 slovak
@@ -7947,6 +7957,7 @@ turist
 turistattraksjon
 turistbuss
 turistmål
+turistsesong
 turke
 turkis
 turkmen
@@ -7954,6 +7965,7 @@ turkmenar
 turkmensk
 turn
 turnering
+turoperatør
 tusen
 tusenbein
 tusendel

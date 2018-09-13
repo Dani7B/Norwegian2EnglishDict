@@ -342,6 +342,7 @@ drysse
 drøfte
 drømme
 drøse
+dufte
 duge
 dukke
 dundre
@@ -628,6 +629,7 @@ fyre
 få
 få ut fingeren
 fôre
+fø
 føde
 føkk
 føle
@@ -661,6 +663,7 @@ gjenkjenne
 gjennomføre
 gjennomgå
 gjennomhulle
+gjennomskue
 gjenoppbygge
 gjenoppdage
 gjenoppfriske
@@ -773,6 +776,7 @@ hjelpe
 hjemsende
 hjemsøke
 hjernevaske
+hogge
 holde
 hoppe
 hoste
@@ -924,6 +928,7 @@ klinge
 klippe
 klistre
 klubbe
+klumpe
 klynge
 klynke
 klype
@@ -1518,6 +1523,7 @@ samordne
 samtykke
 samvirke
 sandblåse
+sanke
 sanse
 savne
 score
@@ -1596,6 +1602,7 @@ skru
 skrubbe
 skryte
 skråne
+skue
 skuffe
 skule
 skulke
@@ -1639,6 +1646,7 @@ smake
 smaksette
 smalne
 smelte
+smi
 smi mens jernet er varmt
 smile
 sminke
@@ -1650,6 +1658,7 @@ snakke
 snike
 snorkle
 snu
+snufse
 snø
 sole
 sondre
@@ -1713,6 +1722,7 @@ stilisere
 stille
 stimulere
 stirre
+stivne
 stjele
 stokke
 stole
@@ -2016,4 +2026,5 @@ zoome
 økonomisere
 ønske
 øremerke
+øse
 øve

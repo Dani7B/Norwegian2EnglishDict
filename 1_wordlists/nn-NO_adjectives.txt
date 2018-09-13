@@ -251,6 +251,7 @@ diskret
 diskré
 disponibel
 distinkt
+distré
 diverse
 djerv
 djevelsk
@@ -923,6 +924,7 @@ kurdisk
 kuwaitisk
 kvadratisk
 kvalitativ
+kvalm
 kvantitativ
 kvart
 kvik
@@ -949,6 +951,7 @@ lat
 latinamerikansk
 latinsk
 latterleg
+lattermild
 latvisk
 laus
 le
@@ -1014,6 +1017,7 @@ lynrask
 lys
 lyseblå
 lysebrun
+lysegrå
 lystig
 låg
 låsbar
@@ -1038,6 +1042,7 @@ malayisk
 malaysisk
 maldivisk
 malisk
+malplassert
 maltesisk
 mange
 mangedobbelt
@@ -1682,6 +1687,7 @@ svart
 sveitsisk
 svensk
 svidd
+svingete
 svolten
 svullen
 svær
@@ -1936,6 +1942,7 @@ unøyaktig
 uoffisiell
 uopna
 uoppnåeleg
+uorganisert
 uorganisk
 uparfymert
 upartisk

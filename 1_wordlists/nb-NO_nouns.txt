@@ -1264,6 +1264,7 @@ bøyelighet
 bøying
 bøyle
 bøyning
+camping
 campingbil
 campingplass
 campingvogn
@@ -1959,6 +1960,7 @@ falskneri
 familie
 familiebil
 familiemedlem
+familietur
 fanatiker
 fang
 fange
@@ -2161,6 +2163,7 @@ fisker
 fiskeri
 fiskerihavn
 fiskeskipper
+fisketur
 fiskevær
 fisking
 fjell
@@ -2186,6 +2189,7 @@ fjert
 fjes
 fjomp
 fjompenisse
+fjor
 fjord
 fjordarm
 fjortis
@@ -2223,6 +2227,7 @@ flo
 flod
 flodbølge
 flodhest
+floke
 flokk
 flom
 flopp
@@ -2965,6 +2970,7 @@ grevskap
 gribb
 grill
 grimase
+grin
 grind
 grindhval
 gris
@@ -3169,6 +3175,7 @@ havbotn
 havbunn
 havdyp
 havesyke
+havfiske
 havfrue
 havklima
 havn
@@ -5116,6 +5123,7 @@ lærested
 læring
 læringskurve
 lærling
+lærreim
 løft
 løfte
 løgn
@@ -5810,6 +5818,7 @@ nervesystem
 nervøsitet
 nese
 nesebor
+nesespray
 neshorn
 nesle
 nett
@@ -5932,6 +5941,7 @@ nød
 nødkanal
 nødlanding
 nødrakett
+nødsfall
 nødsignal
 nødutgang
 nødvendighet
@@ -7667,6 +7677,7 @@ skjermutklipp
 skjermutskrift
 skjold
 skjorte
+skjorteerme
 skjulested
 skjær
 skjære
@@ -7745,6 +7756,7 @@ skryt
 skråning
 skudd
 skuddår
+skue
 skuespill
 skuespiller
 skuespillerinne
@@ -7811,6 +7823,7 @@ slette
 slikkepott
 slipepapir
 slips
+slire
 slitasje
 slott
 slovak
@@ -9128,6 +9141,7 @@ turist
 turistattraksjon
 turistbuss
 turistmål
+turistsesong
 turkis
 turkmener
 turkmensk
@@ -9136,6 +9150,7 @@ turner
 turnering
 turniké
 turnpike
+turoperatør
 turtall
 turteller
 tusen

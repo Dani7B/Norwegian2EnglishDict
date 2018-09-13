@@ -199,6 +199,7 @@ drøfte
 drømme
 drøyma
 drøyme
+dufte
 duga
 duge
 dukka
@@ -377,6 +378,8 @@ fysse
 få
 få ut fingeren
 fôre
+fø
+føde
 føle
 følga
 følge
@@ -602,6 +605,7 @@ klinke
 klippe
 klistre
 klubbe
+klumpe
 klynka
 klynke
 klyppe
@@ -1026,6 +1030,7 @@ samla
 samle
 samtykke
 sandblåse
+sanke
 score
 segja
 segje
@@ -1160,12 +1165,14 @@ sløkkja
 sløkkje
 smaka
 smake
+smi
 smugle
 smyga
 smyge
 snakka
 snakke
 snu
+snufse
 sova
 sove
 sovna
@@ -1238,6 +1245,7 @@ stilisere
 stilla
 stille
 stimulere
+stivne
 stokke
 strande
 strekka

@@ -326,6 +326,7 @@ diskriminerende
 diskré
 disponibel
 distinkt
+distré
 diverse
 djevelsk
 djiboutisk
@@ -756,6 +757,7 @@ glad
 glamorøs
 glansfull
 glasial
+glassaktig
 glatt
 glimrende
 global
@@ -1211,6 +1213,7 @@ kurdisk
 kuwaitisk
 kvadratisk
 kvalitativ
+kvalm
 kvantitativ
 kvart
 kvass
@@ -1238,6 +1241,7 @@ lat
 latinamerikansk
 latinsk
 latterlig
+lattermild
 latvisk
 lauvfellende
 lav
@@ -1315,6 +1319,7 @@ lynrask
 lys
 lyseblå
 lysebrun
+lysegrå
 lysegrønn
 lysende
 lyserød
@@ -1344,6 +1349,7 @@ malaysisk
 maldivisk
 malerisk
 malisk
+malplassert
 maltesisk
 mange
 mangedobbelt
@@ -2172,6 +2178,7 @@ sveitsisk
 svensk
 svett
 svidd
+svingete
 svullen
 svær
 swazilandsk
@@ -2552,6 +2559,7 @@ uoffisiell
 uomskåren
 uomskåret
 uoppnåelig
+uorganisert
 uorganisk
 uoverstigelig
 uovertruffen
@@ -2831,6 +2839,7 @@ zimbabwisk
 zoologisk
 ålandsk
 åndelig
+åndsfraværende
 åpen
 åpenbar
 åpenlys

@@ -17,6 +17,7 @@ hvis
 hvorpå
 hvorvidt
 i tilfelle
+idet
 inntil
 men
 mens
