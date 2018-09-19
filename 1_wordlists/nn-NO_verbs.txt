@@ -118,12 +118,14 @@ brjote
 bruka
 bruke
 brusa
+bry
 bry seg faen om
 bryta
 bryte
 bråna
 bråne
 bu
+bunkre
 burda
 burde
 busetja
@@ -146,6 +148,7 @@ børste
 bøtelegge
 bøya
 bøye
+dabbe
 danne
 dansa
 danse
@@ -266,6 +269,7 @@ feire
 fekte
 fella
 felle
+fenge
 ferda
 ferdast
 ferde
@@ -1172,6 +1176,7 @@ smyge
 snakka
 snakke
 snu
+snuble
 snufse
 sova
 sove
@@ -1287,6 +1292,7 @@ svare
 sveitta
 sveitte
 svekke
+sverme
 svi
 svika
 svike
@@ -1509,6 +1515,7 @@ vibrere
 vidareutvikle
 vifta
 vifte
+vike
 vilja
 vilje
 vima

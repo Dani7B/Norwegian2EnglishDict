@@ -125,6 +125,7 @@ albaner
 albansk
 albatross
 albino
+alboge
 albue
 albuerom
 album
@@ -314,6 +315,7 @@ aprikos
 april
 aprilsnarr
 aprilspøk
+ar
 araber
 arabisk
 arameisk
@@ -935,6 +937,7 @@ bobil
 boble
 boblebad
 boer
+bog
 boge
 boggi
 boikott
@@ -1108,6 +1111,7 @@ brunsttid
 brunøye
 brus
 bruttonasjonalprodukt
+bry
 brygge
 bryggeri
 bryllup
@@ -1172,6 +1176,9 @@ bumerang
 bunad
 bunke
 bunker
+bunkerolje
+bunkers
+bunkersolje
 bunn
 bunt
 bur
@@ -1370,6 +1377,7 @@ deformasjon
 degenerasjon
 deig
 deisme
+dekar
 dekk
 dekke
 deklarasjon
@@ -1736,6 +1744,7 @@ eksponering
 eksponeringstid
 ekspressbuss
 ekstase
+ekstraarbeid
 ekstraomgang
 ekstrem
 ekstremist
@@ -2022,6 +2031,7 @@ fedme
 feide
 feiebrett
 feil
+feilmargin
 feilmelding
 feiltoleranse
 feilvare
@@ -2435,6 +2445,7 @@ forstand
 forstavelse
 forstavn
 forsterker
+forsterkning
 forstillelse
 forstoppelse
 forstyrrelse
@@ -2445,6 +2456,8 @@ forstørrelsesglass
 forsvar
 forsvarer
 forsvarsstyrke
+forsyning
+forsyningsskip
 forsøk
 forsøkskanin
 forsørger
@@ -2636,6 +2649,7 @@ fusjon
 fusk
 fuskepels
 fylke
+fylkesveg
 fylkesvei
 fyll
 fyllplass
@@ -2838,6 +2852,7 @@ gjensidighet
 gjenstand
 gjentakelse
 gjenvalg
+gjenvinning
 gjenåpning
 gjerde
 gjerding
@@ -2849,6 +2864,7 @@ gjestfrihet
 gjær
 gjæring
 gjødsel
+gjøgler
 gjøk
 gjøkur
 gjørme
@@ -3117,6 +3133,7 @@ halvår
 halvøy
 ham
 hamburger
+hamlet
 hammar
 hammer
 hamp
@@ -3447,6 +3464,7 @@ huskatt
 huske
 husky
 husmor
+husordensregel
 hussopp
 husstand
 hustak
@@ -3661,6 +3679,7 @@ innflytelse
 innflytter
 innføring
 inngang
+inngangsdør
 innhold
 innholda
 innkast
@@ -3817,6 +3836,7 @@ jevndøgn
 jiddisch
 jiddisk
 jippo
+jo
 jobb
 jobbintervju
 jockey
@@ -3880,6 +3900,7 @@ justis
 justisdepartement
 juvel
 juveler
+jypling
 jøde
 jødedom
 jødinne
@@ -3992,6 +4013,7 @@ karbonmonoksid
 karbonsyre
 kardemomme
 kardinal
+kardiolog
 karikatur
 karikaturtegner
 karisma
@@ -4069,6 +4091,7 @@ kilowattime
 kinematikk
 kineser
 kinesisk
+kinn
 kino
 kiosk
 kirgiser
@@ -5321,6 +5344,7 @@ medlem
 medlemskap
 medlemskort
 medlemsland
+medmenneske
 medpassasjer
 medspiller
 medvirkning
@@ -5364,6 +5388,8 @@ mengde
 menighet
 mening
 menneske
+menneskeforakt
+menneskefrykt
 menneskehandel
 menneskehet
 menneskekropp
@@ -5881,6 +5907,7 @@ normaltid
 normanner
 norrønt
 norsk
+nos
 nostalgi
 notat
 notatbok
@@ -5996,6 +6023,7 @@ olivengren
 olivenolje
 oliventre
 olje
+oljeavfall
 oljebrønn
 oljefelt
 oljemaleri
@@ -6007,6 +6035,7 @@ oljeskifer
 oljeskift
 oljesøl
 oljetanker
+oljeutslipp
 omaner
 ombud
 ombudsmann
@@ -6090,6 +6119,7 @@ opprinnelse
 opprinnelsesland
 opprop
 opprustning
+opprydding
 opprør
 opprører
 opprørspoliti
@@ -6124,6 +6154,7 @@ oransje
 ord
 ordbok
 orden
+ordensregel
 ordenstall
 ordforråd
 ordfører
@@ -6363,6 +6394,7 @@ pensel
 pensjon
 pensjonist
 pensjonsfond
+pensum
 pentan
 peon
 pepper
@@ -6619,6 +6651,7 @@ prisliste
 prisme
 privatfly
 privatisering
+privatist
 privatliv
 privatlærer
 privilegium
@@ -6776,12 +6809,14 @@ radioaktivitet
 radiobil
 radiobølge
 radiograf
+radiolog
 radiosignal
 radiostasjon
 radius
 raffineri
 ragnarok
 rakett
+rakfisk
 rally
 ramme
 rammeavtale
@@ -7636,6 +7671,7 @@ skildring
 skille
 skillelinje
 skilletegn
+skillevegg
 skilpadde
 skilsmisse
 skilt
@@ -7678,6 +7714,7 @@ skjermutskrift
 skjold
 skjorte
 skjorteerme
+skjul
 skjulested
 skjær
 skjære
@@ -8275,6 +8312,7 @@ storfugl
 storhet
 storhetstid
 storindustri
+storjo
 stork
 storm
 stormakt
@@ -8822,6 +8860,7 @@ tidevannsstrøm
 tidevannstabell
 tidsalder
 tidsfrist
+tidsoptimist
 tidsperiode
 tidspunkt
 tidsrom
@@ -9167,6 +9206,7 @@ tvang
 tvangsarbeid
 tvangssalg
 tvangstrøye
+tvare
 tverrhalehauk
 tverrsnitt
 tvetydighet
@@ -9549,6 +9589,7 @@ vatning
 vatteppe
 ved
 vedlikehold
+vedskjul
 vedtak
 veg
 vegan
@@ -9831,6 +9872,7 @@ væske
 waliser
 walisisk
 watt
+wattsekund
 webkamera
 western
 whisky
@@ -9865,6 +9907,7 @@ zoomlinse
 zoomobjektiv
 å
 åfløi
+åfløy
 åger
 ågerkar
 ågerkarl
@@ -9981,4 +10024,5 @@ zoomobjektiv
 øyeskygge
 øyevipp
 øyevitne
+øyeåpner
 øygruppe

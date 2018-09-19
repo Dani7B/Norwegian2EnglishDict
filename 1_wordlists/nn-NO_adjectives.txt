@@ -418,6 +418,7 @@ fenomenal
 ferdig
 fersk
 fiberoptisk
+fiendsk
 fiendsleg
 fiendtleg
 fijiansk
@@ -1398,6 +1399,7 @@ radikal
 radioaktiv
 radiostyrt
 raffinert
+rak
 rar
 rasistisk
 rasjonell
@@ -1689,6 +1691,7 @@ svensk
 svidd
 svingete
 svolten
+svovelfattig
 svullen
 svær
 swazilandsk

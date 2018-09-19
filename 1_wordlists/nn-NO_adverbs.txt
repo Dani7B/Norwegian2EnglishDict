@@ -23,6 +23,7 @@ attantil
 attende
 atter
 attpåtil
+attåt
 au
 aust
 austover
@@ -144,6 +145,7 @@ herfrå
 herifrå
 historisk
 hit
+hittil
 hoss
 hossen
 hovudsakleg
@@ -174,6 +176,7 @@ innimellom
 innover
 ja
 jau
+jo
 kanskje
 katastrofalt
 kje

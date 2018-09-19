@@ -85,6 +85,7 @@ autorisere
 avansere
 avbilde
 avdekke
+avdele
 avduke
 avertere
 avfolke
@@ -160,6 +161,7 @@ beherske
 beholde
 behøve
 beite
+bekjempe
 beklage
 bekrefte
 bekymre
@@ -221,6 +223,7 @@ bleke
 bli
 bli kalt bort
 blingse
+blinke
 blokkere
 blomstre
 blunke
@@ -244,12 +247,14 @@ briste
 brodere
 brovte
 bruke
+bry
 bry seg faen om
 brygge
 bryte
 brøle
 budsjettere
 bukke
+bunkre
 burde
 by
 byde
@@ -263,6 +268,7 @@ bøtelegge
 bøye
 chatte
 chille
+dabbe
 daffe
 danne
 danse
@@ -425,6 +431,7 @@ feire
 fekte
 felle
 femdoble
+fenge
 fengsle
 ferdes
 ferdigstille
@@ -988,6 +995,7 @@ konvergere
 konvertere
 koordinere
 kopiere
+korrekturlese
 korrelere
 korrespondere
 korrigere
@@ -1240,6 +1248,7 @@ omringe
 omskjære
 omslutte
 omstille
+omsverme
 omtale
 omvende
 onanere
@@ -1658,6 +1667,7 @@ snakke
 snike
 snorkle
 snu
+snuble
 snufse
 snø
 sole
@@ -1765,6 +1775,7 @@ sveise
 svekke
 svelge
 sverge
+sverme
 svette
 sveve
 svi
@@ -1991,6 +2002,7 @@ videreføre
 videreutvikle
 vie
 vigsle
+vike
 ville
 vinke
 vinkle

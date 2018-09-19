@@ -30,6 +30,7 @@ antakeligvis
 atskillig
 atter
 attpåtil
+attåt
 au
 aust
 automatisk
@@ -158,6 +159,7 @@ herunder
 hhv.
 historisk
 hit
+hittil
 hjem
 hjemme
 hjemmefra
@@ -174,6 +176,7 @@ hvordan
 hvordan det
 hvorfor
 hvorledes
+hvormed
 høylytt
 høyt
 i alle fall
@@ -213,6 +216,7 @@ innover
 ja
 jevnlig
 jevnt
+jo
 kanskje
 knapt
 kun

@@ -119,6 +119,7 @@ autoritativ
 autoritær
 avansert
 avarisk
+avdelt
 avdød
 avgjørende
 avgående
@@ -526,6 +527,7 @@ festlig
 fet
 fettholdig
 fiberoptisk
+fiendsk
 fiendtlig
 fijiansk
 fiktiv
@@ -1390,11 +1392,14 @@ mekanisert
 mekanisk
 meksikansk
 mektig
+melaktig
 melkeaktig
 mellomamerikansk
 mellomstor
 meningsfull
 meningsløs
+menneskefiendsk
+menneskefiendtlig
 menneskelig
 menneskeskapt
 mental
@@ -1675,6 +1680,7 @@ oversvømt
 overvektig
 overveldende
 paa kreditt
+paillegul
 pakistansk
 palestinsk
 panamansk
@@ -1796,6 +1802,7 @@ radikal
 radioaktiv
 radiostyrt
 raffinert
+rak
 rar
 rasende
 rasistisk
@@ -2179,6 +2186,7 @@ svensk
 svett
 svidd
 svingete
+svovelfattig
 svullen
 svær
 swazilandsk

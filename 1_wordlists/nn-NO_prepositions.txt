@@ -3,6 +3,7 @@ attantil
 attmed
 attom
 attum
+attåt
 av
 bak
 blant
@@ -63,6 +64,7 @@ ovanpå
 over
 overfor
 per
+pga.
 på
 på grunn av
 på si
