@@ -578,6 +578,7 @@ banjo
 bank
 bankboks
 banke
+banker
 bankett
 bankhvelv
 bankkonto
@@ -746,6 +747,7 @@ bestemmelse
 bestemor
 bestevenn
 bestevenninne
+bestialitet
 bestikk
 bestilling
 bestselger
@@ -1110,6 +1112,7 @@ brunsj
 brunsttid
 brunøye
 brus
+brutalitet
 bruttonasjonalprodukt
 bry
 brygge
@@ -3823,6 +3826,7 @@ jernbanespor
 jernbanestasjon
 jernklorid
 jernmalm
+jernstang
 jernvare
 jerrykanne
 jerv
@@ -4945,6 +4949,7 @@ likkiste
 liknelse
 likning
 lilje
+lillebror
 lillefinger
 lillehjerne
 lillejulaften
@@ -8814,6 +8819,7 @@ teoretiker
 teori
 tepose
 teppe
+teppebanker
 terapeut
 terapi
 term

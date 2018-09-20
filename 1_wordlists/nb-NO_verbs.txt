@@ -1117,6 +1117,7 @@ løye
 løype
 maksimalisere
 maksimere
+makte
 male
 mangedoble
 mangle
@@ -1574,6 +1575,7 @@ sjonglere
 sjøsette
 skade
 skamme
+skamslå
 skanne
 skape
 skatte
@@ -1747,6 +1749,7 @@ streve
 stride
 strikke
 strippe
+strukturere
 stryke
 strø
 strømme
@@ -2026,6 +2029,7 @@ væpne
 væra
 være
 være glad i
+yppe
 zoome
 ånde
 åpenbare

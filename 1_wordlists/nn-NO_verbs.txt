@@ -783,6 +783,7 @@ løfte
 løysa
 løysa opp
 løyse
+makte
 mala
 male
 masa
@@ -1071,6 +1072,7 @@ sjå
 skaffa
 skaffe
 skaka
+skamslå
 skanne
 skapa
 skape
@@ -1260,6 +1262,7 @@ strekkje
 streva
 streve
 strjuka
+strukturere
 stryka
 stryke
 strø
@@ -1545,6 +1548,7 @@ ymse
 ynska
 ynskja
 ynskje
+yppe
 årelate
 åta
 åtaka

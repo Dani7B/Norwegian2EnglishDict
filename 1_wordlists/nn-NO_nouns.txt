@@ -265,6 +265,7 @@ april
 aprilnarr
 aprilsnarr
 aprilspøk
+ar
 arabar
 arabisk
 arameisk
@@ -377,6 +378,7 @@ augebryn
 augeeple
 augehole
 augelok
+augeopnar
 augeskygge
 augestikkar
 augevippe
@@ -636,6 +638,7 @@ besteven
 besteveninne
 bestevenn
 bestevenninne
+bestialitet
 bestikk
 bestilling
 besøk
@@ -782,6 +785,7 @@ bo
 boar
 boble
 boblebad
+bog
 boge
 bogeskyttar
 boggi
@@ -933,7 +937,9 @@ brunsj
 brunsttid
 brur
 brus
+brutalitet
 bruttonasjonalprodukt
+bry
 brygge
 bryllaup
 brynje
@@ -983,6 +989,8 @@ bumerang
 bunad
 bunke
 bunker
+bunkers
+bunkersolje
 bur
 burgunder
 burka
@@ -1160,6 +1168,7 @@ deformasjon
 degenerasjon
 deig
 deisme
+dekar
 dekk
 dekke
 deklarasjon
@@ -1478,6 +1487,7 @@ eksponering
 eksponeringstid
 ekspressbuss
 ekstase
+ekstraarbeid
 ekstraomgang
 ekstremist
 ekstremitet
@@ -1726,6 +1736,7 @@ februar
 feide
 feiebrett
 feil
+feilmargin
 feilmelding
 feilvare
 feiring
@@ -2051,9 +2062,12 @@ forslag
 forsmak
 forstad
 forstand
+forsterkning
 forsvar
 forsvarsspelar
 forsvarsstyrke
+forsyning
+forsyningsskip
 forsøk
 forsøkskanin
 fort
@@ -2206,6 +2220,7 @@ fusjon
 fusk
 fuskepels
 fylke
+fylkesveg
 fyll
 fylling
 fyllplass
@@ -2388,6 +2403,7 @@ gjennomsnitt
 gjennomsnittsfart
 gjenomfart
 gjenstand
+gjenvinning
 gjerde
 gjerding
 gjerning
@@ -2632,6 +2648,7 @@ halvår
 halvøy
 ham
 hamarhai
+hamlet
 hamløypar
 hammar
 hammarhai
@@ -2914,6 +2931,7 @@ huskatt
 huske
 husky
 husmor
+husordensregel
 hussopp
 husstand
 hustak
@@ -3058,6 +3076,7 @@ innbrot
 innbyggjar
 innføring
 inngang
+inngangsdør
 innhald
 innkast
 innkjøp
@@ -3203,6 +3222,7 @@ jetmotor
 jiddisch
 jiddisk
 jippo
+jo
 jobb
 jobbintervju
 jockey
@@ -3266,6 +3286,7 @@ justisdepartement
 juv
 juvel
 juveler
+jypling
 jøde
 jødedom
 jødinne
@@ -3377,6 +3398,7 @@ karbonmonoksid
 karbonsyre
 kardemomme
 kardinal
+kardiolog
 karikatur
 karisma
 karm
@@ -3447,6 +3469,7 @@ kilometer
 kilowattime
 kinesar
 kinesisk
+kinn
 kino
 kiosk
 kirgisar
@@ -4574,6 +4597,7 @@ medlem
 medlemskap
 medlemskort
 medlemsland
+medmenneske
 medpassasjer
 megafon
 meining
@@ -4604,6 +4628,8 @@ men
 mengd
 mengde
 menneske
+menneskeforakt
+menneskefrykt
 menneskehandel
 menneskekropp
 menneskeliv
@@ -5086,6 +5112,7 @@ normalspor
 normaltid
 norrønt
 norsk
+nos
 nostalgi
 notat
 notatbok
@@ -5203,6 +5230,7 @@ oliven
 olivenolje
 oliventre
 olje
+oljeavfall
 oljefelt
 oljeplattform
 oljeraffineri
@@ -5243,6 +5271,7 @@ operativsystem
 operatør
 operette
 opinion
+opnar
 oppbevaring
 oppdrag
 oppfatning
@@ -5266,6 +5295,7 @@ opposisjon
 opposisjonsparti
 oppreist
 opprop
+opprydding
 opprør
 opprørar
 opprørspoliti
@@ -5294,6 +5324,7 @@ oransje
 ord
 ordbok
 orden
+ordensregel
 ordforråd
 ordførar
 ordklasse
@@ -5500,6 +5531,7 @@ pensel
 pensjon
 pensjonist
 pensjonsfond
+pensum
 pentan
 peon
 pepar
@@ -5730,6 +5762,7 @@ prisliste
 prisme
 privatfly
 privatisering
+privatist
 privatliv
 privilegium
 problem
@@ -5872,6 +5905,7 @@ radio
 radioaktivitet
 radiobil
 radiograf
+radiolog
 radiosignal
 radiostasjon
 radius
@@ -5879,6 +5913,7 @@ raffineri
 ragg
 ragnarok
 rakett
+rakfisk
 rally
 ramme
 rammeavtale
@@ -6668,6 +6703,7 @@ skjold
 skjor
 skjorte
 skjorteerme
+skjul
 skjønnheit
 skjønnlitteratur
 skjørbuk
@@ -7179,6 +7215,7 @@ storeslem
 storfe
 storfugl
 storindustri
+storjo
 stork
 storkobbe
 storleik
@@ -7679,6 +7716,7 @@ tidbolk
 tidel
 tidsalder
 tidsfrist
+tidsoptimist
 tidsperiode
 tidspunkt
 tidsrom
@@ -8251,6 +8289,7 @@ vatning
 vatteppe
 ved
 vedlikehald
+vedskjul
 vedtak
 veg
 vegan
@@ -8470,6 +8509,7 @@ vêrmelding
 vêrvarsel
 walisisk
 watt
+wattsekund
 webkamera
 western
 whisky
@@ -8500,6 +8540,7 @@ zoomobjektiv
 å
 åbot
 åbry
+åfløy
 åger
 åk
 åker
