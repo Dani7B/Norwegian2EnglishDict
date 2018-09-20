@@ -1,9 +1,11 @@
 forreven forrevet de
 
-
-Following are two different words that should have different definitions, but they seem to share them instead: 
+https://www.mobileread.com/forums/showthread.php?t=274154&page=2
+Var is an inflection of vare, and vår is a normal word. looking up var gives both vare and vår, looking up vår only gives vår. Both should only have one definition.
+It seems it is unable to be fixed without a firmware patch from Amazon.
 var
 vår
 
-This word is not shown because of the above combined with kindle FW issues, så is shown instead:
-sa
+When looking up a word by pressing on it, the firmware first checks and lists all direct definitions. If it finds any, it adds them all and it'll say "fuck it am done" and ignore looking through the inflections list. 
+Similarly if it finds no direct definition, it'll stop looking upon finding the first inflection.
+If this were not accounted for, for example sa (inflection of si) would only show the definition for så.
