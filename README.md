@@ -2,11 +2,11 @@
 
 [Original Reddit thread](https://www.reddit.com/r/norsk/comments/8woal0/nbnoen_dictionarynorsk_ordbok_for_kindle_and/)
 
-Since I couldn't find ANY decent NO>EN dictionary, much less a dictionary that supports inflections, I decided to roll my own.
+Since I couldn't find ANY decent NO>EN Kindle dictionary, much less a dictionary that supports inflections, I decided to roll my own.
 
 I cobbled together some projects, made some scripts and the results are Norwegian Bokmål/Nynorsk to English dictionaries that are using the database from Wiktionary(which is very decent) and support inflections.
 
-Do not be surprised at the Kindle-specific esoteric workarounds used in this project - in the words of based Amazon support: **"Dictionary features are not used often so they are not a priority"**
+Do not be surprised at the Kindle-specific esoteric workarounds used in this project - in the words of Amazon support: **"Dictionary features are not used often so they are not a priority"**
 
 Preview: [Kindle4PC[0.13]](https://i.imgur.com/JPE2LzQ.png), [Kindle[0.12]](https://i.imgur.com/oqwwjdA.png), [Kindle[0.1]](https://i.imgur.com/EJ23F8b.png)
 
@@ -14,7 +14,7 @@ Preview: [Kindle4PC[0.13]](https://i.imgur.com/JPE2LzQ.png), [Kindle[0.12]](http
 
 ## Downloads
 
-**Current version: 0.15 (2018-08-03)**
+**Current version: 0.16 (2018-09-21)**
 
 * Norwegian Bokmål (nb-NO>EN)
    * [.mobi dictionary](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nb-NOtoENdictionary.mobi) \- This is what you want for your e-reader. For Kindle just drop it in ../documents/dictionaries/
@@ -24,11 +24,14 @@ Preview: [Kindle4PC[0.13]](https://i.imgur.com/JPE2LzQ.png), [Kindle[0.12]](http
    * [.mobi dictionary](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nn-NOtoENdictionary.mobi) \- This is what you want for your e-reader. For Kindle just drop it in ../documents/dictionaries/
    * [.txt which contains dictionary entries](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nn-NOtoENdictionary.txt)
    * [.inf which contains inflections](https://gitlab.com/C0rn3j/NorwegianToEnglishDict/blob/master/4_finalDictionary/nn-NOtoENdictionary.inf)
+* Norwegian Bokmål+Nynorsk to EN
+   * #TODO
 
 Notice: **When updating to a newer version of a dictionary, restart (NOT RESET) your Kindle after copying it**, or you will run into bugs like [this](https://i.imgur.com/Tj8twU9.png) or [this](https://i.imgur.com/MKUdcEB.png). This is due to a decade old firmware bug that was not fixed yet, if you want it fixed, call Amazon support and tell them about it. They seem to think people don't use dictionary features that much, prove them wrong.
 
 ## FAQ
-
+* How do I use this on Kindle for PC?
+   * Follow steps in [this](https://www.mobileread.com/forums/showthread.php?t=275969) thread.
 * Formatting could be better
    * Am aware. I plan on making it prettier + including all the inflected forms in the definition. TODO.
 * There is a missing/incorrect word definition!
@@ -42,10 +45,7 @@ Notice: **When updating to a newer version of a dictionary, restart (NOT RESET) 
 * The dictionary doesn't register as a Norwegian one, I have to manually select it per book!
    * This is on purpose, both dictionaries are marked as en-us>en-us otherwise it is impossible to search through them via the Dictionary search function on Kindle. [Reasoning](https://www.mobileread.com/forums/showthread.php?t=305372)
 * Known issues
-   * "var" shows the entry for "vår" etc.
-   * Kindle FW workaround doesn't work perfectly because of the above. (can be seen on "sa")
-   * Parser issues that were fixed in WP 0.0.92 still not fixed in this project
-   * Not accounting for multi-line inflections, only multi-line without actual linebreak
+   * "var" shows the entry for "vår" etc. This is a Kindle firmware issue and I can't do anything to fix it. Call up Amazon.
    * Genitive forms are not in the dictionary. For example "verdens".
 
 ## Dev notes
@@ -73,4 +73,4 @@ If a connected Kindle is detected, it'll copy the .mobi files on it too.
 
 ## License
 
-Everything unless mentioned otherwise is licensed under AGPLv3. That is everything but index.js responsible for wordlist generation(MIT), the wordlist itself(whatever license Wiktionary uses), tab2opf(GPLv3+) and kindlegen/mobigen binaries(proprietary I assume).
+Everything unless mentioned otherwise is licensed under AGPLv3. That is everything but index.js responsible for wordlist generation(MIT), the wordlist , inflection list and definition list(whatever license Wiktionary uses), tab2opf(GPLv3+) and kindlegen/mobigen binaries(proprietary I assume).
