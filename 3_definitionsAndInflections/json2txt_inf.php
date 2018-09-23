@@ -137,7 +137,20 @@ function scrapShit($languageToScrap) {
 		fwrite($handle, implode("\n", $finalWordDefinitionArray));
 	}
 
-	//var_dump($finalInflectionArray);
+	// Tests
+	$finalWordDefinitionArray = array_values($finalWordDefinitionArray); // Sort array since array_unique() was used on it
+
+	for ($i = 0; $i < count($finalInflectionArray); $i++) {
+		$inflectionExplode = explode(", ", $finalInflectionArray[$i], 2);
+		for($j = 0; $j < count($finalWordDefinitionArray); $j++) {
+			$wordDefExplode = explode("	", $finalWordDefinitionArray[$j], 2);
+			if($wordDefExplode[0] == $inflectionExplode[0]) {
+				continue 2;
+			}
+		}
+		fwrite(STDERR, "ERR: Inflected word ".$inflectionExplode[0]." has no definition!\n");
+	}
+	// End of tests
 }
 
 function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArray, &$languageToScrap) {
