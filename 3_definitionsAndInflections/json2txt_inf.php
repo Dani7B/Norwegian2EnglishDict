@@ -1,4 +1,6 @@
 <?php
+//TODO - rewrite $finalInflectionArray so it's properly handled and I do not need to do explodes by ", " everywhere like a retard.
+
 //	$data = file_get_contents('fly.json');
 //$word="abandonere";
 
@@ -161,6 +163,8 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 	$json = json_decode($data);
 	for ($i = 0; $i < count($json); $i++) { // There can be multiple $json's inside each other each with a number of definitions[]
 		for ($z = 0; $z < count($json[$i]->definitions); $z++) {
+			$tempInflections = array();
+			$parentWord = "";
 			$defString = "";
 			for ($zz = 0; $zz < count($json[$i]->definitions[$z]->text); $zz++){
 				$defString = $defString.$json[$i]->definitions[$z]->text[$zz]."\n";
@@ -179,10 +183,10 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 			}
 			for ($x = 1; $x < count($fuck); $x++) {
 				if (isInflectionLine($fuck[$x])){
-					processInflectionLine($fuck[$x], $word, $finalInflectionArray, $inflectionString, $verboseMode);
+					processInflectionLine($fuck[$x], $word, $tempInflections, $inflectionString, $verboseMode);
 					continue;
 				}
-				$fuck[$x] = stripDefinitionGarbage($fuck[$x], $word, $finalInflectionArray);
+				$fuck[$x] = stripDefinitionGarbage($fuck[$x], $word, $tempInflections, $parentWord);
 				if($fuck[$x] != ""){
 					if ($verboseMode == "1"){
 						echo $fuck[$x]."\n";
@@ -190,7 +194,25 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 					$wordDefinitionString = $wordDefinitionString."	".$fuck[$x];
 				}
 			}
-			processInflectionLine($fuck[0], $word, $finalInflectionArray, $inflectionString, $verboseMode);
+			processInflectionLine($fuck[0], $word, $tempInflections, $inflectionString, $verboseMode);
+			// IF $word NOW HAS INFLECTIONS FOR IT BUT NO DEFINITIONS, MOVE THE WHOLE INFLECTED $word INTO $parentWord
+//			if ( (! wordDefExists($word, $finalWordDefinitionArray) && ! wordDefExists($word, $wordDefinitionString)) || $word == "grein" ) {
+			$wordToAddInflectionsFor = $word;
+			if ($parentWord != "" && ! wordDefExists($word, $finalWordDefinitionArray)){
+				// NEED TO MANUALLY GO THROUGH THE FOLLOWING DBG TO ENSURE WIKTIONARY IS IN CORRECT FORMAT/MY SCRIPT WORKS
+				fwrite(STDERR, "DBG: Inflections for the word $word will be moved into $parentWord!\n");
+				fwrite(STDERR, "DBG: $wordDefinitionString!\n");
+				$wordToAddInflectionsFor = $parentWord;
+			}
+			// We can't add inflections on the fly directly to the final array be cause there are Alternative definitions like auke - https://en.wiktionary.org/wiki/auke#Norwegian_Bokm%C3%A5l
+			// which we need to move the inflections of to the parent word.
+			for ($q = 0; $q < count($tempInflections); $q++) {
+				$inflectionExplode = explode(", ", $tempInflections[$q]);
+				// For every inflection line member except the first one
+				for ($qq = 1; $qq < count($inflectionExplode);$qq++) { // WORKAROUND DUE TO RETARDED HANDLING - REMOVE EXPLODES BY ", " AND HANDLE ARRAYS PROPERLY!
+					addInflection($wordToAddInflectionsFor, $inflectionExplode[$qq], $finalInflectionArray);
+				}
+			}
 		}
 
 			//var_dump($inflectionArray);
@@ -210,6 +232,27 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 	}
 }
 
+function wordDefExists($word, $finalWordDefinitionArray) {
+	if (is_array($finalWordDefinitionArray)) {
+		// Checks if $word has a definition in the word definition array
+		for($i = 0; $i < count($finalWordDefinitionArray); $i++) {
+			$wordDefExplode = explode("	", $finalWordDefinitionArray[$i], 2);
+			if ($wordDefExplode[0] == $word){
+				return true;
+			}
+		}
+		return false;
+	} 
+	else {
+		$wordDefExplode = explode("	", $finalWordDefinitionArray, 2);
+		if ($wordDefExplode[0] == $word){
+			return true;
+		}
+		return false;
+	}
+}
+
+
 function isInflectionLine($line) {
 	// Filter mostly same as inflection filter with a few deletions since definitions can easily contain things like "plural".
 	$filterArray = ["inflections same as above", "inflections as above", "preceded by ei", "used as a modifier", "past tense and past participle ", "simple past and past participle ", "definite and plural form ",
@@ -222,7 +265,7 @@ function isInflectionLine($line) {
 	"feminine singular ", "objective case "];
 	for ($x = 0; $x < count($filterArray); $x++) {
 		if(strpos($line, $filterArray[$x]) !== false) {
-			echo("$line removed because it maches '$filterArray[$x]'");
+//			echo("$line removed because it matches '$filterArray[$x]'");
 			return true;
 		}
 	}
@@ -330,6 +373,7 @@ function processInflectionLine($line, $word, &$finalInflectionArray, $inflection
 }
 
 function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray) {
+	// Add tests if inflectionToAdd has things like a comma, hyphen etc #TODO
 	// If the array is fresh
 	if (count($finalInflectionArray) == 0) {
 		array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
@@ -351,7 +395,7 @@ function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray)
 	array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
 }
 
-function stripDefinitionGarbage($definitionToStrip, &$word, &$finalInflectionArray) {
+function stripDefinitionGarbage($definitionToStrip, &$word, &$finalInflectionArray, &$parentWord) {
 	$filterArray = ["indefinite singular form of ", "indefinite singular genitive of ","indefinite masculine plural of ", "definite masculine singular of ", "definite singular and plural of ", "definite neuter plural of ", "neuter past participle of ", "indefinite singular past participle of ", "alternative form of ",
 	"Alternative form of ", "masculine and feminine past participle of ", "masculine, feminine and neuter past participle of ", "singular definite of ",
 	"definite singular of ", "past participle of ", "past tense of ", "comparative of ", "stressed form of ",
@@ -359,11 +403,11 @@ function stripDefinitionGarbage($definitionToStrip, &$word, &$finalInflectionArr
 	if ($definitionToStrip == "") {
 		return $definitionToStrip;
 	}
-	echo "DefinitionToStrip is: $definitionToStrip\n";
+//	echo "DefinitionToStrip is: $definitionToStrip\n";
 	for($i = 0; $i < count($filterArray); $i++) {
 		if(strpos($definitionToStrip, $filterArray[$i]) !== false) {
-			echo "Before: $definitionToStrip\n";
-			echo "filterArray[i] is $filterArray[$i]\n";
+//			echo "Before: $definitionToStrip\n";
+//			echo "filterArray[i] is $filterArray[$i]\n";
 			//work around "(garbage) alternative of someword (more garbage)"
 			$stripExplode = explode(") ", $definitionToStrip, 2);
 			$stripExplode2 = explode(" (", $stripExplode[count($stripExplode)-1], 2);
@@ -386,7 +430,10 @@ Check these, check for `and` and `,` as a separator. Throw them out for now.
 */
 
 			$strippedInflection = str_replace($filterArray[$i], '', $definitionToStrip);
-			echo "After: $strippedInflection\n";
+//			echo "After: $strippedInflection\n";
+			if ($filterArray[$i] == "Alternative form of " || $filterArray[$i] == "alternative form of ") {
+				$parentWord = $strippedInflection;
+			}
 			addInflection($strippedInflection, $word, $finalInflectionArray);
 			return "";
 			// remove $filterArray[$i] from $definitionToStrip and do something with the remainder
@@ -402,6 +449,7 @@ function removeAccents($str) {
 #	$b = array('A', 'A', 'A', 'A', 'A', 'A', 'AE', 'C', 'E', 'E', 'E', 'E', 'I', 'I', 'I', 'I', 'D', 'N', 'O', 'O', 'O', 'O', 'O', 'O', 'U', 'U', 'U', 'U', 'Y', 's', 'a', 'a', 'a', 'a', 'a', 'a', 'ae', 'c', 'e', 'e', 'e', 'e', 'i', 'i', 'i', 'i', 'n', 'o', 'o', 'o', 'o', 'o', 'o', 'u', 'u', 'u', 'u', 'y', 'y', 'A', 'a', 'A', 'a', 'A', 'a', 'C', 'c', 'C', 'c', 'C', 'c', 'C', 'c', 'D', 'd', 'D', 'd', 'E', 'e', 'E', 'e', 'E', 'e', 'E', 'e', 'E', 'e', 'G', 'g', 'G', 'g', 'G', 'g', 'G', 'g', 'H', 'h', 'H', 'h', 'I', 'i', 'I', 'i', 'I', 'i', 'I', 'i', 'I', 'i', 'IJ', 'ij', 'J', 'j', 'K', 'k', 'L', 'l', 'L', 'l', 'L', 'l', 'L', 'l', 'l', 'l', 'N', 'n', 'N', 'n', 'N', 'n', 'n', 'O', 'o', 'O', 'o', 'O', 'o', 'OE', 'oe', 'R', 'r', 'R', 'r', 'R', 'r', 'S', 's', 'S', 's', 'S', 's', 'S', 's', 'T', 't', 'T', 't', 'T', 't', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', 'W', 'w', 'Y', 'y', 'Y', 'Z', 'z', 'Z', 'z', 'Z', 'z', 's', 'f', 'O', 'o', 'U', 'u', 'A', 'a', 'I', 'i', 'O', 'o', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', 'A', 'a', 'AE', 'ae', 'O', 'o', 'Α', 'α', 'Ε', 'ε', 'Ο', 'ο', 'Ω', 'ω', 'Ι', 'ι', 'ι', 'ι', 'Υ', 'υ', 'υ', 'υ', 'Η', 'η');
 	$a = array('å', 'Å', 'æ',  'Æ',  'ø', 'Ø');
 	$b = array('a', 'A', 'ae', 'AE', 'o', 'O');
+	// try é and ô
 	return str_replace($a, $b, $str);
 }
 ?>
