@@ -602,6 +602,7 @@ barnebarn
 barnebok
 barnebrud
 barnedødelighet
+barnefamilie
 barnehage
 barnelærdom
 barnemat
@@ -1213,6 +1214,7 @@ byfornyelse
 byfornying
 bygd
 bygdeby
+bygdefolk
 bygdelag
 bygdevei
 byge
@@ -1246,6 +1248,8 @@ bånd
 båndbredde
 båt
 båtbygger
+båthamn
+båthavn
 båthus
 båtmesse
 bær
@@ -1259,6 +1263,7 @@ bøffel
 bøg
 bøk
 bølge
+bølgebryter
 bølgehøyde
 bølgelengde
 bølle
@@ -1971,6 +1976,7 @@ falsk venn
 falskneri
 familie
 familiebil
+familieferie
 familiemedlem
 familietur
 fanatiker
@@ -2015,6 +2021,7 @@ fasan
 fascisme
 fase
 fasilitet
+fasong
 faste
 fastetid
 fasthet
@@ -2182,6 +2189,7 @@ fisking
 fjell
 fjellgrunn
 fjellheim
+fjellhylle
 fjellkjede
 fjellklatrer
 fjellovergang
@@ -2419,6 +2427,7 @@ forpliktelse
 forrentning
 forretning
 forretningsbank
+forretningsfolk
 forretningsgård
 forretningsmann
 forretningspraksis
@@ -2646,6 +2655,7 @@ funksjon
 funksjonalitet
 funksjonshemning
 funn
+fure
 furu
 furutømmer
 fusjon
@@ -2762,6 +2772,7 @@ gasspedal
 gassverk
 gate
 gatefeier
+gatehjørne
 gatekjøkken
 gatekunst
 gatekunstner
@@ -2897,6 +2908,7 @@ glis
 glo
 global oppvarming
 globalisering
+globetrotter
 globus
 glorie
 glose
@@ -3004,6 +3016,7 @@ grovsmed
 grue
 grunn
 grunnarbeid
+grunnbeløp
 grunneier
 grunnflate
 grunnform
@@ -3205,6 +3218,7 @@ havnivå
 havoverflate
 havsalat
 havsalt
+havside
 havskilpadde
 havstrøm
 havstrømning
@@ -3355,8 +3369,10 @@ hjort
 hjul
 hjuldamper
 hjuloppheng
+hjulstol
 hjørne
 hjørneflagg
+hjørnespark
 hjørnestein
 hobbit
 hobby
@@ -3460,6 +3476,7 @@ husarrest
 husdyr
 husdyrhold
 huseier
+hushjørne
 hushold
 husholdning
 husholdningsavfall
@@ -3512,7 +3529,9 @@ hygiene
 hykler
 hykleri
 hykling
+hyll
 hylle
+hyllebær
 hylleplass
 hylster
 hyperbel
@@ -3576,6 +3595,7 @@ hønsehus
 hørsel
 høst
 høstdag
+høstløv
 høvel
 høy
 høyde
@@ -3623,6 +3643,7 @@ illusjon
 illustrasjon
 illustratør
 image
+imbesil
 imitator
 immunitet
 imperialisme
@@ -4146,6 +4167,7 @@ kjernereaktor
 kjerre
 kjerring
 kjerringråd
+kjerringsnakk
 kjertel
 kjerub
 kjetting
@@ -4238,6 +4260,7 @@ klinge
 klinikk
 klinkekule
 klippe
+klippevegg
 klisjé
 klistremerke
 klo
@@ -4592,6 +4615,7 @@ kro
 kroat
 kroatisk
 krok
+krokan
 krokodille
 krokodilletåre
 krokus
@@ -4609,6 +4633,7 @@ kroppsspråk
 kroppsvekt
 kroppsvæske
 kroppsøving
+krukke
 krumning
 krusifiks
 krutt
@@ -4772,6 +4797,7 @@ laks
 lakseelv
 lam
 lammekjøtt
+lammelse
 lampe
 lampeskjerm
 land
@@ -4811,6 +4837,7 @@ lansering
 lanterne
 laot
 laotisk
+laptop
 larka
 larki
 larve
@@ -4865,6 +4892,7 @@ leiesoldat
 leiesum
 leikeplass
 leiketøy
+leilending
 leilighet
 leir
 leirbål
@@ -4996,6 +5024,7 @@ livssyn
 livvakt
 ljå
 lo
+lodd
 loft
 logaritme
 logikk
@@ -5301,6 +5330,7 @@ maskinoversettelse
 maskinrom
 maskinsjef
 maskinvare
+maskinvask
 maskot
 massakre
 massasje
@@ -5464,6 +5494,7 @@ midte
 midtlinje
 midtlivskrise
 midtpunkt
+midtsommer
 migrene
 mikrobe
 mikrobiolog
@@ -5530,6 +5561,7 @@ mirakel
 misbruk
 misfarging
 misforståelse
+misgjerning
 mishandling
 misjon
 misjonær
@@ -5962,6 +5994,7 @@ nåtid
 nær døden-opplevelse
 nærbilde
 nærhet
+næring
 næringsliv
 næringsstoff
 nærkamp
@@ -6242,6 +6275,7 @@ overtagelse
 overtakelse
 overtid
 overtredelse
+overtro
 overvekt
 ovn
 ovulasjon
@@ -7631,6 +7665,7 @@ skadefryd
 skadevare
 skadeverk
 skaft
+skakke
 skala
 skall
 skalldyr
@@ -7796,6 +7831,7 @@ skruppel
 skrutrekker
 skryt
 skråning
+skrøne
 skudd
 skuddår
 skue
@@ -8047,6 +8083,7 @@ sosialpsykologi
 sosiolekt
 sosiolog
 sosiologi
+sot
 sovepille
 sovepose
 soverom
@@ -8242,6 +8279,7 @@ steinbit
 steinblokk
 steinbrott
 steinbrudd
+steingrunn
 steinkast
 steinkobbe
 steinmur
@@ -9030,6 +9068,7 @@ trakassering
 trakt
 traktat
 traktor
+tram
 trampoline
 trane
 tranebær
@@ -9050,11 +9089,13 @@ transportåre
 transvestitt
 trapp
 trappetrinn
+trass
 trasé
 tre
 trearbeid
 treblåseinstrument
 treblåser
+treboks
 tredel
 tredemølle
 tredjedel
@@ -9246,6 +9287,7 @@ tåkebanke
 tålegrense
 tålmodighet
 tånegl
+tåpe
 tåre
 tåregass
 tårn
@@ -9813,6 +9855,7 @@ viskelær
 visker
 viskositet
 visp
+visshet
 visuelle flygeregler
 visum
 vitamin
@@ -9949,6 +9992,7 @@ zoomobjektiv
 årtusen
 årvåkenhet
 ås
+åskam
 åsside
 åsted
 åsyn
@@ -9982,6 +10026,7 @@ zoomobjektiv
 øks
 øl
 ølboks
+ølstue
 ønske
 ønskeliste
 øre

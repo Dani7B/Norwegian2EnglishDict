@@ -371,6 +371,7 @@ stedvis
 stokk
 straks
 stundom
+støtvis
 suksessivt
 svært
 syd

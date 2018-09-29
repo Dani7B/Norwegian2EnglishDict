@@ -377,6 +377,7 @@ europeisk
 eventuell
 evig
 evigung
+evnelaus
 evolusjonær
 fabrikkmessig
 fager
@@ -438,6 +439,7 @@ fjern
 fjortande
 flamsk
 flat
+flau
 fleire
 fleirkulturell
 flekket
@@ -694,6 +696,7 @@ idiotsikker
 idyllisk
 ikonisk
 illojal
+imbesil
 immateriell
 imperialistisk
 implisitt
@@ -998,6 +1001,7 @@ loden
 logisk
 lojal
 lokal
+lovlaus
 luftdyktig
 luftig
 luftkjølt
@@ -1229,6 +1233,7 @@ nysgjerrig
 nyttig
 nyzealandsk
 nær
+næringsfattig
 næringsrik
 nærliggande
 nærliggjande
@@ -1248,6 +1253,7 @@ offisiell
 offisiøs
 offshore
 oligarkisk
+oligotrof
 oliven
 oljeaktig
 olympisk
@@ -1367,6 +1373,7 @@ pretensiøs
 primitiv
 primær
 prinsipiell
+prinsipplaus
 prisbevisst
 prismatisk
 privat
@@ -1598,6 +1605,7 @@ små
 småfallen
 snar
 snau
+snauklipt
 snever
 snill
 snøblind
@@ -1797,6 +1805,7 @@ tragisk
 transitorisk
 transparent
 transseksuell
+trassig
 traumatisk
 traust
 travel
@@ -1864,6 +1873,7 @@ ublodig
 ubroten
 ubrukbar
 ubrukt
+udemokratisk
 udetonert
 udiagnostisert
 udisiplinert

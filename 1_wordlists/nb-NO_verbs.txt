@@ -347,6 +347,7 @@ dryppe
 drysse
 drøfte
 drømme
+drønne
 drøse
 dufte
 duge
@@ -414,6 +415,7 @@ evakuere
 evaluere
 fabrikkere
 falle
+falme
 famle
 fange
 fantasere
@@ -474,6 +476,7 @@ flå
 flørte
 fløte
 fokusere
+folde
 fole
 fomle
 forandre
@@ -546,6 +549,7 @@ fornye
 forpeste
 forplante
 forplikte
+forringe
 forråde
 forsage
 forsake
@@ -698,6 +702,7 @@ glemme
 glidefly
 glimre
 glitre
+globetrotte
 glorifisere
 gløtte
 gnage
@@ -776,6 +781,7 @@ herske
 hete
 hevde
 heve
+hevne
 hilse
 hindre
 hitle
@@ -878,6 +884,7 @@ iverksette
 jage
 jakte
 jamføre
+jatte
 jevne
 jobbe
 jogge
@@ -940,6 +947,8 @@ klynge
 klynke
 klype
 klø
+kna
+knase
 knegge
 knekke
 knipe
@@ -1067,6 +1076,7 @@ leike
 leite
 leke
 lekke
+lempe
 lene
 lengte
 lese
@@ -1220,6 +1230,7 @@ nummerere
 nyse
 nyte
 nytte
+nyttiggjøre
 nå
 nære
 nærme
@@ -1574,6 +1585,7 @@ sjokkere
 sjonglere
 sjøsette
 skade
+skakke
 skamme
 skamslå
 skanne
@@ -1613,6 +1625,7 @@ skru
 skrubbe
 skryte
 skråne
+skrøne
 skue
 skuffe
 skule
@@ -1637,6 +1650,7 @@ slappe
 slenge
 slepe
 slette
+slikke
 slipe
 slippe
 slite
@@ -1666,6 +1680,7 @@ smugle
 småkoke
 smøre
 snakke
+snauklippe
 snike
 snorkle
 snu
@@ -1897,6 +1912,7 @@ tru
 true
 trykke
 trå
+tråkke
 tråle
 træ
 trøste
@@ -2024,6 +2040,7 @@ voldta
 vorde
 vri
 vurdere
+våge
 våkne
 væpne
 væra

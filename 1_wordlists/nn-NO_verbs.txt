@@ -200,6 +200,7 @@ drype
 drysse
 drøfte
 drømme
+drønne
 drøyma
 drøyme
 dufte
@@ -251,6 +252,7 @@ ete
 etterleve
 falla
 falle
+falme
 famle
 fanga
 fange
@@ -305,6 +307,7 @@ flyte
 flyte på flesket
 flytte
 flå
+folde
 fole
 fomle
 forbanne
@@ -572,6 +575,7 @@ jage
 jakta
 jakte
 jamføre
+jatte
 jogge
 jukse
 kalibrere
@@ -615,6 +619,8 @@ klynke
 klyppe
 kløyva
 kløyve
+kna
+knase
 knegge
 knipe
 knirke
@@ -723,6 +729,7 @@ leika
 leike
 leita
 leite
+lempe
 lene
 lengta
 lengte
@@ -840,6 +847,7 @@ nyta
 nyte
 nytta
 nytte
+nære
 nøle
 nøsta
 nøste
@@ -995,6 +1003,7 @@ rumstera
 runka
 runke
 rusa
+ruse
 rusla
 rusle
 rusta
@@ -1072,6 +1081,7 @@ sjå
 skaffa
 skaffe
 skaka
+skakke
 skamslå
 skanne
 skapa
@@ -1121,6 +1131,7 @@ skriva
 skrive
 skrote
 skryte
+skrøne
 skugga
 skugge
 skula
@@ -1154,6 +1165,7 @@ sleppa
 sleppe
 sletta
 slette
+slikke
 slipe
 slita
 slite
@@ -1177,6 +1189,7 @@ smyga
 smyge
 snakka
 snakke
+snauklippe
 snu
 snuble
 snufse
@@ -1402,6 +1415,7 @@ trygla
 trygle
 tryta
 tryte
+tråkke
 trø
 tunna
 tunne
@@ -1538,6 +1552,7 @@ vurdera
 vurdere
 vyrda
 vyrde
+våge
 væpna
 væpne
 vøla

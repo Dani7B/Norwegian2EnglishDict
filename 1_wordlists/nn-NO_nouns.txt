@@ -539,6 +539,7 @@ barnearbeid
 barnebarn
 barnebok
 barnebrud
+barnefamilie
 barnehage
 barnemat
 barnerim
@@ -1018,6 +1019,7 @@ bydel
 byfornying
 bygd
 bygdeby
+bygdefolk
 bygg
 byggekostnad
 byggemateriale
@@ -1048,6 +1050,7 @@ bytte
 byttedyr
 bål
 båt
+båthamn
 båthus
 båtmesse
 bær
@@ -1055,6 +1058,7 @@ bæsj
 bøffel
 bøk
 bølge
+bølgebrytar
 bølgelengde
 bølgje
 bølgjelengd
@@ -1679,6 +1683,7 @@ falsk venn
 falskneri
 familie
 familiebil
+familieferie
 familiemedlem
 familietur
 fanatikar
@@ -1722,6 +1727,7 @@ fasan
 fascisme
 fase
 fasilitet
+fasong
 faste
 fastetid
 fastland
@@ -1865,6 +1871,7 @@ fivrelde
 fjell
 fjellgrunn
 fjellheim
+fjellhylle
 fjellkjede
 fjellklatrar
 fjellmarkmus
@@ -2046,6 +2053,7 @@ forordning
 forplantning
 forretning
 forretningsbank
+forretningsfolk
 forretningsmann
 forretningspraksis
 forrett
@@ -2323,6 +2331,7 @@ gassisk
 gasspedal
 gassverk
 gate
+gatehjørne
 gatekjøken
 gatekjøkken
 gatekunst
@@ -2435,6 +2444,7 @@ glis
 glo
 global oppvarming
 globalisering
+globetrotter
 globus
 glorie
 glose
@@ -2526,6 +2536,7 @@ gru
 grue
 grunn
 grunnarbeid
+grunnbeløp
 grunnflate
 grunnform
 grunning
@@ -2717,6 +2728,7 @@ havnivå
 havoverflate
 havsalat
 havsalt
+havside
 havvatn
 havørn
 hawaiar
@@ -2842,6 +2854,7 @@ hjul
 hjuloppheng
 hjørne
 hjørneflagg
+hjørnespark
 hjørnestein
 ho
 hobbit
@@ -2927,6 +2940,7 @@ husarrest
 husdyr
 husfred
 hushaldsavfall
+hushjørne
 huskatt
 huske
 husky
@@ -2948,7 +2962,9 @@ hydrokarbon
 hyene
 hyfe
 hygiene
+hyll
 hylle
+hyllebær
 hylleplass
 hylling
 hylster
@@ -3509,6 +3525,7 @@ kjerr
 kjerre
 kjerring
 kjerringråd
+kjerringsnakk
 kjertel
 kjerub
 kjetting
@@ -3598,6 +3615,7 @@ klinge
 klinikk
 klinkekule
 klippe
+klippevegg
 klisjé
 klistremerke
 klo
@@ -3923,6 +3941,7 @@ kro
 kroat
 kroatisk
 krok
+krokan
 krokodille
 krokodilletåre
 krokus
@@ -4297,6 +4316,7 @@ ljoskastar
 ljosår
 ljå
 lo
+lodd
 loft
 logaritme
 logikk
@@ -4551,6 +4571,7 @@ maskinkode
 maskinrom
 maskinsjef
 maskinvare
+maskinvask
 maskot
 massakre
 massasje
@@ -4745,6 +4766,7 @@ minutt
 mirakel
 misbruk
 misfarging
+misgjerning
 mishandling
 misjon
 misjonær
@@ -5164,6 +5186,7 @@ nålauge
 nåleventil
 nærbilde
 nærbilete
+næring
 næringsliv
 næringsstoff
 nærkamp
@@ -6622,6 +6645,7 @@ skadedyr
 skadefryd
 skadeverk
 skaft
+skakke
 skal
 skala
 skaldyr
@@ -6766,6 +6790,7 @@ skrukork
 skruppel
 skryt
 skråning
+skrøne
 skuff
 skuffe
 skuffelse
@@ -6987,6 +7012,7 @@ sosialist
 sosiolekt
 sosiolog
 sosiologi
+sot
 sott
 sovepille
 sovepose
@@ -7153,6 +7179,7 @@ steinblokk
 steinbrot
 steinbrott
 steingard
+steingrunn
 steinkast
 steinkobbe
 steinmur
@@ -7842,6 +7869,7 @@ trakassering
 trakt
 traktat
 traktor
+tram
 trampoline
 trane
 tranebær
@@ -7865,6 +7893,7 @@ trasé
 tre
 trearbeid
 treblåseinstrument
+treboks
 tredel
 tredemølle
 tredjedel
@@ -8048,6 +8077,7 @@ tyttebær
 tå
 tåke
 tåkebanke
+tåpe
 tåre
 tåregass
 tårn
@@ -8563,6 +8593,7 @@ zoomobjektiv
 årstid
 ås
 åsete
+åskam
 åsside
 åst
 åsyn
@@ -8595,6 +8626,7 @@ zoomobjektiv
 øl
 ølboks
 ølkveis
+ølstue
 ønske
 ønskeliste
 øre

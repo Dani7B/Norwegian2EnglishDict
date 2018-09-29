@@ -474,6 +474,8 @@ evig
 eviggrønn
 evigung
 evigvarende
+evnelaus
+evneløs
 evolusjonær
 fabrikkmessig
 fager
@@ -483,6 +485,7 @@ falleferdig
 fallen
 fallende
 fallisk
+falmet
 falsk
 fanatisk
 fancy
@@ -554,6 +557,7 @@ flamsk
 flat
 flatbrystet
 flatterende
+flau
 fleksibel
 flercellet
 flere
@@ -677,6 +681,7 @@ fruktig
 frustrerende
 fryktelig
 fryktløs
+fryktsom
 fuktig
 full
 fullasta
@@ -687,6 +692,8 @@ fulltegnet
 fullverdig
 funksjonell
 funksjonshemmet
+furet
+furete
 fyrig
 fysikalsk
 fysiologisk
@@ -950,6 +957,7 @@ ille
 illeluktende
 illojal
 illustrerende
+imbesil
 imitert
 immateriell
 imperialistisk
@@ -1109,6 +1117,7 @@ klumpete
 knallblå
 knalloransje
 knallrød
+knasende
 knelang
 knust
 knøttliten
@@ -1297,6 +1306,7 @@ lokal
 loppefarget
 lovende
 lovgivende
+lovlaus
 lovlig
 lovløs
 luftbåren
@@ -1470,6 +1480,7 @@ motebevisst
 motgående
 motsatt
 motstandsdyktig
+motstridende
 motstående
 mottakelig
 motvillig
@@ -1578,6 +1589,7 @@ nålevende
 nåtidig
 nåværende
 nær
+næringsfattig
 næringsrik
 nærliggende
 nærmeste
@@ -1598,6 +1610,7 @@ offisiell
 offisiøs
 offshore
 oligarkisk
+oligotrof
 oliven
 olivengrønn
 oljeaktig
@@ -1677,6 +1690,7 @@ overraskende
 oversjøisk
 overskyet
 oversvømt
+overtroisk
 overvektig
 overveldende
 paa kreditt
@@ -1758,6 +1772,8 @@ prikkete
 primitiv
 primær
 prinsipiell
+prinsipplaus
+prinsippløs
 prisbevisst
 prismatisk
 prisvinnende
@@ -2064,6 +2080,8 @@ smittsom
 små
 småfallen
 snar
+snau
+snauklipt
 snever
 snikende
 snil
@@ -2180,6 +2198,7 @@ svak
 sval
 svanger
 svart
+svartbrent
 svarthvit
 sveitsisk
 svensk
@@ -2320,6 +2339,7 @@ transitorisk
 transkjønnet
 transparent
 transseksuell
+trassig
 traumatisk
 travel
 tredimensjonal
@@ -2353,6 +2373,7 @@ trådlaus
 trådløs
 trøblet
 trøblete
+trøstesløs
 trøtt
 tsjadisk
 tsjekkisk
@@ -2381,6 +2402,7 @@ tysk
 tyvende
 tåkete
 tålmodig
+tåpelig
 tårevåt
 tøff
 tørket
@@ -2419,6 +2441,7 @@ ubeskyttet
 ubeslektet
 ubestemt
 ubestridt
+ubesvart
 ubetalt
 ubetydelig
 ubevegelig
@@ -2432,6 +2455,7 @@ ubrutt
 ubuden
 ubønnhørlig
 udelelig
+udemokratisk
 udetonert
 udiagnostisert
 udisiplinert
@@ -2744,6 +2768,8 @@ vedvarende
 vegansk
 vegetabilsk
 vegetariansk
+veik
+vek
 vekselvarm
 vektløs
 velbegrunnet
@@ -2834,6 +2860,7 @@ værbestandig
 værfast
 walisisk
 ydmyk
+ymse
 yndig
 ynkelig
 ypperlig
