@@ -199,9 +199,8 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 //			if ( (! wordDefExists($word, $finalWordDefinitionArray) && ! wordDefExists($word, $wordDefinitionString)) || $word == "grein" ) {
 			$wordToAddInflectionsFor = $word;
 			if ($parentWord != "" && ! wordDefExists($word, $finalWordDefinitionArray)){
-				// NEED TO MANUALLY GO THROUGH THE FOLLOWING DBG TO ENSURE WIKTIONARY IS IN CORRECT FORMAT/MY SCRIPT WORKS
-				fwrite(STDERR, "DBG: Inflections for the word $word will be moved into $parentWord!\n");
-				fwrite(STDERR, "DBG: $wordDefinitionString!\n");
+//				fwrite(STDERR, "DBG: Inflections for the word $word will be moved into $parentWord!\n");
+//				fwrite(STDERR, "DBG: $wordDefinitionString!\n");
 				$wordToAddInflectionsFor = $parentWord;
 			}
 			// We can't add inflections on the fly directly to the final array be cause there are Alternative definitions like auke - https://en.wiktionary.org/wiki/auke#Norwegian_Bokm%C3%A5l
@@ -287,7 +286,7 @@ function processInflectionLine($line, $word, &$finalInflectionArray, $inflection
 			"(inflection identical to the previous definition)", "(not inflected or declined in any way)", "(uncertain of plural forms, possibly same as Bokmål)",
 			"(hardly used in plural form)", "(With a comparative or more and a verb phrase, establishes a parallel with one or more other such comparatives.)",
 			"(mostly used as a past participle)", "(inflections as for vin, musserende is indeclinable)", "(the drink itself)", "(a glass, bottle or can of beer)", "(seg)",
-			"(mainly plural)", "(reflexive)",
+			"(mainly plural)", "(reflexive)", "(literary, usually in definite form)",
 			$word." f, m", $word." f", $word." m",$word." n"];
 			// ^ Since the inflection multiline definition always starts with "WORD m" for example, we remove those.
 
@@ -373,8 +372,9 @@ function processInflectionLine($line, $word, &$finalInflectionArray, $inflection
 }
 
 function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray) {
-	// Add tests if inflectionToAdd has things like a comma, hyphen etc #TODO
-	// If the array is fresh
+	// Add tests if inflectionToAdd has a ',' or '.' or '"' or ';' or ')' or '(' #TODO
+	
+	// If the array is fresh we can't loop over it, so just push it in.
 	if (count($finalInflectionArray) == 0) {
 		array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
 		return;
