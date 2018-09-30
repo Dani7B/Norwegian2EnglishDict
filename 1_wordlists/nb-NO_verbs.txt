@@ -427,6 +427,7 @@ fasinere
 faste
 fastlegge
 fastsette
+favne
 favorisere
 feie
 feire
