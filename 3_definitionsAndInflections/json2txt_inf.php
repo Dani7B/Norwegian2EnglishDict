@@ -1,5 +1,7 @@
 <?php
 //TODO - rewrite $finalInflectionArray so it's properly handled and I do not need to do explodes by ", " everywhere like a retard.
+// 14:20 runtime on unused CPU
+
 
 //	$data = file_get_contents('fly.json');
 //$word="abandonere";
@@ -373,7 +375,9 @@ function processInflectionLine($line, $word, &$finalInflectionArray, $inflection
 
 function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray) {
 	// Add tests if inflectionToAdd has a ',' or '.' or '"' or ';' or ')' or '(' #TODO
-	
+	if ($inflectedWord == $inflectionToAdd) {
+		return;
+	}
 	// If the array is fresh we can't loop over it, so just push it in.
 	if (count($finalInflectionArray) == 0) {
 		array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
