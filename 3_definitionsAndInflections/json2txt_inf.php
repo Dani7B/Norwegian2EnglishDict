@@ -132,9 +132,11 @@ function scrapShit($languageToScrap) {
 	}
 	// End of tests
 
-	$infArr = array();
 	// Prep the inflection array so we can easily write it out to a file in the required format
+	$infArr = array();
 	foreach($finalInflectionArray as $infParent => $arr) {
+		// Sort array so when diffing inflections before/after changes words just don't jump around in order.
+		sort($arr);
 		$line = $infParent;
 		for ($i = 0; $i < count($arr); $i++){
 			$line = $line.", $arr[$i]";
