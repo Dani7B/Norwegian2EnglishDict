@@ -386,26 +386,21 @@ function processInflectionLine($line, $word, &$finalInflectionArray, $inflection
 			}
 }
 
+// addInflection - $infArray is a two dimensional array, with the key being the word that's being inflected.
 function addInflection($word, $inflection, &$infArray) {
 	// Add tests if inflectionToAdd has a ',' or '.' or '"' or ';' or ')' or '(' #TODO
 	// Throw out useless dupes
 	if ($word == $inflection) {
 		return;
 	}
-	// If the array is fresh we can't loop over it, so just push it in.
+	// If the array with the word doesn't exist yet, just push it in.
 	if (! isset($infArray[$word])) {
 		$infArray[$word][] = $inflection;
 		return;
 	}
-	// If not fresh, loop over it
-	for($i = 0; $i < count($infArray[$word]); $i++) { // If the array started from the end the code should be slightly faster but the perf difference is negligible at this scale
-		// If the inflection we're trying to add is already there, jump out
-		if (in_array($inflection,$infArray[$word])) {
-			return;
-		}
-		else {
-			array_push($infArray[$word], $inflection);
-		}
+	// If the inflection we're trying to add is not already there, add it
+	if (! in_array($inflection,$infArray[$word])) {
+		array_push($infArray[$word], $inflection);
 	}
 }
 
