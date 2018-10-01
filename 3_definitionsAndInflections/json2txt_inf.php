@@ -32,20 +32,24 @@ function scrapShit($languageToScrap) {
 		}
 	}
 
-	$arrayTempNumber = count($finalInflectionArray); // count() can't be the for rule if we're gonna unset from within
-	for ($i = 0; $i < $arrayTempNumber; $i++) {
-		$testExplode = explode(", ", $finalInflectionArray[$i]);
-		if (count($testExplode) == 1){
-			echo "ERROR - WORD HAS NO INFLECTIONS BUT IS IN .inf FILE: ".$finalInflectionArray[$i]."\n";
-			unset($finalInflectionArray[$i]);
+	// Don't think this can happen after rewrite of addInflection()
+/*	foreach($finalInflectionArray as $key => $arr) {
+		$arrayTempNumber = count($finalInflectionArray); // count() can't be the for rule if we're gonna unset from within
+		for ($i = 0; $i < $arrayTempNumber; $i++) {
+			$testExplode = explode(", ", $finalInflectionArray[$i]);
+			if (count($testExplode) == 1){
+				echo "ERROR - WORD HAS NO INFLECTIONS BUT IS IN .inf FILE: ".$finalInflectionArray[$i]."\n";
+				unset($finalInflectionArray[$i]);
+			}
 		}
 	}
+*/
 	// End of tests
 
 	// This is a hack for a Kindle-specific firmware-level issue, when there's a direct definition for a word, it takes that and ignores inflections. It also ignores everything but the first inflected form if there are multiple.
 	// This is why the script runs so long, this part is unoptimized as hell.
 	// https://www.mobileread.com/forums/showthread.php?t=309147
-	$finalInflectionArray     = array_values($finalInflectionArray);     // Sort arrays since unset() was used on them
+//	$finalInflectionArray     = array_values($finalInflectionArray);     // Sort arrays since unset() was used on them
 	$finalWordDefinitionArray = array_values($finalWordDefinitionArray); // Sort arrays since unset() was used on them
 	$tempCatWordDefArray = array();
 
@@ -53,19 +57,17 @@ function scrapShit($languageToScrap) {
 	for($i = 0; $i < count($finalWordDefinitionArray); $i++) {
 		$wordDefExplode = explode("	", $finalWordDefinitionArray[$i], 2);
 		// For every inflection line
-		for ($j = 0; $j < count($finalInflectionArray); $j++) {
-			$inflectionExplode = explode(", ", $finalInflectionArray[$j]);
-			// For every inflection line member except the first one
-			for ($k = 1; $k < count($inflectionExplode);$k++) {
+		foreach($finalInflectionArray as $infParent => $infArray){
+			foreach($infArray as $inflection) {
 				// If current inflection member matches the current word in a word definition line
-				if (removeAccents($inflectionExplode[$k]) == removeAccents($wordDefExplode[0])){
+				if (removeAccents($inflection) == removeAccents($wordDefExplode[0])){
 					// For every word definition line
 					for($l = 0; $l < count($finalWordDefinitionArray); $l++) {
 						$wordDefExplode2 = explode("	", $finalWordDefinitionArray[$l], 2);
 //						if(removeAccents($wordDefExplode2[0]) == removeAccents($inflectionExplode[0])) {
-						if($wordDefExplode2[0] == $inflectionExplode[0]) {
-								echo "Definition for $inflectionExplode[0] will be copied to word $inflectionExplode[$k]; Which means it'll look like |$inflectionExplode[$k]	$wordDefExplode2[1]| COWABUNGA\n";
-							array_push($tempCatWordDefArray, $inflectionExplode[$k]."	".$wordDefExplode2[1]);
+						if($wordDefExplode2[0] == $infParent) {
+								echo "Definition for $infParent will be copied to word $inflection; Which means it'll look like |$inflection	$wordDefExplode2[1]|\n";
+							array_push($tempCatWordDefArray, $inflection."	".$wordDefExplode2[1]);
 						}
 					}
 				}
@@ -73,41 +75,37 @@ function scrapShit($languageToScrap) {
 		}
 	}
 
+
  // This part of the hack is for when there's two inflected forms of the word, since that's bugged too apparently.
 	$tempTestInflectionArray = array();
 	$finalTestInflectionArray = array();
 	// For every inflection line
-	for ($j = 0; $j < count($finalInflectionArray); $j++) {
-		$inflectionExplode = explode(", ", $finalInflectionArray[$j]);
-		// For every inflection line member except the first one
-		for ($k = 1; $k < count($inflectionExplode);$k++) {
-			if (in_array($inflectionExplode[$k], $tempTestInflectionArray)) {
-				if ( ! in_array($inflectionExplode[$k], $finalTestInflectionArray)) {
-					array_push($finalTestInflectionArray, $inflectionExplode[$k]);
+	foreach($finalInflectionArray as $infArray){
+		foreach($infArray as $inflection) {
+			if (in_array($inflection, $tempTestInflectionArray)) {
+				if ( ! in_array($inflection, $finalTestInflectionArray)) {
+					array_push($finalTestInflectionArray, $inflection);
 					//echo count($finalTestInflectionArray)." - added $inflectionExplode[$k] to final\n";
 				}
 			}
 			else {
-				array_push($tempTestInflectionArray, $inflectionExplode[$k]);
+				array_push($tempTestInflectionArray, $inflection);
 				//echo count($tempTestInflectionArray)." - test\n";
 			}
 		}
 	}
 
 	for ($i = 0; $i < count($finalTestInflectionArray); $i++){
-		// For every inflection line
-		for ($g = 0; $g < count($finalInflectionArray); $g++) {
-			$inflectionExplode = explode(", ", $finalInflectionArray[$g]);
-			// For every inflection line member except the first one
-			for ($k = 1; $k < count($inflectionExplode);$k++) {
+		foreach($finalInflectionArray as $infParent => $infArray){
+			foreach($infArray as $inflection) {
 				// If current inflection member matches the conflicting inflection list
-				if ($inflectionExplode[$k] == $finalTestInflectionArray[$i]){
+				if ($inflection == $finalTestInflectionArray[$i]){
 					// For every word definition line
 					for($l = 0; $l < count($finalWordDefinitionArray); $l++) {
 						$wordDefExplode2 = explode("	", $finalWordDefinitionArray[$l], 2);
 //						if(removeAccents($wordDefExplode2[0]) == removeAccents($inflectionExplode[0])) {
-						if($wordDefExplode2[0] == $inflectionExplode[0]) {
-							echo "[DUPE] Definition for $inflectionExplode[0] will be copied to word $finalTestInflectionArray[$i]; Which means it'll look like |$finalTestInflectionArray[$i]	$wordDefExplode2[1]| COWABUNGA\n";
+						if($wordDefExplode2[0] == $infParent) {
+							echo "[DUPE] Definition for $infParent will be copied to word $finalTestInflectionArray[$i]; Which means it'll look like |$finalTestInflectionArray[$i]	$wordDefExplode2[1]| COWABUNGA\n";
 							array_push($tempCatWordDefArray, $finalTestInflectionArray[$i]."	".$wordDefExplode2[1]);
 						}
 					}
@@ -119,7 +117,15 @@ function scrapShit($languageToScrap) {
 
 	$finalWordDefinitionArray = array_merge($finalWordDefinitionArray, $tempCatWordDefArray);
 	$finalWordDefinitionArray = array_unique($finalWordDefinitionArray, SORT_REGULAR);
-
+	$infArr = array();
+	foreach($finalInflectionArray as $infParent => $arr) {
+		$line = $infParent;
+		for ($i = 0; $i < count($arr); $i++){
+			$line = $line.", $arr[$i]";
+		}
+		array_push($infArr, $line);
+	}
+	$finalInflectionArray = $infArr;
 
 	// Write out arrays to appropriate files
 	if ($languageToScrap == "NB"){
@@ -140,7 +146,7 @@ function scrapShit($languageToScrap) {
 		$handle = fopen($my_file, 'w') or die('Cannot open file: '.$my_file);
 		fwrite($handle, implode("\n", $finalWordDefinitionArray));
 	}
-
+/*
 	// Tests
 	$finalWordDefinitionArray = array_values($finalWordDefinitionArray); // Sort array since array_unique() was used on it
 
@@ -155,6 +161,7 @@ function scrapShit($languageToScrap) {
 		fwrite(STDERR, "ERR: Inflected word ".$inflectionExplode[0]." has no definition!\n");
 	}
 	// End of tests
+	*/
 }
 
 function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArray, &$languageToScrap) {
@@ -207,11 +214,15 @@ function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArra
 			}
 			// We can't add inflections on the fly directly to the final array be cause there are Alternative definitions like auke - https://en.wiktionary.org/wiki/auke#Norwegian_Bokm%C3%A5l
 			// which we need to move the inflections of to the parent word.
-			for ($q = 0; $q < count($tempInflections); $q++) {
-				$inflectionExplode = explode(", ", $tempInflections[$q]);
-				// For every inflection line member except the first one
-				for ($qq = 1; $qq < count($inflectionExplode);$qq++) { // WORKAROUND DUE TO RETARDED HANDLING - REMOVE EXPLODES BY ", " AND HANDLE ARRAYS PROPERLY!
-					addInflection($wordToAddInflectionsFor, $inflectionExplode[$qq], $finalInflectionArray);
+//			var_dump($tempInflections);
+			if (isset($tempInflections[$word])) {
+				for ($q = 0; $q < count($tempInflections[$word]); $q++) {
+					addInflection($wordToAddInflectionsFor, $tempInflections[$word][$q], $finalInflectionArray);
+				}
+			}
+			if (isset($tempInflections[$parentWord])) {
+				for ($q = 0; $q < count($tempInflections[$parentWord]); $q++) {
+					addInflection($wordToAddInflectionsFor, $tempInflections[$parentWord][$q], $finalInflectionArray);
 				}
 			}
 		}
@@ -373,30 +384,27 @@ function processInflectionLine($line, $word, &$finalInflectionArray, $inflection
 			}
 }
 
-function addInflection($inflectedWord, $inflectionToAdd, &$finalInflectionArray) {
+function addInflection($word, $inflection, &$infArray) {
 	// Add tests if inflectionToAdd has a ',' or '.' or '"' or ';' or ')' or '(' #TODO
-	if ($inflectedWord == $inflectionToAdd) {
+	// Throw out useless dupes
+	if ($word == $inflection) {
 		return;
 	}
 	// If the array is fresh we can't loop over it, so just push it in.
-	if (count($finalInflectionArray) == 0) {
-		array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
+	if (! isset($infArray[$word])) {
+		$infArray[$word][] = $inflection;
 		return;
 	}
 	// If not fresh, loop over it
-	for($i = 0; $i < count($finalInflectionArray); $i++) { // If the array started from the end the code should be slightly faster but the perf difference is negligible at this scale
-		$testExplode = explode(", ", $finalInflectionArray[$i]);
-		if($testExplode[0] == $inflectedWord) {
-			// Inflection already exists
-			if (in_array($inflectionToAdd, $testExplode)){
-				return;
-			}
-			$finalInflectionArray[$i] = $finalInflectionArray[$i].", ".$inflectionToAdd;
+	for($i = 0; $i < count($infArray[$word]); $i++) { // If the array started from the end the code should be slightly faster but the perf difference is negligible at this scale
+		// If the inflection we're trying to add is already there, jump out
+		if (in_array($inflection,$infArray[$word])) {
 			return;
 		}
+		else {
+			array_push($infArray[$word], $inflection);
+		}
 	}
-	// In case we're still here, the for loop did not find a result, so just create a new entry
-	array_push($finalInflectionArray, $inflectedWord.", ".$inflectionToAdd);
 }
 
 function stripDefinitionGarbage($definitionToStrip, &$word, &$finalInflectionArray, &$parentWord) {
