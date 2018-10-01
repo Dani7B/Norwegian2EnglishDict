@@ -117,7 +117,23 @@ function scrapShit($languageToScrap) {
 
 	$finalWordDefinitionArray = array_merge($finalWordDefinitionArray, $tempCatWordDefArray);
 	$finalWordDefinitionArray = array_unique($finalWordDefinitionArray, SORT_REGULAR);
+
+	// Tests
+	$finalWordDefinitionArray = array_values($finalWordDefinitionArray); // Sort array since array_unique() was used on it
+
+	foreach($finalInflectionArray as $infParent => $infArray){
+		for($j = 0; $j < count($finalWordDefinitionArray); $j++) {
+			$wordDefExplode = explode("	", $finalWordDefinitionArray[$j], 2);
+			if($wordDefExplode[0] == $infParent) {
+				continue 2;
+			}
+		}
+		fwrite(STDERR, "ERR: Inflected word ".$infParent." has no definition!\n");
+	}
+	// End of tests
+
 	$infArr = array();
+	// Prep the inflection array so we can easily write it out to a file in the required format
 	foreach($finalInflectionArray as $infParent => $arr) {
 		$line = $infParent;
 		for ($i = 0; $i < count($arr); $i++){
@@ -146,22 +162,6 @@ function scrapShit($languageToScrap) {
 		$handle = fopen($my_file, 'w') or die('Cannot open file: '.$my_file);
 		fwrite($handle, implode("\n", $finalWordDefinitionArray));
 	}
-/*
-	// Tests
-	$finalWordDefinitionArray = array_values($finalWordDefinitionArray); // Sort array since array_unique() was used on it
-
-	for ($i = 0; $i < count($finalInflectionArray); $i++) {
-		$inflectionExplode = explode(", ", $finalInflectionArray[$i], 2);
-		for($j = 0; $j < count($finalWordDefinitionArray); $j++) {
-			$wordDefExplode = explode("	", $finalWordDefinitionArray[$j], 2);
-			if($wordDefExplode[0] == $inflectionExplode[0]) {
-				continue 2;
-			}
-		}
-		fwrite(STDERR, "ERR: Inflected word ".$inflectionExplode[0]." has no definition!\n");
-	}
-	// End of tests
-	*/
 }
 
 function getDefinitions($word, &$finalInflectionArray, &$finalWordDefinitionArray, &$languageToScrap) {
