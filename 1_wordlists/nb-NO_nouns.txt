@@ -120,6 +120,7 @@ akvarium
 akvedukt
 alabast
 alarm
+alarmklokke
 alasker
 albaner
 albansk
@@ -863,6 +864,7 @@ bjørnebær
 bjørnepels
 blad
 bladlus
+bladverk
 blandemaskin
 blander
 blanding
@@ -1091,6 +1093,7 @@ broøgle
 bru
 brud
 brudd
+bruddstykke
 bruddstyrke
 brudekjole
 brudepar
@@ -1589,6 +1592,7 @@ drypp
 dråpe
 drøm
 drømmehus
+drømmeland
 drømmemann
 drømmeverden
 due
@@ -2124,6 +2128,7 @@ filet
 filippiner
 filippinsk
 filister
+filledukke
 filleting
 film
 filmhastighet
@@ -2183,6 +2188,7 @@ fisker
 fiskeri
 fiskerihavn
 fiskeskipper
+fisketank
 fisketur
 fiskevær
 fisking
@@ -3405,6 +3411,7 @@ homofon
 homoseksualitet
 honduraner
 honning
+honningbrød
 honningslynge
 hop
 hopp
@@ -3745,6 +3752,7 @@ inspirasjonskilde
 installasjon
 installering
 instans
+instinkt
 institusjon
 instruksjon
 instruktør
@@ -5559,6 +5567,7 @@ minusgrad
 minustegn
 minutt
 mirakel
+mirakelkur
 misbruk
 misfarging
 misforståelse
@@ -6095,6 +6104,7 @@ omleiring
 omløp
 omløpsbane
 omorganisering
+omriss
 område
 omsetning
 omskjæring
@@ -8214,6 +8224,7 @@ stafettløp
 stagnasjon
 stall
 stambane
+stamcelle
 stamfar
 stamme
 stammekrig
@@ -9599,6 +9610,7 @@ vanuater
 vanære
 vare
 varebil
+varehus
 varelager
 varemerke
 varg

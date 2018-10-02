@@ -332,6 +332,7 @@ domestisere
 dominere
 donere
 dra
+dramatisere
 dregge
 dreie
 drenere
@@ -1786,6 +1787,7 @@ subtrahere
 suffigere
 suge
 sulte
+summe
 supplere
 svale
 svare

@@ -350,6 +350,7 @@ dump
 dyktig
 dynamisk
 dyp
+dypgrønn
 dyr
 dyrkbar
 dyster
@@ -477,6 +478,7 @@ evigvarende
 evnelaus
 evneløs
 evolusjonær
+fabelaktig
 fabrikkmessig
 fager
 faglig
@@ -1000,6 +1002,7 @@ innovativ
 innvendig
 insolvent
 inspirerende
+instinktiv
 institusjonell
 intakt
 intellektuell

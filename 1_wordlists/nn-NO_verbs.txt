@@ -184,6 +184,7 @@ divergere
 dra
 draga
 drage
+dramatisere
 drenere
 drepa
 drepe
@@ -1302,6 +1303,7 @@ suga
 suge
 sukka
 sukke
+summe
 svale
 svara
 svare

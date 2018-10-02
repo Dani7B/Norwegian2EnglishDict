@@ -109,6 +109,7 @@ akvarium
 akvedukt
 alabast
 alarm
+alarmklokke
 alaskar
 albanar
 albansk
@@ -724,6 +725,7 @@ bjørnebær
 bjørnepels
 blad
 bladlus
+bladverk
 blandemaskin
 blanding
 blasfemi
@@ -1864,6 +1866,7 @@ fiskekake
 fiskekrok
 fiskeri
 fiskeskipper
+fisketank
 fisketur
 fiskevær
 fivreld
@@ -2878,6 +2881,7 @@ homoseksualitet
 honduran
 honduranar
 honning
+honningbrød
 honningslynge
 hop
 hopp
@@ -3126,6 +3130,7 @@ inspirasjon
 installasjon
 installering
 instans
+instinkt
 institusjon
 instruksjon
 instruktør
@@ -4765,6 +4770,7 @@ minstepris
 minusgrad
 minutt
 mirakel
+mirakelkur
 misbruk
 misfarging
 misgjerning
@@ -5277,6 +5283,7 @@ omleiring
 omløp
 omn
 omorganisering
+omriss
 område
 omsetning
 omstart
@@ -7123,6 +7130,7 @@ stakk
 stakkar
 stall
 stambane
+stamcelle
 stamfar
 stamme
 stammekrig
@@ -7381,6 +7389,7 @@ sundag
 superellipse
 superlativ
 supermakt
+supermarknad
 suppe
 supplement
 supplementsbind
@@ -8276,6 +8285,7 @@ vanuatuar
 vanære
 vare
 varebil
+varehus
 varelager
 varemerke
 variabel
