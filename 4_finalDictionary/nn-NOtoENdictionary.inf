@@ -156,6 +156,7 @@ alabast, alabasten
 ål, ålane, ålar, ålen
 ålandsk, ålandske
 alarm, alarmane, alarmar, alarmen
+alarmklokke, alarmklokka, alarmklokkene, alarmklokker
 alaskar, alaskarane, alaskarar, alaskaren
 alaskisk, alaskiske
 albanar, albanarane, albanarar, albanaren
@@ -977,6 +978,7 @@ blåbær, blåbæra, blåbæret
 blå, blåare, blåast, blåaste, blåe, blått
 blad, blada, bladet
 bladlus, bladlusa, bladlusene, bladlysene, bladlyser
+bladverk, bladverket
 blære, blæra, blærene, blærer
 blakk, blakkare, blakkast, blakkaste, blakke, blakt
 blåklokke, blåklokka, blåklokkene, blåklokker
@@ -1738,6 +1740,7 @@ drake, drakane, drakar, draken
 drakt, drakta, draktene, drakter
 drama, dramaa, dramaet
 dramatikk, dramatikken
+dramatisere, dramatiser, dramatiserande, dramatiserast, dramatiserer, dramatisert, dramatiserte
 dramatisering, dramatiseringa, dramatiseringane, dramatiseringar
 dramatisk, dramatiske, meir dramatisk, mest dramatisk
 dramaturgi, dramaturgiane, dramaturgiar, dramaturgien
@@ -2172,6 +2175,7 @@ evne, evna, evnene, evner
 evnelaus, evnelause, evnelaust
 evolusjonær, evolusjonære, evolusjonært
 evolusjon, evolusjonane, evolusjonar, evolusjonen
+fabelaktig, fabelaktige
 fabel, fabelen, fablane, fablar
 fabrikant, fabrikantane, fabrikantar, fabrikanten
 fabrikasjon, fabrikasjonane, fabrikasjonar, fabrikasjonen
@@ -2443,6 +2447,7 @@ fiskekake, fiskekaka, fiskekakene, fiskekaker
 fiskekrok, fiskekrokane, fiskekrokar, fiskekroken
 fiskeri, fiskeria, fiskeriet
 fiskeskipper, fiskeskipperane, fiskeskipperar, fiskeskipperen
+fisketank, fisketankane, fisketankar, fisketanken
 fisketur, fisketurane, fisketurar, fisketuren
 fiskevær, fiskeværa, fiskeværet
 fisk, fiskane, fiskar, fisken
@@ -3780,6 +3785,7 @@ honduranar, honduranarane, honduranarar, honduranaren
 honduran, honduranane, honduranar, honduranen
 honduransk, honduranske
 høne, høna, hønene, høner, høns
+honningbrød, honningbrødet
 honning, honningen
 honningslynge, honningslynga, honningslyngene, honningslynger
 honorær, honorære, honorært
@@ -4071,6 +4077,8 @@ inspirerande, meir inspirerande, mest inspirerande
 installasjon, installasjonane, installasjonar, installasjonen
 installering, installeringa, installeringane, installeringar
 instans, instansane, instansar, instansen
+instinkt, instinkta, instinktet
+instinktiv, instinktive, instinktivt
 institusjonell, institusjonelle, institusjonelt
 institusjon, institusjonane, institusjonar, institusjonen
 instruksjon, instruksjonane, instruksjonar, instruksjonen
@@ -6144,6 +6152,7 @@ minstelønn, minstelønna, minstelønnene, minstelønner
 minstepris, minsteprisane, minsteprisar, minsteprisen
 minusgrad, minusgrada, minusgradane, minusgradar, minusgraden, minusgradene, minusgrader
 minutt, minutta, minuttane, minuttar, minutten, minuttet
+mirakelkur, mirakelkurane, mirakelkurar, mirakelkuren
 mirakel, mirakelet, mirakla
 mirakuløs, meir mirakuløs, mest mirakuløs, mirakuløse, mirakuløst
 misbruk, misbruken, misbruket
@@ -6769,6 +6778,7 @@ omløp, omløpa, omløpet
 omn, omnane, omnar, omnen
 omorganisering, omorganiseringa, omorganiseringane, omorganiseringar
 område, områda, området
+omriss, omrissa, omrisset
 omsetja, omset, omsetjande, omsetjast, omsetje, omsett, omsetta, omsettande, omsettast, omsette
 omsetning, omsetninga, omsetningane, omsetningar
 omsorgsfull, omsorgsfulle, omsorgsfult
@@ -8012,7 +8022,7 @@ rune, runa, runene, runer
 runka, runk, runkande, runkar, runkast, runke
 rupi, rupiane, rupiar, rupien
 rural, rurale, ruralt
-rusa, meir rusa, mest rusa, rus, rusande, rusar, rusast, ruse
+rusa, meir rusa, mest rusa, rus, rusande, rusar, rusast, ruse, ruser, rust, ruste
 rusk, ruska, ruskare, ruskast, ruskaste, ruske, rusket, ruskt
 rusla, rusl, ruslande, ruslar, ruslast, rusle
 rusmiddel, rusmiddelet, rusmidla
@@ -9185,6 +9195,7 @@ ståltau, ståltaua, ståltauet
 stålull, stålulla
 stålverk, stålverka, stålverket
 stambane, stambana, stambanane, stambanar, stambanen, stambanene, stambaner
+stamcelle, stamcella, stamcellene, stamceller
 stamfar, stamfaren, stamfedrane, stamfedrar
 stammekrig, stammekrigane, stammekrigar, stammekrigen
 stamme, stamma, stammane, stammar, stammen, stammene, stammer
@@ -9487,6 +9498,7 @@ sulfat, sulfata, sulfatet
 sultanat, sultanata, sultanatet
 sultan, sultanane, sultanar, sultanen
 sumar, sommar, sommaren, somrane, somrar, sumaren, sumrane, sumrar
+summe, sum, summa, summande, summar, summast
 sump, sumpane, sumpar, sumpen
 sum, suma, sume, sumet, summane, summar, summen, summet, sumt
 sumt, non-standard since 2012) of sum
@@ -9496,6 +9508,7 @@ sunn, sunnare, sunnast, sunnaste, sunne, sunt
 superellipse, superellipsane, superellipsar, superellipsen
 superlativ, superlativane, superlativar, superlativen
 supermakt, supermakta, supermaktene, supermakter
+supermarknad, supermarknadane, supermarknadar, supermarknaden, supermarknadene, supermarknader
 supersonisk, supersoniske
 suppe, suppa, suppene, supper
 supplementsbind, supplementsbinda, supplementsbindet
@@ -10685,6 +10698,7 @@ våpenkvile, våpenkvila, våpenkvilene, våpenkviler
 våpenskjold, våpenskjolda, våpenskjoldet
 våpen, våpena, våpenet
 varebil, varebilane, varebilar, varebilen
+varehus, varehusa, varehuset
 varelager, varelagera, varelageret
 varemerke, varemerka, varemerket
 vare, vara, varene, varer
