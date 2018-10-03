@@ -128,7 +128,7 @@ function scrapShit($languageToScrap) {
 				continue 2;
 			}
 		}
-		fwrite(STDERR, "ERR: Inflected word ".$infParent." has no definition!\n");
+		fwrite(STDERR, "ERR:$languageToScrap: Inflected word ".$infParent." has no definition!\n");
 	}
 	// End of tests
 
