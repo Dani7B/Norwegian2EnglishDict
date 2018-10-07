@@ -434,6 +434,7 @@ attest
 attraksjon
 audiens
 auditorium
+augur
 august
 auke
 auksjon
@@ -527,7 +528,9 @@ bajonett
 bak
 bakbein
 bakdør
+bakebolle
 bakende
+bakepapir
 bakepulver
 baker
 bakeri
@@ -863,6 +866,7 @@ bjørn
 bjørnebær
 bjørnepels
 blad
+bladgull
 bladlus
 bladverk
 blandemaskin
@@ -1239,6 +1243,7 @@ byrå
 byråd
 byråkrat
 byråkrati
+bysentrum
 bysse
 bystat
 bystatus
@@ -1719,6 +1724,7 @@ eiendomsskatt
 eier
 eik
 eike
+eikekrone
 eikenøtt
 eiketre
 ekklesiologi
@@ -1862,6 +1868,7 @@ episenter
 episode
 eple
 eplepai
+eplestrudel
 epletre
 epoke
 ereksjon
@@ -2128,6 +2135,7 @@ filet
 filippiner
 filippinsk
 filister
+fille
 filledukke
 filleting
 film
@@ -2299,6 +2307,7 @@ flørt
 fløte
 fløy
 fløyte
+fnys
 foajé
 fobi
 fokus
@@ -2376,6 +2385,7 @@ forgiftning
 forgjenger
 forglemmegei
 forgrunn
+forgyller
 forhandler
 forhandling
 forhandlingsbord
@@ -3309,6 +3319,7 @@ heshet
 hest
 hesteelsker
 hestehale
+hestehov
 hestekastanje
 hestekraft
 hesteløp
@@ -3711,6 +3722,7 @@ innflytter
 innføring
 inngang
 inngangsdør
+innhegning
 innhold
 innholda
 innkast
@@ -4067,6 +4079,7 @@ kasein
 kasino
 kasjmir
 kassaapparat
+kassadame
 kasse
 kasseapparat
 kasserolle
@@ -4174,6 +4187,7 @@ kjernekraft
 kjernemelk
 kjernereaktor
 kjerre
+kjerrehjul
 kjerring
 kjerringråd
 kjerringsnakk
@@ -4246,6 +4260,7 @@ klatrer
 klatrestativ
 klaustrofobi
 klaver
+klematis
 klementin
 kleptoman
 kleptopølser
@@ -4656,6 +4671,7 @@ kryssing
 kryssingsspor
 kryssord
 krystall
+krystallkule
 kråke
 krøll
 krønike
@@ -5505,6 +5521,7 @@ midtlivskrise
 midtpunkt
 midtsommer
 migrene
+mikroalge
 mikrobe
 mikrobiolog
 mikrobiologi
@@ -5882,6 +5899,8 @@ nei
 nellik
 nemnd
 neodym
+neon
+neonlys
 nepaler
 nepe
 neptunium
@@ -6260,6 +6279,7 @@ overfart
 overfiske
 overflate
 overflatevann
+overflod
 overføring
 overgang
 overgangsfase
@@ -6680,6 +6700,7 @@ prestebolig
 prestegard
 prestegjeld
 prestegård
+presteskap
 prestinne
 prestisje
 preteritum
@@ -6902,6 +6923,7 @@ real
 realfag
 realisering
 realitet
+rebell
 redaksjon
 redaktør
 reddik
@@ -8298,6 +8320,7 @@ steinmur
 steinras
 steinsirkel
 steinvegg
+stekebrett
 stekeovn
 stekepanne
 stele
@@ -8416,6 +8439,7 @@ stripehyene
 stripper
 stroboskop
 stropp
+strudel
 struktur
 struts
 stryk
@@ -8707,6 +8731,7 @@ søskenbarn
 søster
 søsterskip
 søtningsstoff
+søtstoff
 søvn
 søvnighet
 søvnløshet
@@ -8720,6 +8745,7 @@ taake
 tabbe
 tabell
 tabellform
+tabernakel
 tablett
 tabloidavis
 taburett
@@ -9127,6 +9153,7 @@ trekkfugl
 trekkraft
 trekkspill
 trekkvogn
+trekrone
 trekull
 trell
 tremasse
@@ -9569,6 +9596,7 @@ vandalsk
 vandrerhjem
 vane
 vanilje
+vaniljeis
 vann
 vannblemme
 vannbøffel

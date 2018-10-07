@@ -93,6 +93,7 @@ avfyre
 avgi
 avgjøre
 avgrense
+avgå
 avgå ved døden
 avhenge
 avhjelpe
@@ -188,6 +189,7 @@ beskrive
 beskylde
 beskytte
 beslutte
+beslå
 bestemme
 bestige
 bestille
@@ -522,6 +524,7 @@ forfriske
 forfølge
 forføre
 forgifte
+forgylle
 forhandle
 forhekse
 forherde
@@ -560,6 +563,7 @@ forsinke
 forske
 forskrive
 forsterke
+forstille
 forstrekke
 forstyrre
 forstå
@@ -805,6 +809,7 @@ hviske
 hvitvaske
 hykle
 hylle
+hypnotisere
 håndhilse
 håndplukke
 håndtere
@@ -1161,6 +1166,7 @@ mene
 menge
 menstruere
 merke
+messe
 mestre
 migrere
 mikse
@@ -1612,6 +1618,7 @@ skjerme
 skjule
 skjære
 skjønne
+skjønnmale
 skli
 sko
 skrante
@@ -1824,6 +1831,7 @@ såre
 søke
 søle
 sørge
+søte
 ta
 ta i
 ta knekken på

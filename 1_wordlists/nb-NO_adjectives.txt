@@ -123,6 +123,7 @@ avdelt
 avdød
 avgjørende
 avgående
+avgått
 avhengig
 avlang
 avrundet
@@ -605,6 +606,7 @@ forferdelig
 forfriskende
 forførende
 forgjeves
+forgylt
 forhistorisk
 forhåpningsfull
 forkastelig
@@ -641,6 +643,7 @@ fortvilet
 fortynnet
 forunderlig
 forutsigbar
+forvarmet
 forvillet
 forvirrende
 fossil
@@ -816,6 +819,7 @@ gudløs
 guineansk
 gul
 gulaktig
+gullbeslått
 gunstig
 guyansk
 gyldig
@@ -1175,6 +1179,7 @@ konvensjonell
 kopperfarget
 koptisk
 koreansk
+kornfarget
 korrekt
 korrumpert
 korrupt
@@ -1218,6 +1223,7 @@ kubansk
 kul
 kulinarisk
 kullfyrt
+kullsvart
 kullsyreholdig
 kulturell
 kunnskapsrik
@@ -1478,6 +1484,8 @@ moralsk
 morken
 morsom
 mosambikisk
+mosegrodd
+mosekledd
 motbydelig
 motebevisst
 motgående
@@ -1870,6 +1878,7 @@ rik
 rikelig
 riktig
 rimelig
+ringformet
 risikabel
 risikofri
 rituell
@@ -1883,6 +1892,8 @@ romlig
 rommelig
 rosa
 roterende
+rufset
+rufsete
 rumensk
 rund
 rural
@@ -2663,6 +2674,7 @@ usteril
 usunn
 usynlig
 usårbar
+usøtet
 utallig
 utbredt
 utdatert
@@ -2897,6 +2909,7 @@ zoologisk
 økumenisk
 ønskelig
 ønsket
+øredøvende
 ørliten
 østafrikansk
 østeuropeisk

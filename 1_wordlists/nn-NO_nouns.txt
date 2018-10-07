@@ -386,6 +386,7 @@ augevippe
 augevitne
 augnebryn
 augnestikkar
+augur
 august
 auke
 auksjon
@@ -472,7 +473,9 @@ bakar
 bakbein
 bakbord
 bakdør
+bakebolle
 bakende
+bakepapir
 bakepulver
 bakeri
 bakgate
@@ -724,6 +727,7 @@ bjørn
 bjørnebær
 bjørnepels
 blad
+bladgull
 bladlus
 bladverk
 blandemaskin
@@ -1044,6 +1048,7 @@ byråkrat
 byråkrati
 bysantin
 bysantinar
+bysentrum
 bysse
 bystat
 bystatus
@@ -1456,6 +1461,7 @@ eigenvektor
 eigenverdi
 eik
 eike
+eikekrone
 eikenøtt
 eiketre
 eim
@@ -1813,6 +1819,7 @@ filatelist
 filet
 filippinar
 filistar
+fille
 film
 filmkamera
 filmstjerne
@@ -1965,6 +1972,7 @@ flått
 flørt
 fløy
 fløyte
+fnys
 foajé
 fobi
 fokus
@@ -2806,6 +2814,7 @@ hertug
 hertuginne
 hest
 hestehale
+hestehov
 hestekastanje
 hestekraft
 hesteløp
@@ -3098,6 +3107,7 @@ innføring
 inngang
 inngangsdør
 innhald
+innhegning
 innkast
 innkjøp
 innkvartering
@@ -3440,6 +3450,7 @@ kasein
 kasino
 kasjmir
 kassaapparat
+kassadame
 kasse
 kasseapparat
 kasserolle
@@ -3529,6 +3540,7 @@ kjernekraft
 kjernereaktor
 kjerr
 kjerre
+kjerrehjul
 kjerring
 kjerringråd
 kjerringsnakk
@@ -3598,6 +3610,7 @@ kledehengjar
 klegg
 klehengar
 klehengjar
+klematis
 klementin
 kleptoman
 klesbutikk
@@ -3979,6 +3992,7 @@ kryssing
 kryssingsspor
 kryssord
 krystall
+krystallkule
 krå
 kråke
 krøll
@@ -4716,6 +4730,7 @@ midtlinje
 midtlivskrise
 midtpunkt
 migrene
+mikroalge
 mikrobe
 mikrobiolog
 mikrobiologi
@@ -5070,6 +5085,8 @@ nellik
 nemnd
 nemning
 neodym
+neon
+neonlys
 nepalar
 nepe
 neptunium
@@ -5407,6 +5424,7 @@ overbygg
 overdose
 overfart
 overflate
+overflod
 overføring
 overgang
 overgangsfase
@@ -5774,6 +5792,7 @@ prest
 prestasjon
 prestegard
 prestegjeld
+presteskap
 prestinne
 prestisje
 preteritum
@@ -5981,6 +6000,7 @@ real
 realfag
 realisering
 realitet
+rebell
 redaksjon
 redaktør
 reddik
@@ -7551,6 +7571,7 @@ søsken
 søskenbarn
 søster
 søsterskip
+søtstoff
 søvn
 søvnmangel
 søye
@@ -7562,6 +7583,7 @@ T-skjorte
 tabbe
 tabell
 tabellform
+tabernakel
 tablett
 tabloidavis
 taburett
@@ -7921,6 +7943,7 @@ trekk
 trekkfugl
 trekkraft
 trekkvogn
+trekrone
 tremasse
 tremenning
 trenar
@@ -8276,6 +8299,7 @@ vandring
 vane
 vang
 vanilje
+vaniljeis
 vanskapning
 vanske
 vanstyre

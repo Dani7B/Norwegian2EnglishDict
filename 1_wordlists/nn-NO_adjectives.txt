@@ -465,6 +465,7 @@ foreløpig
 forfallen
 forferdeleg
 forgjeves
+forgylt
 forhistorisk
 formell
 formidabel
@@ -610,6 +611,7 @@ guatemalansk
 guineansk
 gul
 gulaktig
+gullbeslått
 gunstig
 guyansk
 gyldig
@@ -1145,6 +1147,8 @@ moralsk
 morken
 morosam
 mosambikisk
+mosegrodd
+mosekledd
 motebevisst
 motlaus
 motstandsdyktig
