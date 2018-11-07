@@ -86,6 +86,7 @@ akronym
 akse
 aksel
 akselerasjon
+akselerator
 aksellast
 aksent
 aksept
@@ -96,6 +97,7 @@ aksjeindeks
 aksjekapital
 aksjeselskap
 aksjon
+aksjonsdag
 aksjonær
 aksling
 akt
@@ -104,6 +106,7 @@ aktivitet
 aktivum
 aktør
 akupunktur
+akuttmedisin
 akvarell
 akvarium
 akvedukt
@@ -128,8 +131,10 @@ alfabet
 alge
 algebra
 algeriar
+algevekst
 algoritme
 alkali
+alkalitet
 alkan
 alke
 alken
@@ -360,6 +365,7 @@ atom
 atombombe
 atomkraft
 atomkrig
+atomnummer
 atomreaktor
 atomvåpen
 atrofi
@@ -384,6 +390,7 @@ augeskygge
 augestikkar
 augevippe
 augevitne
+augneblink
 augnebryn
 augnestikkar
 augur
@@ -412,6 +419,7 @@ autoritet
 avarisk
 avbrekk
 avdeling
+avdelingssjef
 aversjon
 avfall
 avføring
@@ -602,6 +610,7 @@ beisel
 beist
 beite
 beiteland
+beitemark
 beiting
 bekk
 bekken
@@ -622,6 +631,7 @@ bensinmotor
 bensinstasjon
 bensintank
 benzosyre
+berar
 bere
 beredskap
 berg
@@ -828,6 +838,7 @@ bongotromme
 bonus
 bor
 boraks
+borat
 bord
 bordduk
 bordell
@@ -966,6 +977,7 @@ brødtekst
 brøk
 brøkdel
 brønn
+brønnbåt
 brøytebil
 bu
 bubil
@@ -998,6 +1010,7 @@ bunke
 bunker
 bunkers
 bunkersolje
+bunt
 bur
 burgunder
 burka
@@ -1060,6 +1073,7 @@ båt
 båthamn
 båthus
 båtmesse
+båtshake
 bær
 bæsj
 bøffel
@@ -1101,6 +1115,7 @@ chassis
 chilen
 chilenar
 chili
+cirrussky
 clutch
 cockpit
 cocktail
@@ -1234,14 +1249,17 @@ diagnose
 diagram
 diakon
 dialekt
+dialektologi
 dialog
 diamant
+diamantgruve
 diamantring
 diameter
 diaré
 diesel
 dieselmotor
 differensial
+diftong
 digitalkamera
 dikt
 diktator
@@ -1270,6 +1288,7 @@ dispensasjon
 disposisjon
 disseksjon
 distanse
+distinksjon
 distribusjon
 distrikt
 divisjon
@@ -1365,6 +1384,7 @@ duk
 dumbe
 dumheit
 dumming
+dump
 dun
 dunge
 dunk
@@ -1394,6 +1414,7 @@ dyrefôr
 dyrehage
 dyreliv
 dyreplageri
+dyreplankton
 dyrerike
 dyrking
 dysenteri
@@ -1448,6 +1469,7 @@ eftan
 egg
 eggekvite
 eggeplomme
+eggerøre
 eggstokk
 egyptar
 eid
@@ -1469,10 +1491,13 @@ einhyrning
 eining
 einingsvektor
 einskap
+einstøding
+einstøing
 ekko
 ekkolodd
 ekorn
 eksamen
+eksem
 eksempel
 eksemplar
 eksentrisitet
@@ -1495,6 +1520,7 @@ ekspert
 ekspertise
 eksplosiv
 eksplosjon
+eksponent
 eksponering
 eksponeringstid
 ekspressbuss
@@ -1584,6 +1610,7 @@ epidemi
 epilepsi
 episenter
 episode
+epitet
 eple
 eplepai
 epletre
@@ -1724,6 +1751,7 @@ farsfigur
 farsi
 farsside
 fart
+fartsdump
 fartsgrense
 fartshump
 fartsmålar
@@ -1912,11 +1940,13 @@ fjørball
 fjørdrakt
 fjøre
 flagg
+flaggberar
 flaggermus
 flaggskip
 flak
 flamingo
 flamme
+flammepunkt
 flaske
 flaskehals
 flass
@@ -1943,8 +1973,10 @@ fluid
 fluidmekanikk
 flukt
 fluor
+flussyre
 fly
 flybillett
+flydrivstoff
 flyfoto
 flyfrakt
 flygefisk
@@ -1980,7 +2012,9 @@ fole
 folie
 folk
 folkedans
+folkefiende
 folkegruppe
+folkehelt
 folkemengd
 folkemengde
 folkemord
@@ -2100,6 +2134,7 @@ forvarsel
 forventning
 forvirring
 forvitring
+fosfat
 fosfid
 fosfor
 foss
@@ -2156,6 +2191,7 @@ fred
 fredag
 fredsavtale
 fredsdue
+fredsmarsj
 fredstid
 fregatt
 frekvens
@@ -2166,6 +2202,7 @@ fridag
 fridom
 frifot
 frihandel
+frihandelsavtale
 friidrett
 friksjon
 friluft
@@ -2245,6 +2282,7 @@ fylling
 fyllplass
 fyr
 fyrebuing
+fyringsolje
 fyrst
 fyrstbiskop
 fyrste
@@ -2265,6 +2303,7 @@ fødselsattest
 fødselsdag
 fødselsdato
 fødselsrate
+fødselsvekt
 følelse
 fønikar
 føniks
@@ -2339,6 +2378,7 @@ gassar
 gasse
 gassflaske
 gassisk
+gassolje
 gasspedal
 gassverk
 gate
@@ -2392,6 +2432,7 @@ getto
 gevinst
 gevir
 gevær
+geysir
 ghanesar
 gift
 giftering
@@ -2404,6 +2445,7 @@ gir
 girkasse
 giro
 girspak
+gisp
 gissel
 gisseltakar
 gitar
@@ -2464,6 +2506,7 @@ glugg
 glugge
 glykol
 glyserin
+glød
 gløgg
 gløymsle
 gneis
@@ -2492,6 +2535,7 @@ graf
 graffiti
 grafikk
 grafitt
+gram
 grammatikk
 gran
 granateple
@@ -2552,6 +2596,7 @@ grunnflate
 grunnform
 grunning
 grunnlag
+grunnleggjar
 grunnlov
 grunnlønn
 grunnmur
@@ -2652,11 +2697,13 @@ hallusinasjon
 halm
 halmtak
 halo
+halogen
 hals
 halskjede
 halvbror
 halvdel
 halve
+halveringstid
 halvgud
 halvkule
 halvliter
@@ -2683,6 +2730,7 @@ handbak
 handball
 handballspelar
 handel
+handelsavtale
 handelsbalanse
 handelsflåte
 handelsmann
@@ -2716,6 +2764,7 @@ harpe
 harpeleik
 harpiks
 harpun
+hasj
 hassel
 hasselnøtt
 hastigheit
@@ -2848,8 +2897,10 @@ hingst
 hinne
 hint
 hippie
+histologi
 historie
 historikar
+historikk
 hiv
 hjaltlending
 hjarta
@@ -2892,6 +2943,7 @@ honduranar
 honning
 honningbrød
 honningslynge
+honorar
 hop
 hopp
 hoppbakke
@@ -2902,6 +2954,7 @@ hore
 horehus
 horisont
 hormon
+hormonbalanse
 horn
 horngjel
 hornhinne
@@ -2940,6 +2993,7 @@ hundeliv
 hundemat
 hundeskål
 hundredel
+hundretusen
 hundrevis
 hundreår
 hundreåring
@@ -2964,14 +3018,17 @@ husstand
 hustak
 hustru
 huve
+hyasint
 hybel
 hybelkanin
 hybrid
 hydrat
 hydraulikk
 hydrogen
+hydrogenkarbonat
 hydrogenklorid
 hydrokarbon
+hydroksid
 hyene
 hyfe
 hygiene
@@ -3006,6 +3063,7 @@ hårrull
 hårspray
 hårstil
 hårstrikk
+hårtap
 hæl
 hær
 hærførar
@@ -3103,6 +3161,7 @@ injeksjon
 innavl
 innbrot
 innbyggjar
+innfall
 innføring
 inngang
 inngangsdør
@@ -3142,6 +3201,7 @@ installering
 instans
 instinkt
 institusjon
+institutt
 instruksjon
 instruktør
 instrument
@@ -3194,6 +3254,7 @@ islending
 isolasjon
 isolator
 isolering
+isotop
 israelar
 israelitt
 istapp
@@ -3282,6 +3343,7 @@ jordoverflate
 jordras
 jordrotasjon
 jordskjelv
+jordskorpe
 jordskred
 jordsmonn
 jordstasjon
@@ -3332,6 +3394,7 @@ kabinett
 kabriolet
 kabylsk
 kadaver
+kadett
 kadmium
 kaffi
 kafé
@@ -3348,6 +3411,7 @@ kakiplomme
 kaktus
 kalasjnikov
 kaldbrann
+kaldera
 kaldfront
 kalender
 kalenderår
@@ -3355,6 +3419,7 @@ kalesje
 kaliber
 kalibrering
 kalium
+kaliumkarbonat
 kaliumnitrat
 kalk
 kalkstein
@@ -3379,6 +3444,7 @@ kamerunar
 kamfer
 kamille
 kammer
+kammermusikk
 kamp
 kampanje
 kampestein
@@ -3424,6 +3490,7 @@ karbamidsyre
 karbohydrat
 karboksylsyre
 karbon
+karbonat
 karbondioksid
 karbonfiber
 karbonmonoksid
@@ -3494,6 +3561,7 @@ ketsjup
 kibb
 kidnapping
 kikert
+kikk
 kikkert
 kikkertsikte
 kile
@@ -3573,6 +3641,7 @@ kjønn
 kjønnsdeling
 kjønnshår
 kjønnsleppe
+kjønnsorgan
 kjøp
 kjøpar
 kjøpekraft
@@ -3600,6 +3669,7 @@ klasserom
 klassifikasjon
 klassifisering
 klatremus
+klatreplante
 klatrestativ
 klaustrofobi
 klauv
@@ -3634,9 +3704,11 @@ klinge
 klinikk
 klinkekule
 klippe
+klipper
 klippevegg
 klisjé
 klistremerke
+klitoris
 klo
 kloakk
 kloakkanlegg
@@ -3740,6 +3812,7 @@ kommando
 kommandosoldat
 kommandør
 kommentar
+kommentator
 kommisjon
 kommissær
 kommune
@@ -3756,6 +3829,7 @@ kompani
 kompanjong
 komparativ
 kompass
+kompendium
 kompensasjon
 kompetanse
 kompilator
@@ -3811,6 +3885,7 @@ konsentrasjon
 konsentrasjonsleir
 konsept
 konsert
+konservatisme
 konserveringsmiddel
 konsesjon
 konsistens
@@ -3819,6 +3894,7 @@ konsonant
 konsortium
 konspirasjon
 konspirasjonsteori
+konspiratør
 konstitusjon
 konstruksjon
 konsul
@@ -3861,6 +3937,7 @@ koordinatsystem
 kopar
 kopi
 kopiering
+kopling
 kopp
 koppar
 kor
@@ -3901,6 +3978,7 @@ kostpris
 kostyme
 kotelett
 krabbe
+krafse
 kraft
 kraftidiot
 kraftkabel
@@ -3916,6 +3994,7 @@ kranium
 krans
 krasj
 krater
+kratersjø
 kratt
 krattspissmus
 krav
@@ -3925,6 +4004,7 @@ kreditor
 kreditt
 kredittkort
 kreft
+kreftcelle
 krek
 krem
 kremasjon
@@ -3970,12 +4050,14 @@ kronblad
 krone
 kronhjort
 kronidiot
+kroning
 kronologi
 kronprins
 kropp
 kroppsarbeid
 kroppsspråk
 kroppsvekt
+kroppsvev
 kroppsvæske
 kroppsøving
 kross
@@ -4068,6 +4150,7 @@ kvardag
 kvardagsliv
 kvart
 kvartal
+kvartalsrapport
 kvarter
 kvartett
 kvartfinale
@@ -4096,6 +4179,7 @@ kvinne
 kvinnebryst
 kvinnehatar
 kvinnekropp
+kvinnestemme
 kvinnfolk
 kvintett
 kvist
@@ -4165,6 +4249,7 @@ landsdel
 landsgjennomsnitt
 landskap
 landskode
+landslag
 landsmann
 landsmål
 landsmøte
@@ -4280,6 +4365,8 @@ li
 lian
 libanesar
 liberiar
+librettist
+libretto
 libyar
 lidenskap
 liechtensteinar
@@ -4655,6 +4742,7 @@ melding
 mellomaksling
 mellomalder
 mellomengelsk
+mellomfransk
 mellomkrigstid
 mellommann
 mellomnorsk
@@ -4718,6 +4806,7 @@ middagskvild
 middel
 middelalderlitteratur
 middelhavsklima
+middelhavsland
 middelklasse
 middeltemperatur
 midje
@@ -4736,11 +4825,13 @@ mikrobiolog
 mikrobiologi
 mikrofly
 mikrofon
+mikrogram
 mikronæringsstoff
 mikroorganisme
 mikroprosessor
 mikrosekund
 mikroskop
+mikrotom
 miks
 mil
 militærbase
@@ -4783,6 +4874,7 @@ minoritetsspråk
 minstelønn
 minstepris
 minusgrad
+minusteikn
 minutt
 mirakel
 mirakelkur
@@ -4940,6 +5032,7 @@ musikar
 musikk
 musikkinstrument
 muskel
+muskulatur
 muslim
 musling
 musé
@@ -4978,6 +5071,7 @@ månad
 måndag
 måne
 månefisk
+månerakett
 mår
 mårhund
 måse
@@ -5020,11 +5114,13 @@ nashorn
 nasjon
 nasjonaldag
 nasjonalforsamling
+nasjonalhelt
 nasjonalist
 nasjonalitet
 nasjonalpark
 nasjonalsong
 natrium
+natriumhydrogenkarbonat
 natriumklorid
 natriumsulfat
 natron
@@ -5032,6 +5128,7 @@ natt
 nattarbeid
 nattehimmel
 nattkjole
+nattklubb
 nattog
 nattpotte
 nattskift
@@ -5092,6 +5189,7 @@ nepe
 neptunium
 nerd
 nerve
+nervecelle
 nervesystem
 nervøsitet
 nesle
@@ -5108,6 +5206,7 @@ neve
 nevekamp
 nevrokirurg
 nevrolog
+nevron
 nevø
 New Age
 new age
@@ -5125,6 +5224,7 @@ nise
 nisje
 nisse
 niste
+nitrat
 nitrogen
 nitroglyserol
 nivå
@@ -5133,6 +5233,7 @@ njupe
 no
 nobelpris
 nomade
+nomenklatur
 nominasjon
 nonne
 noob
@@ -5161,6 +5262,7 @@ norsk
 nos
 nostalgi
 notat
+notatblokk
 notatbok
 note
 notisbok
@@ -5187,6 +5289,7 @@ nymåne
 nynazist
 nynorsk
 nynorskbrukar
+nyord
 nype
 nypotet
 nyre
@@ -5369,6 +5472,7 @@ optimist
 or
 orangutang
 oransje
+oratorium
 ord
 ordbok
 orden
@@ -5387,6 +5491,7 @@ organ
 organisasjon
 organisering
 organisme
+organist
 orgasme
 orgel
 orientering
@@ -5405,6 +5510,7 @@ orrfugl
 orrhane
 orrhøne
 orsaking
+ortografi
 osean
 oseanograf
 oseanografi
@@ -5413,6 +5519,7 @@ osman
 osp
 ost
 ostekake
+ostesaus
 oter
 otte
 ottoman
@@ -5428,6 +5535,7 @@ overflod
 overføring
 overgang
 overgangsfase
+overgangsperiode
 overhovud
 overkant
 overklasse
@@ -5493,6 +5601,8 @@ papuanar
 par
 parabel
 parabolantenne
+paradigme
+paradigmeskifte
 paradis
 paradisfugl
 paradoks
@@ -5519,6 +5629,7 @@ parmesanost
 parodi
 parti
 partikkel
+partikkelakselerator
 partimedlem
 partisan
 partisipp
@@ -5666,6 +5777,7 @@ plan
 planarbeid
 planet
 planetarium
+planetologi
 plankart
 plankton
 planlegging
@@ -5702,6 +5814,7 @@ plombe
 plome
 plomme
 plott
+plussteikn
 plutonium
 pneumothorax
 poeng
@@ -5727,6 +5840,7 @@ polka
 pollen
 pollinering
 polo
+polonium
 polsk
 polyeder
 polyetylen
@@ -5788,6 +5902,7 @@ president
 presse
 pressekonferanse
 pressemelding
+pressetalsmann
 prest
 prestasjon
 prestegard
@@ -5805,6 +5920,7 @@ prinsesse
 prinsipp
 prioritet
 pris
+prisauke
 prisindeks
 priskrig
 prislapp
@@ -5852,6 +5968,7 @@ prosessering
 prosessor
 prosjekt
 prost
+prostata
 prosti
 prostituert
 prostitusjon
@@ -5873,6 +5990,7 @@ prærie
 prøve
 prøvetur
 pseudonym
+pseudovitskap
 psevdonym
 psykiater
 psykiatri
@@ -5923,6 +6041,7 @@ putetrekk
 pynt
 pyramide
 pysjamas
+pytt
 pytt-i-panne
 pyttipanne
 påfugl
@@ -5934,6 +6053,7 @@ påskedag
 påskeegg
 påskelilje
 påstand
+påtrykk
 påverknad
 pære
 pøbel
@@ -5975,6 +6095,7 @@ ranar
 rand
 randhav
 rapport
+ras
 rase
 rasjon
 rasjonalisering
@@ -5985,6 +6106,7 @@ rate
 ratifikasjon
 ratt
 rattstamme
+raudkløver
 raudmus
 raudrev
 raudruss
@@ -6016,6 +6138,7 @@ refleks
 refleksbrikke
 refleksjon
 reflektor
+reforhandling
 reform
 reformator
 refreng
@@ -6039,6 +6162,7 @@ regnboge
 regnbogeaure
 regndrope
 regnskog
+regnskur
 regntid
 rehabilitering
 reim
@@ -6133,6 +6257,7 @@ rett
 rett vinkel
 rettferd
 rettkval
+rettskriving
 rettspleie
 rettssak
 rettssal
@@ -6155,6 +6280,8 @@ rhodium
 ribbein
 ridepisk
 rifle
+rift
+riftdal
 rikdom
 rike
 rikmann
@@ -6223,6 +6350,7 @@ rotte
 rottegift
 rovdyr
 rovfugl
+royalty
 rubel
 rug
 rugbrød
@@ -6272,13 +6400,16 @@ ryggproblem
 ryggrad
 ryggsekk
 ryggstø
+ryggsøyle
 rykte
+ryllik
 rynke
 rype
 rytme
 rytmikk
 rå
 råd
+rådata
 råde
 rådgivar
 rådgjevar
@@ -6291,6 +6422,7 @@ ræv
 rømme
 røntgen
 røntgenbilde
+røre
 rørsle
 røsslyng
 røvar
@@ -6416,6 +6548,7 @@ sauebruk
 saum
 saus
 savanne
+scenario
 scene
 sceneshow
 scenografi
@@ -6627,10 +6760,12 @@ sjokoladeplate
 sjonglør
 sjukamp
 sjukdom
+sjuke
 sjukebil
 sjukeheim
 sjukehus
 sjukepleiar
+sjukepleie
 sjy
 sjåar
 sjåfør
@@ -6668,6 +6803,7 @@ sjøslag
 sjøtransport
 sjøuhyre
 sjøutsikt
+sjøvatn
 skade
 skadedyr
 skadefryd
@@ -6685,6 +6821,7 @@ skandinav
 skandinavisme
 -skap
 skap
+skapar
 skapning
 skarv
 skate
@@ -6783,11 +6920,13 @@ skolebuss
 skoledisippel
 skoleelev
 skolegang
+skoleplass
 skoletur
 skoleveske
 skolisse
 skomakar
 skonnert
+skorpe
 skorpion
 skorstein
 skotte
@@ -6831,6 +6970,7 @@ skulding
 skule
 skulebolle
 skulebuss
+skuleplass
 skulptur
 skulptør
 skum
@@ -6840,6 +6980,7 @@ skur
 skute
 skuter
 skvadron
+skvett
 skvåsj
 sky
 skydekke
@@ -6881,6 +7022,8 @@ slepebåt
 slett
 slette
 slikkepott
+slim
+slimhinne
 slipepapir
 slips
 slire
@@ -6967,6 +7110,7 @@ snøfokk
 snøfonn
 snøgrense
 snøhytte
+snøklokke
 snøkrystall
 snøleopard
 snømann
@@ -7015,6 +7159,7 @@ solsikke
 solsikkefrø
 solskjerm
 solslyng
+solstråle
 solsystem
 solur
 solvarme
@@ -7071,6 +7216,7 @@ speilegg
 spekk
 spekkhoggar
 spekter
+spektrometer
 spektrum
 spekulasjon
 spel
@@ -7080,6 +7226,8 @@ spelkort
 spenn
 spenning
 spennvidde
+sperma
+spermie
 spermkval
 sperring
 spesialist
@@ -7117,6 +7265,7 @@ sprayboks
 sprekk
 sprengstoff
 springar
+springbrett
 springflod
 sprit
 språk
@@ -7124,6 +7273,7 @@ språkbruk
 språkfamilie
 språkforsking
 språknemnd
+spræne
 sprøyte
 spue
 spurning
@@ -7208,6 +7358,7 @@ steinblokk
 steinbrot
 steinbrott
 steingard
+steingjerde
 steingrunn
 steinkast
 steinkobbe
@@ -7266,6 +7417,7 @@ stoppeklokke
 stoppekran
 stoppestad
 stoppsignal
+stoppskilt
 storby
 storeslem
 storfe
@@ -7327,6 +7479,7 @@ strykekvartett
 stryking
 strå
 stråle
+strålebehandling
 stråling
 stræv
 strø
@@ -7346,6 +7499,7 @@ stuntmann
 stup
 stuping
 stykke
+styrar
 styrbord
 styre
 styrehus
@@ -7368,6 +7522,7 @@ ståltau
 stålull
 stålverk
 ståpikk
+stønn
 støpsel
 stør
 størrelse
@@ -7510,6 +7665,7 @@ syndebukk
 syndflod
 syndikat
 syndrom
+syne
 synergi
 synkrongir
 synonym
@@ -7537,6 +7693,7 @@ såpe
 såpeopera
 sår
 sæd
+sædcelle
 særtrekk
 søk
 søkelys
@@ -7547,6 +7704,7 @@ sølibat
 sølv
 sølvnitrat
 sølvpapir
+sølvsmed
 sølvtøy
 søndag
 søppel
@@ -7815,6 +7973,7 @@ timber
 time
 timeglas
 timian
+timotei
 ting
 tinn
 tips
@@ -7823,6 +7982,8 @@ tistel
 titan
 titrering
 tittel
+tittelblad
+titusen
 tiur
 tiår
 tjeld
@@ -7853,6 +8014,7 @@ tolvfingertarm
 tomat
 tomatbønner
 tomatpuré
+tomatsaus
 tomatsuppe
 tomme
 tommel
@@ -7898,6 +8060,7 @@ trafikkåre
 tragedie
 trakar
 trakassering
+trakk
 trakt
 traktat
 traktor
@@ -8027,6 +8190,7 @@ tsjekkar
 tsjekkisk
 tsjetsjenar
 tsjetsjensk
+tsunami
 tuberkulose
 tue
 tulipan
@@ -8087,6 +8251,7 @@ tvilling
 tvist
 tyding
 tyfon
+tyfus
 tyggegummi
 tylft
 tyngde
@@ -8166,6 +8331,7 @@ underlag
 underleppe
 underliv
 undermenneske
+undermeny
 underside
 underskrift
 understell
@@ -8198,6 +8364,8 @@ urdu
 urea
 uretan
 urin
+urinblære
+urinering
 urinstoff
 urinsyre
 urne
@@ -8399,6 +8567,7 @@ venleik
 venn
 venninne
 vennskap
+venstreside
 vente
 venteliste
 ventetid
@@ -8521,6 +8690,7 @@ visjon
 visjonær
 viskelêr
 viskositet
+vismut
 visp
 visum
 vitamin
@@ -8529,6 +8699,7 @@ vitne
 vits
 vitskap
 vitskapsmann
+vivendel
 vodka
 vogn
 vognpark
@@ -8550,6 +8721,7 @@ vrakgods
 vrinsk
 vulgærlatin
 vulkan
+vulkanologi
 vulkanutbrot
 vurdering
 vy
@@ -8562,6 +8734,7 @@ våpenarsenal
 våpenkvile
 våpenskjold
 vår
+vårløk
 vårreingjering
 vårteikn
 vås
@@ -8591,6 +8764,7 @@ yrke
 yrkesgruppe
 yrkesskade
 yrkesskadeerstatning
+yrkestittel
 ytring
 ytringsfridom
 ytterbium
@@ -8661,6 +8835,7 @@ zoomobjektiv
 øl
 ølboks
 ølkveis
+ølskvett
 ølstue
 ønske
 ønskeliste

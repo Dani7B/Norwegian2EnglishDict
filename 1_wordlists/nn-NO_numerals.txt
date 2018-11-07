@@ -10,6 +10,7 @@ fjorten
 fyrste
 førti
 hundre
+hundretusen
 million
 ni
 nitten
@@ -22,6 +23,7 @@ sju
 sytten
 sytti
 ti
+titusen
 tjuande
 tjue
 tjuefem

@@ -216,6 +216,7 @@ metodisk
 midt
 midtvegs
 milevis
+minus
 momentant
 mykje
 ned
@@ -339,6 +340,7 @@ til slutt
 tilbake
 tilfeldigvis
 timevis
+titusenvis
 trinn for trinn
 truleg
 trutt
@@ -364,6 +366,7 @@ uvitskapeleg
 uvitskapleg
 vanlegvis
 vekk
+vekselvis
 vel
 veldig
 venteleg

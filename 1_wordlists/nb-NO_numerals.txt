@@ -9,6 +9,7 @@ fire
 fjorten
 førti
 hundre
+hundretusen
 million
 ni
 nitten
@@ -22,6 +23,7 @@ sytten
 sytti
 syv
 ti
+titusen
 tjue
 tjuefem
 to

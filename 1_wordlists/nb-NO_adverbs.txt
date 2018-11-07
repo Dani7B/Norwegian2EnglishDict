@@ -95,6 +95,7 @@ en gang
 enda
 endelig
 endog
+engang
 enkeltvis
 ennå
 etappevis
@@ -254,6 +255,7 @@ midtveis
 milevis
 mindre
 minst
+minus
 mistenkelig
 momentant
 mot klokken
@@ -271,6 +273,7 @@ ner
 nest
 nesten
 nettopp
+no
 noe
 noen ganger
 noensinne
@@ -386,6 +389,7 @@ så langt
 sågar
 således
 såleis
+sånn
 særlig
 særs
 særskilt
@@ -408,6 +412,7 @@ tilbake
 tilfeldigvis
 tilsynelatende
 timevis
+titusenvis
 to ganger
 trinn for trinn
 trolig
@@ -446,6 +451,7 @@ vaktsomt
 vanligvis
 varsomt
 vekk
+vekselvis
 vel
 veldig
 vesentlig

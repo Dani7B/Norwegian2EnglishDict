@@ -1,3 +1,4 @@
+A4
 abessinsk
 abkhasisk
 abnorm
@@ -22,6 +23,7 @@ aktuell
 aktverdig
 akustisk
 akutt
+akuttmedisinsk
 akvatisk
 alarmerende
 alaskisk
@@ -75,6 +77,7 @@ antiguansk
 antikk
 antikvarisk
 antiseptisk
+antistatisk
 antropologisk
 arabisk
 arameisk
@@ -136,6 +139,7 @@ babylonsk
 bahamansk
 bahrainsk
 baklengs
+bakre
 bakteriell
 bakteriologisk
 balkansk
@@ -154,6 +158,8 @@ barnløs
 barnslig
 barokk
 barsk
+basaltisk
+basisk
 baskisk
 batteridrevet
 bayersk
@@ -201,6 +207,7 @@ bevæpnet
 bhutansk
 bibelsk
 bibliofil
+bilateral
 billedlig
 billig
 binær
@@ -373,6 +380,7 @@ effektiv
 egen
 egenrådig
 egentlig
+eggformet
 egnet
 egyptisk
 eigenarta
@@ -421,6 +429,7 @@ endeløs
 endemisk
 endimensjonal
 endoterm
+enegget
 eneste
 enestående
 enfoldig
@@ -581,6 +590,7 @@ flåsete
 folkerik
 folkevalgt
 fonetisk
+foraktfull
 forbannet
 forbausende
 forbedret
@@ -593,6 +603,8 @@ fordomsfull
 forebyggende
 foregående
 foreldet
+foreldrelaus
+foreldreløs
 forelsket
 foreløpig
 forenklet
@@ -669,6 +681,7 @@ fremmed
 fremst
 fremstående
 fremtidig
+freudiansk
 fri
 frigjort
 frisisk
@@ -783,6 +796,7 @@ godtroende
 gotisk
 gradert
 grafisk
+grammatisk
 granittisk
 grasiøs
 gratis
@@ -812,6 +826,7 @@ gråhåret
 grønlandsk
 grønn
 grønnaktig
+grønnlig
 guatemalansk
 guddommelig
 gudelig
@@ -819,6 +834,7 @@ gudløs
 guineansk
 gul
 gulaktig
+gulbrun
 gullbeslått
 gunstig
 guyansk
@@ -858,6 +874,7 @@ heimelaga
 heimlaus
 hektisk
 hel
+helautomatisk
 heldig
 helhetlig
 helhjertet
@@ -881,6 +898,7 @@ hestetrukket
 het
 hierarkisk
 hinduisk
+histologisk
 historisk
 hjelpeløs
 hjelpsom
@@ -928,6 +946,7 @@ håndlaget
 håndplukket
 håndskreven
 håndsydd
+håndterlig
 håpefull
 håpløs
 håret
@@ -939,9 +958,11 @@ hørbar
 hørlig
 høy
 høyeksplosiv
+høyestliggende
 høygravid
 høylydt
 høylytt
+høyoppløselig
 høyre
 høyteknologisk
 høytstående
@@ -1003,6 +1024,7 @@ inngrodd
 inngående
 innledende
 innovativ
+innstrømmende
 innvendig
 insolvent
 inspirerende
@@ -1093,6 +1115,7 @@ kirkelig
 kirurgisk
 kjapp
 kjedelig
+kjegleformet
 kjekk
 kjemisk
 kjempebra
@@ -1204,6 +1227,7 @@ kram
 kreativ
 kredittverdig
 kremaktig
+kremete
 kresen
 kretisk
 krevende
@@ -1304,8 +1328,10 @@ litterær
 liturgisk
 livgivende
 livlig
+livløs
 livreddende
 livsfarlig
+livskraftig
 livslang
 livstruende
 loddrett
@@ -1342,6 +1368,7 @@ lyseblå
 lysebrun
 lysegrå
 lysegrønn
+lysegul
 lysende
 lyserød
 lysfølsom
@@ -1481,6 +1508,7 @@ monoton
 montenegrinsk
 monumental
 moralsk
+morderisk
 morken
 morsom
 mosambikisk
@@ -1530,6 +1558,7 @@ nattlig
 naturalistisk
 naturhistorisk
 naturlig
+naturskjønn
 naturtro
 naurisk
 nautisk
@@ -1643,6 +1672,7 @@ omsorgsfull
 omstridd
 omstridt
 omtenksom
+omtrentlig
 omvendt
 ond
 ondartet
@@ -1653,6 +1683,8 @@ oppblåst
 oppfinnsom
 opphavsrettslig
 opphetet
+opphisset
+oppløselig
 oppmerksom
 oppreist
 opprett
@@ -1681,6 +1713,7 @@ osmansk
 ottefull
 oval
 ovalformet
+ovennevnt
 overambisiøs
 overdreven
 overdådig
@@ -1734,6 +1767,7 @@ pen
 pengelens
 peonrød
 perfekt
+perifer
 permanent
 perseptuell
 persisk
@@ -1949,6 +1983,7 @@ saudisk
 savnet
 sedimentær
 sedvanlig
+seig
 sein
 seismisk
 seismologisk
@@ -2111,15 +2146,18 @@ sociniansk
 sofistikert
 solbrent
 solbrun
+solkysset
 solrik
 somalisk
 sonor
 sorgfull
+sorgløs
 sort
 sosial
 sosialistisk
 sosiologisk
 sosioøkonomisk
+sovende
 sovjetisk
 spansk
 sparsommelig
@@ -2180,6 +2218,7 @@ storskala
 storslagen
 straffbar
 strategisk
+stratosfærisk
 streng
 stressende
 stroppeløs
@@ -2291,6 +2330,7 @@ teatralsk
 teknisk
 teknologisk
 tekstlig
+tektonisk
 teleskopisk
 temperert
 temporal
@@ -2299,6 +2339,7 @@ teologisk
 teoretisk
 terapeutisk
 termisk
+termoelektrisk
 terrestrisk
 territorial
 territoriell
@@ -2340,6 +2381,7 @@ tongansk
 topografisk
 topphemmelig
 toppløs
+topptung
 tospråklig
 total
 totalitær
@@ -2398,6 +2440,7 @@ tunisisk
 turbulent
 turistisk
 turkis
+turkisblå
 turkmensk
 tusende
 tuvalsk
@@ -2502,6 +2545,7 @@ uforsonlig
 uforstyrret
 uforutsett
 uforutsigbar
+ufremkommelig
 ufri
 ufrivillig
 ufullendt
@@ -2737,6 +2781,7 @@ uvasket
 uvel
 uvennlig
 uventet
+uvettig
 uviktig
 uvilkårlig
 uvirkelig
@@ -2767,6 +2812,7 @@ vannrett
 vanntett
 vanskapt
 vanskelig
+vant
 vanuatisk
 vanvittig
 variabel
@@ -2865,6 +2911,7 @@ vittig
 voksen
 voldelig
 voldsom
+volumetrisk
 vond
 vrinsk
 vulgær

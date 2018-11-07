@@ -1,3 +1,4 @@
+A4
 abessinsk
 abkhasisk
 abnorm
@@ -22,6 +23,7 @@ aktuell
 aktverdig
 akustisk
 akutt
+akuttmedisinsk
 akvatisk
 alaskisk
 albansk
@@ -61,6 +63,7 @@ antiguansk
 antikk
 antikvarisk
 antiseptisk
+antistatisk
 antropologisk
 arabisk
 arameisk
@@ -115,6 +118,7 @@ babylonsk
 bahamansk
 bahrainsk
 baklengs
+bakre
 bakteriell
 bakteriologisk
 balkansk
@@ -127,6 +131,8 @@ barbarisk
 barnsleg
 barokk
 barsk
+basaltisk
+basisk
 baskisk
 batteridriven
 bayersk
@@ -149,6 +155,7 @@ bevisst
 bhutansk
 bibelsk
 bibliofil
+bilateral
 biletleg
 billeg
 billig
@@ -272,6 +279,7 @@ drita
 dualistisk
 duld
 dum
+dump
 dyktig
 dynamisk
 dyr
@@ -461,6 +469,7 @@ forbløffande
 forboden
 fordelaktig
 fordomsfull
+foreldrelaus
 foreløpig
 forfallen
 forferdeleg
@@ -494,6 +503,7 @@ fredeleg
 fredfull
 frekk
 fremst
+freudiansk
 fri
 frisisk
 frisk
@@ -583,6 +593,7 @@ gotisk
 gradert
 gradvis
 grafisk
+grammatisk
 granittisk
 grasiøs
 gratis
@@ -611,6 +622,7 @@ guatemalansk
 guineansk
 gul
 gulaktig
+gulbrun
 gullbeslått
 gunstig
 guyansk
@@ -623,6 +635,7 @@ haitisk
 halelaus
 halv
 halvautomatisk
+halvferdig
 halvfull
 halvmåneforma
 halvprofesjonell
@@ -656,6 +669,7 @@ heroisk
 hettittisk
 hierarkisk
 hinduisk
+histologisk
 historisk
 hjarta
 hoggbratt
@@ -689,6 +703,7 @@ hårsår
 høg
 høgre
 høveleg
+iaugefallande
 iberisk
 ideell
 identifiserbar
@@ -907,6 +922,7 @@ kram
 kreativ
 kredittverdig
 kremaktig
+kremete
 kresen
 kretisk
 kriminell
@@ -996,6 +1012,7 @@ litt
 litterær
 liturgisk
 livande
+livskraftig
 livslang
 livstrugande
 ljos
@@ -1027,6 +1044,7 @@ lys
 lyseblå
 lysebrun
 lysegrå
+lysegul
 lystig
 låg
 låsbar
@@ -1181,6 +1199,7 @@ nasjonal
 naturalistisk
 naturhistorisk
 naturleg
+naturskjønn
 naudsynleg
 naudsynt
 naurisk
@@ -1340,6 +1359,7 @@ pedofil
 pen
 pengelens
 perfekt
+perifer
 permanent
 perseptuell
 persisk
@@ -1481,6 +1501,7 @@ sadistisk
 saftig
 saharawisk
 saka
+sakleg
 saksisk
 sakte
 salig
@@ -1502,6 +1523,7 @@ satirisk
 saudiarabisk
 saudisk
 sedimentær
+seig
 sein
 seismisk
 sekskanta
@@ -1569,6 +1591,7 @@ skandaløs
 skandinavisk
 skarp
 skattbar
+skeiv
 skeptisk
 skikkeleg
 skiten
@@ -1673,6 +1696,7 @@ storskala
 straffbar
 strak
 strategisk
+stratosfærisk
 straumlineforma
 streng
 stri
@@ -1704,6 +1728,10 @@ sveitsisk
 svensk
 svidd
 svingete
+svivyrdeleg
+svivyrdsleg
+svivørdeleg
+svivørdsleg
 svolten
 svovelfattig
 svullen
@@ -1768,12 +1796,14 @@ taus
 teatralsk
 teknisk
 teknologisk
+tektonisk
 teleskopisk
 temperert
 teologisk
 teoretisk
 terapeutisk
 termisk
+termoelektrisk
 terrestrisk
 territorial
 tertiær
@@ -1800,6 +1830,7 @@ tolvte
 tom
 tongansk
 topografisk
+topptung
 tospråkleg
 total
 totalitær
@@ -1852,6 +1883,7 @@ tunn
 turbulent
 turistisk
 turkis
+turkisblå
 turkmensk
 tusende
 tuvalsk
@@ -1983,6 +2015,7 @@ uregelmessig
 uregelrett
 uregistrert
 uregulert
+ureinsleg
 urettferdig
 urindoeuropeisk
 uroleg
@@ -2027,6 +2060,7 @@ uvanleg
 uvaska
 uvel
 uventa
+uvettig
 uviktig
 uvilkårleg
 uviss
@@ -2117,6 +2151,7 @@ vitlaus
 vitskapeleg
 vitskapleg
 vittig
+volumetrisk
 vrinsk
 vulgær
 vulkansk

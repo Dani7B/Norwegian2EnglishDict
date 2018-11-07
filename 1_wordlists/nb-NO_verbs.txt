@@ -21,6 +21,7 @@ aksjonere
 aktivere
 aktivisere
 alarmere
+albue
 amerikanisere
 amme
 amortere
@@ -118,6 +119,7 @@ avsky
 avslutte
 avslå
 avsløre
+avsondre
 avspeile
 avstå
 avtale
@@ -194,6 +196,7 @@ bestemme
 bestige
 bestille
 bestride
+bestråle
 bestå
 besvare
 besøke
@@ -238,6 +241,7 @@ bombardere
 bombe
 bore
 bortføre
+bortvise
 bosette
 braute
 bre
@@ -313,7 +317,9 @@ dette
 diagnostisere
 differensiere
 digitalisere
+diktere
 dille
+dimensjonere
 dingle
 dirigere
 diskriminere
@@ -662,9 +668,11 @@ gasse
 gaule
 generalisere
 generere
+gentrifisere
 gi
 gidde
 gifte
+gispe
 gjelde
 gjemme
 gjenbruke
@@ -799,6 +807,7 @@ hogge
 holde
 hoppe
 hoste
+huke
 hulle
 humre
 huse
@@ -977,6 +986,7 @@ kolonisere
 kombinere
 kommandere
 komme
+komme til kort
 kommentere
 kommer til å
 kommunisere
@@ -1022,6 +1032,7 @@ korte
 kortslutte
 kose
 koste
+krafse
 krangle
 krasje
 kreditere
@@ -1052,6 +1063,7 @@ kvalifisere
 kvantifisere
 kvele
 kviskre
+kvitre
 kvitte
 kysse
 kåre
@@ -1067,6 +1079,7 @@ lande
 lansere
 laste
 late
+latinisere
 latterliggjøre
 le
 lede
@@ -1217,6 +1230,7 @@ mørkne
 møte
 møtes
 nappe
+nasjonalisere
 navigere
 navngi
 nedbemanne
@@ -1235,6 +1249,7 @@ nominere
 notere
 nullstille
 nummerere
+nydanne
 nyse
 nyte
 nytte
@@ -1286,8 +1301,10 @@ oppføre
 oppgi
 oppgradere
 oppheve
+opphisse
 oppholde
 opphøre
+opphøye
 oppkalle
 oppleve
 opplyse
@@ -1424,6 +1441,7 @@ pumpe
 punktere
 purre
 puste
+putre
 putte
 pynte
 påbegynne
@@ -1440,8 +1458,10 @@ påtreffe
 påvirke
 påvise
 pøse
+rable
 raffinere
 rakne
+ramle
 ramme
 ramponere
 rane
@@ -1449,6 +1469,7 @@ rangere
 ransake
 rape
 rapportere
+rase
 rasere
 rasjonalisere
 rasle
@@ -1465,6 +1486,7 @@ redigere
 redusere
 referere
 reflektere
+reforhandle
 reformere
 regenerere
 regissere
@@ -1619,6 +1641,7 @@ skjule
 skjære
 skjønne
 skjønnmale
+skjøtte
 skli
 sko
 skrante
@@ -1695,6 +1718,7 @@ snorkle
 snu
 snuble
 snufse
+snyte
 snø
 sole
 sondre
@@ -1775,6 +1799,7 @@ strikke
 strippe
 strukturere
 stryke
+stråle
 strø
 strømme
 studere
@@ -1893,6 +1918,7 @@ tipse
 tirre
 tisse
 tisse på seg
+titrere
 tjene
 tjenestegjøre
 tolerere
@@ -2029,6 +2055,7 @@ verne
 veve
 vibrere
 videreføre
+videresende
 videreutvikle
 vie
 vigsle
@@ -2038,6 +2065,7 @@ vinke
 vinkle
 vinne
 vinsje
+vippe
 virke
 virvle
 vise

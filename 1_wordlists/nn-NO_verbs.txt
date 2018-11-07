@@ -79,6 +79,7 @@ berge
 bergta
 beskrive
 beslå
+bestråle
 bestå
 besøka
 besøke
@@ -176,7 +177,9 @@ detektere
 detta
 dette
 digitalisere
+diktere
 dille
+dimensjonere
 dingle
 dirka
 dirke
@@ -199,9 +202,11 @@ driva
 drive
 drukna
 drukne
+dryfta
 drypa
 drype
 drysse
+drøfta
 drøfte
 drømme
 drønne
@@ -215,6 +220,7 @@ dukke
 dundre
 dynja
 dynje
+dynta
 dytte
 dø
 døgne
@@ -330,6 +336,7 @@ forfalle
 forfine
 forføre
 forgylle
+forhandle
 forhekse
 forkasta
 forkaste
@@ -356,6 +363,7 @@ fortvile
 forureina
 forureine
 forvalte
+forveksle
 forvirra
 forvirre
 forvitre
@@ -416,6 +424,7 @@ generalisere
 generere
 gi
 gidde
+gispe
 gissa
 gisse
 gje
@@ -535,6 +544,7 @@ hogge
 hoppe
 hugsa
 hugse
+huke
 humra
 humre
 husa
@@ -632,6 +642,8 @@ knegge
 knipe
 knirke
 knurre
+knusa
+knuse
 kny
 knyta
 knyte
@@ -665,6 +677,9 @@ kontrastere
 korrelere
 kosa
 kose
+krafsa
+krafse
+kreditere
 krengja
 krevja
 krevje
@@ -717,6 +732,7 @@ lande
 laste
 lata
 late
+latinisere
 lauga
 lauge
 laupa
@@ -823,6 +839,7 @@ miste
 mistenke
 mistolke
 mjølke
+modellera
 modellere
 motivera
 motivere
@@ -840,6 +857,7 @@ møte
 nafse
 nasa
 nase
+nasjonalisere
 nedbemanne
 nedkjempe
 nekta
@@ -945,14 +963,19 @@ pusla
 pusle
 putla
 putle
+putre
 pådra
 påkalle
 påverka
 påverke
+rable
 raka
 rake
+ramle
 ramponere
 rangere
+rasa
+rase
 rasera
 rasere
 rasjonalisere
@@ -965,11 +988,14 @@ reddast
 redde
 referera
 referere
+reforhandle
 regissere
 regna
 regne
 reisa
 reise
+rekka
+rekke
 rekna
 rekne
 remje
@@ -1036,6 +1062,8 @@ røme
 rømma
 rømme
 røntgenfotografere
+røra
+røre
 røyke
 røykja
 røyna
@@ -1123,6 +1151,7 @@ skjøna
 skjøne
 skjønna
 skjønne
+skjøtte
 skoda
 skode
 skrante
@@ -1201,6 +1230,7 @@ snauklippe
 snu
 snuble
 snufse
+snyte
 sova
 sove
 sovna
@@ -1236,6 +1266,7 @@ sprikja
 sprikje
 springa
 springe
+sprøyte
 spyrja
 spyrje
 spøka
@@ -1286,6 +1317,7 @@ strjuka
 strukturere
 stryka
 stryke
+stråle
 strø
 strøya
 strøye
@@ -1396,6 +1428,7 @@ tilsette
 tindre
 tipla
 tirre
+titrere
 tola
 tole
 tolerere
@@ -1471,6 +1504,7 @@ undrast
 unna
 unne
 unngå
+urinere
 utfordra
 utfordre
 utforme
@@ -1550,6 +1584,7 @@ vime
 vinkle
 vinna
 vinne
+vippe
 viske
 vita
 vite
