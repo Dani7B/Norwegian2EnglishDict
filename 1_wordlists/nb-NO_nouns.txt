@@ -2,6 +2,9 @@ A
 a
 A-dur
 a-moll
+A4-ark
+A4-liv
+A4-menneske
 abakus
 abbed
 abbedi
@@ -8139,6 +8142,7 @@ smijern
 smil
 sminke
 sminkefjerner
+sminkepensel
 smitte
 smoking
 smokk
