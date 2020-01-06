@@ -11,11 +11,13 @@ if cat ../1_wordlists/nn-NO_*.txt | grep � >/dev/null; then
 	echo "Failed test, Nynorsk wordlist has the � symbol in it! Fix it and re-run the PHP script!"
 	exit 1
 fi
-if ls ../2_wiktionaryDump/NB/* | grep � >/dev/null; then
+if find ../2_wiktionaryDump/NB/ -type f -name '*' | grep � >/dev/null; then
+#if ls ../2_wiktionaryDump/NB/* | grep � >/dev/null; then
 	echo "Failed test, some Bokmål .json files have the � symbol in it! Fix it and re-run scrap.py!"
 	exit 1
 fi
-if ls ../2_wiktionaryDump/NN/* | grep � >/dev/null; then
+if find ../2_wiktionaryDump/NN/ -type f -name '*' | grep � >/dev/null; then
+#if ls ../2_wiktionaryDump/NN/* | grep � >/dev/null; then
 	echo "Failed test, some Nynorsk .json files have the � symbol in it! Fix it and re-run scrap.py!"
 	exit 1
 fi
@@ -37,8 +39,8 @@ sort -o ../4_finalDictionary/nn-NOtoENdictionary.inf ../4_finalDictionary/nn-NOt
 cd ../4_finalDictionary
 
 echo "Converting tab-separated UTF-8 text file to .opf..."
-./tab2opf.py ${NB}.txt >/dev/null
-./tab2opf.py ${NN}.txt >/dev/null
+./tab2opf.py ${NB}.txt "nb-no" >/dev/null
+./tab2opf.py ${NN}.txt "nn-no" >/dev/null
 
 # Do not mark them correctly as this makes it impossible to search in the dictionary on Kindle. See https://www.mobileread.com/forums/showthread.php?t=305372 for reasoning.
 #echo "Marking the .opf files as nb-no and nn-no..."

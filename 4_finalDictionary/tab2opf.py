@@ -151,21 +151,25 @@ OPFTEMPLATEHEAD1 = """<?xml version="1.0"?><!DOCTYPE package SYSTEM "oeb1.ent">
 	<dc-metadata>
 		<dc:Identifier id="uid">%s</dc:Identifier>
 		<!-- Title of the document -->
-		<dc:Title><h2>%s</h2></dc:Title>
-		<dc:Language>EN</dc:Language>
+		<dc:Title>%s</dc:Title>
+		<dc:Language>%s</dc:Language>
 	</dc-metadata>
 	<x-metadata>
 """
-OPFTEMPLATEHEADNOUTF = """		<output encoding="Windows-1252" flatten-dynamic-dir="yes"/>"""
-OPFTEMPLATEHEAD2 = """
-		<DictionaryInLanguage>en-us</DictionaryInLanguage>
-		<DictionaryOutLanguage>en-us</DictionaryOutLanguage>
-	</x-metadata>
-</metadata>
 
-<!-- list of all the files needed to produce the .prc file -->
-<manifest>
-"""
+OPFTEMPLATEHEADNOUTF = """		<output encoding="Windows-1252" flatten-dynamic-dir="yes"/>"""
+
+def generateOPFTEMPLATEHEAD2(inputLanguage):
+    OPFTEMPLATEHEAD2 = """
+    		<DictionaryInLanguage>""" + inputLanguage + """</DictionaryInLanguage>
+    		<DictionaryOutLanguage>en-us</DictionaryOutLanguage>
+    	</x-metadata>
+    </metadata>
+
+    <!-- list of all the files needed to produce the .prc file -->
+    <manifest>
+    """
+    return OPFTEMPLATEHEAD2;
 
 OPFTEMPLATELINE = """ <item id="dictionary%d" href="%s%d.html" media-type="text/x-oeb1-document"/>
 """
@@ -209,10 +213,12 @@ OPFTEMPLATEEND = """</spine>
     #print
     #print "ERROR: You have to specify a .tab file"
     #sys.exit(1)
+originalLanguage = "nb-NO" # default language
 if len(sys.argv) > 1:
     # Use first argument and strip extension from it
     FILENAME = os.path.splitext(sys.argv[1])[0]
-
+    if len(sys.argv) > 2:
+        originalLanguage = sys.argv[2]
 else:
     print("tab2opf (Stardict->MobiPocket)")
     print("------------------------------")
@@ -300,10 +306,10 @@ fr.close()
 lineno = i - 1
 
 to = open("%s.opf" % name, 'w')
-to.write(OPFTEMPLATEHEAD1 % (name, name))
+to.write(OPFTEMPLATEHEAD1 % (name, name, originalLanguage))
 if not UTFINDEX:
     to.write(OPFTEMPLATEHEADNOUTF)
-to.write(OPFTEMPLATEHEAD2)
+to.write(generateOPFTEMPLATEHEAD2(originalLanguage))
 for i in range(0,(lineno/10000)+1):
     to.write(OPFTEMPLATELINE % (i, name, i))
 to.write(OPFTEMPLATEMIDDLE)
