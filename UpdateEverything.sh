@@ -4,6 +4,8 @@ set -euo pipefail
 mkdir -p ~/wiktionaryDump
 if [[ ! -h 2_wiktionaryDump ]]; then
 	ln -s ~/wiktionaryDump 2_wiktionaryDump
+	mkdir ~/wiktionaryDump/NB
+	mkdir ~/wiktionaryDump/NN
 else
 	rm 2_wiktionaryDump # If it exists remove and recreate the symlink. This is to make sure it's pointed to the right home folder in case someone clones this repo.
 	ln -s ~/wiktionaryDump 2_wiktionaryDump
