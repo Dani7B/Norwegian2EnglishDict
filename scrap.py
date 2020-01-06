@@ -1,4 +1,4 @@
-#!/home/c0rn3j/wikivirtpython/bin/python
+#!/usr/local/bin/python
 import os
 import requests
 import json
